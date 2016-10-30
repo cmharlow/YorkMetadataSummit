@@ -1,0 +1,62 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Oeuvres diverses de Monsieur Jean Locke</title>
+  </titleInfo>
+  <titleInfo nameTitleGroup="1" type="uniform">
+    <title>Selections. French. 1710</title>
+  </titleInfo>
+  <name nameTitleGroup="1" type="personal" usage="primary">
+    <namePart>Locke, John</namePart>
+    <namePart type="date">1632-1704</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Le Clerc, Jean</namePart>
+    <namePart type="date">1657-1736</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">ne</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Rotterdam</placeTerm>
+    </place>
+    <publisher>Chez Fritsch et Böhm</publisher>
+    <dateIssued>1710</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">und</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>[8], xcix, [1], 468 p. 17 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Eloge historique de feu Mr. Locke, Mr. Jean Le Clerc.--Lettre sur la tolerance.--De la conduite de l&apos;esprit dans la recherche de la verité.--Discours sur les miracles.--Methode noucelle de dresser des recueils.--Memoires pour servir à la vie d&apos;Antoine Ashley, comte de Shaftesbury.</tableOfContents>
+  <note>Translated by Jean Le Clere.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Philosophy</topic>
+    <genre>Early works to 1800</genre>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Netherlands</country>
+      <city>Rotterdam</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">PR3541.L57 O2</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">TRN</recordContentSource>
+    <recordCreationDate encoding="marc">870624</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030409144532.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm16070425</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

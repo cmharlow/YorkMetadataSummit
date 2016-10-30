@@ -84,7 +84,10 @@ def removeNS(tag):
 
 def linearize(el, path):
     # Print text value if not empty
-    text = el.text.strip()
+    if el.text is not None:
+        text = el.text.strip()
+    else:
+        text = el.text
     if text is not None and el.items() is []:
         return(path)
     elif el.items() is not []:

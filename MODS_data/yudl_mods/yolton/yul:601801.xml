@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>A defence of Dr. [Samuel] Clarke's Demonstration of the being and attributes of God : wherein is particularly consider'd the nature of space, duration, and necessary existence ; being an answer to a late book entitul'd 'A translation of Dr. [William] King's Origin of Evil, and some other objections ; together with a compendium of a demonstration of the being and attributes of God'</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Clarke, John</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Clarke, John.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Clarke, John.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed for J. and J. Knapton</publisher>
+    <dateIssued>1732</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">und</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>iv, 163 p.</extent>
+  </physicalDescription>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Clarke, Samuel</namePart>
+      <namePart type="date">1675-1729</namePart>
+    </name>
+    <titleInfo>
+      <title>Discourse concerning the being and attributes of God</title>
+    </titleInfo>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Law, Edmund</namePart>
+      <namePart type="date">1703-1787</namePart>
+    </name>
+    <titleInfo>
+      <title>Notes on Dr. William King's Origin of evil</title>
+    </titleInfo>
+  </subject>
+  <subject authority="lcsh">
+    <titleInfo>
+      <title>Dr. Clarke's notions of space examin'd, etc</title>
+    </titleInfo>
+  </subject>
+  <subject authority="lcsh">
+    <topic>God</topic>
+    <topic>Attributes</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Natural theology</topic>
+    <temporal>To 1900</temporal>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Apologetics</topic>
+  </subject>
+  <classification authority="lcc">B1365.C63 D525 C55</classification>
+  <relatedItem>
+    <titleInfo>
+      <title>Second defence of Dr. Samuel Clarke's Demonstration of the being and attributes of God</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Clarke, John.</namePart>
+    </name>
+  </relatedItem>
+  <relatedItem>
+    <titleInfo>
+      <title>Third defence of Dr. Samuel Clarke's Demonstration of the being and attributes of God</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Clarke, John.</namePart>
+    </name>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">CUY</recordContentSource>
+    <recordCreationDate encoding="marc">930126</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20021216143349.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm27325495</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC17417</identifier>
+  <location>
+    <physicalLocation>1987-001 / 017</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>U. of T. Scarborough College : Around Campus</title>
+  </titleInfo>
+  <abstract>Image of a young woman (Donna McDowell) and two young men (Mike Lustigman and David Jackson) sitting on a couch in a lounge area, talking to one another. Books, notebooks, papers and a cup are piled on a table in front of them. Mike Lustigman is wearing a "University Toronto Scarborough" sweatshirt.</abstract>
+  <name>
+    <namePart>Harrison</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>[1967] 18 January</dateOther>
+    <dateIssued>1967-02-06</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 24.9 x 19.2 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Scarborough College</topic>
+    <topic>University of Toronto</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Scarborough</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.784704,-79.186009</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

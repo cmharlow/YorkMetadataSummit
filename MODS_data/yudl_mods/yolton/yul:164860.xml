@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Examen critique des apologistes de la religion chrétienne</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Fréret, Nicolas</namePart>
+    <namePart type="date">1688-1749</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Holbach, Paul Henri Thiry</namePart>
+    <namePart type="termsOfAddress">baron d'</namePart>
+    <namePart type="date">1723-1789</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Burigny, (Jean Lévesque)</namePart>
+    <namePart type="termsOfAddress">M. de</namePart>
+    <namePart type="date">1692-1785</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Naigeon, Jacques André</namePart>
+    <namePart type="date">1738-1810</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateIssued>1766</dateIssued>
+    <edition>1st ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>287, [1] p. ; 20 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par M. Fréret.</note>
+  <note>Attributed also to J. Levesque de Burigny, Holbach, Naigeon, etc.</note>
+  <note>ASC copy: From the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Miracles</topic>
+    <topic>History</topic>
+    <temporal>18th century</temporal>
+    <topic>Apologetics</topic>
+  </subject>
+  <classification authority="lcc">BT1100</classification>
+  <identifier type="oclc">54153588</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">YUS</recordContentSource>
+    <recordCreationDate encoding="marc">840403</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20080311114121.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm54153588</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

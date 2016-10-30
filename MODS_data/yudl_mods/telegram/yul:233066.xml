@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC02571</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/2167</identifier>
+  <location>
+    <physicalLocation>1974-002 / 101</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>A woman and man, sprinkled with confetti, smiling and holding gloved hands, standing at bottom of staircase.</title>
+    <note displayLabel="source of supplied title">Title based on content of image</note>
+  </titleInfo>
+  <abstract>Image of woman and man, sprinkled with confetti, smiling and holding gloved hands, standing at bottom of staircase</abstract>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2000-04-26</dateCreated>
+    <dateOther>31 December [1952]</dateOther>
+    <dateIssued>1952-12-31</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 9.3 x 11.9 cm</extent>
+  </physicalDescription>
+  <note>One negative (no #) scanned out of 3 in the assignment.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <note type="with">Box 2 CD 2B</note>
+  <note type="formsPartOfTIF">Immigrants : Italian immigrants</note>
+  <name>
+    <namePart>[Telegram staff]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <note type="ownership">ASC34976</note>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Immigrants</topic>
+    <topic>Immigrant groups - Italian</topic>
+    <topic>Italian diaspora</topic>
+    <topic>Union Station (Toronto)</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Union Station</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.645316, -79.380407</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

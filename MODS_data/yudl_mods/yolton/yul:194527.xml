@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>An </nonSort>
+    <title>An attempt to explain the words reason, substance, person, creeds, orthodoxy, catholic-church, subscription, and index expurgatorius to which are added, some reflections, miscellaneous observations, quotations, and queries on the same subjects</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Robertson, William</namePart>
+    <namePart type="date">1705-1783</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed for the author</publisher>
+    <dateIssued>1768</dateIssued>
+    <edition>3d ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xii, 252 p. 17 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by a presbyter of the Church of England.</note>
+  <note>A letter to the Lord Bishop of Ferns, Dublin, written at Ravilly, and dated Jan. 15, 1760: p. [249]-252 is signed W. Robertson.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Catholic Church</namePart>
+    </name>
+    <topic>Doctrinal and controversial works</topic>
+    <topic>Protestant authors</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">BX1763</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">PJU</recordContentSource>
+    <recordCreationDate encoding="marc">790712</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030626112442.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm05164720</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

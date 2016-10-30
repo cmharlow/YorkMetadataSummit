@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Du gouvernement civil</title>
+  </titleInfo>
+  <titleInfo type="uniform" nameTitleGroup="1">
+    <title>Two treatises of government. French</title>
+  </titleInfo>
+  <name type="personal" usage="primary" nameTitleGroup="1">
+    <namePart>Locke, John</namePart>
+    <namePart type="date">1632-1704</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <dateIssued>1783</dateIssued>
+    <edition>Rev. and corr.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxiv, 384 p. ; 17 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par M. Locke ; traduit de l'Anglois.</note>
+  <note>Translation of: Two treatises of government.</note>
+  <note>Edition reviewed and corrected.  Includes a biography and portrait of the author.</note>
+  <note>ASC copy 1: from the Yolton Library Rare Book Collection.</note>
+  <note>SC-SPCOLL copy 2: Gift of Dr. Philippe Garigue, Professor Emeritus.</note>
+  <subject authority="lcsh">
+    <topic>Political science</topic>
+    <genre>Early works to 1800</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Liberty</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Toleration</topic>
+  </subject>
+  <classification authority="lcc">JC153 .L814 1783</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">VVC</recordContentSource>
+    <recordCreationDate encoding="marc">910821</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030730110339.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm24262024</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

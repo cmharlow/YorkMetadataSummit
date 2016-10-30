@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC00588</identifier>
+  <location>
+    <physicalLocation>1974-002 / 296</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Yorkville village : [not used]</title>
+    <subTitle>Yorkville village : [not used] : [Girl touring Yorkville]</subTitle>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <note type="formsPartOfTIF">Yorkville village : [not used] : [Girl touring Yorkville]</note>
+  <abstract>Image of outdoor cafe patio of The Penny Farthing, in Yorkville, woman drinking coffee in background, couple having coffee in right foreground.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>[Leo] Harrison</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>04 August 1966</dateOther>
+    <dateIssued>1966-08</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35mm</extent>
+  </physicalDescription>
+  <note>One negative (#11) scanned out of 32 in assignment.</note>
+  <note type="ownership">ASC34734</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Yorkville</topic>
+    <topic>The Penny Farthing</topic>
+    <topic>Toronto Telegram</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>112 Yorkville Avenue</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.670938, -79.392882</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

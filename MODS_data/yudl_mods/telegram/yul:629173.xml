@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC34641</identifier>
+  <location>
+    <physicalLocation>1974-002 / 006</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Ruby Davis and Jennifer Garven, compare products and prices at the meat counter in Food City supermarket, they have been bussed in from Alexandra Park.</title>
+    <note displayLabel="source of supplied title">Title based on content of image</note>
+  </titleInfo>
+  <note type="formsPartOfTIF">Alexandra Park : Residents chain store bus in</note>
+  <note type="formsPartOfPDF">Toronto Telegram photographic negatives, S00054</note>
+  <targetAudience>HIST4840 - PCHP</targetAudience>
+  <name>
+    <namePart>Ray McFadden</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>16 October 1969</dateOther>
+    <dateIssued>1969-10-17</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>One neg (#16-16A) scanned out of 19 images in the assignment [only 7 images in the envelope]</note>
+  <note type="ownership">ASC34634</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Portuguese Canadian History Project</topic>
+    <topic>Alexandra Park (Toronto, Ont.)</topic>
+    <topic>Social Assistance (Ontario)</topic>
+    <topic>Home Economics</topic>
+    <topic>Food City (Canada)</topic>
+    <topic>Supermarket</topic>
+    <topic>Davis, Ruby</topic>
+    <topic>Garven, Jennifer</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

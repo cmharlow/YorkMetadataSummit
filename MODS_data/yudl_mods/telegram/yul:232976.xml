@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC33229</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/26606</identifier>
+  <location>
+    <physicalLocation>1974-001 / 270 (1902)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Greece - misc.</title>
+  </titleInfo>
+  <note type="titleSrc"/>
+  <abstract>Image of three men in long jakets and hats standing beside a CNR train car with its doors opening to reveal stacks of white sacks.  Full sized flags of Greece and Canada are strung in front of the car and a banner reading ""Bread for Greece" Crusade" is hanging off the top of the car. Caption reads: "Bread for Greece -- Almost 100,000 potential loaves of bread left Port Colborne last night enroute to Greece in one of two shipments designed to relieve the food shortage situation in that country.  One of the box cars is shown above decked out with the Greek flag and Canadian flag along with emblem of the Unitarian Service committee, sponsors of the crusade.  In front of the car are from left to right, C.V. Kester, Branch Manager of traffic at the Maple Leaf milling company plant here; M.R. Robinson, assistant manager and H.H. Knoll, mayor of Port Colborne.  The car contains 714 140-pound bags of Canadian hard wheat flour slated to arrive in New York for export to Salonika, Greece, Monday morning.  Another car is scheduled to leave the mill later this week."</abstract>
+  <abstract/>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart/>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2013-11-06</dateCreated>
+    <dateOther>31 December 1951</dateOther>
+    <dateIssued>1951-12-31</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photographic print : b&amp;w ; 10 x 14 cm.</extent>
+  </physicalDescription>
+  <note>1 print scanned from file</note>
+  <note type="ownership"/>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Greek Canadian History Project</topic>
+    <topic>Greece</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ASCproj@yorku.ca</accessCondition>
+</mods>

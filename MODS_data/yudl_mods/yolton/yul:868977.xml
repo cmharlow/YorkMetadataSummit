@@ -1,0 +1,70 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Oeuvres philosophiques de Antoine Arnauld</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Arnauld, Antoine</namePart>
+    <namePart type="date">1612-1694</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Simon, Jules</namePart>
+    <namePart type="date">1814-1896</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Malebranche, Nicolas</namePart>
+    <namePart type="date">1638-1715</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Charpentier</publisher>
+    <dateIssued>1843</dateIssued>
+    <edition>Nouv. éd.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xlj, 563 p. ; 18 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Introduction -- Objections contre Descartes -- Des vraies et des fausses idées -- Réponse du père Malebranche au livre Des vraies et des fausses idées -- Défense du docteur Arnauld contre la Réponse de Malebranche.</tableOfContents>
+  <note altRepGroup="00" type="statement of responsibility">collationnée sur les meilleurs textes et précédée dúne introduction par Jules Simon.</note>
+  <note>Pages 469-504 erroneously numbered 409-444.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Descartes, René</namePart>
+      <namePart type="date">1596-1650</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Malebranche, Nicolas</namePart>
+      <namePart type="date">1638-1715</namePart>
+    </name>
+  </subject>
+  <classification authority="lcc">B1815 .A8 1843a</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">TXA</recordContentSource>
+    <recordCreationDate encoding="marc">820130</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20021129142030.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm08109177</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

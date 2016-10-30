@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Histoire critique de l'ame des bêtes : contenant les sentimens des philosophes anciens, &amp; ceux des modernes sur cette matiére</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Guer, Jean-Antoine</namePart>
+    <namePart type="date">1713-1764</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ne</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Amsterdam</placeTerm>
+    </place>
+    <publisher>F. Changuion</publisher>
+    <dateIssued>1749</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v. 21 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par m. Guer.</note>
+  <note>Bound in 1 v.</note>
+  <note>Engraved title vignette.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Psychology, Comparative</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Netherlands</country>
+      <city>Amsterdam</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">BF662 .G9</classification>
+  <identifier type="lccn">37033720</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">800731</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030702114304.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm06571633</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

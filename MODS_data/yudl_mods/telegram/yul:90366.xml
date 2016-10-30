@@ -1,0 +1,77 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC12891</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/13644</identifier>
+  <location>
+    <physicalLocation>1974-002 / 251</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>133 Augusta Ave. : Valerie Agnes Riley Murdered [not used]</title>
+  </titleInfo>
+  <abstract>Image of the side of a building with people at each of the windows looking out.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>H Whyte</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2012-02-10</dateCreated>
+    <dateOther>18 September 1958</dateOther>
+    <dateIssued>1958</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 5.5 x 5.5 cm</extent>
+  </physicalDescription>
+  <note>One negative (5D) scanned out of 11 in assignment.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Portuguese Canadian History Project</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Kensington Market</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.652289, -79.401119</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">...</accessCondition>
+  <name>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+</mods>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Discourses : translated from Nicole's Essays</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Nicole, Pierre</namePart>
+    <namePart type="date">1625-1695</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Locke, John</namePart>
+    <namePart type="date">1632-1704</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Hancock, Thomas</namePart>
+    <namePart type="date">1783-1849</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Nicole, Pierre</namePart>
+    <namePart type="date">1625-1695</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed for Harvey and Darton ...</publisher>
+    <dateIssued>1828</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxvii, [1], 239 p. : facsim. ; 17 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>On the existence of a god.--On the weakness of man.--On the way of preserving peace.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">by John Locke, with important variations from the original French ... ; now first printed from the autograph of the translator, in the possession of Thomas Hancock, M.D.</note>
+  <note>"1. On the existence of a God.  2. On the weakness of man.  3. On the way of preserving peace."</note>
+  <note>With Locke's dedication, partially in facsimile.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Christian ethics</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">BJ1242 .N544eE 1828</classification>
+  <relatedItem>
+    <titleInfo>
+      <title>Essais de morale</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Nicole, Pierre,</namePart>
+      <namePart type="date">1625-1695</namePart>
+    </name>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>bdrb</descriptionStandard>
+    <recordContentSource authority="marcorg">HUV</recordContentSource>
+    <recordCreationDate encoding="marc">910418</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030730113325.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm23900401</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

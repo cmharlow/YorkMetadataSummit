@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC18127</identifier>
+  <location>
+    <physicalLocation>1374-002 / 119</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Long Branch, Ont. : Sunday School Conference. : Long Branch Baptist [not used]</title>
+    <subTitle>Long Branch, Ont[ario]. : Sunday School Conference. : Long Branch Baptist [not used]</subTitle>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <abstract>Image of front and back of negative envelope and one contact sheet. Assignment: Long Branch, Ont[ario]. : Sunday School Conference. : Long Branch Baptitst [not used].</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Dick Melville</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-05-13</dateCreated>
+    <dateOther>17 October 1959</dateOther>
+    <dateIssued>1959-10-17</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>5 photographs : b&amp;w negative ; 35 mm + 1 envelope : 14.2 x 11 cm</extent>
+  </physicalDescription>
+  <note>ASC18127</note>
+  <note type="ownership">ASC18127</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Long Branch</topic>
+    <topic>Church</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Long Branch</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.595525, -79.527190</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

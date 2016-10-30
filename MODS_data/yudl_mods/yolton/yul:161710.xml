@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <nonSort>An </nonSort>
+    <title>An enquiry into the ideas of space, time, immensity, and eternity; as also the self-existence, necessary existence, and unity...</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Dissertation upon the argument a priori for proving the existence of a first cause</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Law, Edmund</namePart>
+    <namePart type="date">1703-1787</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Waterland, Daniel</namePart>
+    <namePart type="date">1683-1740</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United States</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cambridge</placeTerm>
+    </place>
+    <publisher>Printed by W. Fenner and R. Beresford for W. Thurlbourn ...</publisher>
+    <dateIssued>1734</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>196, 98 [1] p. ; 21 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Edmund Law ; to which is added : A dissertation upon the argument a priori for proving the existence of a first cause / by a learned hand.</note>
+  <note>The "Dissertation upon the argument a priori" is by Daniel Waterland.</note>
+  <note>Errata.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Jackson, John</namePart>
+      <namePart type="date">1686-1763</namePart>
+    </name>
+    <titleInfo>
+      <title>The existence and unity of God proved from His nature and attributes</title>
+    </titleInfo>
+    <topic>Philosophy</topic>
+    <topic>Religion</topic>
+  </subject>
+  <classification authority="lcc">BL51 .L45</classification>
+  <identifier type="lccn">30011321</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">860922</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030324114632.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm14249868</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

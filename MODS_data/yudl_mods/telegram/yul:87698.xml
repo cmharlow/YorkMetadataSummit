@@ -1,0 +1,93 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC00580</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/7835</identifier>
+  <location>
+    <physicalLocation>1974-002 / 296</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>The Dirty Shames in performance at The Riverboat in Yorkville.</title>
+    <note displayLabel="source of supplied title">Title based on content of image and print sources</note>
+  </titleInfo>
+  <targetAudience>W. Reeves for City of Toronto | S. Alison-Cassin | ASC</targetAudience>
+  <name>
+    <namePart>McFadden</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2005-07-11</dateCreated>
+    <dateOther>21 December 1965</dateOther>
+    <dateIssued>1965-12</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35mm</extent>
+  </physicalDescription>
+  <note>One negative (#11-11A) scanned out of 6 in assignment.</note>
+  <note type="ownership">ASC34732</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>I Heard a Story About Yorkville</topic>
+    <topic>Toronto Telegram</topic>
+    <topic>The Dirty Shames</topic>
+    <topic>The Riverboat Coffee House</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>134 Yorkville Ave.</citySection>
+    </hierarchicalGeographic>
+    <topic>Yorkville</topic>
+    <cartographics>
+      <coordinates>43.670572, -79.393943</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+  <name>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <note type="titleSrc">[not used]</note>
+  <note type="formsPartOfTIF">Yorkville village : The Dirty Shames at The Riverboat : Not used</note>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+</mods>

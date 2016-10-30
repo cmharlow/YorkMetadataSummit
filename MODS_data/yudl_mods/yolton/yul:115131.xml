@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Sermons and religious tracts of the late Reverend Philip Doddridge, D.D</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Doddridge, Philip</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed by assignment from the author's widow for C. Hitch and [12 others]</publisher>
+    <dateIssued>1761</dateIssued>
+    <dateIssued encoding="marc" point="start">1761</dateIssued>
+    <dateIssued encoding="marc" point="end">1761</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>3 v. ; 18 cm.</extent>
+  </physicalDescription>
+  <note>"Now first collected together, in three volumes." -t.p.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject authority="lcsh">
+    <topic>Sermons, English</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">BX5201.D6 S4 1761</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">PKT</recordContentSource>
+    <recordCreationDate encoding="marc">800407</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030120143330.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm06172991</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.86 2013/06/10)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

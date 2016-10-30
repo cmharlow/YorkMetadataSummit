@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC19073</identifier>
+  <location>
+    <physicalLocation>1974-001 / 491 (3230)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Unemployment</title>
+  </titleInfo>
+  <abstract>Two images mounted on card caption reads: "Two views of the parade of unemployed from Long Branch, Port Credit and other Lakeshore municipalities west of Toronto as they marched to Queen's Park to-day to present their demands to [Ontario] Premier Hepburn" (both images marked up by Photo Editor and are damaged around edges).</abstract>
+  <targetAudience>Palmer</targetAudience>
+  <name>
+    <namePart>[Evening Telegram staff]</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>April 1935</dateOther>
+    <dateIssued>1935-04-04</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>2 photographs : sepia toned ; 21.2 x 7.7 cm and 21.2 x 8.8 cm on cardboard sheet 25.7 x 18.2 cm</extent>
+  </physicalDescription>
+  <note>One sheet scanned from file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Demonstration</topic>
+    <topic>Protest</topic>
+    <topic>Port Credit</topic>
+    <topic>Long Branch</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

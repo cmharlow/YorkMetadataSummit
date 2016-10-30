@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Essai philosophique sur l'ame des betes: : ou l'on trouve diverses reflexions sur la nature de la liberté, sur celle de nos sens</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Boullier, David Renaud</namePart>
+    <namePart type="date">1699-1759</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Netherlands</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Amsterdam</placeTerm>
+    </place>
+    <publisher>Chez François Changuion</publisher>
+    <dateIssued>1737</dateIssued>
+    <dateIssued encoding="marc" point="start">1737</dateIssued>
+    <dateIssued encoding="marc" point="end">1737</dateIssued>
+    <edition>Seconde ed. revue &amp; augmentée,</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 t. ; 17 cm. (12mo)</extent>
+  </physicalDescription>
+  <note>Dedication signed: Boullier.</note>
+  <note>Title in red and black; engraved title vignette; initials; head-pieces.</note>
+  <note>Includes in v. 2 a response to the views of Mr. Bayle.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Bayle, Pierre</namePart>
+      <namePart type="date">1647-1706</namePart>
+    </name>
+    <topic>Soul</topic>
+  </subject>
+  <classification authority="lcc">BD428 .B68 1737</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>bdrb</descriptionStandard>
+    <recordContentSource authority="marcorg">IXA</recordContentSource>
+    <recordCreationDate encoding="marc">860818</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20021202113837.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm14102157</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

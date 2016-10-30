@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC26451</identifier>
+  <titleInfo>
+    <title>J. Walker tree plantation</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Lou Wise</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>1986-10-14</dateCreated>
+    <dateOther>14 October 1986</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Oblique aerial view of J. Walker tree plantation</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/17252</identifier>
+  <location>
+    <physicalLocation>2009-008 / 007 (29)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>1 photograph : col. positive ; 35 mm</extent>
+  </physicalDescription>
+  <note>One slide scanned out of 77 in file.</note>
+  <note>ASC26374</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Lou Wise fonds, F0539</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000539.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Airphotos</topic>
+    <topic>Aerial photographs</topic>
+    <topic>Air photos</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

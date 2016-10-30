@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC19916</identifier>
+  <location>
+    <physicalLocation>1974-002 / 249</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Toronto Air Views. Sherbourne Street. Ont. Cancer Institute</title>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <abstract>Image consists of low level aerial shot of a hospital complex. A sign reading "PIGGOTT" is visible over one entrance to the building.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>[Telegram staff]</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>29 May 1957</dateOther>
+    <dateIssued>1957-05-29</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>Canada</place>
+    <place>Toronto</place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>eng</language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photographic negative : b&amp;w ; 12.7 x 10 cm.</extent>
+  </physicalDescription>
+  <note>1 neg scanned out of 2 in assignment.</note>
+  <note type="ownership">ASC19917</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>York</region>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

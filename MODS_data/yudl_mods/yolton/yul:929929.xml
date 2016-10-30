@@ -1,0 +1,69 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Saggio filosofico di Gio. Locke su l&apos;umano intelletto</title>
+  </titleInfo>
+  <titleInfo nameTitleGroup="1" type="uniform">
+    <title>Abridgment of Mr. Locke&apos;s Essay concerning human understanding. Italian</title>
+  </titleInfo>
+  <name nameTitleGroup="1" type="personal" usage="primary">
+    <namePart>Locke, John</namePart>
+    <namePart type="date">1632-1704</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Wynne, John</namePart>
+    <namePart type="date">1667-1743</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Soave, Francesco</namePart>
+    <namePart type="date">1743-1806</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Motta, Gaetano</namePart>
+    <role>
+      <roleTerm type="text">printer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">it</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">In Milano</placeTerm>
+    </place>
+    <publisher>Per Gaetano Motta</publisher>
+    <dateIssued>1775</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">ita</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>3 v. ; 21 cm. (8vo)</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">compendiato dal Dr. Winne ; tradotto, e commentato da Francesco Soave C.R.S. Prof. di Filof. Mor. nel R. Ginnasio de Brera.</note>
+  <note>Engraved head and tail pieces, initials.</note>
+  <note>ASC copy: From the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Knowledge, Theory of</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Italy</country>
+      <city>Milano</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">PR3541</classification>
+  <identifier type="oclc">153629811</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">Nz</recordContentSource>
+    <recordCreationDate encoding="marc">901030</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20080326124701.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocn153629811</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

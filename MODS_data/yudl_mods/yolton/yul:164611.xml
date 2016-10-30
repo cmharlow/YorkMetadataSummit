@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <nonSort>An </nonSort>
+    <title>An examination of Mr. Pope's Essay on man</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Crousaz, Jean-Pierre de</namePart>
+    <namePart type="date">1663-1750</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Carter, Elizabeth</namePart>
+    <namePart type="date">1717-1806</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed for A. Dodd</publisher>
+    <dateIssued>1739</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>viii, 227, [1] p. ; 18 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">translated from the French of M. Crousaz.</note>
+  <note>Title vignette; head- and tail-pieces.</note>
+  <note>Translated by Elizabeth Carter. Cf.  Brit. Mus. Catalogue.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Pope, Alexander</namePart>
+      <namePart type="date">1688-1744</namePart>
+    </name>
+    <titleInfo>
+      <title>Essay on man</title>
+    </titleInfo>
+  </subject>
+  <classification authority="lcc">PR3627 .C768 1739</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">IXA</recordContentSource>
+    <recordCreationDate encoding="marc">800529</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030107115102.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm06371260</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC27321</identifier>
+  <location>
+    <physicalLocation>1974-002 / 083</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Hong Kong : Sykes : Can. Memorial Gardens [Not Used]</title>
+    <subTitle>Hong Kong : Sykes : Can[adian] Memorial Gardens [Not Used]</subTitle>
+  </titleInfo>
+  <note type="titleSrc">[Not Used]</note>
+  <abstract>Image an overhead view of the harbour at [Sai Wan] on the shore of a bay with forested mountain slopes behind it.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Len Plume</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2013-09-24</dateCreated>
+    <dateOther>2 December 1959</dateOther>
+    <dateIssued>1959-12</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>1 photograph : b&amp;w negative ; 12.5 x 10 cm<form>nonprojected graphic</form><extent>1 photograph : b&amp;w negative ; 12 x 9.5 cm</extent></physicalDescription>
+  <note>One negative scanned out of 11 in assignment</note>
+  <note type="ownership">ASC27320</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Sai Wan War Cemetery</topic>
+    <topic>Hong Kong</topic>
+    <topic>memorial</topic>
+    <topic>Can[adian] Memorial Gardens</topic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>China</country>
+      <province>Hong Kong</province>
+      <region>Eastern District</region>
+      <city>Chai Wan</city>
+      <citySection>Sai Wan War Cemetery</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>22.259444, 114.234444</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+  <name>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+</mods>

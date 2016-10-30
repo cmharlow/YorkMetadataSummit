@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC19134</identifier>
+  <location>
+    <physicalLocation>1974-002 / 052</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>City Muffin Boys [not used]</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title/>
+  </titleInfo>
+  <abstract>Image of front and back of negative envelope, front and back of  loose sheet, and one contact sheet. Assignment: City Muffin Boys.</abstract>
+  <targetAudience>Allison-Cassin</targetAudience>
+  <name>
+    <namePart>Reed</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther/>
+    <dateIssued/>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>6 photographs : b&amp;w negative ; 35 mm + 1 envelope : 14.2 x 11 cm and notes</extent>
+  </physicalDescription>
+  <note>ASC19134</note>
+  <note type="ownership">ASC19134</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>City Muffin Boys</topic>
+    <topic>The Salvation Army Harbour Light Theatre</topic>
+    <topic/>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>160 Jarvis Street</citySection>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

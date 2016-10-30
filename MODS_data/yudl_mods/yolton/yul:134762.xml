@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The conduct of the understanding</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Locke, John</namePart>
+    <namePart type="date">1632-1704</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Bacon, Francis</namePart>
+    <namePart type="date">1561-1626</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Baynes &amp; Son</publisher>
+    <dateIssued>1825</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>240 p., 1 pl. ; 24mo.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by John Locke.  Essays, moral, economical &amp; political / by Francis Bacon.  With sketches of the authors' lives.</note>
+  <note>Armorial title vignette with motto: "Honi soit qui mal y pense."</note>
+  <note>Cover of item similar to t.p., except for publishing information. Cover reads: London : Printed for the Proprietors by J. F. Dove, 1825.</note>
+  <note>ASC copy: From the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Conduct of life</topic>
+    <topic>Knowledge, Theory of</topic>
+    <topic>Intellect</topic>
+    <topic>Reasoning</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">B1270</classification>
+  <relatedItem>
+    <titleInfo>
+      <title>Essays, moral, economical &amp; political</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Bacon, Francis,</namePart>
+      <namePart type="date">1561-1626</namePart>
+    </name>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">NYP</recordContentSource>
+    <recordCreationDate encoding="marc">980414</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030514095322.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm38945895</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.93 2014/01/31)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

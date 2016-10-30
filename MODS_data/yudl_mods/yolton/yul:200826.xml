@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The advantage and necessity of the Christian revelation shewn from the state of religion in the ancient heathen world : especially with respect to the knowledge and worship of the one true God : a rule of moral duty : and a state of future rewards and punishments. To which is prefixed, a preliminary disourse on natural and revealed religion (Volume 2)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Leland, John</namePart>
+    <namePart type="date">1691-1766</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed by W. Richardson and S. Clarke for R. and J. Dodsley in Pall-mall, and T. Longman in Pater-noster Row</publisher>
+    <dateIssued>1764</dateIssued>
+    <dateIssued encoding="marc" point="start">1764</dateIssued>
+    <dateIssued encoding="marc" point="end">1764</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by John Leland.</note>
+  <note>Errata.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Christianity and other religions</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Religious thought</topic>
+    <temporal>To 600</temporal>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Revelation</topic>
+  </subject>
+  <classification authority="lcc">BR127</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">OTY</recordContentSource>
+    <recordCreationDate encoding="marc">040428</recordCreationDate>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,61 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC06943</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/4648</identifier>
+  <location>
+    <physicalLocation>1974-002 / 457</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>CNE : Antique car show</title>
+  </titleInfo>
+  <abstract>Image of a line of three antique cars outside the Better Living Centre at the CNE (car in foreground is a Rolls Royce, registration no. GE 8697).</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Norm Betts</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2010-08-25</dateCreated>
+    <dateOther>24 August 1971</dateOther>
+    <dateIssued>1971-08-01</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;amp;w negative ; 35mm1 photograph : b&amp;amp;w negative ; 35mm</extent>
+  </physicalDescription>
+  <note>One neg (#15A-16) scanned out of 11 images in file.</note>
+  <note type="ownership">See also ASC06944, ASC06945, ASC06946, ASC06947, ASC06948, ASC06949, ASC06950</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Canadian National Exhibition</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

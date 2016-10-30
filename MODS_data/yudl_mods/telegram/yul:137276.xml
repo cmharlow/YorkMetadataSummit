@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC17031</identifier>
+  <location>
+    <physicalLocation>1974-001 / 164 (1129)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Dancing - pt. 1 (no ballet or square dancing)</title>
+  </titleInfo>
+  <abstract>Image consists of  a couple dancing the twist while surrounded by five women and three men.  A large flag is draped in the background behind a large framed portrait.&#13;
+Photographic print has been marked up for reproduction in the newspaper. &#13;
+Caption on reverse reads: Twisting their way into the Chinese New Year are Russell Wong and his dancing partner Lillian Lee.  Chinatown teen-agers replaced the dragon dance with the twist as they celebrated Chinese New Year's Eve last night.  Why? Because the dragon dance is only done by men...and this year the galls wanted to get into the dancing act."</abstract>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>Sale</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-02-19</dateCreated>
+    <dateOther>5 February 1962</dateOther>
+    <dateIssued>1962-02-05</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph: b&amp;w ; 26 x 20.5 cm.</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Dance</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC02696</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/2296</identifier>
+  <location>
+    <physicalLocation>1974-002 / 102 (386)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Brazilian groups : Canadian Brazilian Society Mardi Gras</title>
+  </titleInfo>
+  <note type="titleSrc"/>
+  <abstract/>
+  <abstract>Image of man, wearing eye patch and pirate hat decorated with skull and crossbones and the word "Dick", with arms around three women, including one holding a plastic sword</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>McFadden</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2000-05-09</dateCreated>
+    <dateOther/>
+    <dateIssued>1968-02-24</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>1 negative (#9) scanned from 4 in assignment</note>
+  <note>Box 2 CD 3B</note>
+  <note type="ownership"/>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject/>
+  <accessCondition type="useAndReproduction"/>
+</mods>

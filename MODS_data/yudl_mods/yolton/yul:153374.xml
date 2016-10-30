@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Examination of the notion of moral good and evil advanced in a late book entitled The religion of nature delineated</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Clarke, John</namePart>
+    <namePart type="date">1687-1734</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed for A. Bettesworth</publisher>
+    <dateIssued>1725</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>63 p. ; 21 cm. (8vo)</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by John Clarke.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Wollaston, William</namePart>
+      <namePart type="date">1660-1724</namePart>
+    </name>
+    <titleInfo>
+      <title>Religion of nature delineated</title>
+    </titleInfo>
+    <topic>Casuistry</topic>
+    <topic>Ethics</topic>
+    <topic>Good and evil</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <genre>Early works to 1800</genre>
+  </subject>
+  <subject authority="lcsh">
+    <genre>Early works to 1800</genre>
+  </subject>
+  <subject authority="lcsh">
+    <genre>Early works to 1800</genre>
+  </subject>
+  <classification authority="lcc">BJ1005 .C53 1725</classification>
+  <classification authority="ddc">170</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">RBN</recordContentSource>
+    <recordCreationDate encoding="marc">911111</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20021216143014.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm24759946</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

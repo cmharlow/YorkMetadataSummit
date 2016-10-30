@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tableau philosophique de l'esprit de M. de Voltaire : pour servir de suite à ses ouvrages, &amp; de mémoires à l'histoire de sa vie</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Sabatier de Castres, (Antoine)</namePart>
+    <namePart type="termsOfAddress">abbé</namePart>
+    <namePart type="date">1742-1817</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Voltaire</namePart>
+    <namePart type="date">1694-1778</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ne</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">A Geneve [i.e. Netherlands?</placeTerm>
+    </place>
+    <dateIssued>1771</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>XII, 245, [3] p. ; 20 cm. (12mo)</extent>
+  </physicalDescription>
+  <note>Subsequently published under title: Vie polemique de Voltaire.</note>
+  <note>Signatures: * A-P Q.</note>
+  <note>Woodcut t.p. ornament; ornamental head- and tailpieces.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Voltaire</namePart>
+      <namePart type="date">1694-1778</namePart>
+    </name>
+    <topic>Philosophy</topic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Voltaire</namePart>
+      <namePart type="date">1694-1778</namePart>
+    </name>
+    <topic>Adversaries</topic>
+  </subject>
+  <relatedItem>
+    <titleInfo>
+      <title>Selections. 1771</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Voltaire,</namePart>
+      <namePart type="date">1694-1778</namePart>
+    </name>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">NYP</recordContentSource>
+    <recordCreationDate encoding="marc">011114</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030630093934.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm50161337</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

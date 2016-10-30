@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Annual register, or a view of the history and politics and literature for the year (1780)</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Annual register, or a view of the history and politics of the year</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Annual register (1863)</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>The Annual register of world events</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Annual register (1965)</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Longmans [etc.]</publisher>
+    <dateIssued encoding="marc" point="start">1758</dateIssued>
+    <dateIssued encoding="marc" point="end">1963</dateIssued>
+    <issuance>serial</issuance>
+    <frequency authority="marcfrequency">Annual</frequency>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>205 v.</extent>
+  </physicalDescription>
+  <note type="date/sequential designation">v.[1]-205; 1758-1963.</note>
+  <note>Publisher varies.</note>
+  <note>Indexes issued separately.</note>
+  <note>ASC: set culled from different editions.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <note>ASC copy 2: from the Sheldon and Judy Godfrey collection.</note>
+  <note type="numbering">Vols. for 1863-1946 called new ser.</note>
+  <note type="numbering">Vols. for 1758-1919 lack vol. numbering but constitute v. 1-161.</note>
+  <note type="numbering">V. 34 (1792) issued in 2 pts.</note>
+  <note type="additional physical form">Also available on the Internet. MODE OF ACCESS via web browser by entering the following URL: http://www.bodley.ox.ac.uk/ilej/journals/</note>
+  <note>Index: v. 1 (1758)-v. 23 (1780) ; v. 24 (1781)-v. 36 (1792)</note>
+  <note>Title varies: 1758-1837 as: Annual register, or a view of the history, politics and literature for the year; 1838-1862 as: Annual register, or a view of the history and politics for the year; 1863-1953 as: Annual register; 1954-1964 as: Annual register of world events; 1965- as: Annual register.</note>
+  <subject authority="lcsh">
+    <topic>History</topic>
+    <topic>Periodicals</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>History</topic>
+    <topic>Periodicals</topic>
+  </subject>
+  <classification authority="lcc">D2 .A7</classification>
+  <location>
+    <url displayLabel="electronic resource" usage="primary display">http://www.bodley.ox.ac.uk/ilej/journals/</url>
+  </location>
+  <recordInfo>
+    <recordCreationDate encoding="marc">810116</recordCreationDate>
+    <recordIdentifier>a855377</recordIdentifier>
+    <recordIdentifier>ads4496</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

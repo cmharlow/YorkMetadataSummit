@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC04225</identifier>
+  <location>
+    <physicalLocation>1974-002 / 294</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Two female students registering for university, Janet Beeby is facing camera; Lois Henry is not.</title>
+    <note displayLabel="source of supplied title">Title based on content of image and print sources</note>
+  </titleInfo>
+  <note type="formsPartOfTIF">York University</note>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>Frank Grant</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>15 September 1960</dateOther>
+    <dateIssued>1960-09-16</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 5.5 x 5.5 cm</extent>
+  </physicalDescription>
+  <note>One negative scanned out of 12 in assignment.</note>
+  <note type="ownership">ASC34026</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>York University</topic>
+    <topic>Falconer Hall (University of Toronto)</topic>
+    <topic>Beeby, Janet</topic>
+    <topic>Henry, Lois</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Falconer Hall (University of Toronto)</citySection>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

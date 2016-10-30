@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>An </nonSort>
+    <title>An historical and critical account of the life and writings of Wm. Chillingworth, chancellor of the Church of Sarum</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Desmaizeaux, Pierre</namePart>
+    <namePart type="date">1673?-1745</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed for T. Woodward at the Half Moon in Fleet Street, and J. Peele at Locke's Head in Pater-noster Row</publisher>
+    <dateIssued>1725</dateIssued>
+    <edition>[1st ed.]</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>372 p. ; 21 cm.</extent>
+  </physicalDescription>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Chillingworth, William</namePart>
+      <namePart type="date">1602-1644</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">BX5199.C47 D46</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">NYP</recordContentSource>
+    <recordCreationDate encoding="marc">960402</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030120142608.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm34499787</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

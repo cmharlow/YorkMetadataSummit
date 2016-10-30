@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC19066</identifier>
+  <location>
+    <physicalLocation>1974-001 / 148 (1034)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Communists - miscellaneous</title>
+  </titleInfo>
+  <abstract>Circular image of a "Red" [Communist] demonstration on Spadina Ave. (image is damaged and torn in various areas).</abstract>
+  <targetAudience>Palmer, Trent U.</targetAudience>
+  <name>
+    <namePart>[Evening Telegram staff]</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>[193-]</dateOther>
+    <dateIssued>193-</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>Canada</place>
+    <place>Toronto</place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>eng</language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 17 x 16.9 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Communists</topic>
+    <topic>Demonstration</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Spadina</citySection>
+    </hierarchicalGeographic>
+    <topic>Protest</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

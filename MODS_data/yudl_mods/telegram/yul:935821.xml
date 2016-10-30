@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC35560</identifier>
+  <location>
+    <physicalLocation>194-001 / 365 (2399)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Pollution : Air, noise, water, etc.</title>
+  </titleInfo>
+  <abstract>Image of high school students from Alderwood Collegiate Institute, biking as part of a "Stamp Out All Pollution" cycling tour of their neighbourhood.</abstract>
+  <targetAudience>Canadian Centre for Architecture</targetAudience>
+  <name>
+    <namePart>Dave Cooper</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>[May 1970]</dateOther>
+    <dateIssued>1970-05-21</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 20.7 x 25.5 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Children</topic>
+    <topic>Alderwood Collegiate Institute (Etobicoke, Ont.)</topic>
+    <topic>Bicycles</topic>
+    <topic>Protest</topic>
+    <topic>Demonstration</topic>
+    <topic>Air pollution</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Etobicoke</city>
+      <citySection>Alderwood</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.6, -79.55</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC19117</identifier>
+  <location>
+    <physicalLocation>1974-001 / 058 (361)</physicalLocation>
+  </location>
+  <note type="with">OLD Y.U.A. neg. # 1561</note>
+  <titleInfo>
+    <title>Armistice : Celebration of 1945</title>
+  </titleInfo>
+  <abstract>Image (in portrait orientation) of Bobbie Webster, Stanley Roth, and Jackson Aldridge throwing stones at effigies of Adolf Hitler and Emperor Hirohito outside the RCAF No. 1 Initial Training School (Eglinton Hunt Club). (image has been marked up by Photo Editor.)</abstract>
+  <targetAudience>Canadian Museum of History</targetAudience>
+  <name>
+    <namePart>[Telegram staff]</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>[May] 1945</dateOther>
+    <dateIssued>1945-05-09</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 16.6 x 21.5 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Protest</topic>
+    <topic>RCAF No. 1 Initial Training School</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Forest Hill</citySection>
+    </hierarchicalGeographic>
+    <topic>Demonstration</topic>
+    <topic>caricature effigy</topic>
+    <topic>World War, 1939-1945</topic>
+    <topic>Hirohito, Emperor of Japan, 1901-1989</topic>
+    <topic>Hitler, Adolf, 1889-1945</topic>
+    <topic>Webster, Bobbie</topic>
+    <topic>Roth, Stanley</topic>
+    <topic>Aldridge, Jackson</topic>
+    <topic>Royal Canadian Air Force</topic>
+    <cartographics>
+      <coordinates>43.680918, -79.272022</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

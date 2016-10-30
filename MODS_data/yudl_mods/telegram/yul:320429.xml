@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC19068</identifier>
+  <location>
+    <physicalLocation>1974-001 / 491 (3230)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Unemployment</title>
+  </titleInfo>
+  <abstract>Image of "hunger marchers" caption on reverse reads: "Completing the last lap of their trek to the Parliament Buildings, hunger marchers are shown in Queen's Park in front of the buildings yesterday. The marchers, tallying about 2,000, were outnumbered by the interested crowds of spectators who assembled to watch the parade." [image is damaged on corners and lower right corner is missing]</abstract>
+  <targetAudience>Palmer</targetAudience>
+  <name>
+    <namePart>[Evening Telegram staff]</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>July 1934</dateOther>
+    <dateIssued>1937-07-31</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 21.6 x 16.8 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Demonstration</topic>
+    <topic>Protest</topic>
+    <topic>Legislative Assembly of Ontario</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Queen's Park</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.662447, -79.391708</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

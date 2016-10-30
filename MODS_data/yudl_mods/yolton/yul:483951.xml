@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The works of that learned and judicious divine, Mr. Richard Hooker : containing eight books of the laws of ecclesiastical polity, and several other treatises ; with an index to the whole : to which is prefixed the life of the author (Volume 2)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Hooker, Richard</namePart>
+    <namePart type="date">1553 or 4-1600</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Walton, Izaak</namePart>
+    <namePart type="date">1593-1683</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Oxford</placeTerm>
+    </place>
+    <publisher>Clarendon Press</publisher>
+    <dateIssued>1820</dateIssued>
+    <edition>A new ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>3 v. : port. : 22 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Isaac Walton.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Church of England</namePart>
+    </name>
+    <topic>Doctrinal and controversial works</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>Oxford</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Ecclesiastical law</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Church polity</topic>
+  </subject>
+  <classification authority="lcc">BV649</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">NCS</recordContentSource>
+    <recordCreationDate encoding="marc">800722</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030303152132.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm06539629</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

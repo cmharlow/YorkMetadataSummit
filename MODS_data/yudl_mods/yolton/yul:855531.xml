@@ -1,0 +1,68 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Over de opvoeding der kinderen</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Locke, John</namePart>
+    <namePart type="date">1632-1704</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Verwer, Pieter Adriaen</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Le Clerc, Jean</namePart>
+    <namePart type="date">1657-1736</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">ne</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Amsterdam</placeTerm>
+    </place>
+    <publisher>K. van Tongerlo</publisher>
+    <dateIssued>MDCCLIII [ie. 1753]</dateIssued>
+    <dateIssued encoding="marc">1753</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">dut</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>lxxvi, 452 p.</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">J. Locke ; van nieuws uit het Engelsch vertaelt, naer den elfden druk, door Pieter Adriaen Verwer, vermeerdert met eenige aenteekeningen en het Leven van den Schrijver.</note>
+  <note>Translated from the French edition authored by J. Le Clerc.</note>
+  <note>ASC copy: From the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Education</topic>
+    <topic>Philosophy</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Netherlands</country>
+      <city>Amsterdam</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">LB475</classification>
+  <identifier type="oclc">69052047</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>fobidrtb</descriptionStandard>
+    <recordContentSource authority="marcorg">NLGGC</recordContentSource>
+    <recordCreationDate encoding="marc">960116</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20080319122252.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm69052047</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">dut</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

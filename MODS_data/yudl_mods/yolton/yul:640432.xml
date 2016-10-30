@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Exame de confessores ou breve tratado em que discorrendo por todas as materias de theologia moral, se instrue hum sacerdote em ordem ao como se deve haver no confessionario</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Tavares, António</namePart>
+    <namePart type="date">fl. 17th-18th cent</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">po</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Lisboa Occidental</placeTerm>
+    </place>
+    <publisher>M. Fernandes da Costa</publisher>
+    <dateIssued>1734</dateIssued>
+    <edition>2. impressaõ.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">por</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>[20], 402 p. ; (4to)</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">pelo Padre Mestre Antonio Tavares.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Confessors</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Portugal</country>
+      <city>Lisboa</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Penance</topic>
+  </subject>
+  <classification authority="lcc">BX1757 .T23</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">IUL</recordContentSource>
+    <recordCreationDate encoding="marc">001018</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030630090618.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm45193969</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

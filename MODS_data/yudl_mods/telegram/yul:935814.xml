@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC35531</identifier>
+  <location>
+    <physicalLocation>1974-002 / 253</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Elm Ave.</title>
+  </titleInfo>
+  <note type="formsPartOfPDF">Toronto Telegram photographic negatives, S00054</note>
+  <abstract>File consists of front and back of negative envelope and one contact sheet. Assignment: Elm Ave.</abstract>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>[Telegram staff]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>28 February 1964</dateOther>
+    <dateIssued>1964-02</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>2 photographs : b&amp;w negative ; 5.7 x 5.7cm + 1 envelope : 10.6 x 14.1 cm.</extent>
+  </physicalDescription>
+  <note>ASC35531</note>
+  <note type="ownership">ASC35531</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Toronto streets</topic>
+    <topic>Elm Avenue (Toronto, Ont.)</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Rosedale</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.676678, -79.372906</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC19945</identifier>
+  <location>
+    <physicalLocation>1974-002 / 420</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>John Sewell : Playing Chess During Special Debate</title>
+  </titleInfo>
+  <abstract>Image of alderman [Karl] Jaffary and [alderman] John Sewell playing chess in City Council chambers during a special council debate.</abstract>
+  <targetAudience>Sewell</targetAudience>
+  <name>
+    <namePart>Bill Russell</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>25 January 1971</dateOther>
+    <dateIssued>1971-01-26</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative; 35 mm</extent>
+  </physicalDescription>
+  <note>1 neg (19-19A) out of 20 in assignment</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>John Sewell</topic>
+    <topic>Karl Jaffary</topic>
+    <topic>Toronto City Council</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Toronto City Hall</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.653333, -79.383889</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

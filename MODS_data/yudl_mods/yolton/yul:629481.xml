@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Elementa logicæ : subjícitur appendix de usu logicæ: et conspectus organi Aristotelis</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Oxonii</placeTerm>
+    </place>
+    <publisher>Excudebat Guilielmus Jackson, 1770.</publisher>
+    <dateIssued encoding="marc">1770</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>77, [19], [2] p.</extent>
+  </physicalDescription>
+  <note>Conspectus organi Aristotelis [19] p.</note>
+  <note>Includes errata.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Logic</topic>
+    <genre>Early works to 1800</genre>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>Oxford</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">BC105.L3 E43 1795</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">SBM</recordContentSource>
+    <recordCreationDate encoding="marc">020827</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20040128144654.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm50489187</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

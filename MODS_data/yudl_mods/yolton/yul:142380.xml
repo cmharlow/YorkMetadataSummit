@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>A collection of theological tracts (Volume 6)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Watson, Richard</namePart>
+    <namePart type="date">1737-1816</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cambridge</placeTerm>
+    </place>
+    <publisher>Printed by J. Archdeacon, printer to the University; for J. &amp; J. Merrill, Cambridge; T. Evans, London; and J. and J. Fletcher.</publisher>
+    <dateIssued encoding="marc">1785</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>6 v. : map. 22 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Richard Watson.</note>
+  <note>Volumes IV-V "Printed by J. Nichols".</note>
+  <note>"A catalogue of books in divinity": [27] p. at end of v. 6.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Theology</topic>
+    <topic>Collections</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">BR45 .W3 1785</classification>
+  <identifier type="lccn">49035829</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">ISB</recordContentSource>
+    <recordCreationDate encoding="marc">800508</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030630094714.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm06297167</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

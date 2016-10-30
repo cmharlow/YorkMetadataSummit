@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC02797</identifier>
+  <location>
+    <physicalLocation>1974-002 / 102 (403)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Chinese groups : Chinatown fund for Mon Sheong Foundation</title>
+  </titleInfo>
+  <abstract>Aerial image of street party in aid of Mon Sheong Foundation : four musicians standing on stage outside the Nanking Tavern with microphones and amplifiers ; people dancing in street ; onlookers standing on sidewalk ; construction hoarding on one side of street, sign "Nanking" on other, and high-rise buildings in distance.</abstract>
+  <targetAudience>ERA Architects</targetAudience>
+  <name>
+    <namePart>Ray McFadden</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>26 July 1970</dateOther>
+    <dateIssued>1970-07-27</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative; 35 mm</extent>
+  </physicalDescription>
+  <note>One negative (# 6A-7) scanned from 40 in assignment [only 14 negatives in assignment envelope]. | Box 2 CD 4B</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Mon Sheong Foundation</topic>
+    <topic>Immigrant groups</topic>
+    <topic>Chinese groups</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>75-77 Elizabeth Street</citySection>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

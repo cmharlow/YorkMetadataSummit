@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC08722</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/20967</identifier>
+  <location>
+    <physicalLocation>1974-002 / 103</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Greek Groups : Protest Arrival of Greek King Constantine and Queen Anne Marie</title>
+    <subTitle>Greek Groups : Protest arrival of Greek King Constantine [II] and Queen [Anne-Marie]</subTitle>
+  </titleInfo>
+  <abstract>File consists of front and back of negative envelope and three contact sheets. Assignment: Greek Groups : Protest arrival of Greek King Constantine and Queen Anne Marie</abstract>
+  <targetAudience>HIST4840 - GCHP | GCHP</targetAudience>
+  <name>
+    <namePart>Russell</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2013-01-03</dateCreated>
+    <dateOther>27 August 1967</dateOther>
+    <dateIssued>1967-08-28</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>22 photographs : b&amp;w negative ; 35 mm + 1 envelope : 14.7  x 11 cm</extent>
+  </physicalDescription>
+  <note>ASC08722</note>
+  <note type="ownership">ASC08722</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Greek Canadian History Project</topic>
+    <topic>Greek diaspora</topic>
+    <topic>Committee for the Restoration of Democracy in Greece</topic>
+    <topic>Protest</topic>
+    <topic>Demonstration</topic>
+    <topic>Anna Tsarnas</topic>
+    <topic>Nicholas Skoulas</topic>
+    <topic>Steve Hajanal</topic>
+    <topic>48th Highlanders Regimental Memorial</topic>
+    <topic>Constantine II, King of the Hellenes, 1940-</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Queen's Park</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.665841, -79.392948</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+  <note type="formsPartOfPDF">Toronto Telegram photographic negatives, S00054</note>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+</mods>

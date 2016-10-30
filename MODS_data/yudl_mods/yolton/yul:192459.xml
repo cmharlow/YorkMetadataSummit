@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Abregé de l'Essay de Monsieur Locke sur l'entendement humain</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Essay concerning human understanding</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Locke, John</namePart>
+    <namePart type="date">1632-1704</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">A Londres</placeTerm>
+    </place>
+    <publisher>Chez Jean Watts</publisher>
+    <dateIssued>1720</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>286 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">traduit de l'anglois par Mr. Bosset.</note>
+  <note>Includes index.</note>
+  <note>Translation of selections from: An essay concerning human understanding.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Knowledge, Theory of</topic>
+    <genre>Early works to 1800</genre>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">B1292</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">CLU</recordContentSource>
+    <recordCreationDate encoding="marc">850502</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030729144214.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm11993025</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

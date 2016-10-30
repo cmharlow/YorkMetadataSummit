@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC19921</identifier>
+  <location>
+    <physicalLocation>1974-002 / 255</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Ontario and Howard Sts. Apartment House To Be Built</title>
+  </titleInfo>
+  <abstract>Item consists of a snow-covered residential street with numerous parked cars. In the right of the frame a demolition site is visible. A billboard reads: "ADVANCE LUMBER &amp; WRECKING ALL MATERIALS FOR SALE R0.2-8151."&#13;
+This negative is suffering from severe vinegar syndrome.</abstract>
+  <targetAudience>Digital Humanities and Social Change class</targetAudience>
+  <name>
+    <namePart>Woods</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>5 December [1958]</dateOther>
+    <dateIssued>1958-12-05</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photographic negative : b&amp;w ; 12.7 x 10 cm.</extent>
+  </physicalDescription>
+  <note>1 neg scanned out of 3 in assignment.</note>
+  <note type="ownership">ASC19907, ASC19920</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>York</region>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

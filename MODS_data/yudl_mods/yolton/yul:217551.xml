@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>An </nonSort>
+    <title>An abridgment of Mr. Locke's Essay concerning human understanding</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>An abridgment of An essay concerning human understanding</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Locke, John</namePart>
+    <namePart type="date">1632-1704</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Wynne, John</namePart>
+    <namePart type="date">1667-1743</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Scotland</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Edinburgh</placeTerm>
+    </place>
+    <publisher>Printed by A. Donaldson</publisher>
+    <dateIssued>1770</dateIssued>
+    <edition>A new ed., with additions, carefully rev. and corr.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>271 p.</extent>
+  </physicalDescription>
+  <note>Dedication signed: John Wynne.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Knowledge, Theory of</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Scotland</country>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">B1292</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">870227</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19870227111652.0</recordChangeDate>
+    <recordIdentifier source="CaOEAGC">20587764</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

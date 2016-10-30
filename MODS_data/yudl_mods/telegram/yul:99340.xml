@@ -1,0 +1,60 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC08787</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/26058</identifier>
+  <location>
+    <physicalLocation>1974-001 / 210 (1557)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Ethnic Groups : Greeks</title>
+  </titleInfo>
+  <abstract>Consists of portrait of five young actors in costume.  Verso reads: Greeks from Hamilton, St. Thomas and other Ontario centres, as well as from Toronto, filled the Century Theatre yesterday to commemorate the Greek Day of Liberation of 1821.  Though Greece is no longer free, the Canadian Greeks are certain that soon now she will regain her liberty and hence they &quot;keep the torch of freedom high.&quot; Above is shown a scene from a play which was featured on a full and varied program.  Left to right, Miss T. Allins, and Helen Bazos, Jim Poulos as an Evzone, Evelyn Fisciatoris and Constance Copses.&quot;</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>[Telegram staff]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2013-01-04</dateCreated>
+    <dateOther>27 March 1944</dateOther>
+    <dateIssued>1944-03-27</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;amp;w photoprint ; 17 x 22 cm.</extent>
+  </physicalDescription>
+  <note>One print scanned.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Greek Canadian History Project</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

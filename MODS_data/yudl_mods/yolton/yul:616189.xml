@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>A discourse concerning the Resurrection of Jesus Christ : in three parts ... : together with an appendix concerning the impossible production of thought, from matter and motion ; the nature of human souls, and of brutes ; the anima mundi, and the hypothesis of the to pan ; as also, concerning Divine Providence, the origin of evil, and the universe in general</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Ditton, Humphry</namePart>
+    <namePart type="date">1675-1715</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed by J. Darby in Bartholomew-Close, and sold by Andr. Bell in Cornhill, and B. Lintott near the Temple Gate in Fleet Street</publisher>
+    <dateIssued>1714</dateIssued>
+    <edition>2nd ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xvi, 510, [2] p. 21 cm. (8vo)</extent>
+  </physicalDescription>
+  <tableOfContents>(from t.p.) wherein, I. The consequences of the doctrine are stated hypothetically -- II. The nature and obligation of moral evidence, are explain'd at large -- III. The proofs of the fact of our Saviour's Resurrection, are propos'd, examin'd, and fairly demonstrated, to be conclusive.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">by Humphry Ditton.</note>
+  <note>Signatures: A-2K.</note>
+  <note>Initials; head- and tail-pieces.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Jesus Christ</namePart>
+    </name>
+    <topic>Resurrection</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">BT480</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>bdrb</descriptionStandard>
+    <recordContentSource authority="marcorg">NDD</recordContentSource>
+    <recordCreationDate encoding="marc">860613</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030120142906.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm13725844</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC17030</identifier>
+  <location>
+    <physicalLocation>1974-001 / 165 (1130)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Dancing - Misc. to 1964</title>
+  </titleInfo>
+  <abstract>Image consists of a young girl and boy dancing while older children dance in the background. A jazz band featuring accordion, saxophone, bass and trumpet are visible on a raised stage in the background. &#13;
+Photographic print has been painted to enhance features of subjects in preparation for publication in newspaper.&#13;
+Caption on reverse reads: "It takes two to tango and it doesn't matter how old you are as long as you can get on the dance floor as demonstrated by these two young dancers.  Enjoying the music of Jimmy Stewart's orchestra are Tommy Mathers and Keni Koch, both aged 2 1/2.  The couple were enjoying festivities at the opening of the Stonegate shopping centre last week.  The new plaza is on Barry rd. at Parklawn."</abstract>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>Bruce Reed</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-02-19</dateCreated>
+    <dateOther>22 October 1958</dateOther>
+    <dateIssued>1958-10-22</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w photoprint : 20.9 x 26 cm.</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.636164,-79.493418</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

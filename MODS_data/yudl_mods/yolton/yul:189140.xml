@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>An </nonSort>
+    <title>Apology for Dr. Clarke : containing an account of the late proceedings in Convocation upon his writings concerning the Trinity</title>
+    <subTitle></subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Laurence, John</namePart>
+    <namePart type="date">1668-1732</namePart>
+  <role><roleTerm authority="marcrelator" type="text"/></role></name>
+  <name type="personal">
+    <namePart>Clarke, Samuel</namePart>
+    <namePart type="date">1675-1729</namePart>
+  <role><roleTerm authority="marcrelator" type="text"/></role></name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed for E. Burleigh in Amen Corner</publisher>
+    <dateIssued>1714</dateIssued>
+    <issuance>monographic</issuance>
+  <copyrightDate></copyrightDate><edition></edition></originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>[8], 9-64 p. ; 20 cm. (8vo in 4s)</extent>
+  </physicalDescription>
+  <tableOfContents>The complaint of the Lower-House. June 2, 1717 -- The answer of the Bishops. June 4 -- Their message, directing an Extract of particulars. June 12 -- The extract of particulars, made by the Lower-House, June 23 -- Dr. Clarke's reply to the fore-going extract. Jun 26. "Never before published" -t.p. -- A paper laid by Dr. Clarke before the Bishops. July 2 -- A letter to Dr. Clarke, occasioned by the fore-going paper. "Never before published" -t.p. -- Part of a letter from Dr. Clarke, in answer to the fore-going. "Never before published" -t.p. -- A paper from Dr. Clarke delivered to the Bishop of London. July 5 "Never before published" -t.p. -- The resolution of the Upper-House. July 5 -- The resolution of the Lower-House. July 7.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">published by the author of the above-mentioned letter to Dr. Clarke.</note>
+  <note>Consists of 11 brief papers, including pronouncements by Convocation, replies by Clarke, and a letter to Clarke by John Laurence.</note>
+  <note>Signatures: A-H [vertical chain-lines]</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Clarke, Samuel</namePart>
+      <namePart type="date">1675-1729</namePart>
+    </name>
+    <titleInfo>
+      <title>Scripture doctrine of the Trinity</title>
+    </titleInfo>
+  <topic></topic><geographic></geographic><temporal></temporal><hierarchicalGeographic><continent>Europe</continent><country>United Kingdom</country><province></province><region></region><county></county><city></city><citySection></citySection></hierarchicalGeographic><cartographics><coordinates></coordinates></cartographics></subject>
+  <classification authority="lcc">BT1100</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">ISB</recordContentSource>
+    <recordCreationDate encoding="marc">820208</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030324115056.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm08136946</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+<genre authority="marcgt"/><abstract></abstract><identifier type="isbn"/><classification edition="21" authority="ddc"/></mods>

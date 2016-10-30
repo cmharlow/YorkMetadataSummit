@@ -1,0 +1,89 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC08789</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/26059</identifier>
+  <location>
+    <physicalLocation>1974-001 / 210 (1557)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Ethnic Groups : Greeks</title>
+  </titleInfo>
+  <abstract>Image of five young women in costume, posting on a stairway outdoors. Verso reads: &quot; May 19 1942. Greek Girls &apos; and caption &quot;To-day is &quot;Greek Day&quot; in the nationwide campaign of the Canadian Red Cross Society for $9,000,000, and these Greek-Canadian lassies, dressed in the ancient costumes of their native land, took part in the special noon-day ceremony at the City Hall.  Included in the group are Effie Jeffories, of London, who sang a Greek folk song and &quot;The White Cliffs of Dover&quot;; Evelyn Valachos, Brandford, whose brother won the Distinguished Flying Cross with the RAF, and is now a prisoner in Germany; Lillian Orfankos, North Bay; Edna Siampis, Toronto, Celia Kanakos, Toronto.</abstract>
+  <targetAudience>HSA | GCHP</targetAudience>
+  <name>
+    <namePart>[Telegram staff]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2013-01-04</dateCreated>
+    <dateOther>[May 1942]</dateOther>
+    <dateIssued>1942-05-19</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w photoprint ; 17 x 22 cm.</extent>
+  </physicalDescription>
+  <note>One print scanned.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Greek Canadian History Project</topic>
+    <topic>Toronto Telegram</topic>
+    <topic>Greek diaspora</topic>
+    <topic>Canadian Red Cross Society</topic>
+    <topic>Old City Hall (Toronto)</topic>
+    <topic>Jeffories, Effie</topic>
+    <topic>Valachos, Evelyn</topic>
+    <topic>Orfankos, Lillian</topic>
+    <topic>Siampis, Edna</topic>
+    <topic>Kanakos, Celia</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>City Hall</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.6525, -79.381667</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+  <note type="with">Folder 1 of 2</note>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+</mods>

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC17042</identifier>
+  <location>
+    <physicalLocation>1974-002 / 244</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>The Supremes press conference</title>
+  </titleInfo>
+  <abstract>Image of members of The Supremes posing with Stevie Wonder at the King Edward Hotel Vice-Regal Suite.</abstract>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>Ken Robertson</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-02-23</dateCreated>
+    <dateOther>19 June 1966</dateOther>
+    <dateIssued>1966-06-20</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>One neg (5-5A) scanned from 11 in assignment</note>
+  <note type="ownership">ASC17043</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Music</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.64935,-79.376291</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by photographer. For more information see &lt;a href="http://digital.library.yorku.ca/content/toronto-telegram-faq" target="_blank"&gt;Toronto Telegram FAQ&lt;/a&gt;.</accessCondition>
+</mods>

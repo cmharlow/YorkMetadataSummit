@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC19902</identifier>
+  <location>
+    <physicalLocation>1974-002 / 255</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Maitland Street Junk in Yard</title>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <abstract>Image consists of a photograph of a large three story residential building. A VW beatle car is in the foreground of the frame, with a larger sedan car parked in front of it. A pile of debris is visible piled up beside the fence on the left of the frame.&#13;
+Annotations on assignment envelope read: House on Mailtand St. behind 26 Alexander St. "Carmen's" which had a lot of garbage and junk in its backyard, that children played in. Landlord would not clean up,[sic]."</abstract>
+  <targetAudience>Digital Humanities and Social Change class</targetAudience>
+  <name>
+    <namePart>Russell</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>9 December 1968</dateOther>
+    <dateIssued>1968-12-09</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photographic negativey : b&amp;w ; 35 mm.</extent>
+  </physicalDescription>
+  <note>1 neg (#11-11A) of 6 in assignment</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>York</region>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

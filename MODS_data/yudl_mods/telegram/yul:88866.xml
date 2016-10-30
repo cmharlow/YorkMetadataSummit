@@ -1,0 +1,52 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC03092</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/2156</identifier>
+  <location>
+    <physicalLocation>1974-002 / 193 (912)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Boat, &quot;Flying Enterprise&quot;</title>
+  </titleInfo>
+  <abstract>Image of earlier photograph of ship listing heavily, sinking with water spilling onto deck; caption below picture that reads: &quot;Skipper on deck…Captain Kurt Carlsen, who refused to abandon his stricken ship stands on deck (circled area) of U.S. freighter Flying Enterprise hundreds of miles off Falmouth, England, yesterday. This aerial view of the skipper on deck of his listing command was made from a Royal Air Force Lancaster.  British tug Turmoil reached the Flying Enterprise today and its first mate...&quot;</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2000/04/05</dateCreated>
+    <dateIssued>1952/01/05</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;amp;w negative ; 10 x 13 cm</extent>
+  </physicalDescription>
+  <note>Box 1 CD 3A</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

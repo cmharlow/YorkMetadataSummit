@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC19090</identifier>
+  <location>
+    <physicalLocation>1987-001 / 008 (362/1081)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Etobicoke : (New Toronto) : "Discards" : 1930's : [Unemployed and the Depression (Cartoons &amp; signs)]</title>
+  </titleInfo>
+  <abstract>Image (in portrait orientation) of a satirical cartoon placard of Premier of Ontario, Mitchell Hepburn, and Member of Provincial Parliament, David Croll that reads :"Mitch and Croll Regime Drive Workers to Misery" (image has been marked up by Photo Editor and is damaged around edges, lower left quadrant is missing, and emulsion layer is damaged throughout).</abstract>
+  <targetAudience>Palmer</targetAudience>
+  <name>
+    <namePart>[Evening Telegram staff]</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>March 1935</dateOther>
+    <dateIssued>1935-03-16</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 16.0 x 10.2 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Protest</topic>
+    <topic>David Croll</topic>
+    <topic>Mitchell Hepburn</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Etobicoke</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

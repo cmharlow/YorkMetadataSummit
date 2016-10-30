@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>A view of the principal deistical writers that have appeared in England in the last and present century : with observations upon them, and some account of the answers that have been published against them. In several letters to a friend (Volume 1)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Leland, John</namePart>
+    <namePart type="date">1691-1766</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>B. Dod</publisher>
+    <dateIssued>1755-56</dateIssued>
+    <dateIssued encoding="marc" point="start">1755</dateIssued>
+    <dateIssued encoding="marc" point="end">1756</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>3 v. 21 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>v. 1. View of the principal deistical writers that have appeared in England in the last and present century ... -- v. 2. Containing observations on Mr. Hume's philosophical essays ; and a defense of natural and revealed religion, against the attempts made upon both in the post-humous works of the late Lord Viscount Bolingbroke with a conclusion, in an address to Deists and professed Christians -- v. 3. Supplement to the first and second volumes ... containing additions and illustrations relating to those volumes ... . To which is added, 'Reflections on the late Lord Bolingsbroke's letters on the study and use of history as it relates to the Holy Scriptures' with a large index to the three volumes.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">by John Leland.</note>
+  <note>Vol. 1: 2d ed. with additions; v3: 3d ed. corr. and enl.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Deism</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Apologetics</topic>
+    <temporal>18th century</temporal>
+  </subject>
+  <classification authority="lcc">BR120</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">EYW</recordContentSource>
+    <recordCreationDate encoding="marc">891108</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030324121759.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm20613945</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

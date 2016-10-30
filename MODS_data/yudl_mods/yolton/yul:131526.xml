@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Considerations philosophiques de la gradation naturelle des formes de l'etre, ou Les essais de la nature qui apprend a faire l'h</title>
+    <subTitle>ou Les essais de la nature qui apprend a faire l'homme</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Robinet, J. B. (Jean Baptiste)</namePart>
+    <namePart type="date">1735-1820</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">France</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>C. Saillant</publisher>
+    <dateIssued>1768</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>260 p. : 10 plates 20 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par J.B. Robinet.</note>
+  <note>Published also with title: Vue philosophique de la gradation naturelle des formes de l'être, ou Les essais ... Amsterdam, E. van Harrevelt, 1768.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Evolution</topic>
+    <genre>Early works to 1800</genre>
+    <topic>Philosophical anthropology</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <genre>Early works to 1800</genre>
+  </subject>
+  <classification authority="lcc">BD450</classification>
+  <identifier type="lccn">31001928</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC/ICU</recordContentSource>
+    <recordCreationDate encoding="marc">870713</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030626112707.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm10688607</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.93 2014/01/31)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

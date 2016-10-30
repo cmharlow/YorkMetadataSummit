@@ -1,0 +1,60 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC06933</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/4658</identifier>
+  <location>
+    <physicalLocation>1974-002 / 457</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>CNE : Sports</title>
+  </titleInfo>
+  <abstract>Image of three men and six women waterskiing in a pyramid formation as part of the CNE Aquarama show (Ontario Place under construction in background).</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Richard Cole</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2010-08-24</dateCreated>
+    <dateIssued>1970-08-29</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : col. negative ; 35mm</extent>
+  </physicalDescription>
+  <note>One neg (#5A-6) scanned out of 37 images in file.</note>
+  <note type="ownership">See also ASC06925, ASC06926, ASC06927, ASC06928, ASC06929, ASC06930, ASC06931, ASC06932, ASC06934, ASC06935, ASC06936</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Canadian National Exhibition</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

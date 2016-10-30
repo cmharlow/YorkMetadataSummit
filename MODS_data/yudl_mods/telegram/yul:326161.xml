@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC19930</identifier>
+  <location>
+    <physicalLocation>1974-002 / 252</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Bleeker Street</title>
+  </titleInfo>
+  <abstract>Image consists of young girl in white dress posing beside a young boy in a plaid shirt leaning out of window. Both are looking off-frame.&#13;
+The house number 139 is visible.&#13;
+Some graffiti is visible on the house number: "John a Goof" and "May Goof you p.w."</abstract>
+  <targetAudience>Digital Humanities and Social Change class</targetAudience>
+  <name>
+    <namePart>Brian Willer</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>29 June 1970</dateOther>
+    <dateIssued>1970-10-05</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photographic negative : b&amp;w ; 35 mm.</extent>
+  </physicalDescription>
+  <note>1 negative (#14-14A) scanned out of 12 in assignment.</note>
+  <note type="ownership">ASC19927, ASC19928, ASC19929</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>York</region>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

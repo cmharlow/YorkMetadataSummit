@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Essai analytique sur les facultés de l'ame</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Bonnet, Charles</namePart>
+    <namePart type="date">1720-1793</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">dk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">A Copenhague</placeTerm>
+    </place>
+    <publisher>Chez le freres Cl. &amp; Ant. Philibert</publisher>
+    <dateIssued>1760</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">microfiche</form>
+    <form authority="marccategory">microform</form>
+    <form authority="marcsmd">microfiche</form>
+    <extent>[8], xxxii, 552, [1] p. ; 27 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par Charles Bonnet.</note>
+  <note>First edition.</note>
+  <note>Title vignette; head-piece.</note>
+  <note>Errata: p. [1] at end.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject authority="lcsh">
+    <topic>Psychology</topic>
+    <genre>Early works to 1850</genre>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Denmark</country>
+      <city>Copenhagen</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">BF</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">OKU</recordContentSource>
+    <recordCreationDate encoding="marc">940210</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20021202111953.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm29779992</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,79 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC06954</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/4677</identifier>
+  <location>
+    <physicalLocation>1974-001 / 354 (2347)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Labour Day and parade pictures</title>
+  </titleInfo>
+  <abstract>Image of the 48th Highlanders of Canada Pipe Band marching in front of the Plumbers&apos; Union in the Labour Day Parade just before entering the 1910 Dufferin Gate of the CNE.</abstract>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>[Albert] Van</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2010-08-26</dateCreated>
+    <dateOther>[01] September 1958</dateOther>
+    <dateIssued>1958-09-05</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w ; 23.9 x 19.3 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <note type="ownership">See also ASC06958, ASC06960</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Canadian National Exhibition</topic>
+    <topic>Toronto Telegram</topic>
+    <topic>48th Highlanders of Canada Pipe Band</topic>
+    <topic>Labour Day Parade</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Dufferin Gate</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.634268, -79.425547</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+  <name>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+</mods>

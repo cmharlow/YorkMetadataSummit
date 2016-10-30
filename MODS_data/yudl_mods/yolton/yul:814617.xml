@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Theologie physique : ou, Demonstration de l'existence et des attributs de Dieu : tirée des oeuvres de la Création : accompagnée d'un grand nombre de remarques &amp; d'observations curieuses</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Demonstration de l'existence et des attributs de Dieu</title>
+  </titleInfo>
+  <titleInfo type="uniform" nameTitleGroup="1">
+    <title>Physico-theology. French</title>
+  </titleInfo>
+  <name type="personal" usage="primary" nameTitleGroup="1">
+    <namePart>Derham, W. (William)</namePart>
+    <namePart type="date">1657-1735</namePart>
+  </name>
+  <name type="personal">
+    <namePart>König, Amand</namePart>
+    <role>
+      <roleTerm type="text">publisher</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ne</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">A Leide</placeTerm>
+    </place>
+    <publisher>Chez S. et J. Luchtmans</publisher>
+    <dateIssued>1769</dateIssued>
+    <edition>Nouvelle ed., Seconde partie</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>[16], 24, 627, [13] p., 1 folded leaf of plates : ill. (folded) ; 23 cm. (8vo)</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par Guillaume Derham.</note>
+  <note>"Traduit de l'Anglois" -t.p.</note>
+  <note>Translation of: Physico-theology, or, A demonstration of the being and attributes of God.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Natural theology</topic>
+    <genre>Early works to 1800</genre>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Netherlands</country>
+      <city>Leiden</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Natural history</topic>
+    <topic>Pre-Linnean works</topic>
+    <genre>Early works to 1800</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>God</topic>
+    <topic>Attributes</topic>
+    <genre>Early works to 1800</genre>
+  </subject>
+  <subject>
+    <hierarchicalGeographic>
+      <country>Germany</country>
+      <city>Strasbourg</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">BL180 .D414 1769</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>dcrb</descriptionStandard>
+    <recordContentSource authority="marcorg">MUS</recordContentSource>
+    <recordCreationDate encoding="marc">020426</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030108115339.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm49675173</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

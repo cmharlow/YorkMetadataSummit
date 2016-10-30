@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC32100</identifier>
+  <location>
+    <physicalLocation>1974-002 / 010</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Armistice Day : Sunnybrook Hospital [Not Used]</title>
+  </titleInfo>
+  <note type="titleSrc">[Not Used]</note>
+  <abstract>Image consists of an elderly soldier and two teen boys with a wreath walking in front of a row of soldiers bearing flags while being photographed and watched by a crowd of uniformed persons with wreaths.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Jim Kennedy</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2013-08-21</dateCreated>
+    <dateOther>11 November 1970</dateOther>
+    <dateIssued>1970-11</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>5 photographs : b&amp;w negatives ; 35 mm + 1 envelope : 14.2 x 11 cm</extent>
+  </physicalDescription>
+  <note>One negative (10-10A) scanned out of 5 in assignment</note>
+  <note type="ownership">ASC32097</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Armistice Day</topic>
+    <topic>Remembrance Day</topic>
+    <topic>Sunnybrook Hospital</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

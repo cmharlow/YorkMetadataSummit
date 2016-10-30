@@ -1,0 +1,196 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<identifier type="local">ASC36027</identifier>
+	
+    
+	<location>
+		
+      
+		<physicalLocation>1974-002 / 438</physicalLocation>
+		
+    
+	</location>
+	
+    
+	<titleInfo>
+		
+      
+		<title>Mrs. Charles Whalen, standing in profile by a window</title>
+		
+      
+		<note type="source of supplied title">Title based on content of image</note>
+		
+    
+	</titleInfo>
+	
+    
+	<note type="formsPartOfTIF">Whalen Charles Mrs. : Claustrophobia Victim</note>
+	
+    
+	<targetAudience>ASC Red Dot</targetAudience>
+	
+    
+	<name>
+		
+      
+		<namePart>David Davies</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name>
+		
+      
+		<namePart>Toronto Telegram</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<originInfo>
+		
+      
+		<dateOther>18 December 1970</dateOther>
+		
+      
+		<dateIssued>1971-02-02</dateIssued>
+		
+      
+		<publisher>Toronto Telegram</publisher>
+		
+      
+		<place>
+			
+        
+			<placeTerm type="text">Canada</placeTerm>
+			
+      
+		</place>
+		
+      
+		<place>
+			
+        
+			<placeTerm type="text">Toronto</placeTerm>
+			
+      
+		</place>
+		
+    
+	</originInfo>
+	
+    
+	<typeOfResource>still image</typeOfResource>
+	
+    
+	<genre authority="lctgm">Documentary Photography</genre>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		
+    
+	</language>
+	
+    
+	<physicalDescription>
+		
+      
+		<form>nonprojected graphic</form>
+		
+      
+		<extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+		
+    
+	</physicalDescription>
+	
+    
+	<note type="ownership">ASC36012</note>
+	
+    
+	<relatedItem>
+		
+      
+		<titleInfo>
+			
+        
+			<title>Toronto Telegram fonds, F0433</title>
+			
+      
+		</titleInfo>
+		
+      
+		<location>
+			
+        
+			<url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+			
+      
+		</location>
+		
+    
+	</relatedItem>
+	
+    
+	<subject>
+		
+      
+		<topic>Whalen, Mrs. Charles</topic>
+		
+      
+		<topic>Conditions, medical</topic>
+		
+      
+		<topic>Lighting, directional</topic>
+		
+      
+		<hierarchicalGeographic>
+			
+        
+			<continent>North America</continent>
+			
+        
+			<country>Canada</country>
+			
+        
+			<province>Ontario</province>
+			
+        
+			<city/>
+			
+        
+			<citySection/>
+			
+      
+		</hierarchicalGeographic>
+		
+    
+	</subject>
+	
+    
+	<accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+	
+  
+</mods>

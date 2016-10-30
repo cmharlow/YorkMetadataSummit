@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Bibliothèque britannique : ou Histoire des ouvrages des savans de la Grande-Bretagne (Volume 15)</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Histoire des ouvrages des savans de la Grande-Bretagne</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">periodical</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ne</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">La Haye</placeTerm>
+    </place>
+    <publisher>P. de Hondt</publisher>
+    <dateIssued>1733-1747</dateIssued>
+    <dateIssued encoding="marc" point="start">1733</dateIssued>
+    <dateIssued encoding="marc" point="end">1747</dateIssued>
+    <issuance>serial</issuance>
+    <frequency>Quarterly</frequency>
+    <frequency authority="marcfrequency">Quarterly</frequency>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>25 vol.</extent>
+  </physicalDescription>
+  <note type="date/sequential designation">T. 1 (1733)-t. 25 (1747).</note>
+  <note>Each vol. comprised of 2 pts.</note>
+  <note>Edited by P. Desmaizeaux, Bernard and others.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <note type="numbering">2 v. a year</note>
+  <note>T. 1-24 in t. 25.</note>
+  <subject authority="lcsh">
+    <topic>Science</topic>
+    <geographic>Great Britain</geographic>
+    <genre>Periodicals</genre>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Netherlands</country>
+      <city>La Haye</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Literature</topic>
+    <genre>Periodicals</genre>
+  </subject>
+  <classification authority="lcc">Q111</classification>
+  <relatedItem type="succeeding">
+    <titleInfo>
+      <title>Journal britannique</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">B2Q</recordContentSource>
+    <recordCreationDate encoding="marc">891219</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030702104424.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm49146640</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

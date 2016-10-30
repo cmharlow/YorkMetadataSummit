@@ -1,0 +1,77 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC06908</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/4626</identifier>
+  <location>
+    <physicalLocation>1987-001 / 004 (219/258)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Archery contest at CNE</title>
+  </titleInfo>
+  <abstract>Image of five women taking part in the archery contest at the CNE left to right: Florence MacMillan, Moira Matthews, Julie Dewart, Mrs. Frank Hill and Olive H. Bescoe.</abstract>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>[Telegram staff]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2010-08-23</dateCreated>
+    <dateIssued>1931-09-02</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <dateOther>August - September 1931</dateOther>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w ; 18.4 x 11.2 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from the file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Canadian National Exhibition</topic>
+    <topic>Toronto Telegram</topic>
+    <topic>Archery</topic>
+    <topic>Bescoe, Olive H.</topic>
+    <topic>Dewart, Julie</topic>
+    <topic>Hill, Mrs. Frank</topic>
+    <topic>MacMillan, Florence</topic>
+    <topic>Matthews, Moira</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Canadian National Exhibition grounds</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.632337, -79.422544</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+  <name>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+</mods>

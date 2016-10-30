@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The vocabulary of philosophy, mental, moral, and metaphysical : with quotations and references ; for the use of students</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Fleming, William</namePart>
+    <namePart type="date">d. 1866</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Glasgow</placeTerm>
+    </place>
+    <publisher>R. Griffin and Company</publisher>
+    <dateIssued>1857</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>vi, 560 p. 18 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by William Fleming.</note>
+  <note>Includes index.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Philosophy</topic>
+    <genre>Dictionaries</genre>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">B41 .F6 1857</classification>
+  <classification authority="ddc">103</classification>
+  <identifier type="lccn">35036611</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">CSL</recordContentSource>
+    <recordCreationDate encoding="marc">971029</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030120152911.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm51429688</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

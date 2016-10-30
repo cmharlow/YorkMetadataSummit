@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC02702</identifier>
+  <identifier type="hdl"/>
+  <location>
+    <physicalLocation>1974-002 / 102 (388)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Brazilian groups : Canadian Brazilian Society carnival ball</title>
+  </titleInfo>
+  <note type="titleSrc"/>
+  <abstract/>
+  <abstract>Image of woman [Anna Maria Marston] and man wearing masquerade costumes, holding hands and smiling at one another, standing near doorway in room with patterned tile floor.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Brian Willer</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2000-05-09</dateCreated>
+    <dateOther/>
+    <dateIssued>1971-02-08</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>1 negative (#5-5A) scanned from 3 in assignment</note>
+  <note>Box 2 CD 3B</note>
+  <note type="ownership"/>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject/>
+  <accessCondition type="useAndReproduction"/>
+</mods>

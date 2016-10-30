@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Essai philosophique concernant l'entendement humain : ou l'on montre quelle est l'etendue de nos connoissances certaines, et la maniere dont nous y parvenons</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Locke, John</namePart>
+    <namePart type="date">1632-1704</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Coste, Pierre</namePart>
+    <namePart type="date">1668-1747</namePart>
+    <role>
+      <roleTerm type="text">trans.</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Netherlands</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Amsterdam</placeTerm>
+    </place>
+    <publisher>Chez Pierre Mortier.</publisher>
+    <dateIssued>1735</dateIssued>
+    <edition>Troisiéme ed., revûë, corrigée, &amp; augmentée de quelques additions importantes de l'auteur qui n'ont paru qu'après sa mort, &amp; de quelques remarques du traducteur.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xlii, 601, [17] p., plate : port. ; 26 cm. (4to)</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par M. Locke. ; traduit de l'anglois par M. Coste.</note>
+  <note>A translation of "Essay concerning human understanding."</note>
+  <note>Title page printed in red and black.</note>
+  <note>Includes index.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Knowledge, Theory of</topic>
+    <genre>Early works to 1800</genre>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Netherlands</country>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">PR3541 .L57E7F 1742</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">WAU</recordContentSource>
+    <recordCreationDate encoding="marc">880205</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030414142116.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm17436966</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

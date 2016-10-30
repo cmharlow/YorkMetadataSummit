@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC34428</identifier>
+  <location>
+    <physicalLocation>1974-002 / 253</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Danforth Ave. : At Woodycrest crosswalk [not used]</title>
+    <subTitle>Danforth Ave. : At Woodycrest [Ave.] crosswalk [not used]</subTitle>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <note type="formsPartOfPDF">Toronto Telegram photographic negatives, S00054</note>
+  <abstract>File consists of  front and back of negative envelope, and one contact sheet. Assignment: Danforth Ave. : At Woodycrest crosswalk [not used]</abstract>
+  <targetAudience>HIST4840 - GCHP | ASC</targetAudience>
+  <name>
+    <namePart>Adams</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>29 January 1964</dateOther>
+    <dateIssued>1964-01</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>3 photographs : b&amp;w negative ; 35 mm + 1 envelope : 14.2  x 11 cm</extent>
+  </physicalDescription>
+  <note>ASC34428</note>
+  <note type="ownership">ASC34428</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Danforth Ave.</topic>
+    <topic>Woodycrest Ave.</topic>
+    <topic>Bruno's Schools of Hair Design</topic>
+    <topic>Darrigo's Market</topic>
+    <topic>Metropolitan Toronto Police</topic>
+    <topic>Toronto Transit Commission</topic>
+    <topic>Riverdale Garage</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Danforth Ave. &amp; Woodycrest Ave.</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.679566, -79.341751</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

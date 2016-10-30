@@ -1,0 +1,60 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC08790</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/26060</identifier>
+  <location>
+    <physicalLocation>1974-001 / 210 (1557)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Ethnic Groups : Greeks</title>
+  </titleInfo>
+  <abstract>Image of four women posting with Greek War Relief Association collection boxes looking at a poster that reads &quot;Lest It Be Too Late! Help Greece Now.&quot; Photographic print has been painted over to obscrue the identities of three women.  Verso reads: &quot;In a final appeal to Toronto citizens for money to buy food for the gallant Greeks, over 2,000 taggers for the Greek War Relief Fund will be on Toronto streets to-morrow.  Here Miss Helen Corolis and Mrs. Mildred LePordevin, with their tag boxes are looking at the tage day poster with its poignant message, &quot;Lest it be too late - help Greece Now.&quot;</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>[Telegram staff]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2013-01-04</dateCreated>
+    <dateOther>25 June 1943</dateOther>
+    <dateIssued>1943-06-25</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;amp;w photoprint ; 16.5 x 21.5 cm.</extent>
+  </physicalDescription>
+  <note>One print scanned.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Greek Canadian History Project</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

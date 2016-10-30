@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC34506</identifier>
+  <location>
+    <physicalLocation>1974-002 / 255</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>819 Pape Ave. : Armed robbery [not used]</title>
+    <subTitle>819 Pape [Avenue] : Armed robbery [not used]</subTitle>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <note type="formsPartOfPDF">Toronto Telegram photographic negatives, S00054</note>
+  <abstract>File consists of front and back of negative envelope and one contact sheet. Assignment: 819 Pape Ave. : Armed robbery [not used]</abstract>
+  <targetAudience>HIST4840 - GCHP | GCHP</targetAudience>
+  <name>
+    <namePart>Bill Russell</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>15 November 1965</dateOther>
+    <dateIssued>1965-11</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>2 photographs : b&amp;w negative ; 5.6 x 5.6 cm + 1 envelope : 13.8 x 10.6 cm</extent>
+  </physicalDescription>
+  <note>ASC34506</note>
+  <note type="ownership">ASC34506</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Greek Canadian History Project</topic>
+    <topic>Greek diaspora</topic>
+    <topic>Newfoundland Market</topic>
+    <topic>Crime</topic>
+    <topic>Robberies</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>819 Pape Avenue</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.68202, -79.34588</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

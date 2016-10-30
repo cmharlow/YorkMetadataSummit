@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC17036</identifier>
+  <location>
+    <physicalLocation>1974-001 / 164 (1129)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Dancing - pt. 1 (no ballet or square dancing)</title>
+  </titleInfo>
+  <abstract>Image consists of young couple dancing energetically in front of a small group of teens dancing.&#13;
+Print has been marked and painted for reproduction in the Toronto Telegram newspaper.&#13;
+Caption on reverse reads: &#13;
+"No, this group hasn't suddenly developed a violent itch...they're doing the latest dance craze, the Twist.  The youngsters slink, slide and shake along the dance floor as they compete in an Amateur Twist Contest.  Winners were Fay Bell, 16, and her brother, Earl, 17, in foreground.  Experts say the dance should look as though you're wiping your body with a towel and putting out a cigarette with your foot at the same time."</abstract>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>Sale</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-02-19</dateCreated>
+    <dateOther>25 November 1961</dateOther>
+    <dateIssued>1961-11-25</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w photoprint ; 26 x 21 cm.</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <note type="ownership">ASC17033, ASC17034, ASC17035</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Dance</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.704322,-79.410034</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

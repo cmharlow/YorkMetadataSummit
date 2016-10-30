@@ -1,0 +1,48 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Recherches philosophiques, sur la nécessité de s&apos;assurer par soi-meme de la verite : sur la certitude de nos connoissances; et sur la nature des etres</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Saint-Hyacinthe, Thémiseul de</namePart>
+    <namePart type="date">1684-1746</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">ne</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Rotterdam</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">La Haye</placeTerm>
+    </place>
+    <publisher>Chez Alex Johnson</publisher>
+    <dateIssued>1743</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>1 p. l., [16], 514, [10] p. : ill. 20 cm.</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">par un membre de la Societé royale de Londres.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Knowledge, Theory of</topic>
+  </subject>
+  <classification authority="lcc">BD 171 .S14</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">EYM</recordContentSource>
+    <recordCreationDate encoding="marc">890926</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20040129140838.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm23639549</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

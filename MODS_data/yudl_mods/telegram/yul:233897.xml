@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC08809</identifier>
+  <identifier type="hdl"/>
+  <physicalLocation>1974-001 / 210 (1557)</physicalLocation>
+  <titleInfo>
+    <title>Ethnic Groups : Greeks</title>
+  </titleInfo>
+  <note type="titleSrc"/>
+  <abstract>Image of official in suit posing with young woman on stair in highland dancer costume with young man in fustanella costume standing with arm on stair case bannister. Photographer instructions read: "Place: O'Keefe Centre. Event: "Nationbuilders" show for CNE at Grandstand Labor Day. Gen. Info: See attached sheets and story. PS there were very few performers at this event so there was not much variety to choose from. Mad. Pic Shows: Mark Kardasiewicz of the Stanislas Groupﾅwatch Linda Hay as she poses in the Fling with Mr. John FisherﾅCentennial Commissioner."</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart/>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated/>
+    <dateOther/>
+    <dateIssued/>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+  </physicalDescription>
+  <note>One print scanned.</note>
+  <note type="ownership"/>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Greek Canadian History Project</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ASCproj@yorku.ca</accessCondition>
+</mods>

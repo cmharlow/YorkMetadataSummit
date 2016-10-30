@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC34081</identifier>
+  <location>
+    <physicalLocation>1974-002 / 295</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Students Dolores Renzett and Marilyn Lane check out the University of Toronto sporting calendar.</title>
+    <note displayLabel="source of supplied title">Title based on content of image and print sources</note>
+  </titleInfo>
+  <note type="formsPartOfTIF">York University</note>
+  <targetAudience>A. Ozog, YorkU-Admissions-Recruitment</targetAudience>
+  <name>
+    <namePart>[Pete] Ward</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>19 September [1961]</dateOther>
+    <dateIssued>1961-09-20</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative; 35 mm</extent>
+  </physicalDescription>
+  <note>One negative (#13) scanned out of 26 in assignment.</note>
+  <note type="ownership">ASC34070</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>University of Toronto</topic>
+    <topic>York University</topic>
+    <topic>Renzett, Dolores</topic>
+    <topic>Lane, Marilyn</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

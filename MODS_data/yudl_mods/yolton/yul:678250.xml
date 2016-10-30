@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Herrn Johann Lockens Gedanken von Erziehung der Kinder</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Gedancken von Erziechung der Kinder</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Locke, John</namePart>
+    <namePart type="date">1632-1704</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Coste, Pierre</namePart>
+    <namePart type="date">1688-1747</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">gw</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Leipzig</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Wien</placeTerm>
+    </place>
+    <publisher>Johann Paul Krauss</publisher>
+    <dateIssued>1761</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">microfilm</form>
+    <extent>lxii, 404 p. ; 19 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">von neuem aus dem Englischen übersetzet, gegen des Herrn Costens französische Uebersetzung, nach der neuesten pariser Ausgabe von 1747, verglichen, und mit dessen Anmerkungen begleitet.</note>
+  <note>Translation of: Some thoughts concerning education / John Locke.</note>
+  <note>New German translation from the 1722 English ed., with biography and additions from the French.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Locke, John</namePart>
+      <namePart type="date">1632-1704</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Education</topic>
+    <genre>Early works to 1800</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Philosophers</topic>
+    <geographic>Great Britain</geographic>
+    <genre>Biography</genre>
+  </subject>
+  <classification authority="lcc">LB235</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">NDD</recordContentSource>
+    <recordCreationDate encoding="marc">970805</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030730104730.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm37423462</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC17006</identifier>
+  <location>
+    <physicalLocation>1974-001 / 575 (3749)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Snow Storms : Toronto January 24, 1966</title>
+  </titleInfo>
+  <abstract>Image consists of three boys on toboggans at the top of a hill, each accompanied by a dog seated at the front of their sled. Buildings are visible in background.  Annotations on reverse include: "Alex Negy, 14, Louie Negy, 12, Burnett Park in Willowdale".</abstract>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>Browne</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>1966-01-31</dateCreated>
+    <dateOther>31 January 1966</dateOther>
+    <dateIssued>1966-01-31</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w photoprint ; 25.4 x 20.3 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Burnett Park</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.75972,-79.433581</coordinates>
+    </cartographics>
+    <topic>Weather</topic>
+    <topic>Children</topic>
+    <topic>Animals</topic>
+    <topic>Dogs</topic>
+    <topic>Toboggan</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

@@ -1,0 +1,63 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC11460</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/9099</identifier>
+  <location>
+    <physicalLocation>1974-002 / 083</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Footes Bay, Ont. : Aerial of area in which kidnap victim Mrs. H. Nelles was found</title>
+  </titleInfo>
+  <abstract>Image of an aerial view of a lake and woods near Foot&apos;s Bay, Ontario, stretching off to the horizon. A highway and some houses can be seen.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Jac Holland</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2011-05-17</dateCreated>
+    <dateOther>10 September 1969</dateOther>
+    <dateIssued>1969-09-10</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>One negative (15-15A) scanned out of 12 in assignment.</note>
+  <note type="ownership">ASC11449</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Ontario</topic>
+    <topic>Crimes</topic>
+    <topic>Kidnappings</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

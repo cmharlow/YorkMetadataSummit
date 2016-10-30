@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Abbrégé de l'Essay de Monsieur Locke sur l'entendement humain</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Locke, John</namePart>
+    <namePart type="date">1632-1704</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Bosset, J. P.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Wynne, John</namePart>
+    <namePart type="date">1667-1743</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">sw</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">A Upsal</placeTerm>
+    </place>
+    <publisher>Aux dépens de Jean Fr. Edman.</publisher>
+    <dateIssued>[1792]</dateIssued>
+    <dateIssued encoding="marc">1792</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>x, 284, [4] p. ; 18 cm. (8vo)</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">traduit de l'anglois par Mr. Posset [i.e. Bosset].</note>
+  <note>A translation, by J.-P. Bosset, of John Wynne's abridgement of Locke's Essay concerning human understanding.</note>
+  <note>Place and date from colophon: A Upsal, chez la veuve du direc. Jean Edman. MDCCXCII.</note>
+  <note>YOLTON 448, and 449 have "Bosset" printed correctly on the t.p.</note>
+  <note>Signatures: pi1 A-S T.</note>
+  <note>Engraved title ill. (port. of Locke); woodcut head-pieces and tail-pieces.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Knowledge, Theory of</topic>
+    <genre>Early works to 1800</genre>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Sweden</country>
+      <city>A Upsal</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject>
+    <hierarchicalGeographic>
+      <country>Sweden</country>
+      <city>Uppsala</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">PR3541.L57 E75wF 1792</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>dcrb</descriptionStandard>
+    <recordContentSource authority="marcorg">CLU</recordContentSource>
+    <recordCreationDate encoding="marc">030121</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030606153935.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm51492577</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

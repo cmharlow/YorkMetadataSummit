@@ -1,0 +1,60 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC08813</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/26063</identifier>
+  <location>
+    <physicalLocation>1974-002 / 209 (1556)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Ethnic Groups : Greeks</title>
+  </titleInfo>
+  <abstract>Image of three men smiling and applauding, most likely Pro-Constantine Greeks attending a dinner at the Granit Club at the Westbury Hotel. Verso reads: &quot;Pro-Constantine Greeks attending the dinner at the Granite club screamed at the picketers across the street as they left the dinner.  Here are 2 of them raising spread-fingered hands in the worst of all Greek curses, which means, literally, &quot;may you burn in hell forever&quot;.  This sign was translated for [reporter] John Gault by a Greek.&quot;</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>McFadden</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2013-01-04</dateCreated>
+    <dateOther>1 September 1967</dateOther>
+    <dateIssued>1967-09-05</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;amp;w photoprint ; 25 x 20.5 cm</extent>
+  </physicalDescription>
+  <note>One print scanned.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Greek Canadian History Project</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

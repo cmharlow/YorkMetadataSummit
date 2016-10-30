@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Songes philosophiques</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Argens, Jean-Baptiste de Boyer</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Germany</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Berlin</placeTerm>
+    </place>
+    <dateIssued>1746</dateIssued>
+    <dateIssued encoding="marc">1746</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>216 p. ; 16 cm. (8vo)</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par l'auteur des Lettres juives.</note>
+  <note>"Suivant la copie originale."</note>
+  <note>Ornamental device on t.p.; head-piece, tail-piece, initial.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <classification authority="lcc">PQ1954.A54 S663 1746</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">RBN</recordContentSource>
+    <recordCreationDate encoding="marc">870602</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20021128112420.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm16408182</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.86 2013/06/10)</recordOrigin>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Germany</country>
+      <city>Berlin</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

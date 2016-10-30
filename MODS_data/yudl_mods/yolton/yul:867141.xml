@@ -1,0 +1,73 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Oeuvres philosophiques latines &amp; françoises de feu Mr. de Leibnitz</title>
+  </titleInfo>
+  <titleInfo nameTitleGroup="1" type="uniform">
+    <title>Selections. 1765</title>
+  </titleInfo>
+  <name nameTitleGroup="1" type="personal" usage="primary">
+    <namePart>Leibniz, Gottfried Wilhelm</namePart>
+    <namePart type="termsOfAddress">Freiherr von</namePart>
+    <namePart type="date">1646-1716</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Raspe, Rudolf Erich</namePart>
+    <namePart type="date">1737-1794</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Kaestner, Abraham Gotthelf</namePart>
+    <namePart type="date">1719-1800</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">ne</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Amsterdam</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Leipzig</placeTerm>
+    </place>
+    <publisher>Chez Jean Schreuder</publisher>
+    <dateIssued>1765</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>[4], XVI, [4], 540, [16] p. ; 28 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Nouveaux essais sur l&apos;entendement humain. Examen du sentiment du P. Malebranche que nous voyons tout en Dieu. Dialogus de connexione inter res &amp; verba. Difficultates quaedam logicae. Discours touchant la methode de la certitude &amp; de l&apos;art d&apos;inventer. Historia &amp; commendatio charactericae universalis quae simul sit ars inveniendi.</tableOfContents>
+  <note altRepGroup="00" type="statement of responsibility">tirées de ses manuscrits qui se conservent dans la bibliotheque royale a Hanovre, et publiées par Mr. Rud. Eric Raspe. ; avec une préface de Mr. Kaestner.</note>
+  <note>Title page in red and black.</note>
+  <note>Half title: Oeuvres philosophiques de feu Mr. de Leibnitz.</note>
+  <note>Colophon: A Hannovre, par Jerôme Michel Pockwitz, MDCCLXIV. [1764].</note>
+  <note>Includes index.</note>
+  <note>Errata: p. [4] of 3rd group.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <classification authority="lcc">B2553</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">RBN</recordContentSource>
+    <recordCreationDate encoding="marc">860327</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030324121041.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm13531481</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Netherlands</country>
+      <city>Amsterdam</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

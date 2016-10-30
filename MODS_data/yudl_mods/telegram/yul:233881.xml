@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC08783</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/24356</identifier>
+  <physicalLocation>1974-001 / 210 (1557)</physicalLocation>
+  <titleInfo>
+    <title>Ethnic Groups : Greeks</title>
+  </titleInfo>
+  <abstract>Image of crowd of men and women outside Massey Hall. Attached caption reads: "More than 2,000 members of Toronto's Greek community turned out at Massey Hall yesterday to celebrate the 141st anniversary of Greece's independence.  Ane Mayor Nate Phillips told them that in doiing so they were becoming better Canadians. Said the Mayor: "It is very good to live in a free country where every ethnic grood can live in freedom practising its own religion and keeping up its own traditions.  "I Think it is wonderful because Greece has given the world a culture in language and art that has endured for thousands of centuries and will continue to endure as long as the world endures." By practising their traditions in Toronto, the mayor said, Toronto's Greeks make the city more cosmopolitan and at the same time exercise their right to freeddom, which makes them better Canadians.  The independence celebrations included a program of Greek National Dancing and singing."</abstract>
+  <targetAudience>GCHP</targetAudience>
+  <name>
+    <namePart>[Hugh] Winsor</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2013-01-04</dateCreated>
+    <dateOther>[March 1962]</dateOther>
+    <dateIssued>1962-04-02</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w photoprint ; 20.5 x 25 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Greek Canadian History Project</topic>
+    <topic>Toronto Telegram</topic>
+    <topic>Greek diaspora</topic>
+    <topic>Massey Hall</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>178 Victoria Street</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.653853, -79.378804</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+  <location>
+    <physicalLocation>1974-001 / 210 (1557)</physicalLocation>
+  </location>
+  <note type="with">Folder 1 of 2</note>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+</mods>

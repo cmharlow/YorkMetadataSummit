@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC27443</identifier>
+  <location>
+    <physicalLocation>1974-002 / 083</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Saigon : Refugees Near Tan Son Nhat Airport</title>
+    <subTitle>Saigon [Ho Chi Minh City, Vietnam] : Refugees Near Tan Son Nhat Airport</subTitle>
+  </titleInfo>
+  <abstract>Image of a large Red Cross vehicle. In the background are several small groups of people, other large vehicles, and low buildings.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Fred Nossal</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2012-12-19</dateCreated>
+    <dateOther>February 1968</dateOther>
+    <dateIssued>1968-02</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>One negative (14A) scanned out of 20 in assignment.</note>
+  <note type="ownership">ASC27430</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Vietnam War</topic>
+    <topic>Ho Chi Minh City</topic>
+    <topic>Saigon</topic>
+    <topic>Tan Son Nhat Airport</topic>
+    <topic>refugees</topic>
+    <topic>Vietnam</topic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Vietnam</country>
+      <region>Ho Chi Minh City</region>
+      <city>Ho Chi Minh City Metropolitan Area</city>
+      <citySection>Tan Binh District</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>10.818889, 106.651944</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

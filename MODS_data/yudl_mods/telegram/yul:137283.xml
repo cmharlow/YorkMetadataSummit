@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC17035</identifier>
+  <location>
+    <physicalLocation>1974-001 / 164 (1129)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Dancing - pt. 1 (no ballet or square dancing)</title>
+  </titleInfo>
+  <abstract>Image consists of portrait of a young woman and man holding trophies. Two young men and a young woman are visible smiling in the background.&#13;
+Captions on reverse reads: "Winners of the energetic dance are Fay and Earl.  They won a free week end in New York City, a sports jacket, $25 and an evening at a club for dinner after the contest." &#13;
+Print has been marked up and painted for reproduction in the Toronto Telegram.&#13;
+Associated photographs identify location as 390 Eglinton Avenue West.</abstract>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>Sale</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-02-19</dateCreated>
+    <dateOther>25 November 1961</dateOther>
+    <dateIssued>1961-11-25</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w photoprint ; 20.5 x 25.6 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <note type="ownership">ASC17033, ASC17034, ASC17036</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Dance</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.704297,-79.410114</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

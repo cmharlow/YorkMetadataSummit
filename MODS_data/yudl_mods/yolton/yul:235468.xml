@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>A paraphrase and notes on the Epistles of St. Paul to the Galatians, I &amp; II Corinthians, Romans, Ephesians : To which is prefix'd, an essay for the understanding of St. Paul's Epistles, by consulting St. Paul himself</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Locke, John</namePart>
+    <namePart type="date">1632-1704</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed by J.H. for Awnsham and John Churchill, at the Black Swan in Pater-noster-Row</publisher>
+    <dateIssued>1707</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>6 pts. in 1 v. 25 cm.</extent>
+  </physicalDescription>
+  <note>By John Locke.</note>
+  <note>Each part has special t.p. and separate paging. Galatians dated 1705; I &amp; II Corinthians, each 1706.</note>
+  <note>Text and paraphrase in parallel columns, notes below.</note>
+  <note>"Books printed for Awnsham and John Churchill, in Paternoster-Row": [2] p. at end of Galatians.</note>
+  <note>"Books written by Mr. John Lock": 1 l. at end of volume.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <titleInfo>
+      <title>Bible</title>
+      <partName>N.T. Epistles of Paul</partName>
+    </titleInfo>
+    <genre>Commentaries</genre>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <titleInfo>
+      <title>Bible</title>
+      <partName>N.T. Epistles of Paul</partName>
+    </titleInfo>
+    <topic>Paraphrases, English</topic>
+  </subject>
+  <classification authority="lcc">BS2649 .L635 1707</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">HRH</recordContentSource>
+    <recordCreationDate encoding="marc">980501</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030729145227.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm39050262</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

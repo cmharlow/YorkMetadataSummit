@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC34629</identifier>
+  <location>
+    <physicalLocation>1974-002 / 006</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>The gate joining two rinks at Alexandra Park, that killed Parks and Recreation employee, Robert McKay.</title>
+    <note displayLabel="source of supplied title">Title based on content of image</note>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <note type="formsPartOfTIF">Alexander Park: Gate at skating rink which killed workman [not used]</note>
+  <note type="formsPartOfPDF">Toronto Telegram photographic negatives, S00054</note>
+  <targetAudience>HIST4840 - PCHP</targetAudience>
+  <name>
+    <namePart>[Leo] Harrison</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>14 December 1966</dateOther>
+    <dateIssued>1966-12</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>One neg (#2A-3) scanned out of 8 images in the assignment [only 2 images in the envelope]</note>
+  <note type="ownership">ASC34628</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Portuguese Canadian History Project</topic>
+    <topic>Alexandra Park (Toronto, Ont.)</topic>
+    <topic>Department of Parks and Recreation (Toronto, Ont.)</topic>
+    <topic>McKay, Robert</topic>
+    <topic>Ministry of Labour (Ontario)</topic>
+    <topic>Accident</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Alexandra Park</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.651108, -79.405045</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

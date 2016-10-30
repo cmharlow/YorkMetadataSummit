@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Wisdom the first spring of action in the Deity</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Grove, Henry</namePart>
+    <namePart type="date">1684-1738</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed for James, John, and Paul Knapton at the Crown in Ludgate Street</publisher>
+    <dateIssued>1734</dateIssued>
+    <edition>2nd ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>1 p. l., iv, 110 p. 20 cm.</extent>
+  </physicalDescription>
+  <note>"A discourse, in which among other things, the absurdity of God's being acted by natural inclinations and of an unbounded liberty is shewn, the moral attributes of God are explain'd, the origin of evil is consider'd, the fundamental duties of natural religion are shewn to be reasonable and several things, advanc'd by some late authors, and others, relating to these subjects, are freely examin'd" -t.p.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>God</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">BT130 .G7</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">RCE</recordContentSource>
+    <recordCreationDate encoding="marc">850826</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030303135956.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm12426447</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

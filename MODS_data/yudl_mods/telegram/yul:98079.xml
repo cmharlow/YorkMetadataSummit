@@ -1,0 +1,64 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC09824</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/8422</identifier>
+  <location>
+    <physicalLocation>1974-002 / 018</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>National Trust Co. : Yonge at Fairlawn : Robbery</title>
+  </titleInfo>
+  <note type="titleSrc">National Trust [Company]</note>
+  <abstract>Image of man wearing hat and glasses seen from profile dusting small area of counter. Men are seen in conversation in background.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>[Leo] Harrison</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2011-04-19</dateCreated>
+    <dateOther>10 February 1965</dateOther>
+    <dateIssued>1965-02-09</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>One negative (6A-7) scanned out of 26 in assignment.</note>
+  <note type="ownership">ASC09812</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Banks</topic>
+    <topic>Crimes</topic>
+    <topic>Robberies</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>
