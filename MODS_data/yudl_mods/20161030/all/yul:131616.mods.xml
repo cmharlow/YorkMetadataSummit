@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC17005</identifier>
+  <location>
+    <physicalLocation>1974-001 / 575 (3748)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Snow Pics - 67 to --</title>
+  </titleInfo>
+  <abstract>Image of a group of five children on an improvised skating rink playing hockey. Related annotation reads: "It doesn't take a trip to the sunny south to bring winter happiness to youth.  All the boys, above, needed was a detour sign - a ready-made sled.  Even a discarded tire, below left, can be fun - if you can manage to hang on.  Venue doesn't matter, either. There's as much competition on the ice rink created by bulldozers at Hightway 401 near Morningside Ave., above left, as you'll find at Sapporo during the winter Olympics. Sun photos by Les Crosby and Alex Kalnins."</abstract>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>Les Crosby</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-02-12</dateCreated>
+    <dateOther>8 February 1972</dateOther>
+    <dateIssued>1972-02-08</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w photoprint ; 26.4 x 20.7 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <note type="ownership">ASC17003, ASC17004</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Winter</topic>
+    <topic>Children</topic>
+    <topic>Hockey</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

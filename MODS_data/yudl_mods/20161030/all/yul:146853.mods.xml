@@ -1,0 +1,53 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Rapport de la deuxi&#232;me convention des Missionaires agricoles tenue &#224; N.-D. d'Oka les 11, 12 et 13 aout 1896</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Missionaires agricoles</namePart>
+    <namePart>Convention.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Missionaires agricoles</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Sherbrooke, Qu&#233;bec</placeTerm>
+    </place>
+    <publisher>La Convention</publisher>
+    <dateIssued>[1895?-189- ou 19--]</dateIssued>
+    <dateIssued encoding="marc">1896</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>8 p.</extent>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Missionaires agricoles.</namePart>
+    </name>
+    <topic>Agriculturists</topic>
+    <geographic>Canada</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Sherbrooke</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">890712</recordCreationDate>
+    <recordIdentifier>afq2120</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

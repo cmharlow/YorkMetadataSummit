@@ -1,0 +1,48 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>Boer War : its causes, and its interest to Canadians with a glossary of Cape Dutch and Kafir terms</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Biggar, Emerson Bristol</namePart>
+    <namePart type="date">1853-1921</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montr&#233;al</placeTerm>
+    </place>
+    <publisher>Biggar, Samuel &amp; Co.</publisher>
+    <dateIssued>1899</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>38 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by E.B. Biggar.</note>
+  <subject authority="lcsh">
+    <topic>South African War, 1899-1902</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">810312</recordCreationDate>
+    <recordIdentifier>afq2856</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

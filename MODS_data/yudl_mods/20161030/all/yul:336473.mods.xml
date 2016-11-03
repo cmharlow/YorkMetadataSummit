@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter to Mrs. Stepler from Gordon Stepler, January 31st 1917</title>
+  </titleInfo>
+  <name type="personal">
+    <affiliation>Canadian Armed Forces</affiliation>
+    <namePart>Stepler, Gordon</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Stepler, Ethelwyn</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Letter</genre>
+  <originInfo>
+    <dateCreated>1917-01-31</dateCreated>
+    <place>
+      <placeTerm authority="marccountry">England</placeTerm>
+    </place>
+    <dateOther>31 January 1917</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a letter written by Gordon Stepler to his mother, Mrs. Ethelwyn Stepler.</abstract>
+  <identifier type="local">ASC19578</identifier>
+  <location>
+    <physicalLocation>1998-037 / 001 (05)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>2 leaves + envelope</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Dorothy Stepler fonds (F0170)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000170.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <region>South East</region>
+      <county>Surrey</county>
+      <city>Milford</city>
+      <citySection>Witley Camp</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>51.154,&#160;-0.675</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

@@ -1,0 +1,40 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Film-Makers - Dr. John Grierson</title>
+    <subTitle/>
+  </titleInfo>
+  <name type="personal">
+    <namePart type="given"/>
+    <namePart type="family"/>
+    <role>
+      <roleTerm authority="marcrelator" type="text"/>
+    </role>
+  </name>
+  <typeOfResource collection="yes">moving image</typeOfResource>
+  <genre authority="marcgt">videorecording</genre>
+  <abstract>Item consists of a four-sectioned filmed interview between Professor James Beveridge and Dr. John Grierson.&#13;
+&#13;
+Media today and tomorrow: Dr. Grierson talks about the past, present and future of media, nationalism, filmmaking and "education as the master medium". With Professor James Beveridge.&#13;
+In retrospect: Dr. Grierson, interviewed by Professor James Beveridge, tells how the National Film Board and the documentary film movement began. He discusses nationalism and the role of film and other media in this context.&#13;
+&#13;
+Catalogue record: https://www.library.yorku.ca/find/Record/3159055&#13;
+Call number DVD 0526</abstract>
+  <originInfo>
+    <publisher/>
+    <place>
+      <placeTerm type="text"/>
+    </place>
+    <dateIssued/>
+    <dateIssued point="start"/>
+    <dateIssued point="end"/>
+  </originInfo>
+  <subject>
+    <topic/>
+  </subject>
+  <subject>
+    <geographic/>
+  </subject>
+  <subject>
+    <temporal/>
+  </subject>
+</mods>

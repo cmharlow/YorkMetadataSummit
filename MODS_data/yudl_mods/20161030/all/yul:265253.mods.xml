@@ -1,0 +1,42 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Toronto</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <abstract>Image of a group of houses and buildings on a street. A wall of one of the buildings features a nationalist/republican mural with a chained hand holding a flower over a map of Ireland, heraldic shields, and a "Free Ireland" slogan. Another building features a mural that says "The fools the fools they have left us our Fenian dead and while Ireland holds these graves Ireland unfree shall never be at peace." A car, part of a truck, and a woman walking are also visible.</abstract>
+  <identifier type="local">ASC17755</identifier>
+  <location>
+    <physicalLocation>2004-030 / 008</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : colour print ; 14.7 x 10.1 cm</extent>
+  </physicalDescription>
+  <note>The title of this image is mislabelled, as the murals on the walls in it were actually found in Belfast, Northern Ireland.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Excalibur Publications Inc. fonds (F0502)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000502.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>mural</topic>
+    <topic>Irish Republican</topic>
+    <topic>nationalist</topic>
+    <geographic>Belfast</geographic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <region>Northern Ireland</region>
+      <county>County Antrim</county>
+      <city>Belfast</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>54.591871, -5.963515</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

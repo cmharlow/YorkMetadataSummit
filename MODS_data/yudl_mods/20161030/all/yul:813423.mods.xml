@@ -1,0 +1,55 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Theatre et musique modernes en Chine : avec une etude technique de la musique chinoise et transcriptions pour piano</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Gailhard, Andre</namePart>
+    <namePart type="date">1875-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>P. Geuthner</publisher>
+    <dateIssued>1926</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 p. L.,[vii]-xvi, 195 p. : ill., xvii. (incl. ports.)</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par Andre Gailhard. --</note>
+  <note>At head of title: George Soulie de Morant.</note>
+  <note type="bibliography">"Textes musicaux": p.121-184.</note>
+  <note type="bibliography">"Traduction complete de l'opera Taroe-ping chann": p.[55]-67.</note>
+  <note type="bibliography">"Bibliographie": p.185-187.</note>
+  <subject authority="lcsh">
+    <topic>Music</topic>
+    <geographic>China</geographic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Theater</topic>
+    <geographic>China</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Chinese drama</topic>
+    <topic>History and criticism</topic>
+  </subject>
+  <identifier type="lccn">28024553</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">820927</recordCreationDate>
+    <recordIdentifier>acu8093</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

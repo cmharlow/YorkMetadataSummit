@@ -1,0 +1,23 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Capital Markets and Sustainability: Investing in a Sustainable Future</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>National Round Table on the Environment and the Economy</namePart>
+    <role>Author</role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2007</dateCreated>
+    <publisher>NRTEE</publisher>
+  </originInfo>
+  <language>eng</language>
+  <abstract>This is  the final report of the NRTEE Capital Markets and Sustainability Task Force. The report is built around 3 themes: a) the need for regulatory efficiency of financial services &#8212;in particular, the need to remove barriers to capital flows ; (b) the need to  foster corporate investment in technology and efficiency ; and (c) the importance of enhanced disclosure and transparency on what is becoming recognized by legal, accounting, and regulatory authorities, as well as by the capital markets, as sources of novel risk, including social and environmental issues, to corporations and investors. Recommendations are made around all themes: for increased social and environmental transparency, they include changes to university level education (e.g. MBA) to accelerate the acceptance of the need for transparency and  corporate disclosure.</abstract>
+  <subject>
+    <topic>corporate disclosure</topic>
+    <topic>corporate environmental responsiblity</topic>
+    <topic>investment policy</topic>
+  </subject>
+  <accessCondition>&#169; This Work is protected by copyright and made available for personal or public non-commercial use and may be reproduced, in part or in whole, and by any means, and may be further distributed for non-commercial use, without charge or further permission. All users are required to indicate that the reproduction, whether in part or in whole, is a copy of a Work of the National Round Table on the Environment and the Economy (NRTEE). Reproduction, in whole or in part, of this Work for the purpose of commercial redistribution is strictly prohibited. Furthermore, no right to modify or alter in any manner the Work is hereby granted.</accessCondition>
+</mods>

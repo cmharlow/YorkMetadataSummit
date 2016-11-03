@@ -1,0 +1,45 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Works (Volume 2)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Emerson, Ralph Waldo</namePart>
+    <namePart type="date">1803-1882</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+    <publisher>Houghton, Mifflin</publisher>
+    <dateIssued>1883-98; v.14,1887]</dateIssued>
+    <dateIssued encoding="marc">1883</dateIssued>
+    <edition>Standard library ed. --</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>14 v. : ill., fronts.</extent>
+  </physicalDescription>
+  <tableOfContents>v.1. Nature, addresses, and lectures.- v.2 Essays.  First series.- v.3. Essays.  Second series.- v.4. Representative men, seven lectures.- v.5. English traits.-  v.6. The conduct of life.-  v.7. Society and solitude.-  v.8. Letters and social aims.-  v.9. Poems.-  v.10. Lectures and biographical sketches.-  v.11. Miscellanies.-  v.12. Natural history of intellect and other papers.-  v.13-14. Memoir by James Elliot Cabot.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">With a general index and a memoir by James Elliot cabot. --</note>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840113</recordCreationDate>
+    <recordIdentifier>a755057</recordIdentifier>
+    <recordIdentifier>adg0571</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Massachusetts</province>
+      <city>Boston</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

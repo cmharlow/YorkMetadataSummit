@@ -1,0 +1,44 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Gateway</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Beames, John B.</namePart>
+    <namePart type="date">1889-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>E. Benn</publisher>
+    <dateIssued>1932</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>253 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by John Beames. --</note>
+  <classification authority="lcc">PS8503.E138 G3</classification>
+  <recordInfo>
+    <recordCreationDate encoding="marc">810923</recordCreationDate>
+    <recordIdentifier>aal4484</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

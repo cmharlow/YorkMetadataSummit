@@ -1,0 +1,133 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>Climate Change and Canadian Unions: The Dilemma for Labour</title>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Lipsig-Mumm&#233;, Carla</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart> Lafleur, Donald</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart> Bickerton, Geoff</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<genre>working paper</genre>
+	
+    
+	<typeOfResource>text</typeOfResource>
+	
+    
+	<originInfo>
+		
+      
+		<dateCreated>2013</dateCreated>
+		
+    
+	</originInfo>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier type="local">WP_2013-02_Lispig-Mumm&#233;_Climate-Change-and-Canadian-Unions.pdf</identifier>
+	
+    
+	<abstract>In 2010, a group of Canadian trade unions, labour academics and environmental groups began a five year funded community-university research project, Work in a Warming World (W3), to develop effective ways for labour to take leadership in the struggle to slow global warming. We stated the problem this way: How can labour broaden and deepen its capacity to protect work and workers from the unique threats posed by climate change, all the while contributing to the struggle to slow global warming within the context of increasingly pessimistic climate science, global economic crisis, a hostile national government and strategic paralysis in the national and international political arena? In this 2013 paper, the authors explore the challenges and dilemmas for labour leadership in relation to environmental responsibility in the current political climate in Canada, drawing on W3 research and the unexpected uses that research can be put to, using the case of the Canadian Union of Postal workers in catalyzing and internationalising activist engagement for climate bargaining.</abstract>
+	
+    
+	<relatedItem type="host">
+		
+      
+		<part>
+			
+        
+			<date>journal" : </date>
+			
+        
+			<extent>15 p.</extent>
+			
+      
+		</part>
+		
+    
+	</relatedItem>
+	
+    
+	<subject>
+		
+      
+		<topic>Climate Change</topic>
+		
+      
+		<topic>Labour</topic>
+		
+    
+	</subject>
+	
+    
+	<identifier type="url">http://warming.apps01.yorku.ca/wp-content/uploads/WP_2013-02_Lipsig-Mumme_Lafleur_Bickerton_Climate-Change-Canadian-Unions.pdf</identifier>
+	
+    
+	<accessCondition type="useAndReproduction">All rights reserved</accessCondition>
+	
+  
+</mods>

@@ -1,0 +1,52 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Congr&#232;s international d'hygi&#232;ne de sauvetage et d'&#233;conomie sociale (2 of 2)</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>International Congress of Hygiene and Demography, Brussels, 1876.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">conference publication</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">France</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>G. Bailli&#232;re</publisher>
+    <dateIssued>1877</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v. : ill. (some fold.)</extent>
+  </physicalDescription>
+  <tableOfContents>v.1. S&#233;ances d'ouverture et de cl&#244;ture : Hygi&#232;ne.-  v.2. Sauvetage : &#233;conomie sociale.-</tableOfContents>
+  <note type="bibliography">Bibligraphy: v.1, p.[53]-68.</note>
+  <note type="bibliography">Includes indexes.</note>
+  <subject authority="lcsh">
+    <topic>Demography</topic>
+    <topic>Congresses</topic>
+    <topic>Public health</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">RA422 .I68 1876</classification>
+  <identifier type="lccn">13008856</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">741213</recordCreationDate>
+    <recordIdentifier>a20164</recordIdentifier>
+    <recordIdentifier>aac0763</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.93 2014/01/31)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

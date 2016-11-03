@@ -1,0 +1,53 @@
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <mods version="3.5">
+    <titleInfo>
+      <title>Sintaksis russkogo i&#865;azyka : s materialom dli&#865;a ustnykh i pis&#697;mennykh uprazhnenii&#774;. Po novoi&#774; orfografii / N. Gudkov</title>
+    </titleInfo>
+    <name type="personal" usage="primary">
+      <namePart>Gudkov, N.</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm authority="marccountry" type="code">lv</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Riga</placeTerm>
+      </place>
+      <publisher>Kn-vo N. Gudkova</publisher>
+      <dateIssued>[1925]</dateIssued>
+      <dateIssued encoding="marc">1925</dateIssued>
+      <edition>3. izd.</edition>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">rus</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>96 p. ; 23 cm.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+      <topic>Russian language</topic>
+      <topic>Syntax</topic>
+      <hierarchicalGeographic>
+        <continent>Europe</continent>
+        <country>Latvia</country>
+        <city>Riga</city>
+      </hierarchicalGeographic>
+    </subject>
+    <identifier type="oclc">64753936</identifier>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">COO</recordContentSource>
+      <recordCreationDate encoding="marc">891221</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20100311120421.0</recordChangeDate>
+      <recordIdentifier source="OCoLC">ocm64753936</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">lav</languageTerm>
+    </language>
+  </mods>
+</modsCollection>

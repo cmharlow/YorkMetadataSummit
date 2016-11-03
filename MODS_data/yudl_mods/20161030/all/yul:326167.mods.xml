@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC19931</identifier>
+  <location>
+    <physicalLocation>1974-002 / 252</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Bleeker Street Trees Protest</title>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <abstract>Image of front and back of negative assignment envelope, and one contact sheet. Assignment: Bleeker Street Trees Protest.&#13;
+Annotations also include: Bleeker St. protest re: Trees. 3 filed under pollution-smoke.</abstract>
+  <targetAudience>Digital Humanities and Social Change class</targetAudience>
+  <name>
+    <namePart>Jim Kennedy</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>16 April 1971</dateOther>
+    <dateIssued>1971-04-16</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>3 photographs : b&amp;w negatives ; 35 mm + 1 envelope : 14.2 x 11 cm.</extent>
+  </physicalDescription>
+  <note type="ownership">ASC19931</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <region>York</region>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

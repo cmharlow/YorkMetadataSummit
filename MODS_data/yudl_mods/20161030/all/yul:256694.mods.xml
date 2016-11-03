@@ -1,0 +1,72 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <mods:titleInfo>
+    <mods:title>Jean Augustine interview: Racist Toronto Sun button</mods:title>
+  </mods:titleInfo>
+  <mods:identifier>ASC17581</mods:identifier>
+  <mods:typeOfResource>moving image</mods:typeOfResource>
+  <mods:genre>Educational</mods:genre>
+  <mods:name type="corporate">
+    <mods:namePart>Instructional Technology Centre (ITC), UIT</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewee</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart>Jean Augustine</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewer</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart>Norda Majekodunmi</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewer</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateIssued>2014-04-24</mods:dateIssued>
+    <mods:publisher>Norda Majekodunmi</mods:publisher>
+    <mods:place>
+      <mods:placeTerm authority="marccountry">Canada</mods:placeTerm>
+    </mods:place>
+    <mods:place>
+      <mods:placeTerm type="text">Toronto</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Recording consists of an interview with Jean Augustine in which she discusses the Racist Toronto Sun button and the Black community's concern over the tone of the Toronto Sun newspaper articles in the 1980s.</mods:abstract>
+  <mods:physicalDescription>
+    <mods:form authority="marccategory">videorecording</mods:form>
+    <mods:extent>00:02:46</mods:extent>
+  </mods:physicalDescription>
+  <mods:note type="funding">This project was supported by a research grant issued by York University Libraries.</mods:note>
+  <mods:note type="transcription">And of course this was a big-- I think our memories have gone now past the recollections around the Toronto Sun, and the writers and all the people who are writing all kinds of things that were considered to be prejudicial, to be racist and to create or to have stories that created a lot of tension in the community. And so the Toronto Sun was always viewed as a racist paper. There are still a lot of people who don't read The Sun because of that past history. We know some of the people had gone, we know the Sun has had different editorial positions now, but there was a time when the Sun was really a cause of concern for people in not only the black community but people in the sidelines of society. It was in the 70s, the 80s. It was not so much the kinds of stories, it was really the tone of the stories, the descriptors that would be used-- like the words that would be used to describe individuals and also the hard line positions that were put forward in terms of race. So for example the story would be, you know, why should we have to do employment equity? There'd be all kinds of viewpoints around that, or in the case of the police shootings and the marches and things that were happening, how it was reported. Or in the instance of things that were happening in public housing, how that was reported versus how something was reported if it happened in another part of town. So there were lots of-- the Toronto Sun, people were writing, demonstrating, passing out buttons, doing all kinds of things.</mods:note>
+  <mods:relatedItem>
+    <mods:titleInfo>
+      <mods:title>Jean Augustine fonds (F0515)</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000515.htm</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:topic>Toronto Sun</mods:topic>
+    <mods:topic>Racism</mods:topic>
+    <mods:topic>Blacks</mods:topic>
+    <mods:topic>African Canadians in mass media</mods:topic>
+    <mods:topic>Newspapers</mods:topic>
+    <mods:geographic>Canada</mods:geographic>
+    <mods:geographic>Toronto</mods:geographic>
+    <mods:hierarchicalGeographic>
+      <mods:continent>North America</mods:continent>
+      <mods:country>Canada</mods:country>
+      <mods:city>Toronto</mods:city>
+    </mods:hierarchicalGeographic>
+    <mods:cartographics>
+      <mods:coordinates>43.773331100000000000,  -79.499138599999980000</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:accessCondition type="useAndReproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution" License (http://creativecommons.org/licenses/by/2.0/)</mods:accessCondition>
+</mods:mods>

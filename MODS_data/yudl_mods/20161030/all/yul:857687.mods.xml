@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Oeuvres po&#233;tiques compl&#232;tes de Shelley / traduites par F. Rabbe ; pr&#233;c&#233;d&#233;es d'une &#233;tude historique et critique sur la vie et les oeuvres de Shelley</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Shelley, Percy Bysshe</namePart>
+    <namePart type="date">1792-1822</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>E. Giraud</publisher>
+    <dateIssued>1885-1887</dateIssued>
+    <dateIssued encoding="marc" point="start">1885</dateIssued>
+    <dateIssued encoding="marc" point="end">1887</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>3 v.</extent>
+  </physicalDescription>
+  <note>1. Reine Mab. Alastor ou l'Esprit de la solitude.  Laon et Cythna.  Rosalinde et H&#233;l&#232;ne.  Vers &#233;crits au milieu des montagnes Eugan&#233;enes.  Julien et Maddalo.  Appendice. -  2. Les Cenci.  Prom&#233;th&#233;e d&#233;livr&#233;.  La magicienne de l'Atlas.  Epipsychidion.  Adonais.  Hellas. -  3. Petits po&#232;mes et fragments.  D&#233;fense de la po&#233;sie.</note>
+  <classification authority="lcc">PR5404.F5 R2</classification>
+  <identifier type="lccn">20003651</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">741119</recordCreationDate>
+    <recordIdentifier>a15034</recordIdentifier>
+    <recordIdentifier>aab5501</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

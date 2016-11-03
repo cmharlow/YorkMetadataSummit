@@ -1,0 +1,26 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Rethinking Canada&#8217;s Auto Industry: A Policy Vision to Escape the Race to the Bottom</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>CAW Canada</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2012</dateCreated>
+    <publisher>CAW</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <subject>
+    <topic>Labour union policies</topic>
+    <topic>Auto manufacturing Industry</topic>
+    <topic>Competitiveness</topic>
+  </subject>
+  <accessCondition>Reproduced with permission of Unifor</accessCondition>
+</mods>

@@ -1,0 +1,59 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Discours prononce a l'Assemblee legislative de la Province de Quebec a l'appui des resolutions Joly</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Choquette, P.-A. (Philippe Auguste)</namePart>
+    <namePart type="date">1854-1948</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Qu&#233;bec (Province)</namePart>
+    <namePart>L&#233;gislature.</namePart>
+    <namePart>Assembl&#233;e l&#233;gislative.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Quebec</placeTerm>
+    </place>
+    <publisher>Imprime par Levy &amp; Bouchard</publisher>
+    <dateIssued>1879</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>121 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par Joly [et al.] suivis de l'Expose financier de F. Langelier. --</note>
+  <subject authority="lcsh">
+    <topic>Lieutenant governors</topic>
+    <geographic>Quebec (Province)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Lieutenant governors</topic>
+    <geographic>Canada</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Qu&#233;bec (Province)</geographic>
+    <topic>Politics and government</topic>
+    <temporal>1867-1897</temporal>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">820723</recordCreationDate>
+    <recordIdentifier>ade7479</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

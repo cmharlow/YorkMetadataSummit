@@ -1,0 +1,50 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Heroes in history</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Binyon, Cicely Margaret Powell</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Sheila Thibodeau Lambrinos Collection - York University</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">government publication</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London, England</placeTerm>
+    </place>
+    <publisher>Oxford University Press</publisher>
+    <dateIssued>1917</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>144 p. : ill.</extent>
+  </physicalDescription>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Oxford history readers ; book two</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">090911</recordCreationDate>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

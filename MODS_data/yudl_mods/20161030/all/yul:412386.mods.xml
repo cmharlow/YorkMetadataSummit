@@ -1,0 +1,49 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Development of campus buildings : College "A" Residence [Founders College Residence] project no. 359 York University</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Ron S. Greaves Photography</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <originInfo>
+    <dateCreated>1965-11-14</dateCreated>
+    <dateOther>1965-11-14</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Image of Founders College residence.</abstract>
+  <identifier type="local">ASC04278</identifier>
+  <location>
+    <physicalLocation>1972-016 / 001 (15)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w photoprint ; 20 x 25 cm, mounted on linen</extent>
+  </physicalDescription>
+  <note>Contractor : Eastern Construction Co. Ltd.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>York University (Toronto, Ont.) Photograph collection (F0091)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000091.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Founders College</topic>
+    <topic>Buildings</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

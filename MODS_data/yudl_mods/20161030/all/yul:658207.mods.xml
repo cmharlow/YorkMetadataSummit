@@ -1,0 +1,55 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Gavarni, l'homme et l'oeuvre / par Edmond &amp; Jules de Goncourt</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Goncourt, Edmond de</namePart>
+    <namePart type="date">1822-1896</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Goncourt, Jules de</namePart>
+    <namePart type="date">1833-1870</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Bibliotheque-Charpentier</publisher>
+    <dateIssued>1912</dateIssued>
+    <dateIssued encoding="marc">1870</dateIssued>
+    <edition>Nouv. ed. -</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>viii, 481 p.</extent>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Gavarni, Paul</namePart>
+      <namePart type="date">1804-1866</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">NC1499.G4 G6</classification>
+  <identifier type="lccn">09000606</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">740807</recordCreationDate>
+    <recordIdentifier>aab2217</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

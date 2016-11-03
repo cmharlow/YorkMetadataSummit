@@ -1,0 +1,66 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Scopas et Praxit&#232;le : la sculpture grecque au IVe si&#232;cle jusqu'au temps d'Alexandre</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Collignon, Maxime</namePart>
+    <namePart type="date">1849-1917</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Plon-Nourrit</publisher>
+    <dateIssued>1907</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>173, [2] p., 24 leaves of plates : ill.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par Maxime Collignon</note>
+  <note type="bibliography">Bibliography: p. [159]-166.</note>
+  <note type="bibliography">Includes index.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Scopas</namePart>
+      <namePart type="date">fl. 4th century B.C</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Praxiteles</namePart>
+      <namePart type="date">4th century B.C</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sculpture, Greek</topic>
+  </subject>
+  <classification authority="lcc">NB104 .C6</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Les ma&#238;tres de l'art</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">34021605</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">760319</recordCreationDate>
+    <recordIdentifier>abq2233</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

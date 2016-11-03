@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Found with "Time" papers</title>
+  </titleInfo>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/29543057">
+    <namePart>Welby, Victoria, Lady</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+    <namePart type="termsOfAddress">Lady</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <abstract>File consists of a folder of manuscripts, essay drafts, notes, ephemera and marginalia by Victory Welby, associated with her work "Time".</abstract>
+  <identifier type="local">ASC17775</identifier>
+  <location>
+    <physicalLocation>1970-010 / 022 (01)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <extent>48 leaves</extent>
+    <form>text</form>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Lady Victoria Welby fonds (F0443)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000443.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Time</topic>
+    <topic>Philosophy</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">ASC17775</identifier>
+  <genre authority="marcgt">Correspondence</genre>
+  <note type="funding">Digitization made possible, in whole or in part, through a 2014 Librarians Research Grant.</note>
+  <accessCondition type="useAndReproduction">Digitized for access and research purposes only. For further copyright information contact: ascproj@yorku.ca.</accessCondition>
+</mods>

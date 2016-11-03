@@ -1,0 +1,45 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Geographie generale</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Miller, Emile</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Desrosiers, Adelard</namePart>
+    <namePart type="date">1873-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Beauceville</placeTerm>
+    </place>
+    <publisher>L'Eclaireur</publisher>
+    <dateIssued>1924</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>330 p. : ill., maps, ports.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Publiee d'apres les manuscrits de l'auteur par Adelard Desrosiers. --</note>
+  <subject authority="lcsh">
+    <topic>Geography</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Beauceville</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">800612</recordCreationDate>
+    <recordIdentifier>abx8053</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

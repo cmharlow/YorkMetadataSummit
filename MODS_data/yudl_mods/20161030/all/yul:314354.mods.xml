@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>&#4126;&#4100;&#4154;&#4153;&#4099;&#4103;&#4140;&#4102;&#4123;&#4140;&#4112;&#4145;&#4140;&#4154; &#4096;&#4125;&#4141;&#4116;&#4153;&#4114;&#4126;&#4125;&#4143;&#4115;&#4121;&#4105;&#4153;&#4103;&#4144;&#4126;&#4140;&#4096;&#4155;&#4121;&#4154;&#4152; [Treatise of Ancient Myanmar Proverbs]</title>
+  </titleInfo>
+  <titleInfo type="translated" lang="eng">
+    <title>[Treatise of Ancient Myanmar Proverbs]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#4126;&#4100;&#4154;&#4153;&#4099;&#4123;&#4140;&#4102;&#4123;&#4140;&#4112;&#4145;&#4140;&#4154; [Thingaza Sayadaw]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Proverbs</genre>
+  <originInfo>
+    <dateIssued>ca. 1890's</dateIssued>
+    <issuance>monographic</issuance>
+    <publisher>&#4129;&#4123;&#4140;&#4126;&#4112;&#4142; &#4101;&#4140;&#4117;&#4143;&#4150;&#4116;&#4158;&#4141;&#4117;&#4154;&#4112;&#4141;&#4143;&#4096;&#4154; [Ayeyarwady Press]</publisher>
+    <place>
+      <placeTerm type="text">Myanmar</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Yangon</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">Bur</languageTerm>
+  </language>
+  <identifier>BAB-B00074</identifier>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>192</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Pansodan Research Library</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Buddhism</topic>
+    <topic>Language</topic>
+    <topic>Proverbs</topic>
+    <topic>Thingaza Sayadaw</topic>
+    <geographic>Rangoon</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <city>Yangon</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

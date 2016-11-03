@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC17044</identifier>
+  <location>
+    <physicalLocation>1974-002 / 244</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Supremes. At the O'Keefe Centre</title>
+  </titleInfo>
+  <abstract>Image of The Supremes (Florence Ballard, Mary Wilson and Diana Ross) performing on stage at The O'Keefe Centre in Toronto.</abstract>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>McFadden</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-02-23</dateCreated>
+    <dateOther>20 June 1966</dateOther>
+    <dateIssued>1966-06-21</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>One neg (2) scanned from 26 in assignment</note>
+  <note type="ownership">ASC17045</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Old Toronto</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.647358, -79.375863</coordinates>
+    </cartographics>
+    <topic>Toronto Telegram</topic>
+    <topic>The Supremes</topic>
+    <topic>Ross, Diana, 1944-</topic>
+    <topic>Wilson, Mary, 1944-</topic>
+    <topic>Ballard, Florence, 1943-1976</topic>
+    <topic>O'Keefe Centre (Toronto, Ont.)</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

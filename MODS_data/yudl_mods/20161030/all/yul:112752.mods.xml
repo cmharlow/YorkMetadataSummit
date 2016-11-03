@@ -1,0 +1,147 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+  
+	<titleInfo>
+		
+    
+		<title>Lake Opinicon, Queen's University</title>
+		
+  
+	</titleInfo>
+	
+  
+	<name type="personal">
+		
+    
+		<namePart>Lou Wise</namePart>
+		
+    
+		<role>
+			
+      
+			<roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+			
+    
+		</role>
+		
+  
+	</name>
+	
+  
+	<typeOfResource>still image</typeOfResource>
+	
+  
+	<genre authority="lctgm">Photograph</genre>
+	
+  
+	<originInfo>
+		
+    
+		<dateCreated>2012-03-19</dateCreated>
+		
+    
+		<dateOther>1989-06-07</dateOther>
+		
+  
+	</originInfo>
+	
+  
+	<abstract>Oblique aerial view of Lake Opinicon, Queen's University</abstract>
+	
+  
+	<identifier type="hdl">http://hdl.handle.net/10315/16752</identifier>
+	
+  
+	<identifier type="local">ASC25989</identifier>
+	
+  
+  
+	<location>
+		
+    
+		<physicalLocation>2009-008 / 006 (12)</physicalLocation>
+		
+  
+	</location>
+	
+  
+	<physicalDescription>
+		
+    
+		<form authority="marcform">nonprojected graphic</form>
+		
+  
+	</physicalDescription>
+	
+  
+  
+	<note>One slide scanned out of 69 in file.</note>
+	
+  
+	<note>ASC25924</note>
+	
+  
+  
+  
+	<relatedItem>
+		
+    
+		<titleInfo>
+			
+      
+			<title>Lou Wise fonds, F0539</title>
+			
+    
+		</titleInfo>
+		
+    
+		<location>
+			
+      
+			<url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000539.htm</url>
+			
+    
+		</location>
+		
+  
+	</relatedItem>
+	
+  
+	<subject>
+		
+    
+		<topic>Aerial photographs</topic>
+		
+    
+		<topic>Air photos</topic>
+		
+    
+		<topic>Airphotos</topic>
+		
+    
+		<hierarchicalGeographic>
+			
+      
+			<continent>North America</continent>
+			
+      
+			<country>Canada</country>
+			
+      
+			<province>Ontario</province>
+			
+      
+      
+      
+    
+		</hierarchicalGeographic>
+		
+
+  
+	</subject>
+	
+  
+	<accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+	
+
+</mods>

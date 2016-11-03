@@ -1,0 +1,52 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Histoire des r&#233;volutions de l'esprit fran&#231;ais, de langue et de la litt&#233;rature fran&#231;aise au moyen-&#226;ge, ouvrage posthume</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Bancel, Fran&#231;ois D&#233;sir&#233;</namePart>
+    <namePart type="date">1822-1871</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fre</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>A. Claudin</publisher>
+    <dateIssued>1878</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxv, 296 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">de F.-D. Bancel ; avec pr&#233;face par Antony M&#233;ray. --</note>
+  <subject authority="lcsh">
+    <topic>French literature</topic>
+    <temporal>To 1500</temporal>
+    <topic>History and criticism</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>French language</topic>
+    <topic>History</topic>
+  </subject>
+  <classification authority="lcc">PQ151 .B35</classification>
+  <identifier type="lccn">17031191</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">751017</recordCreationDate>
+    <recordIdentifier>abp0563</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,49 @@
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods:titleInfo>
+    <mods:title>Academic Calendars - 2014-03-01</mods:title>
+  </mods:titleInfo>
+  <mods:name type="corporate">
+    <mods:namePart>York University Registrar's Office</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>mixed material</mods:typeOfResource>
+  <mods:genre authority="lctgm">Website</mods:genre>
+  <mods:originInfo>
+    <mods:dateCaptured>2014-03-01</mods:dateCaptured>
+    <mods:publisher>York University</mods:publisher>
+    <mods:place>
+      <mods:placeTerm authority="marccountry" type="code">Canada</mods:placeTerm>
+    </mods:place>
+    <mods:place>
+      <mods:placeTerm type="text">Toronto</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Bi-monthly crawl of York University Academic Calendars</mods:abstract>
+  <mods:identifier type="local">YU_Calendars_2014_03_01</mods:identifier>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Academic Calendars | York University</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>http://calendars.registrar.yorku.ca/</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:location>
+    <mods:url displayLabel="Active site">http://calendars.registrar.yorku.ca/</mods:url>
+    <mods:url displayLabel="Archived site">http://digital.library.yorku.ca/wayback/20140301/http://calendars.registrar.yorku.ca/</mods:url>
+  </mods:location>
+  <mods:physicalDescription>
+    <mods:form authority="marcform">electronic</mods:form>
+    <mods:internetMediaType>text/html</mods:internetMediaType>
+    <mods:internetMediaType>image/jpg</mods:internetMediaType>
+  </mods:physicalDescription>
+  <mods:subject>
+    <mods:topic>academic calendars</mods:topic>
+    <mods:topic>university calendars</mods:topic>
+  </mods:subject>
+</mods:mods>

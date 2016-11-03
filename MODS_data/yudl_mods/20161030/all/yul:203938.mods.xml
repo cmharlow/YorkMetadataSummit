@@ -1,0 +1,40 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Anne : a novel</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Woolson, Constance Fenimore</namePart>
+    <namePart type="date">1840-1894</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Harper</publisher>
+    <dateIssued>[c1882]</dateIssued>
+    <dateIssued encoding="marc">1882</dateIssued>
+    <issuance>monographic</issuance>
+    <place>
+      <placeTerm authority="marccountry">United States</placeTerm>
+    </place>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>540 p. : ill.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Illustrated by C.S. Reinhart. --</note>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840713</recordCreationDate>
+    <recordIdentifier>adl0882</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

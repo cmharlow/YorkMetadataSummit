@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Student Centre, 1984-1992</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Excalibur Publications Inc.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Graham Thompson</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <originInfo>
+    <dateCreated>[1984-11-12]</dateCreated>
+    <publisher>Excalibur Publications Inc.</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">North York, Ontario</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Image of a group of five young men standing and sitting behind a table during the 1984 Multicultural Festival. Their table is underneath a large banner that says "Singaporean Students Assoc." Posters on the walls containing text about Malaysia, and photographs of the country, may be seen on the wall behind the men.</abstract>
+  <identifier type="local">ASC17498</identifier>
+  <location>
+    <physicalLocation>2004-030 / 008</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 17.7 x 12.6 cm</extent>
+  </physicalDescription>
+  <note>"Multicultural Festival," "1984," "(CYS F)," "(Graham Thompson)," and "205%" are written on the back of the photograph.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Excalibur Publications Inc. fonds (F0502)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000502.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Malaysian and Singaporean Students' Association</topic>
+    <topic>YMSSA</topic>
+    <topic>Multicultural Festival</topic>
+    <geographic>Student Centre</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>North York</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.773944, -79.502889</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

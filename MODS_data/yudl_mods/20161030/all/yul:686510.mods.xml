@@ -1,0 +1,53 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Here and there in Montreal and the Island of Montreal</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Stokes, Charles W.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">onc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <publisher>Musson Book Co.</publisher>
+    <dateIssued>c1924</dateIssued>
+    <dateIssued encoding="marc">1924</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>96 p., [14] p. of plates : ill. (some col.), maps ; 22 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Charles W. Stokes.</note>
+  <note>"An illustrated descriptive guide to the historical and picturesque landmarks and places of interest in Montreal and environs."</note>
+  <note>Includes index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn-qu</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Montre&#769;al (Que&#769;bec)</geographic>
+    <topic>Guidebooks</topic>
+  </subject>
+  <classification authority="lcc">FC2947.18 .S76</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">900514</recordCreationDate>
+    <recordIdentifier>afl9006</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

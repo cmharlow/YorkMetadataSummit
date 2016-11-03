@@ -1,0 +1,100 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>The Gender Impact of Green Job Creation</title>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>McFarland, Joan</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<genre>working paper</genre>
+	
+    
+	<typeOfResource>text</typeOfResource>
+	
+    
+	<originInfo>
+		
+      
+		<dateCreated>2013</dateCreated>
+		
+      
+		<publisher/>
+		
+    
+	</originInfo>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier type="local">WP_2013_McFarland_The-Gender-Impact-of-Green-Job-Creation.pdf</identifier>
+	
+    
+	<abstract>This research seeks to make a start in filling the void in gender-based analysis. I look at the more general analyses around green job creation and then present evidence that I have gathered around green job creation&#8217;s gender impact. The evidence comes mostly from New Brunswick but one of the case studies comes from Nova Scotia. The research begins by looking at various studies of green job creation. Unfortunately, none of them has looked at the issue of gender impact. Some do, however, list the types of jobs that would be created from green initiatives. Taking these lists and finding the gender breakdown of those jobs in New Brunswick with data from the 2006 Census, I am able me to get an indication of the gender impact of green job creation.</abstract>
+	
+    
+	<relatedItem type="host">
+		
+      
+		<titleInfo>
+			
+        
+			<title/>
+			
+      
+		</titleInfo>
+		
+      
+		<part>
+			
+        
+			<extent>18 p.</extent>
+			
+      
+		</part>
+		
+    
+	</relatedItem>
+	
+    
+	<location>
+		
+      
+		<url>http://warming.apps01.yorku.ca/wp-content/uploads/WP_2013_03_McFarland_Gender-Impact-of-Green-Job-Creation.pdf</url>
+		
+    
+	</location>
+	
+    
+	<accessCondition type="useAndReproduction">All rights reserved</accessCondition>
+	
+  
+</mods>

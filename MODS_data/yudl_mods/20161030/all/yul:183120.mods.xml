@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC18048</identifier>
+  <location>
+    <physicalLocation>1974-002 / 119</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Long Branch, Ont. : Inaugural [not used]</title>
+    <subTitle>Long Branch, Ont[ario]. : Inaugural [not used]</subTitle>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <abstract>Image of five people in formal attire sitting around a table with documents laid out in front of each of them; four of them are men and one is a woman. At the far right side is a sixth person.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Claude Miles</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-04-15</dateCreated>
+    <dateOther>06 January 1965</dateOther>
+    <dateIssued>1965-01-06</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>1 photograph : b&amp;w negative ; 35 mm</note>
+  <note type="ownership">ASC18044</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Long Branch</topic>
+    <topic>Formal Attire</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Long Branch</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.594441,-79.538362</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

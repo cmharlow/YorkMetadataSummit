@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Transcription of letter to James Sully from VW 23 January 1893</title>
+  </titleInfo>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/29543057">
+    <namePart>Welby, Victoria</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+    <namePart type="termsOfAddress">Lady</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Correspondence</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>1970-010 / 016 (02)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>2 pages</extent>
+  </physicalDescription>
+  <note type="funding">Digitization made possible, in whole or in part, through a 2014 Librarians Research Grant.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Lady Victoria Welby fonds (F0443)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000443.htm</url>
+    </location>
+  </relatedItem>
+  <accessCondition type="useAndReproduction">Digitized for access and research purposes only. For further copyright information contact: ascproj@yorku.ca.</accessCondition>
+  <name type="corporate" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/71477633/">
+    <namePart>James Sully</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+    <namePart type="date">1842-1923</namePart>
+  </name>
+  <abstract>Consists of a typescript transcription of an originally handwritten letter to James Sully from Victoria Welby.</abstract>
+  <identifier type="local">ASC17973</identifier>
+  <note>Second page consists of an earlier date and what appears to be an unrelated note. Paper re-used?</note>
+  <subject>
+    <topic>Intellectual exchange</topic>
+  </subject>
+</mods>

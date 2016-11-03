@@ -1,0 +1,67 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Documents relatifs aux rapports du clerg&#233; avec la royaut&#233; de 1682 &#224; 1705</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Mention, L&#233;on</namePart>
+    <namePart type="date">b. 1845</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>A. Picard</publisher>
+    <dateIssued>1893</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>v, 186 p.</extent>
+  </physicalDescription>
+  <tableOfContents>La r&#233;gale. Les libert&#233;s de l'&#201;glise gallicane. L'affaire des franchises. L'&#233;dit de 1695 sur la juridiction eccl&#233;siastique. L'affaire des "Maximes des saints." Le jans&#233;nisme en 1705.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">publi&#233;s par L&#233;on Mention.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Catholic Church</namePart>
+    </name>
+    <geographic>France</geographic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Church and state</topic>
+    <geographic>France</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>France</geographic>
+    <topic>History</topic>
+    <temporal>Bourbons, 1589-1789</temporal>
+  </subject>
+  <classification authority="lcc">DC3 .C69</classification>
+  <classification authority="lcc">BX1529 .D629 1893</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Collection de textes pour servir &#224; l'&#233;tude et &#224; l'enseignement de l'histoire ; [t. 14]</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">f 01003674</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">761008</recordCreationDate>
+    <recordIdentifier>afk1446</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

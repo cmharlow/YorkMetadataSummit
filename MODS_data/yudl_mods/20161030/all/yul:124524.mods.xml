@@ -1,0 +1,66 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Claus Sluter et la sculpture bourguignonne au XVe si&#232;cle</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Kleinclausz, Arthur Jean</namePart>
+    <namePart type="date">1869-1947</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">France</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Librairie de l'art ancien et moderne</publisher>
+    <dateIssued>[1905]</dateIssued>
+    <dateIssued encoding="marc">1905</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>180 p., [1] leaf of plates : ill.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par A. Kleinclausz.</note>
+  <note type="bibliography">Bibliography: p. [169]-172.</note>
+  <note type="bibliography">Includes index.</note>
+  <subject>
+    <geographicCode authority="marcgac">e-fr---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Sluter, Claus</namePart>
+      <namePart type="date">d. 1406?</namePart>
+    </name>
+    <topic>Sculpture, Medieval</topic>
+    <topic>Sculpture</topic>
+    <geographic>Burgundy</geographic>
+    <geographic>France</geographic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">NB553.S6 K6</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Les maitres de l'art</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">32020681</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">760910</recordCreationDate>
+    <recordIdentifier>abr4042</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.93 2014/01/31)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

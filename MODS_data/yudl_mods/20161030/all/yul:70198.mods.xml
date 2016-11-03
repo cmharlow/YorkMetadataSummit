@@ -1,0 +1,190 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>&#1583;&#1585; &#1583;&#1740;&#1585; &#1605;&#1594;&#1575;&#1606; &#1740;&#1575;&#1585;&#1605; &#1570;&#1605;&#1583; &#1602;&#1583;&#1581;&#1740; &#1583;&#1585; &#1583;&#1587;&#1578;</title>
+		
+      
+		<subTitle>&#1740;&#1705; &#1588;&#1575;&#1582;&#1607; &#1711;&#1604;</subTitle>
+		
+      
+		<subTitle>Yek Shakhe Gol</subTitle>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1581;&#1576;&#1740;&#1576;&#8204;&#1575;&#1604;&#1607; &#1576;&#1583;&#1740;&#1593;&#1740; </namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Habibollah Badiei</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1585;&#1608;&#1581;&#8204;&#1575;&#1604;&#1607; &#1582;&#1575;&#1604;&#1602;&#1740; </namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Roohollahkhaleghi</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1711;&#1604;&#1662;&#1575;&#1740;&#1711;&#1575;&#1606;&#1740;</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Golpayegani</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<typeOfResource>Sound Recording</typeOfResource>
+	
+    
+	<genre>Esfahan</genre>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">per</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier>Shakheh-Gol-103</identifier>
+	
+    
+	<physicalDescription>
+		
+      
+		<form authority="marcform">sound recording</form>
+		
+      
+		<extent>14:4</extent>
+		
+    
+	</physicalDescription>
+	
+    
+	<subject>
+		
+      
+		<topic>Iranian National Radio</topic>
+		
+      
+		<topic>radio programs</topic>
+		
+      
+		<topic>music</topic>
+		
+      
+		<topic>poetry</topic>
+		
+      
+		<geographic>Iran</geographic>
+		
+      
+		<hierarchicalGeographic>
+			
+        
+			<continent>Asia</continent>
+			
+        
+			<country>Iran</country>
+			
+      
+		</hierarchicalGeographic>
+		
+    
+	</subject>
+	
+  
+</mods>

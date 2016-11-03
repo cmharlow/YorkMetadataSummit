@@ -1,0 +1,50 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The complete writings of Nathaniel Hawthorne (Volume 2)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Hawthorne, Nathaniel</namePart>
+    <namePart type="date">1804-1864</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Lathrop, Rose (Hawthorne)</namePart>
+    <namePart type="date">1851-1926</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Scudder, Horace Elisha</namePart>
+    <namePart type="date">1838-1902</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Boston and New York</placeTerm>
+    </place>
+    <publisher>Houghton, Mifflin and company</publisher>
+    <dateIssued>1900</dateIssued>
+    <dateIssued encoding="marc">1900</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>22 v. : fronts., plates, ports., facsims. (1 double)</extent>
+  </physicalDescription>
+  <tableOfContents>v.1-2. Twice-told tales.--v.3. The snow-image and other twice-told tales.--v.4-5. Mosses from and old manse.--v.6. The scarlet letter.--v.7. The house of the seven gables.--v.8. The Blithedale romance.--v.9-10. The marble faun.--v.11. Our old home.--v.12. The whole history of grandfather's chair, and Biographical stories.--v.13. A wonder book for girls and boys, and Tanglewood tales.--v.14. The Dolliver romance, and kindred tales.--v.15. Doctor Grimshawe's secret.  1900.--v.16. Tales and sketches.--v.17. Miscellanies.--v.18. Passages from the American notebooks.--v.19-22. Notes of travel.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">with portraits, illustrations, and facsimiles. --</note>
+  <note>Added t.-p., illustrated: "The writings of Nathaniel Hawthorne."</note>
+  <note>Each volume has also special t.-p.</note>
+  <note>"This edition of the writings of Nathaniel Hawthorne is limited to five hundred signed and numbered copies." This set numbered 41.</note>
+  <note>Large-paper ed.</note>
+  <identifier type="lccn">13021420</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840218</recordCreationDate>
+    <recordIdentifier>a787770</recordIdentifier>
+    <recordIdentifier>adk4066</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

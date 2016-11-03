@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Row housing on Hargrave Street</title>
+  </titleInfo>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/112774103">
+    <namePart>John Warkentin</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateOther>1959-02</dateOther>
+    <dateIssued>1959-02</dateIssued>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Winnipeg, Manitoba</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Item consists of a photographic slide with annotations including: "Wpg.," "Row housing - Hargrave," "Feb/59," "4-93b."</abstract>
+  <identifier type="local">ASC16554</identifier>
+  <location>
+    <physicalLocation>2009-029 / 003 (04)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">projected graphic</form>
+    <extent>1 photograph : colour positive ; 35 mm</extent>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note>One slide scanned out of 421 in file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>John Warkentin fonds (F0184)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000184.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>John Warkentin Photograph Collection</topic>
+    <topic>Apartment Houses</topic>
+    <geographic>Winnipeg, Manitoba</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Manitoba</province>
+      <region>Winnipeg Capital</region>
+      <city>Winnipeg</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>49.892672, -97.144432</coordinates>
+      <note type="content">The geographic coordinates describe the approximate location where the photo was taken.</note>
+    </cartographics>
+  </subject>
+</mods>

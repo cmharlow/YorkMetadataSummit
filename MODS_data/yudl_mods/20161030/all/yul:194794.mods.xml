@@ -1,0 +1,40 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>The Message of Theosophy</title>
+    <partNumber>Vol. 6, no. 5</partNumber>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre>journal</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">en</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+  </physicalDescription>
+  <originInfo>
+    <dateCreated>1910-08</dateCreated>
+    <publisher>Rangoon Theosophical Society</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Burma</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Rangoon</placeTerm>
+    </place>
+    <dateOther>August 1910</dateOther>
+  </originInfo>
+  <subject>
+    <topic>Colonial</topic>
+    <topic>Buddhism</topic>
+    <geographic>Rangoon</geographic>
+    <geographic>Yangon</geographic>
+    <geographic>Burma</geographic>
+    <geographic>Myanmar</geographic>
+    <temporal>20th Century</temporal>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Burma</country>
+      <city>Rangoon</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Creative Commons</accessCondition>
+</mods>

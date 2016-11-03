@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Concert: Charlie Chin</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Charlie Chin</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Host</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>Sound Recording</typeOfResource>
+  <tableOfContents>I've been Working on the Railroad / trad. Charlie Chin. -- Fable and song  / (Chris Iijima) Charlie Chin. -- The War of the Flea / Chris Iigima (Charlie Chin). -- Vietnamese Lament / Chris Iijima (Charlie Chin). -- Song / Ho Chi Minh, adapted by Chris Iijima (Charlie Chin). -- Someone Like You / Charlie Chin. -- Untitle love song / Charlie Chin. -- It's Going To Be A Beautiful Day / Charlie Chin.</tableOfContents>
+  <genre>folk music</genre>
+  <originInfo>
+    <dateIssued>1975-06-22</dateIssued>
+    <publisher>Mariposa Folk Foundation</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto Islands</placeTerm>
+    </place>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code"/>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of audio recording of Charlie Chin performing an adaptation of "I've been Working on the Railroad" (trad.) followed by his telling a fable about a man who tries to move a mountain and then performing a song based on the fable (Chris Iijima). He also performs "The War of the Flea"(Iijima), "Vietnamese Lament"(Iijima), a song adapted from a poem by Ho Chi Minh (Iijima), "Someone Like You"(?), an untitled love song (Chin) and "It's Going to be a Beautiful Day"(Chin).</abstract>
+  <identifier>ASC06544</identifier>
+  <physicalDescription>
+    <form>1/4" reel audio tape</form>
+    <extent>0:30.58</extent>
+  </physicalDescription>
+  <note>Distortion during recording on original tape.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Mariposa Folk Foundation fonds (F0511)</title>
+    </titleInfo>
+    <location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Mariposa Folk Festival</topic>
+    <topic>political activism</topic>
+    <topic>guitar</topic>
+    <topic>ballads</topic>
+    <topic>love songs</topic>
+    <geographic>Area 4</geographic>
+    <temporal>17:00-17:30, 19:00-19:30</temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Toronto Islands</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.620833, -79.378611</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+  <accessCondition type="restrictionOnAccess">Charlie Chin: contacted, permission granted. Chris Iijima: estate contacted, no response as of 02.03.2010.</accessCondition>
+</mods>

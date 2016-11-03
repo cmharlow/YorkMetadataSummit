@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC27652</identifier>
+  <location>
+    <physicalLocation>1974-002 / 022</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Be Kind to Animals Week [not used]</title>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <abstract>Image of a large dog standing in an office. There is a man in a suit behind him.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Gauthier</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>October 1967</dateOther>
+    <dateIssued>1967-10</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>One neg (3) scanned out of 25 images in assignment.</note>
+  <note type="ownership">ASC27651</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Animals</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

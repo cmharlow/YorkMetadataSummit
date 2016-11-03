@@ -1,0 +1,123 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Instrumentenkunde</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Die Musik der aussereuropa&#776;ischen Natur- und Kulturvo&#776;lker</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Die Musik der Antike</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Die altslavische Volks- und Kirchenmusik</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Heinitz, Wilhelm</namePart>
+    <namePart type="date">1883-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Lachmann, Robert</namePart>
+    <namePart type="date">1892-1939</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Sachs, Curt</namePart>
+    <namePart type="date">1881-1959</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Panov, Petu&#774;r</namePart>
+    <namePart type="date">1899-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ge</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Wildpark-Potsdam</placeTerm>
+    </place>
+    <publisher>Akademische Verlagsgesellschaft Athenaoin</publisher>
+    <dateIssued>c1928-1930</dateIssued>
+    <dateIssued encoding="marc" point="start">1928</dateIssued>
+    <dateIssued encoding="marc" point="end">1930</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>159, 33, 32, 31 p. : ill. (some col.), music, ports. --</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">von Wilhelm Heinitz. Die Musik der aussereuropa&#776;ischen Natur- und Kulturvo&#776;lker / von Robert Lachmann. Die Musik der Antike / von curt Sachs. Die altslavische Volks- und Kirchenmusik / von Peter Pano&#769;ff. --</note>
+  <note>Originally published in parts.</note>
+  <note type="bibliography">Includes bibliographies and indexes.</note>
+  <subject authority="lcsh">
+    <topic>Musical instruments</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Germany</country>
+      <city>Wildpark-Potsdam</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music</topic>
+    <temporal>To 500</temporal>
+    <topic>History and criticism</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Folk music</topic>
+    <geographic>Europe, Eastern</geographic>
+    <topic>History and criticism</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music</topic>
+    <geographic>Asia</geographic>
+    <topic>History and criticism</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Church music</topic>
+    <topic>Orthodox Eastern church</topic>
+  </subject>
+  <classification authority="lcc">ML160 .H35 v.1, 11-13 1928</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Handbuch der Musikwissenschaft ; [v.1, 11-13]</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Musik der aussereuropa&#776;ischen Natur- und Kulturvo&#776;lker</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Lachmann, Robert,</namePart>
+      <namePart type="date">1892-1939</namePart>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Musik der Antike</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Sachs, Curt,</namePart>
+      <namePart type="date">1881-1959</namePart>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Altslavische Volks- und Kirchenmusik</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Panov, Petu&#774;r,</namePart>
+      <namePart type="date">1899-</namePart>
+    </name>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">860408</recordCreationDate>
+    <recordIdentifier>abb2185</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

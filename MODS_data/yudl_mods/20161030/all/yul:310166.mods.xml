@@ -1,0 +1,73 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter to Mrs. Stepler from Gordon Stepler, October 13th 1916</title>
+  </titleInfo>
+  <name type="personal">
+    <affiliation>Canadian Armed Forces</affiliation>
+    <namePart>Stepler, Gordon</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Stepler, Ethelwyn</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Letter</genre>
+  <originInfo>
+    <dateCreated>1916-10-13</dateCreated>
+    <place>
+      <placeTerm authority="marccountry">England</placeTerm>
+    </place>
+    <dateOther>13 October 1916</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a letter written by Gordon Stepler to his mother, Mrs. Ethelwyn Stepler. Transcription is as follows:&#13;
+Shorncliffe. Oct 13/16&#13;
+Dear Mother&#13;
+	Rec'd a letter you had written Sept 30 to-day  and of course I was glad to hear from you. I got a parcel containing a pair of socks from 73 [Madeson] Ave also. You just need send two or three pair of socks over as that will be all I need and everything extra is a nuisance. I think I will have to throw a lot of stuff away before I go to France.&#13;
+	Well some of my chums are leaving for France to-morrow morning. All of the 67th first draft from A to G are going. If I had not been put on this new battery I would be going next week as they are sending drafts of eighteen pounders over every week now and they take you in the order you come over. Of course we feel sore that they should&#13;
+|page 2&#13;
+beat us over but the new battery will probably leave in a few weeks too and it is a lot better thing. We are getting fine meals now quite a change from what we got in the Reserve Battery. That is one example of how much better it is to be in a real [underscored] battery than to go over on a draft. We are getting the best meals given around here and we have not got a [decent] cook house yet but the cook cooks in the open. For breakfast we got porridge, granulated sugar and milk, bacon and tomato sauce, bread margarine and coffee. For dinner we got soup, roast beef &amp; H.P. sauce, mashed potatoes &amp; gravy, creamed carrots &amp; custard, bread &amp; margarine. For supper we got cold meat &amp; H.P. sauce, cheese, jam, bread, margarine &amp; tea.&#13;
+	We have also got toast for breakfast some mornings, plain pudding&#13;
+|page 3&#13;
+blanc mange etc. It is the first time we have ever got toast, coffee, porridge, a vegetable or pudding or more than one thing for a meal so is quite a change. We have no mess room yet but line up, fill our mess tins and eat in our tents.&#13;
+	They are working us pretty hard as we are going over soon which is quite a change from what we did in 2nd Battery. It is also much nicer as you take some interest in your work and it is more interesting.&#13;
+	Saturday afternoon I went down to Folkestone and went to a picture show there. Sunday morning we had to put [dubbin] on our new harness to soften it up instead of going to church parade. They sure are not wasting time. I saw Charles Harrison at the Papillion Soldiers Home Sunday night. He is with the [R.C.O.'s] which are at Somerset Barracks&#13;
+|page 4&#13;
+right next to us. He is trying to transfer to the artillery as cavalry is not being used and they ship most of them to the trenches as infantry. Yesterday &amp; to-day we were on our new guns.&#13;
+	It has been cold for the last two days but is raining to-night. We are still in tents but hope to move soon.&#13;
+	Bread is 90&#162; a loaf here and granulated sugar very dear. Outside of the army you get some brown stuff for sugar and margarine instead of butter.&#13;
+	I had a letter from Barry Ashwell yesterday. He was not with the 135th but was taking an officers course. He said the 135th expect to be moved to Shorncliffe so I will see them. Have just been talking to Ted [Weise] who just heard from [Harrod Weise]. The 135th is not coming here but has been all broken up which is a darned shame. "A" Co is with the 134th Batt and the other companies in different battalions. This is all the news I can think of so must close.&#13;
+		Your loving son,&#13;
+			Gordon</abstract>
+  <identifier type="local">ASC19554</identifier>
+  <location>
+    <physicalLocation>1998-037 / 001 (04)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>2 leaves</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Dorothy Stepler fonds (F0170)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000170.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

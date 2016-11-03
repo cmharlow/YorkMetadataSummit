@@ -1,0 +1,50 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Cinq ans apr&#232;s : Mgr. Alexandre Tach&#233;, O.M.I., premier archev&#234;que de Saint-Boniface</title>
+    <subTitle>Mgr. Alexandre Tach&#233;, O.M.I., premier archev&#234;que de Saint-Boniface</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Prud'homme, L. A. (Louis Arthur)</namePart>
+    <namePart type="date">1853-1941</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateIssued encoding="marc">1899</dateIssued>
+    <dateIssued encoding="marc">1899</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>pp. [31]-45.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">[L.-A. Prud'homme].</note>
+  <note>Signed : L.-A. Prud'homme.  Saint-Boniface, 5 juin 1899.</note>
+  <note>Excerpt from : Revue Canadienne, juillet 1899.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Tach&#233;, Alexandre A. (Alexandre Antonin)</namePart>
+      <namePart type="date">1823-1894</namePart>
+    </name>
+    <topic>Missionaries</topic>
+    <topic>Bishops</topic>
+    <geographic>Northwest, Canadian</geographic>
+    <geographic>Manitoba</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Catholic Church</namePart>
+    </name>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">850306</recordCreationDate>
+    <recordIdentifier>afq3308</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.86 2013/06/10)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

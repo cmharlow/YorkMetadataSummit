@@ -1,0 +1,41 @@
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods:titleInfo>
+    <mods:title>Justice for Albert Johnson button</mods:title>
+  </mods:titleInfo>
+  <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+  <mods:genre>Buttons (Information artifacts)</mods:genre>
+  <mods:originInfo>
+    <mods:dateOther>[19--]</mods:dateOther>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Image consists of one round, black, metal button. There are four lines of text. The first line in bold, uppercase orange text reads:"Justice". The second line in uppercase, orange text reads:"For". The third line in uppercase, green text reads:"Albert". The fourth line in uppercase, green text reads:"Johnson".</mods:abstract>
+  <mods:identifier type="local">ASC17666</mods:identifier>
+  <mods:location>
+    <mods:physicalLocation>2007-022 / 120</mods:physicalLocation>
+  </mods:location>
+  <mods:physicalDescription>
+    <mods:form>tactile material</mods:form>
+    <mods:extent>1 button: colour; 4.5 cm</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem>
+    <mods:titleInfo>
+      <mods:title>Jean Augustine fonds (F0515)</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:topic>Police brutality</mods:topic>
+    <mods:topic>Police-community relations</mods:topic>
+    <mods:topic>Mental illness</mods:topic>
+    <mods:topic>Black community</mods:topic>
+    <mods:geographic>Toronto</mods:geographic>
+    <mods:hierarchicalGeographic>
+      <mods:country>Canada</mods:country>
+      <mods:province>Ontario</mods:province>
+      <mods:city>Toronto</mods:city>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:accessCondition type="useAndReproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution" License (http://creativecommons.org/licenses/by/2.0/)</mods:accessCondition>
+  <mods:note type="funding">This project was supported by a research grant issued by York University Libraries.</mods:note>
+</mods:mods>

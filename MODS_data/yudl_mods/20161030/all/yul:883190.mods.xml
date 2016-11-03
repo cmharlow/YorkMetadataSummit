@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Report on the affairs of British North America</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Durham, John George Lambton</namePart>
+    <namePart type="termsOfAddress">Earl of</namePart>
+    <namePart type="date">1792-1840</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Buller, Charles</namePart>
+    <namePart type="date">1806-1848</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Wakefield, Edward Gibbon</namePart>
+    <namePart type="date">1796-1862</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <publisher>Printed by Robert Stanton</publisher>
+    <dateIssued>1839</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>142, iv p.</extent>
+  </physicalDescription>
+  <note>The authorship of the report has been attributed to Charles Buller and to Edward Gibbon Wakefield, both of whom accompanied Lord Durham to Canada.</note>
+  <note>For discussions of the question of authorship, cf. F. Bradshaw, Self-government in Canada, 1903, p.244-251; and S.J. Reid, Life and letters of the first Earl of Durham, 1906, v.2, p.338-341.</note>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>Politics and government</topic>
+    <temporal>1791-1841</temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">850910</recordCreationDate>
+    <recordIdentifier>acx6684</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

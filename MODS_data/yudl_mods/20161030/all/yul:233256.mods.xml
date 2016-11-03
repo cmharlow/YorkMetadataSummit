@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo><title>ETIG  : YUL Emerging Tech Group</title><subTitle/></titleInfo>
+  <name type="corporate"><namePart>YUL Emerging Tech Group</namePart><role><roleTerm authority="marcrelator" type="text">Creator</roleTerm></role></name>
+  <typeOfResource>mixed material</typeOfResource>
+  <genre authority="lctgm">Website</genre>
+  <originInfo><dateCaptured>2014-08-13</dateCaptured><publisher/><place><placeTerm authority="marccountry" type="code">Canada</placeTerm></place><place><placeTerm type="text">Toronto</placeTerm></place></originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract/>
+  <identifier type="local">etig-2014_08_13</identifier>
+  <physicalDescription><form authority="marcform">electronic resource</form><extent>3.9M</extent><internetMediaType/></physicalDescription>
+  <note/>
+  <relatedItem type="host">
+    <location><url>http://www.yorku.ca/yul/etig/blog/</url></location>
+  </relatedItem>
+  <titleInfo><title>ETIG</title></titleInfo>
+  <location><url displayLabel="Active site">http://www.yorku.ca/yul/etig/blog/</url><url displayLabel="Archived site">http://digital.library.yorku.ca/wayback/20140813/http://www.yorku.ca/yul/etig/blog/</url></location>
+  <subject><topic/><geographic/><temporal/></subject>
+</mods>

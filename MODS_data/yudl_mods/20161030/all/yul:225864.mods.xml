@@ -1,0 +1,51 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Fan xie shan fang quan ji</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Li, E</namePart>
+    <namePart type="date">1692-1752</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">China</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Shanghai</placeTerm>
+    </place>
+    <publisher>Shanghai zhong hua shu ju</publisher>
+    <dateIssued>[1933]</dateIssued>
+    <dateIssued encoding="marc">1884</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">chi</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>8 v. (on double leaves) ; 19 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Li E zhuan.</note>
+  <note>Gift of the East Asian Resource Centre which includes special collections from Jerome Chen and the Chan family.</note>
+  <subject authority="lcsh">
+    <topic>Chinese poetry</topic>
+    <temporal>Qing dynasty, 1644-1912</temporal>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>China</country>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">PL2718.I18 1889</classification>
+  <identifier type="oclc">26030861</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">MNU</recordContentSource>
+    <recordCreationDate encoding="marc">920507</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100405144450.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm26030861</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

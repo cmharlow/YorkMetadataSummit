@@ -1,0 +1,50 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Catalogue of the Ch&#226;teau Ramezay museum</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Ch&#226;teau de Ramezay</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Numismatic and Antiquarian Society of Montreal</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montreal</placeTerm>
+    </place>
+    <publisher>Women's Branch of the Numismatic &amp; Antiquarian Society of Montreal</publisher>
+    <dateIssued>1898</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>47 p.</extent>
+  </physicalDescription>
+  <note>Cover title.</note>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Ch&#226;teau de Ramezay</namePart>
+    </name>
+    <topic>Museums</topic>
+    <topic>Catalogs</topic>
+    <topic>Art</topic>
+    <topic>Painting, Canadian</topic>
+    <geographic>Montr&#233;al</geographic>
+    <geographic>Quebec (Province)</geographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">810226</recordCreationDate>
+    <recordIdentifier>afq2758</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.93 2014/01/31)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

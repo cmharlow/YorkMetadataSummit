@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>My brave and gallant gentleman : a romance of British Columbia</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Watson, Robert</namePart>
+    <namePart type="date">1882-1948</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <publisher>McClelland Goodchild &amp; Stewart</publisher>
+    <dateIssued>[c1918]</dateIssued>
+    <dateIssued encoding="marc">1918</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>339 p.</extent>
+  </physicalDescription>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840801</recordCreationDate>
+    <recordIdentifier>adg7530</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

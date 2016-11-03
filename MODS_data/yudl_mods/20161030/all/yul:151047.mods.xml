@@ -1,0 +1,36 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The earth we live on</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Sheila Thibodeau Lambrinos Collection - York University</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London, England</placeTerm>
+    </place>
+    <publisher>Frederick Warne and Co.</publisher>
+    <dateIssued>1875</dateIssued>
+    <dateIssued encoding="marc">1875</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>123 p. : ill.</extent>
+  </physicalDescription>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">090911</recordCreationDate>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,81 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The journal of Jeffery Amherst : recording the military career of General Amherst in America from 1758 to 1763</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Amherst, Jeffery Amherst</namePart>
+    <namePart type="termsOfAddress">baron</namePart>
+    <namePart type="date">1717-1797</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Webster, John Clarence</namePart>
+    <namePart type="date">1863-1950</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">onc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Chicago</placeTerm>
+    </place>
+    <publisher>Ryerson Press</publisher>
+    <publisher>University of Chicago Press</publisher>
+    <dateIssued>c1931</dateIssued>
+    <dateIssued encoding="marc">1931</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxiv, 341 p. : ill., maps ; 25 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">edited with introduction and notes by J. Clarence Webster.</note>
+  <note>Limited ed. of 500 copies.</note>
+  <note>Includes index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Illinois</province>
+      <city>Chicago</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Pontiac's Conspiracy, 1763-1765</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Louisbourg (N.S.)</geographic>
+    <topic>History</topic>
+    <temporal>Siege, 1758</temporal>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>United States</geographic>
+    <topic>History</topic>
+    <temporal>French and Indian War, 1754-1763</temporal>
+    <topic>Personal narratives</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>History</topic>
+    <temporal>1755-1763</temporal>
+    <topic>Personal narratives</topic>
+  </subject>
+  <classification authority="lcc">E199 .A52 (Office) (Rare Bk Coll)</classification>
+  <identifier type="lccn">32005465</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">910108</recordCreationDate>
+    <recordIdentifier>afm1997</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

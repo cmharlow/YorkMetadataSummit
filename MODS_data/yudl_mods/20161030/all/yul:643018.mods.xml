@@ -1,0 +1,55 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Faraday's diary : being the various philosophical notes of experimental investigation</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Faraday, Michael</namePart>
+    <namePart type="date">1791-1867</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Martin, Thomas</namePart>
+    <namePart type="date">1893-</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Royal Institution of Great Britain</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>G. Bell</publisher>
+    <dateIssued>1932-36</dateIssued>
+    <dateIssued encoding="marc">1932</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>7 v. : ill., ports.; + 1 index</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">made by Michael Faraday during the years 1820-1862 ...; under the editorial supervision of Thomas Martin.  With a foreword by Sir William H. Bragg. --</note>
+  <subject authority="lcsh">
+    <topic>Chemistry</topic>
+    <topic>Collected works</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Physics</topic>
+    <topic>Collected works</topic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">850527</recordCreationDate>
+    <recordIdentifier>a800693</recordIdentifier>
+    <recordIdentifier>adl7538</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

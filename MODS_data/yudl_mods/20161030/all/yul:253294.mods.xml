@@ -1,0 +1,35 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>People, 1978-1996</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Excalibur Publications Inc.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <abstract>Image of a group of nine young men and women sitting and standing, [possibly at a sporting event outdoors]. Many are holding Coca-Cola drink cups and/or chip bags. Two women sitting at the front of the group have a blanket draped over their knees.</abstract>
+  <identifier type="local">ASC17475</identifier>
+  <location>
+    <physicalLocation>2004-030 / 004</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ;  9.7 x 16.4 cm</extent>
+  </physicalDescription>
+  <note>"100%," "clubs," "6[4]" is written on the front of the photograph.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Excalibur Publications Inc. fonds (F0502)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000502.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>club</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

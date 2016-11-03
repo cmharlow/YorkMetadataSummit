@@ -1,0 +1,52 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Description des f&#234;tes donn&#233;es pendant quatorze jours a l'occasion du jour de naissance de son altesse serenissime monseigneur le Duc regnant de Wurtemberge et Teck...le onze fevrier, 1763</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Description des fetes</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Uriot, Joseph</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">gw</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Stougard</placeTerm>
+    </place>
+    <publisher>Christofle F. Cotta</publisher>
+    <dateIssued>1763</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>176 p.</extent>
+  </physicalDescription>
+  <note type="reproduction">Photocopy. Ann Arbor, Mich. : University Microfilms.</note>
+  <subject>
+    <geographicCode authority="marcgac">e-gw---</geographicCode>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Germany</country>
+      <city>Stougard</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Festivals</topic>
+    <geographic>Germany</geographic>
+    <geographic>Stuttgart</geographic>
+  </subject>
+  <classification authority="lcc">GT4850.S88 U75 1763</classification>
+  <recordInfo>
+    <recordCreationDate encoding="marc">770704</recordCreationDate>
+    <recordIdentifier>abt5091</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,39 @@
+<modsCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <mods version="3.4">
+    <titleInfo>
+      <title>Emile Nelligan et son oeuvre</title>
+    </titleInfo>
+    <name type="personal" usage="primary">
+      <namePart>Nelligan, Emile</namePart>
+      <namePart type="date">1879-1941</namePart>
+    </name>
+    <name type="personal">
+      <namePart>Dantin, Louis</namePart>
+      <namePart type="date">1865-1945</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">Montr&#233;al</placeTerm>
+      </place>
+      <publisher>Beauchemin</publisher>
+      <dateIssued>1903</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>164 p. : front., (port.)</extent>
+    </physicalDescription>
+    <note>Poems, with a prefatory sketch of the author and his work by Louis Dantin.</note>
+    <identifier type="lccn">15009532</identifier>
+    <recordInfo>
+      <recordCreationDate encoding="marc">840808</recordCreationDate>
+      <recordIdentifier>adg7956</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+    </recordInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+  </mods>
+</modsCollection>

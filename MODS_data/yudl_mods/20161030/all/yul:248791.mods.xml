@@ -1,0 +1,43 @@
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods:titleInfo>
+    <mods:title>Justice with dignity button</mods:title>
+  </mods:titleInfo>
+  <mods:name type="corporate">
+    <mods:namePart>Disabled Women's Network Ontario (DAWN)</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+  <mods:genre>Buttons (Information artifacts)</mods:genre>
+  <mods:originInfo>
+    <mods:dateOther>[2001?]</mods:dateOther>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Image consists of one round, white, metal button. At the centre right is an image of a rose outlined in purple and with green leaves. Above the rose to the left bold, purple text reads:"Justice with dignity". Below the rose purple text reads:"Remember Kimberly Rogers".</mods:abstract>
+  <mods:identifier type="local">ASC17650</mods:identifier>
+  <mods:location>
+    <mods:physicalLocation>2007-022 / 120</mods:physicalLocation>
+  </mods:location>
+  <mods:physicalDescription>
+    <mods:form>tactile material</mods:form>
+    <mods:extent>1 button: colour; 6.5 cm</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem>
+    <mods:titleInfo>
+      <mods:title>Jean Augustine fonds (F0515)</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:topic>Public welfare</mods:topic>
+    <mods:topic>Welfare reform</mods:topic>
+    <mods:topic>Suicide</mods:topic>
+    <mods:topic>Poverty</mods:topic>
+    <mods:topic>Mental illness</mods:topic>
+    <mods:geographic>Canada</mods:geographic>
+  </mods:subject>
+  <mods:accessCondition type="useAndReproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution" License (http://creativecommons.org/licenses/by/2.0/)</mods:accessCondition>
+  <mods:note type="funding">This project was supported by a research grant issued by York University Libraries.</mods:note>
+</mods:mods>

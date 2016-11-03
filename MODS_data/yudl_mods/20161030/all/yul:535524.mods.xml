@@ -1,0 +1,232 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<identifier type="local">ASC34402</identifier>
+	
+    
+	<location>
+		
+      
+		<physicalLocation>1974-002 / 111</physicalLocation>
+		
+    
+	</location>
+	
+    
+	<titleInfo>
+		
+      
+		<title>Isaacs Gallery : Joyce Wieland show</title>
+		
+    
+	</titleInfo>
+	
+    
+	<titleInfo type="alternative">
+		
+      
+		<title>[The] Isaacs Gallery : Joyce Wieland show</title>
+		
+    
+	</titleInfo>
+	
+    
+	<note type="formsPartOfPDF">Toronto Telegram photographic negatives, S00054</note>
+	
+    
+	<abstract>File consists of front and back of negative envelope, and three contact sheets. Assignment: Isaacs Gallery : Joyce Wieland show</abstract>
+	
+    
+	<targetAudience>K. Elder</targetAudience>
+	
+    
+	<name>
+		
+      
+		<namePart>Russell</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name>
+		
+      
+		<namePart>Toronto Telegram</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<originInfo>
+		
+      
+		<dateOther>22 March 1967</dateOther>
+		
+      
+		<dateIssued>1967-03-25</dateIssued>
+		
+      
+		<publisher>Toronto Telegram</publisher>
+		
+      
+		<place>
+			
+        
+			<placeTerm type="text">Canada</placeTerm>
+			
+      
+		</place>
+		
+      
+		<place>
+			
+        
+			<placeTerm type="text">Toronto</placeTerm>
+			
+      
+		</place>
+		
+    
+	</originInfo>
+	
+    
+	<typeOfResource>still image</typeOfResource>
+	
+    
+	<note>ASC34402</note>
+	
+    
+	<genre authority="lctgm">Documentary Photography</genre>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		
+    
+	</language>
+	
+    
+	<physicalDescription>
+		
+      
+		<form>nonprojected graphic</form>
+		
+      
+		<extent>21 photographs : b&amp;w negative ; 35 mm + 1 envelope : 14.6  x 11 cm</extent>
+		
+    
+	</physicalDescription>
+	
+    
+	<relatedItem>
+		
+      
+		<titleInfo>
+			
+        
+			<title>Toronto Telegram fonds, F0433</title>
+			
+      
+		</titleInfo>
+		
+      
+		<location>
+			
+        
+			<url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+			
+      
+		</location>
+		
+    
+	</relatedItem>
+	
+    
+	<subject>
+		
+      
+		<topic>Wieland, Joyce, 1930-1998</topic>
+		
+      
+		<topic>The Isaacs Gallery</topic>
+		
+      
+		<topic>untitled '66 [cotton hanging]</topic>
+		
+      
+		<topic>The Hall of Hearts</topic>
+		
+      
+		<topic>The Camera's Eyes</topic>
+		
+      
+		<topic>Square Mandala</topic>
+		
+      
+		<topic>Home Work</topic>
+		
+      
+		<topic>Don't Mess with Bill (for Anita and Sylvia)</topic>
+		
+      
+		<topic>Film Mandala</topic>
+		
+      
+		<hierarchicalGeographic>
+			
+        
+			<continent>North America</continent>
+			
+        
+			<country>Canada</country>
+			
+        
+			<province>Ontario</province>
+			
+        
+			<city>Toronto</city>
+			
+        
+			<citySection>832 Yonge Street</citySection>
+			
+      
+		</hierarchicalGeographic>
+		
+      
+		<cartographics>
+			
+        
+			<coordinates>43.671385, -79.387511</coordinates>
+			
+      
+		</cartographics>
+		
+    
+	</subject>
+	
+    
+	<accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+	
+  
+</mods>

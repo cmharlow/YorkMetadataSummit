@@ -1,0 +1,190 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>&#1670;&#1608;&#1606; &#1605;&#1608;&#1580; &#1591;&#1608;&#1601;&#1575;&#1606; &#1583;&#1585;&#1610;&#1575; &#1576;&#1607; &#1583;&#1585;&#1610;&#1575; &#1605;&#1740;&#8204;&#1585;&#1608;&#1605; </title>
+		
+      
+		<subTitle>&#1610;&#1705; &#1588;&#1575;&#1582;&#1607; &#1711;&#1604;</subTitle>
+		
+      
+		<subTitle>Yek Shakhe Gol</subTitle>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1581;&#1576;&#1610;&#1576;&#8204;&#1575;&#1604;&#1607; &#1576;&#1583;&#1740;&#1593;&#1740;</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Habibollah Badiei</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1587;&#1604;&#1610;&#1605; &#1601;&#1585;&#1586;&#1575;&#1606; </namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Salim Farzan</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1705;&#1608;&#1585;&#1587; &#1587;&#1585;&#1607;&#1606;&#1711;&#8204;&#1586;&#1575;&#1583;&#1607; </namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Kourossarhang zadeh</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<typeOfResource>Sound Recording</typeOfResource>
+	
+    
+	<genre>Shur</genre>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">per</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier>Shakheh-Gol-325</identifier>
+	
+    
+	<physicalDescription>
+		
+      
+		<form authority="marcform">sound recording</form>
+		
+      
+		<extent>29:0</extent>
+		
+    
+	</physicalDescription>
+	
+    
+	<subject>
+		
+      
+		<topic>Iranian National Radio</topic>
+		
+      
+		<topic>radio programs</topic>
+		
+      
+		<topic>music</topic>
+		
+      
+		<topic>poetry</topic>
+		
+      
+		<geographic>Iran</geographic>
+		
+      
+		<hierarchicalGeographic>
+			
+        
+			<continent>Asia</continent>
+			
+        
+			<country>Iran</country>
+			
+      
+		</hierarchicalGeographic>
+		
+    
+	</subject>
+	
+  
+</mods>

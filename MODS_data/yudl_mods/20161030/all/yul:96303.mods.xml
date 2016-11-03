@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <identifier type="local">ASC14995</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/25207</identifier>
+  <location>
+    <physicalLocation>1974-002 / 093</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Half Beat Coffee House</title>
+  </titleInfo>
+  <abstract>Image of front and back of negative assignment envelope and one contact sheet. Assignment : Half Beat Coffee House</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name type="personal">
+    <namePart>McGregor</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2012-07-24</dateCreated>
+    <dateOther>[1 April 1963]</dateOther>
+    <dateIssued>1963-04-01</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>3 photographs : b&amp;w negatives ; 35 mm + 1 envelope : 14.2 x 10.7</extent>
+    <form authority="gmd">electronic resource</form>
+    <form authority="RDA carrier terms">online resource</form>
+  </physicalDescription>
+  <note>ASC14995</note>
+  <note type="ownership">ASC14995</note>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+      </location>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

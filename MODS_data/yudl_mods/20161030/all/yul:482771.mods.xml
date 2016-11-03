@@ -1,0 +1,44 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>&#4121;&#4127;&#4140;&#4098;&#4142;&#4112;&#4129;&#4126;&#4101;&#4154; [New Classical Music]</title>
+    <subTitle>[New Classical Music]</subTitle>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Music</genre>
+  <originInfo>
+    <copyrightDate>1923</copyrightDate>
+    <issuance>monographic</issuance>
+    <edition>3rd</edition>
+    <publisher>Sun Press</publisher>
+    <place>
+      <placeTerm type="text">Myanmar</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Yangon</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">bur</languageTerm>
+  </language>
+  <identifier>BAB-B0121</identifier>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>244</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>UCL</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <geographic>Rangoon</geographic>
+    <geographic>Yangon</geographic>
+    <geographic>Burma</geographic>
+    <geographic>Myanmar</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <city>Rangoon</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

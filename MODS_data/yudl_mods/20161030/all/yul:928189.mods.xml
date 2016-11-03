@@ -1,0 +1,45 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Social life among the insects : being a series of lectures delivered at the Lowell institute in Boston in March 1922</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Wheeler, William Morton</namePart>
+    <namePart type="date">1865-1937</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Harcourt, Brace and company</publisher>
+    <dateIssued>1923</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>375 p. : ill.</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">By William Morton Wheeler. --</note>
+  <note>Previously published in the Scientific monthly, June, 1922, to February, 1923. cf. Pref.</note>
+  <note type="bibliography">"Documentary appendix": p.285-355.</note>
+  <subject authority="lcsh">
+    <topic>Insects</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>New York</province>
+      <city>New York</city>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="lccn">23012888</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">850323</recordCreationDate>
+    <recordIdentifier>acd2563</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

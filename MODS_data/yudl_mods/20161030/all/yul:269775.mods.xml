@@ -1,0 +1,79 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter from James Allan to Vivien Beer, September 4th 1916</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Allan, James R.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+    <affiliation>3rd Division Signal Cavalry, 3rd Canadian Division</affiliation>
+  </name>
+  <name type="personal">
+    <namePart>Beer, Vivien</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">letter</genre>
+  <originInfo>
+    <dateCreated>1916-09-04</dateCreated>
+    <dateOther>4 September, 1916</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a letter written by Captain James R. Allan to Vivien Beer. Item includes envelope. Transcription is as follows:&#13;
+11.00pm&#13;
+Monday-night,&#13;
+Sept. 4th., 1916.&#13;
+&#13;
+My own Darling Vivien:-&#13;
+	I know somebody who's a dear, somebody who deserves the sweetest kiss and that somebody is you darling. Was so pleased to get a letter from you today, so soon after the others too, and so full of love and affection. Also Vivien in your letter you gave me just the assurance I wanted; viz, that you will always love me and remain true to me. You say all I have to do is to&#13;
+#2&#13;
+believe you love me and be real happy. You jewel, I love you the more (if such a thing is possible) for being such a dear frank sweetheart. "Real Happy,-" My own dearie my heart just overflows with happiness.&#13;
+	Am so sorry you are so lonesome darling-mine. My heart aches for you. I too am lonesome dearie, oh so lonesome;&#13;
+	Now isn't it too bad lovie mine I was not there when you were sick to read to you &amp;c.&#13;
+#3&#13;
+I feel sure I could have cured you. Honest. Three of my kisses after meals would have cured you. Oh yes.&#13;
+	It is rather late to be starting a letter to you, and I have had a particularly trying day and lots of running around to do, so I am pretty tired, but my sweetheart I want you to have your "daily" so you won't be quite so lonely.&#13;
+	Vivien if I don't write everyday from now on, you will know that it is impossible for me to write, and you will&#13;
+#4&#13;
+excuse me won't you dear.&#13;
+	It has been very showery today which sort of dampened my spirits. I love the sun to shine don't you darling? You ask me if I still recollect what a Canadian summer's evening is cause I've been away so long.&#13;
+	The news from the south is excellent today. Also two more "Zepps" have been brought down. The Rumanians [sic] are also doing excellently. Everything is quiet with us as we are in rest.&#13;
+#5&#13;
+My own darling Vivien I want to tell you that I love you with all my heart and I  want this letter to be a message of love and affection. Oh my own true love it is fine to have the love of such a dear true girlie as you are.&#13;
+	Was glad to hear Walt got home again O.K. How are all the other folks.&#13;
+	All my love, regard affection and kisses sweet,&#13;
+		Your own darling,&#13;
+			Jimmy</abstract>
+  <identifier type="local">ASC17721</identifier>
+  <location>
+    <physicalLocation>1994-031 / 001 (01)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <extent>2 leaves + envelope</extent>
+    <form>text</form>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Beer family fonds (F0375)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000375.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>47,&#160;2</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

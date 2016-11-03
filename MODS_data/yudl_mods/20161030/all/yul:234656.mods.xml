@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Construction and campus buildings, 1989-1990</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>RoseAnn Bailey</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">North York, Ontario</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Image of the main walkway at York Lanes facing the York University Bookstore, with several people walking down it. Storefronts and signs shown in the image include Falafel Hut Village,  Twist &amp; Shout, Wild West, Ink blotz, Sakura Japanese Food, the medical office, Campus Billiards, and the York University Bookstore.</abstract>
+  <identifier type="local">ASC17449</identifier>
+  <location>
+    <physicalLocation>2004-030 / 002</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 20.1 x 12.4 cm</extent>
+  </physicalDescription>
+  <note>"York Lanes," "RoseAnn Bailey." is written on the back of the photograph.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Excalibur Publications Inc. fonds (F0502)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000502.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>York University</topic>
+    <topic>York Lanes</topic>
+    <geographic>York University</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>North York</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.774467, -79.501879</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

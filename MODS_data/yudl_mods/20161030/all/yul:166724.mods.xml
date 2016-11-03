@@ -1,0 +1,68 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC32155</identifier>
+  <location>
+    <physicalLocation>1974-002 / 100</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Huron Street School : Children's Art at Boys and Girls House, Library [Not Used]</title>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <abstract>Image of a boy standing outside of building and holding a cloth puppet and a mixed-material painting of a house.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>[Leo] Harrison</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-03-27</dateCreated>
+    <dateOther>12 April 1965</dateOther>
+    <dateIssued>1965-04</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35mm</extent>
+  </physicalDescription>
+  <note>One negative (11) scanned out of 36 in assignment.</note>
+  <note type="ownership">ASC32144</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Children's Art</topic>
+    <topic>Boys' and Girls' House</topic>
+    <topic>Huron St. School</topic>
+    <topic>Central Library</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>The Annex</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.670541, -79.402449</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

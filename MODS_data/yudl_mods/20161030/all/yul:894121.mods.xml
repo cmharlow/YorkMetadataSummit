@@ -1,0 +1,30 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Mariposa Folk Festival 1990 program</title>
+  </titleInfo>
+  <name type="corporate">
+    <affiliation>Mariposa Folk Foundation</affiliation>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>1990</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">ASC33510</identifier>
+  <location>
+    <physicalLocation>2007-009 / 103 (11)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Mariposa Folk Foundation fonds (F0511)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+    </location>
+  </relatedItem>
+</mods>

@@ -1,0 +1,169 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>&#1711;&#1604;&#1607;&#1575;&#1740; &#1585;&#1606;&#1711;&#1575;&#1585;&#1606;&#1711; (Golhaye Rangarang No. 415)</title>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1662;&#1585;&#1608;&#1740;&#1586; &#1740;&#1575;&#1581;&#1602;&#1740; </namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1601;&#1575;&#1582;&#1578;&#1607;&#1548; &#1662;&#1585;&#1608;&#1740;&#1606;</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Fakhte,Parvin</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1606;&#1740; &#1583;&#1575;&#1608;&#1583;</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Nay davad</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<typeOfResource>Sound Recording</typeOfResource>
+	
+    
+	<genre>&#1576;&#1740;&#1575;&#1578; &#1578;&#1585;&#1705;</genre>
+	
+    
+	<genre>Bayate tork</genre>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">per</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier>Golhaye-Rangarang-415</identifier>
+	
+    
+	<physicalDescription>
+		
+      
+		<form authority="marcform">sound recording</form>
+		
+    
+	</physicalDescription>
+	
+    
+	<abstract>&#1576;&#1711;&#1584;&#1575;&#1585; &#1578;&#1575; &#1605;&#1602;&#1575;&#1576;&#1604; &#1585;&#1608;&#1740; &#1578;&#1608; &#1576;&#1711;&#1584;&#1585;&#1740;&#1605;</abstract>
+	
+    
+	<subject>
+		
+      
+		<topic>Iranian National Radio</topic>
+		
+      
+		<topic>radio programs</topic>
+		
+      
+		<topic>music</topic>
+		
+      
+		<topic>poetry</topic>
+		
+      
+		<geographic>Iran</geographic>
+		
+      
+		<hierarchicalGeographic>
+			
+        
+			<continent>Asia</continent>
+			
+        
+			<country>Iran</country>
+			
+      
+		</hierarchicalGeographic>
+		
+    
+	</subject>
+	
+  
+</mods>

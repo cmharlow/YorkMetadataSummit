@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Market Square, [Winnipeg]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>John Warkentin</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateOther>Sep-57</dateOther>
+    <dateIssued>1957-09</dateIssued>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Winnipeg, Manitoba</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Item consists of a photographic slide with annotations including: "Market Square/Wpg.," "Sept/57," "4-105b."</abstract>
+  <identifier type="local">ASC16537</identifier>
+  <location>
+    <physicalLocation>2009-029 / 003 (04)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">projected graphic</form>
+    <extent>1 photograph : colour positive ; 35 mm</extent>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note>One slide scanned out of 421 in file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>John Warkentin fonds (F0184)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000184.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>John Warkentin Photograph Collection</topic>
+    <topic>Market Square</topic>
+    <topic>Exchange District</topic>
+    <geographic>Winnipeg, Manitoba</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Manitoba</province>
+      <region>Winnipeg Capital</region>
+      <city>Winnipeg</city>
+      <citySection>Exchange District</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>49.898583, -97.140377</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

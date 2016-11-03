@@ -1,0 +1,63 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Cape Breton, Canada, at the beginning of the twentieth century : a treatise of natural resources and development</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Vernon, Charles William</namePart>
+    <namePart type="date">1871-1934</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <publisher>Nation Pub. Co.</publisher>
+    <dateIssued>1903</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>337 p., [2] leaves of plates : ill. (some col.) maps, ports. ; 25 cm. --</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by C. W. Vernon</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn-ns</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Cape Breton Island (N.S.)</geographic>
+    <topic>History</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Cape Breton Island (N.S.)</geographic>
+    <topic>Economic conditions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Cape Breton Island (N.S.)</geographic>
+    <topic>Description and travel</topic>
+  </subject>
+  <classification authority="lcc">FC 2343.4 V52 1903</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Nation building series</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">15020675</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">810529</recordCreationDate>
+    <recordIdentifier>abc3557</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

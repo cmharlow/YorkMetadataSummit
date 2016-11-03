@@ -1,0 +1,43 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The answer of Adam</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>MacCraken, Henry Noble</namePart>
+    <namePart type="date">1880-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Oxford</placeTerm>
+    </place>
+    <publisher>H. Hart Printer</publisher>
+    <dateIssued>1908</dateIssued>
+    <issuance>monographic</issuance>
+    <place>
+      <placeTerm authority="marccountry">United Kingdom</placeTerm>
+    </place>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>14 p.</extent>
+  </physicalDescription>
+  <note>In verse.</note>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840623</recordCreationDate>
+    <recordIdentifier>adk9470</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

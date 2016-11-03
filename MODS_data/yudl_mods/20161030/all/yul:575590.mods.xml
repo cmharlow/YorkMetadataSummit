@@ -1,0 +1,31 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Building Ontario's Green Economy: a Road Map</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>BlueGreen Canada</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>working paper</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2012</dateCreated>
+    <publisher>BlueGreen Canada</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>The brief report compiles policy recommendations for a variety of different sectors, including agriculture, construction, manufacturing, transportation, waste management. It calls upon the government to enact these policies urgently.</abstract>
+  <relatedItem type="host">
+    <part>
+      <date>2012</date>
+      <extent>14 p.</extent>
+    </part>
+  </relatedItem>
+  <subject>
+    <topic>Job creation</topic>
+    <topic>Ontario</topic>
+  </subject>
+</mods>

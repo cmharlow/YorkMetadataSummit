@@ -1,0 +1,49 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Melanges : ou, Receuil d'etudes religieuses, sociales, politiques et litteraires</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Tardivel, Jules Paul</namePart>
+    <namePart type="date">1851-1905</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Quebec</placeTerm>
+    </place>
+    <publisher>Imprimerie de la Verite</publisher>
+    <dateIssued>1887-1903</dateIssued>
+    <dateIssued encoding="marc" point="start">1887</dateIssued>
+    <dateIssued encoding="marc" point="end">1903</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>3 v.</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">par J. P. Tardivel. Premiere serie. --</note>
+  <note>Publisher varies.</note>
+  <subject authority="lcsh">
+    <geographic>Qu&#233;bec (Province)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Qu&#233;bec</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">820720</recordCreationDate>
+    <recordIdentifier>a742024</recordIdentifier>
+    <recordIdentifier>ade7429</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

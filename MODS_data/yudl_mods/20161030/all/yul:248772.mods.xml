@@ -1,0 +1,38 @@
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods:titleInfo>
+    <mods:title>North America Black Historical Museum button</mods:title>
+  </mods:titleInfo>
+  <mods:name type="corporate">
+    <mods:namePart>North America Black Historical Museum</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+  <mods:genre>Buttons (Information artifacts)</mods:genre>
+  <mods:originInfo>
+    <mods:dateOther>[19--]</mods:dateOther>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Image consists of one round, white, metal button. At the centre is a stylized image of a white maple leaf superimposed on a black tree. To the right of this image is a white drinking gourd. To the left of this image is a black cross superimposed on a white diamond shape. Below these images in uppercase, black text reads:"Amherstburg, Canada".</mods:abstract>
+  <mods:identifier type="local">ASC17631</mods:identifier>
+  <mods:location>
+    <mods:physicalLocation>2007-022 / 120</mods:physicalLocation>
+  </mods:location>
+  <mods:physicalDescription>
+    <mods:form>tactile material</mods:form>
+    <mods:extent>1 button: colour; 5.5 cm</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem>
+    <mods:titleInfo>
+      <mods:title>Jean Augustine fonds (F0515)</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:topic>Underground Railroad</mods:topic>
+  </mods:subject>
+  <mods:accessCondition type="useAndReproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution" License (http://creativecommons.org/licenses/by/2.0/)</mods:accessCondition>
+  <mods:note type="funding">This project was supported by a research grant issued by York University Libraries.</mods:note>
+</mods:mods>

@@ -1,0 +1,51 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Timmins, Porcupine Gold Camp, northern Ontario</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Porcupine Gold Camp</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">onc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Ottawa</placeTerm>
+    </place>
+    <publisher>Printed by the Photogelatine engraving co.</publisher>
+    <dateIssued>19-?]</dateIssued>
+    <dateIssued encoding="marc" point="start" qualifier="questionable">1900</dateIssued>
+    <dateIssued encoding="marc" point="end" qualifier="questionable">1985</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>1 v. (chiefly ill.), [30] mounted plates.</extent>
+  </physicalDescription>
+  <note>Cover title.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn-on</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Ottawa</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Timmins (Ont.)</geographic>
+    <topic>Description</topic>
+    <topic>Views</topic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">880604</recordCreationDate>
+    <recordIdentifier>afl6528</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,45 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>York Lanes (shops), 1985-1989</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <originInfo>
+    <dateCreated>1985-02-18</dateCreated>
+  </originInfo>
+  <abstract>Image of a table with a sign labelled "Women's Books" on it, surrounded by chairs and various standing people. Books on the table include "Psyche," "Feminism and Socialism," "Rebel in Paradise," "Growing Up Female in America," "The Feminist Papers," "Revolutionary Dynamics of Women's Liberation," and "The Autobiography of Mother Jones."</abstract>
+  <identifier type="local">ASC19024</identifier>
+  <location>
+    <physicalLocation>2004-030 / 008</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 17.7 x 12.5 cm</extent>
+  </physicalDescription>
+  <note>"Feb 19 1985" is written on the back of the photograph.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Excalibur Publications Inc. fonds (F0502)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000502.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>feminist theory</topic>
+    <topic>books</topic>
+    <geographic>York Lanes</geographic>
+    <geographic>York University</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>North York</city>
+      <citySection>York University</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.774231, -79.501863</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

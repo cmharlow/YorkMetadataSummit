@@ -1,0 +1,37 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Climate Progress: Ontario's plan for a cleaner, more sustainable future. Annual Report 2009-2010</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Ontario Ministry of the Environment</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Annual Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2011</dateCreated>
+    <publisher>Ontario Ministry of the Environment</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RPT_2011_ON-MEI_Climate-progress-Ontario's-plan-for-a-cleaner-more-sustainable-future-Annual-Report-2009-2010.pdf</identifier>
+  <abstract>This annual report  highlights the progress to date and  steps planned to support Ontario's climate change goals and our vision of a clean and low carbon economy.</abstract>
+  <relatedItem type="host">
+    <part>
+      <date>journal" : </date>
+      <extent>56 p.</extent>
+    </part>
+  </relatedItem>
+  <subject>
+    <topic>Ontario</topic>
+    <topic>Climate change policy</topic>
+  </subject>
+  <location>
+    <url>https://ia801901.us.archive.org/17/items/stdprod085413.ome/stdprod085413.pdf</url>
+  </location>
+  <accessCondition type="useAndReproduction">Crown copyright, Government of Ontario</accessCondition>
+  <accessCondition>These works may be reproduced for non-commercial purposes if credit is given and Crown copyright is acknowledged.   These works may not be reproduced, in all or in part, for any commercial purpose except under a license from the Queen's Printer for Ontario. For information on reproducing Government of Ontario works, please contact ServiceOntario Publications at copyright@ontario.ca.</accessCondition>
+</mods>

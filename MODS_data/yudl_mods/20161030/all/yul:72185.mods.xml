@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Singaround Lovesongs #2</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Michael Cooney</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Host</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>Sound Recording</typeOfResource>
+  <tableOfContents>[Unknown song] / trad. (Michael Cooney).</tableOfContents>
+  <genre>folk music</genre>
+  <originInfo>
+    <dateIssued>1973-07-07</dateIssued>
+    <publisher>Mariposa Folk Foundation</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto Islands</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code"/>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Michael Cooney performs an old English love song about hunting, no song title is provided on harmonica or concertina.</abstract>
+  <identifier>ASC06553</identifier>
+  <physicalDescription>
+    <form>1/4" reel audio tape</form>
+    <extent>0:05:00</extent>
+  </physicalDescription>
+  <note>1:10-1:15 of ASC06549.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Mariposa Folk Foundation fonds (F0511)</title>
+    </titleInfo>
+    <location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Mariposa Folk Festival</topic>
+    <topic>folk music</topic>
+    <topic>guitar</topic>
+    <topic>harmonica</topic>
+    <topic>love songs</topic>
+    <geographic>Area 1</geographic>
+    <temporal>19:00-20:00</temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Toronto Islands</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.620833, -79.378611</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+  <accessCondition type="restrictionOnAccess">Michael Cooney contacted and permission granted.  Songwriter : unknown, probably public domain.</accessCondition>
+</mods>

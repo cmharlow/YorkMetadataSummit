@@ -1,0 +1,43 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mo&#239;se Joessin : les rudes</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Doucet, Louis-Joseph</namePart>
+    <namePart type="date">1874-1959</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Qu&#233;bec</placeTerm>
+    </place>
+    <publisher>L'auteur &#233;diteurs</publisher>
+    <dateIssued>1918</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>80 p.</extent>
+  </physicalDescription>
+  <classification authority="lcc">PS9457.08 M6</classification>
+  <recordInfo>
+    <recordCreationDate encoding="marc">820917</recordCreationDate>
+    <recordIdentifier>aap8004</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

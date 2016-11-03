@@ -1,0 +1,58 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Conjuration Wiman-Laurier contre le Canada : le Canada pour les Etats-Unis, complot d&#233;masqu&#233;</title>
+    <subTitle>le Canada pour les Etats-Unis, complot d&#233;masqu&#233;</subTitle>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Prise du Canada</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Wiman, Erastus</namePart>
+    <namePart type="date">1834-1904</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montr&#233;al</placeTerm>
+    </place>
+    <dateIssued>1891</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>4 p.</extent>
+  </physicalDescription>
+  <note>Caption title : La prise du Canada.</note>
+  <note>Signed : Erastus Wiman.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart>Laurier, Wilfrid</namePart>
+      <namePart type="date">1841-1919</namePart>
+    </name>
+    <topic>Politics and government</topic>
+    <geographic>Canada</geographic>
+    <temporal>1867-1896</temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Montr&#233;al</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">810312</recordCreationDate>
+    <recordIdentifier>afq4707</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.93 2014/01/31)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Matho, or, The cosmotheoria puerilis : a dialogue, in which the first principles of philosophy and astronomy are accommodated to the capacity of young persons, or such as have yet no tincture of these sciences : hence the principles of natural religion are deduced</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Cosmotheoria puerilis</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Baxter, Andrew</namePart>
+    <namePart type="date">1686?-1750</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed for A. Millar, over-against Katharine Street in the Strand</publisher>
+    <dateIssued>1745</dateIssued>
+    <dateIssued encoding="marc" point="start">1745</dateIssued>
+    <dateIssued encoding="marc" point="end">1745</dateIssued>
+    <edition>The 2nd ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <form authority="marccategory">microform</form>
+    <form authority="marcsmd">microfiche</form>
+    <form authority="marccategory">microform</form>
+    <form authority="marcsmd">microfilm reel</form>
+    <extent>2 v.</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">translated, and enlarged by the author.</note>
+  <note>"In two volumes. To which is added, a complete index."</note>
+  <note>Attributed to Andrew Baxter by the Bodleian Library.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Astronomy</topic>
+    <topic>Early works to 1800</topic>
+    <genre>Juvenile literature</genre>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">QB42 .B39 1745</classification>
+  <identifier type="stock number">CL0021000011 UMI, 300 North Zeeb Road, Ann Arbor, MI 48106</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">OPP</recordContentSource>
+    <recordCreationDate encoding="marc">951013</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20021129145728.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm33294161</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

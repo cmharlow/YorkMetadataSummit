@@ -1,0 +1,58 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Amerikan suomalaisten sivistyshistoria : johtavia aatteita, harrastuksia, yhteispyrinto&#776;ja&#776; ja tapahtumia siirtokansan keskuudessa (Volume 2)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Ilmonen, S.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">miu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hancock, Mich</placeTerm>
+    </place>
+    <publisher>Suom.-lut. kustannusliikkeen kirjapaino</publisher>
+    <dateIssued>c1930-31</dateIssued>
+    <dateIssued encoding="marc" point="start">1930</dateIssued>
+    <dateIssued encoding="marc" point="end">1931</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fin</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v. ; 21 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">kirjoittanut S. Ilmonen.</note>
+  <note>SC-SPCOLL copy: Part of the Varpu Lindstro&#776;m fonds d'archives (F0558). Item not available for interlibrary loan.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Michigan</province>
+      <city>Hancock</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Finns</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <classification authority="lcc">E184.F5 I35</classification>
+  <identifier type="lccn">35011474</identifier>
+  <identifier type="oclc">1902101</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">751223</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100317083425.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">a2364844</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <relatedItem><titleInfo><title>Varpu Lindstrom fonds (F0558)</title></titleInfo><location><url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000558.htm</url></location></relatedItem>
+</mods>

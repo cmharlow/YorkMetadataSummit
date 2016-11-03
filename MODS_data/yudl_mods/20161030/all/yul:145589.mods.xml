@@ -1,0 +1,56 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>A compendious history of the northern part of the province of New Brunswick and of the District of Gasp&#233; in Lower Canada</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Cooney's New Brunswick and Gasp&#233;</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Cooney, Robert</namePart>
+    <namePart type="date">1800-1870</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Chatham, Miramichi, N.B</placeTerm>
+    </place>
+    <publisher>D.G. Smith</publisher>
+    <dateIssued>1896</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>288 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Robert Cooney.</note>
+  <note>Spine title: Cooney's New Brunswick and Gasp&#233;.</note>
+  <subject authority="lcsh">
+    <geographic>Gasp&#233; Peninsula (Qu&#233;bec)</geographic>
+    <topic>Description and travel</topic>
+    <geographic>New Brunswick</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>New Brunswick</province>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">OTY</recordContentSource>
+    <recordCreationDate encoding="marc">950817</recordCreationDate>
+    <recordIdentifier>afm5290</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

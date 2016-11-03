@@ -1,0 +1,154 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>&#1588;&#1576;&#1740; &#1586;&#1740;&#1606; &#1605;&#1740;&#8204;&#1582;&#1575;&#1606;&#1607; &#1576;&#1585;&#1705;&#1588;</title>
+		
+      
+		<subTitle>&#1740;&#1705; &#1588;&#1575;&#1582;&#1607; &#1711;&#1604;</subTitle>
+		
+      
+		<subTitle>Yek Shakhe Gol</subTitle>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1581;&#1576;&#1740;&#1576;&#8204;&#1575;&#1604;&#1607; &#1576;&#1583;&#1740;&#1593;&#1740;&#1575;&#1605;&#1740;&#1585;&#1606;&#1575;&#1589;&#1585; &#1575;&#1601;&#1578;&#1578;&#1575;&#1581; </namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Habibollah Badiei,Amir Nasser Aftah</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1605;&#1585;&#1590;&#1740;&#1607; </namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Marzieh</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<typeOfResource>Sound Recording</typeOfResource>
+	
+    
+	<genre>Shur</genre>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">per</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier>Shakheh-Gol-136</identifier>
+	
+    
+	<physicalDescription>
+		
+      
+		<form authority="marcform">sound recording</form>
+		
+      
+		<extent>14:12</extent>
+		
+    
+	</physicalDescription>
+	
+    
+	<subject>
+		
+      
+		<topic>Iranian National Radio</topic>
+		
+      
+		<topic>radio programs</topic>
+		
+      
+		<topic>music</topic>
+		
+      
+		<topic>poetry</topic>
+		
+      
+		<geographic>Iran</geographic>
+		
+      
+		<hierarchicalGeographic>
+			
+        
+			<continent>Asia</continent>
+			
+        
+			<country>Iran</country>
+			
+      
+		</hierarchicalGeographic>
+		
+    
+	</subject>
+	
+  
+</mods>

@@ -1,0 +1,33 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Under the country sky</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Richmond, Grace S. (Grace Smith)</namePart>
+    <namePart type="date">1866-1959</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Garden City</placeTerm>
+    </place>
+    <publisher>Doubleday, Page</publisher>
+    <dateIssued>1916</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>350 p. : ill.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Grace S. Richmond.  Illustrated by Frances Rogers. --</note>
+  <recordInfo>
+    <recordCreationDate encoding="marc">841027</recordCreationDate>
+    <recordIdentifier>adl3588</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

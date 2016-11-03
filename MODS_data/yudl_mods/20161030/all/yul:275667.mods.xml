@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Destroyed woodlot at Hope Farm</title>
+  </titleInfo>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/112774103">
+    <namePart>John Warkentin</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateIssued>1973-08-12</dateIssued>
+    <place>
+      <placeTerm type="text">St. Jean Baptiste, Manitoba</placeTerm>
+    </place>
+    <dateCreated>1973-08-12</dateCreated>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Item consists of a photographic slide with annotations including: "Hope Farm," "-destroyed wood lot," "3-42," "Aug/12/73," "Aug 12/73," "30," "*."</abstract>
+  <identifier type="local">ASC16236</identifier>
+  <location>
+    <physicalLocation>2009-029 / 003 (02)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">projected graphic</form>
+    <extent>1 photograph : colour positive ; 35 mm</extent>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note>One slide scanned out of 86 in file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>John Warkentin fonds (F0184)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000184.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>John Warkentin Photograph Collection</topic>
+    <topic>Farms</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Manitoba</province>
+      <city>St. Jean Baptiste</city>
+      <citySection>Hope Farm</citySection>
+      <county>Montcalm</county>
+    </hierarchicalGeographic>
+    <geographic>Hope Farm</geographic>
+    <geographic>St. Jean Baptiste</geographic>
+    <geographic>Manitoba</geographic>
+    <cartographics>
+      <coordinates>49.219168, -97.388385</coordinates>
+      <note type="content">The geographic coordinates describe the approximate location where the photo was taken.</note>
+    </cartographics>
+  </subject>
+</mods>

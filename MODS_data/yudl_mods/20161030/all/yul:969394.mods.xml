@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Can Canada Expand Oil and Gas Production, Build Pipelines and Keep Its Climate Change Commitments?</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>David Hughes</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>June 2016</dateCreated>
+    <publisher>Canadian Centre for Policy Alternatives. B.C. Office</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>This study assesses the consequences of several scenarios of expansion in the oil and gas sector in terms of the amount that the non&#8211;oil and gas sectors of the economy would need to reduce emissions to meet Canada&#8217;s Paris commitments. It finds Canada cannot meet its global climate commitments while at the same time ramping up oil and gas extraction and building new export pipelines.&#13;
+&#13;
+The study also reviews existing pipeline and rail capacity for oil exports under the cap on oil sands emissions announced last year by the Alberta government (set at 100 million tonnes (Mt) per year) and finds Canada has enough capacity to handle the 45% increase in oil sand production this would entail. It also takes a close look at oil price trends, and finds that new pipelines with tidewater access are unlikely to confer a significant price premium, as is widely believed.</abstract>
+  <subject>
+    <topic>Paris Agreement</topic>
+    <topic>Oil and gas industry</topic>
+  </subject>
+</mods>

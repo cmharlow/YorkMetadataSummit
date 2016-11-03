@@ -1,0 +1,71 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Popular illustrated guide to Canadian coins, medals, &amp;. &amp;. = Guide populaire illustr&#233; des monnaies et m&#233;dailles canadiennes, etc., etc. / by P.N. Breton</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Guide populaire illustr&#233; des monnaies et m&#233;dailles canadiennes, etc., etc</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Breton, Pierre Napol&#233;on</namePart>
+    <namePart type="date">1858-1917</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montreal</placeTerm>
+    </place>
+    <publisher>P.N. Breton</publisher>
+    <dateIssued>1912</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>195 p. : chiefly ill. ; 27 cm.</extent>
+  </physicalDescription>
+  <note>Text in English and French.</note>
+  <subject authority="lcsh">
+    <topic>Coins, Canadian</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Montr&#233;al</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Money</topic>
+    <geographic>Canada</geographic>
+    <topic>History</topic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Numismatics</topic>
+    <geographic>Canada</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Medals</topic>
+    <geographic>Canada</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Tokens</topic>
+    <geographic>Canada</geographic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">870406</recordCreationDate>
+    <recordIdentifier>afm5902</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

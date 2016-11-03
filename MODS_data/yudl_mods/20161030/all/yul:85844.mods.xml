@@ -1,0 +1,100 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+  
+	<titleInfo>
+		
+    
+		<title>President's photos</title>
+		
+  
+	</titleInfo>
+	
+
+  
+	<typeOfResource>still image</typeOfResource>
+	
+  
+	<genre authority="lctgm">Photograph</genre>
+	
+
+  
+	<abstract>Image of Murray Ross</abstract>
+	
+  
+	<identifier type="hdl">http://hdl.handle.net/10315/1120</identifier>
+	
+  
+	<identifier type="local">ASC02070</identifier>
+	
+  
+	<location>
+		
+    
+		<physicalLocation>1993-019 / 026 (261)</physicalLocation>
+		
+  
+	</location>
+	
+  
+	<physicalDescription>
+		
+    
+		<form authority="marcform">nonprojected graphic</form>
+		
+  
+	</physicalDescription>
+	
+  
+  
+	<relatedItem>
+		
+    
+		<titleInfo>
+			
+      
+			<title>Murray George Ross fonds, F0398</title>
+			
+    
+		</titleInfo>
+		
+    
+		<location>
+			
+      
+			<url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000398.htm</url>
+			
+    
+		</location>
+		
+  
+	</relatedItem>
+	
+  
+	<subject>
+		
+    
+		<hierarchicalGeographic>
+			
+      
+			<continent>North America</continent>
+			
+      
+			<country>Canada</country>
+			
+      
+			<province>Ontario</province>
+			
+      
+			<city>Toronto</city>
+			
+    
+		</hierarchicalGeographic>
+		
+  
+	</subject>
+	
+  
+	<accessCondition type="useAndReproduction">Clara Thomas Archives and Special Collections http://www.library.yorku.ca/ccm/ArchivesSpecialCollections/StaffComments.htm</accessCondition>
+	
+
+</mods>

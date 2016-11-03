@@ -1,0 +1,51 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>Honorable Mr. Justice Routhier</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Honourable Mr. Justice Routhier</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Qu&#233;bec</placeTerm>
+    </place>
+    <dateIssued>1893</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>26 p.</extent>
+  </physicalDescription>
+  <note>Caption title.</note>
+  <note>Cover title : The Honourable Mr. Justice Routhier.</note>
+  <note>"Biographical notice" -cover.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart>Routhier, A. B. (Adolphe Basile)</namePart>
+      <namePart type="date">1839-1920</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">810911</recordCreationDate>
+    <recordIdentifier>afq1240</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

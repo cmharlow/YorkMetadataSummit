@@ -1,0 +1,68 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter to Mrs. Stepler from Gordon Stepler, October 18th 1916</title>
+  </titleInfo>
+  <name type="personal">
+    <affiliation>Canadian Armed Forces</affiliation>
+    <namePart>Stepler, Gordon</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Stepler, Ethelwyn</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Letter</genre>
+  <originInfo>
+    <dateCreated>1916-10-18</dateCreated>
+    <place>
+      <placeTerm authority="marccountry">England</placeTerm>
+    </place>
+    <dateOther>18 October 1916</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a letter written by Gordon Stepler to his mother, Mrs. Ethelwyn Stepler. Transcription is as follows:&#13;
+Oct 18/16&#13;
+Dear Mother&#13;
+	Rec'd your letter of Oct 4th to-day and as I did not get the letter off yesterday for lack of a postage stamp can answer it right away.&#13;
+	Well the draft left at 6.30 this morning and will be in France now, so then they are beating us across.&#13;
+	What do you mean by that nonsense about them promising not to send us across until spring or something. They could send us across the day after we enlisted if they want too[sic].&#13;
+	I have not [companions?] now or hives either. Don't you worry that they were caused by me living too high. It was the poor grub we were getting that caused them&#13;
+|page 2&#13;
+as they stopped as soon as I went on leave. However we are getting fine meals now in the new battery.&#13;
+	Judging by some of the letters I get you people in Canada imagine that the war is almost over. The earliest possible time it can end is next fall and I know what I am talking about.&#13;
+	There is a lot of talk of the new battery leaving in a few weeks but no one knows and I think we may be here for two months yet as there is a lot of work to be done. I expect to spend Xmas in France.&#13;
+	I have not had my picture taken yet as you know how much I like that job. However I will get it taken right away. Guess this is all now.&#13;
+		Heap of love.&#13;
+			Gordon</abstract>
+  <identifier type="local">ASC19555</identifier>
+  <location>
+    <physicalLocation>1998-037 / 001 (04)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>1 leaf</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Dorothy Stepler fonds (F0170)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000170.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

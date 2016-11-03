@@ -1,0 +1,31 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Photograph of a soldier in a field</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of photograph of a uniformed man standing in front of a field where several men are sitting or lying. There are rifles arranged among them. On the back of the photograph is written: "&#8230; a Snap taken &#8230; Bivouac one &#8230; of course you &#8230; know who it is ... just going to have dinner." Several of the words are unreadable.</abstract>
+  <identifier type="other">ASC17735</identifier>
+  <location>
+    <physicalLocation>1994-031 / 001 (09)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 5.6 x 7.1 cm</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Beer family fonds (F0375)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000375.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

@@ -1,0 +1,33 @@
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods:titleInfo>
+    <mods:title>March 8 International Women's Day button</mods:title>
+  </mods:titleInfo>
+  <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+  <mods:genre>Buttons (Information artifacts)</mods:genre>
+  <mods:originInfo>
+    <mods:dateOther>[19--]</mods:dateOther>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    <mods:languageTerm authority="iso639-2b" type="code">fre</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Image consists of one round, blue, metal button. At centre is an image of a yellow and white globe with six figures surrounding the globe. At the top, in semi-circle, text reads:"March 8 - International Women's Day". Below the image, in semi-circle, text reads:"Le 8 mars - Journee internationale de la femme".</mods:abstract>
+  <mods:identifier type="local">ASC17646</mods:identifier>
+  <mods:location>
+    <mods:physicalLocation>2007-022 / 120</mods:physicalLocation>
+  </mods:location>
+  <mods:physicalDescription>
+    <mods:form>tactile material</mods:form>
+    <mods:extent>1 button: colour; 5.5 cm</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem>
+    <mods:titleInfo>
+      <mods:title>Jean Augustine fonds (F0515)</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:topic>International Women's Day</mods:topic>
+  </mods:subject>
+  <mods:accessCondition type="useAndReproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution" License (http://creativecommons.org/licenses/by/2.0/)</mods:accessCondition>
+  <mods:note type="funding">This project was supported by a research grant issued by York University Libraries.</mods:note>
+</mods:mods>

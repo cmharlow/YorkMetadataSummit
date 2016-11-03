@@ -1,0 +1,72 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Newsmakers - Dr. R.S. Mendelsohn</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Dr. Robert S. Mendelsohn</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Interviewee</roleTerm>
+    </role>
+  </name>
+  <name type="corporate">
+    <namePart>Kim O'Hare</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Interviewer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>Sound Recording - Nonmusical</typeOfResource>
+  <tableOfContents>Program Introduction / Phil Ross. -- Interview / Dr. Robert S. Mendelsohn. -- Program Conclusion / Phil Ross.</tableOfContents>
+  <genre>non music</genre>
+  <originInfo>
+    <publisher>CHFI</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto, Ontario</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Item consists of an audio recording of the "The Newsmakers" radio program hosted by Phil Ross, in which Kim O'Hare interviews Dr. Robert Mendelsohn. Topics of discussion include the dangers of routine annual physical examinations and x-rays (especially chest and dental x-rays), Mendelsohn's book "Confessions of a Medical Heretic," cervical cancer risk factors, hospital births and caesarean sections, and problems with surgeries (including hysterectomies, vasectomies, routine circumcisions, and tonsillectomies).</abstract>
+  <identifier type="other">ASC17187</identifier>
+  <physicalDescription>
+    <form>audio cassette</form>
+    <extent>00:15:35</extent>
+  </physicalDescription>
+  <note>Digitized at 32 bit, 196 kHz. Background static noise was removed throughout.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Dr. Robert S. Mendelsohn collection (F0649)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000649.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>annual physical</topic>
+    <topic>x-ray</topic>
+    <topic>Confessions of a Medical Heretic</topic>
+    <topic>caesarean section</topic>
+    <topic>surgery</topic>
+    <geographic>United States</geographic>
+    <geographic>Canada</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.650729, -79.377425</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+  <name type="corporate">
+    <namePart>Phil Ross</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Host</roleTerm>
+    </role>
+  </name>
+</mods>

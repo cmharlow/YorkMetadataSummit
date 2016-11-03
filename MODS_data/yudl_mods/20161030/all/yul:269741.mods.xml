@@ -1,0 +1,107 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter from James Allan to Vivien Beer, September 3rd 1916</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Allan, James R.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+    <affiliation>3rd Division Signal Cavalry, 3rd Canadian Division</affiliation>
+  </name>
+  <name type="personal">
+    <namePart>Beer, Vivien</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">letter</genre>
+  <originInfo>
+    <dateCreated>1916-09-03</dateCreated>
+    <dateOther>3 September, 1916</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a letter written by Captain James R. Allan to Vivien Beer. Item includes envelope and pressed flowers folded in a payment stub dated 29 August, 1918. Transcription is as follows: &#13;
+8.10pm&#13;
+Sunday-night,&#13;
+September 3rd, 1916.&#13;
+&#13;
+My own darling Vivien:-&#13;
+	My thoughts have been of you today sweetheart and how I wish I had been with you, for this afternoon at any rate and how I wish I was with you now darling mine, 'cause I love you Vivien and long for your companionship. But I can write you a message of love and regard, which you know comes from my heart, and which, while it does not&#13;
+#2&#13;
+make up, by a long way, for my absence, will make your loneliness easier to bear. This is the object of all my letters to you dear heart and I hope I succeed, 'cause I do not want you to feel a lack of love and affection for you dearie mine, or of sympathy for you in your loneliness, in my letters, 'cause lovie mine my heart is just full of love and affection for you and my own sweetheart I sympathize with you cause I am lonesome&#13;
+#3&#13;
+too . Now darling don't you like me to tell you these things.&#13;
+	Vivien my fondest wish is that we will some day realize the depth of love we have for each other. We of course realize to a certain extent now, but O darling how much better we will realize when we are reunited. It will be just [be?] [alife?] of ecstasy. Now darling all I want (and I have your assurance that you grant me my wish) is you to &#13;
+#4&#13;
+wait for me. Your are a darling for granting me that request and my sweetheart I promise you I will remain true to you in every sense of the word. Oh I am happy at having such a dear, true, noble sweetheart as you are Vivien and I will try and be as good a lover and sweetheart to you. I love you with all my heart Vivien darling and I want to make you happy. Tell me sweetheart if my telling you these things doesn't make you happy. I know it does.&#13;
+#5&#13;
+	Was to service this morning and took communion afterward. We had a splendid attendance, with a goodly percentage of Australians amongst the worshippers.&#13;
+	This afternoon was over to the recreation grounds where I saw two games of baseball, a game of football and a game of indoor baseball. There were two bands in attendance and quite a number of the citizens of the town, as well as the troops, in attendance. The troops are always keen&#13;
+#6&#13;
+for good clean sport. I'd love to get into the game myself. I like the open air very much. You are fond of basketball dear I believe. Don't you love clean sport of all kinds dear.&#13;
+	Started reading your book (you sent me). The Lay of the Last Minstrel and so far I like it fine.&#13;
+River Spirit:-&#13;
+'Tears of an imprison'd maiden&#13;
+[Mist] with my polluted stream:&#13;
+Margaret of Branksome, sorrow-laden&#13;
+Mourns beneath the moon's pale beam.&#13;
+#7&#13;
+'Tell me, thou who view'st the stars,&#13;
+When shall cease these feudal [jars]?&#13;
+What shall be the maiden's fate?&#13;
+Who shall be the maiden's mate?'&#13;
+Mountain Spirit&#13;
+'Arthur's slow vain his course doth roll&#13;
+In utter darkness round the pole;&#13;
+The Northern Bear lowers black and grim;&#13;
+Orion's studded belt is dim;&#13;
+Twinkling faint and distant far,&#13;
+Shimmers through mist each planet star;&#13;
+Ill may I read their high decree!&#13;
+But no kind influence deign they shower&#13;
+On Geriot's tide and Branksome's Tower&#13;
+Till pride be quelled and Love be free.'&#13;
+#8&#13;
+Was rather taken by this dialogue in Canto first. Probably I will strike better as I get into the book further.&#13;
+Darling mine I like to read of love, true love, such as the poet writes of;&#13;
+	Love, true love, it's idealistic charm,&#13;
+	Lifts one above this sordid world and 				&#13;
+                 shelters him from harm&#13;
+	And lover's frankness, to each &#13;
+		other such joy imparts&#13;
+	'Twere not possible to find more&#13;
+	happy hearts (My own)&#13;
+	All my love, affection &amp; kisses sweet&#13;
+		Jimmy</abstract>
+  <identifier type="local">ASC17720</identifier>
+  <location>
+    <physicalLocation>1994-031 / 001 (01)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <extent>3 leaves + envelope + pressed flowers</extent>
+    <form>text</form>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Beer family fonds (F0375)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000375.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>47,&#160;2</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

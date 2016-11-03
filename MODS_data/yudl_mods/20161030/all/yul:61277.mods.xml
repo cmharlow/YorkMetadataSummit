@@ -1,0 +1,137 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Monologues, Tales and Recitations</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Tony Barrand</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Host</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Grant Rogers</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Maggie Peirce</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Pat Byrne</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Joe Bryne</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Tommy Makem</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Owen McBride</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Francis Cornford</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>W.B. Yeats</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Ted Russell</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Marriott Edgar</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Stanley Holloway</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>Sound Recording</typeOfResource>
+  <tableOfContents>Introduction / Tony Barrand. -- Yackville / (Grant Rogers). -- Jack Madden / (Tommy Makem). -- [Unknown title] / Ted Russell (Joe Byrne). -- The Speckled Bird / (Maggie Pierce). -- [Unknown title] / (Owen McBride). -- Discussion / Tony Barrand. -- Poem / (Tommy Makem). -- [Unknown title] / (Joe Byrne). -- [Unknown poem] / (Maggie Pierce). -- The Lake Isle of Innisfree / W.B. Yeats (Maggie Pierce). -- William Bennet / (Tony Barrand). -- The Battle of Hastings / Marriott Edgar, Stanley Holloway (Owen McBride). -- Cold Weather / Ted Russell (Joe Byrne). --- To A Fat Lady Seen From A Train / Francis Cornford (Maggie Pierce).</tableOfContents>
+  <genre>folk music</genre>
+  <originInfo>
+    <dateIssued>1975-06-22</dateIssued>
+    <publisher>Mariposa Folk Foundation</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto Islands</placeTerm>
+    </place>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Item consists of audio recording of a workshop hosted by Tony Barrand and beginning by giving a brief lecture about traditional tales followed by Grant Rogers telling a story about a village called "Yackville" and Tommy Makem recounting a fable about a hump-backed man named Jack Madden. Also consists of Joe Byrne reading a story by Ted Russell, Maggie Pierce telling a traditional Irish tale (The Speckled Bird) and Owen McBride telling a story about a mushroom picker. Next, Tony Barrand briefly discussing recitations and monologues and Tommy Makem reciting a poem by (?). Also consists of Joe Byrne telling a tale, Pierce reciting a poem about butter as well as reciting "The Lake Isle of Innisfree" (W.B. Yeats), Barrand reciting William Bennett (I shall love you when your money is gone but I shan't be with you), a parody of "The Green Eye of the Yellow God" (J. Milton Hayes). Also consists of Owen McBride reciting "The Battle of Hastings" (Marriott Edgar and Stanley Holloway),  Joe Byrne reciting "Cold Weather" (Ted Russell) and Margaret Pierce reciting "To a Fat Lady Seen from a Train" (Francis Cornford).</abstract>
+  <identifier>ASC06036</identifier>
+  <physicalDescription>
+    <form>1/4" reel audio tape</form>
+    <extent>1:27:28</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Mariposa Folk Foundation fonds (F0511)</title>
+    </titleInfo>
+    <location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Mariposa Folk Festival</topic>
+    <topic>monologues</topic>
+    <topic>recitations</topic>
+    <topic>storytelling</topic>
+    <geographic>Area 4</geographic>
+    <temporal>15:00-17:00</temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Toronto Islands</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.620833, -79.378611</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+  <accessCondition type="restrictionOnAccess">Owen McBride contacted, permission granted. &#13;
+Pat Byrne: contacted, permission granted. &#13;
+Tony Barrand: contacted, no response as of 27.04.2010. &#13;
+Tommy Makem : Conor Makem contacted, permission granted.&#13;
+Margaret Pierce: seeking contact information.</accessCondition>
+</mods>

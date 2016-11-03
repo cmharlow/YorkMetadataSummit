@@ -1,0 +1,57 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Guanzi jiao zheng : 24 juan (Volume 5)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Guan, Zhong</namePart>
+    <namePart type="date">d. 645 B.C</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Dai, Wang</namePart>
+    <namePart type="date">1837-1873</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">cc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">China</placeTerm>
+    </place>
+    <dateIssued>Tongzhi 12 nian [1873]</dateIssued>
+    <dateIssued encoding="marc">1873</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">chi</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>6 v. ; 21 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">[Dai Wang zuan].</note>
+  <note>Imprint date from preface.</note>
+  <note>Gift of the East Asian Resource Centre which includes special collections from Jerome Chen and the Chan family.</note>
+  <note>On double leaves, oriental style.</note>
+  <subject authority="lcsh">
+    <topic>Philosophy, Chinese</topic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>China</country>
+    </hierarchicalGeographic>
+  </subject>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Qing dai xue shu cong shu ; 1</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource authority="marcorg">CVU</recordContentSource>
+    <recordCreationDate encoding="marc">951025</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20091217085321.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm33364249</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

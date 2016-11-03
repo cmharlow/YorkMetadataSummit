@@ -1,0 +1,31 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Saving the Planet and Creating Jobs: W3 Atlantic Forum</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Work in a Warming World, York University</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2011</dateCreated>
+    <publisher>Work in a Warming World, York University</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Panel and Keynote presentations from the Work in a Warming World Forum, September 29 &amp; 30, 2011, at St. Thomas University, Fredricton, New Brunswick. The document reproduces presentations from speakers from the Atlantic provinces, British Columbia, New England states. Highlights the green initiatives to date of   the Atlantic federations of labour, CUPW, BlueGreen Alliance, United Steelworkers, Emerald Alliance, with a view to inspiring cooperation between labour and environmental groups.  Some presentations in French and English.</abstract>
+  <relatedItem type="host">
+    <part>
+      <date>2011</date>
+    </part>
+  </relatedItem>
+  <subject>
+    <topic>New Brunswick</topic>
+    <topic>Atlantic Provinces</topic>
+    <topic>Labour union policies</topic>
+  </subject>
+</mods>

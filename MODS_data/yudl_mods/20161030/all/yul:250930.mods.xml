@@ -1,0 +1,46 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Anthologie des &#233;crivains fran&#231;ais du XVIIe si&#232;cle</title>
+    <subTitle>prose</subTitle>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">France</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Biblioth&#232;que Larousse</publisher>
+    <dateIssued>[192-?]</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>187 p., [4] leaves of plates : facsims., ports. ; 20 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">publi&#233;e sous la direction de Gauthier-Ferri&#232;res. --</note>
+  <subject>
+    <geographicCode authority="marcgac">e-fr---</geographicCode>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>French literature</topic>
+    <temporal>17th century</temporal>
+  </subject>
+  <classification authority="lcc">PQ1126 .A58</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">791022</recordCreationDate>
+    <recordIdentifier>aba3437</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

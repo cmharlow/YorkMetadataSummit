@@ -1,0 +1,73 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Jacques Cartier and his four voyages to Canada : an essay, with historical, explanatory and philological notes</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Stephens, Hiram B.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montr&#233;al</placeTerm>
+    </place>
+    <publisher>W. Drysdale &amp; Co.</publisher>
+    <dateIssued>[1890]</dateIssued>
+    <dateIssued encoding="marc">1890</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xii, 163 p. : ill., maps, port.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Hiram B. Stephens ; [pref. by George Murrary]. --</note>
+  <note>Includes English translations from the original French accounts of Cartier's four voyages, with bibliographical notes.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn---</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Montr&#233;al</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Cartier, Jacques</namePart>
+      <namePart type="date">1491-1557</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America</topic>
+    <geographic>Canada</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>New France</geographic>
+    <topic>Discovery and exploration</topic>
+    <topic>French</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>History</topic>
+    <temporal>To 1663 (New France)</temporal>
+  </subject>
+  <classification authority="lcc">FC301.C37 S795</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">771019</recordCreationDate>
+    <recordIdentifier>aaz1054</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

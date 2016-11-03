@@ -1,0 +1,46 @@
+<modsCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <mods version="3.4">
+    <titleInfo>
+      <nonSort>The </nonSort>
+      <title>The fall of New France, 1755-1760; with portraits and views in artotype</title>
+      <subTitle>with portraits and views in artotype. --</subTitle>
+    </titleInfo>
+    <name type="personal" usage="primary">
+      <namePart>Hart, Gerald E.</namePart>
+      <namePart type="date">1849-</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Montr&#233;al</placeTerm>
+      </place>
+      <publisher>Drysdale</publisher>
+      <dateIssued>1888</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>x, 175 p.  pl., port., facs.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+      <geographic>Canada</geographic>
+      <topic>History</topic>
+      <temporal>1713-1763 (New France)</temporal>
+    </subject>
+    <recordInfo>
+      <recordCreationDate encoding="marc">720113</recordCreationDate>
+      <recordIdentifier>aaz4073</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+    </recordInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+  </mods>
+</modsCollection>

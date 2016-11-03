@@ -1,0 +1,43 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Protests, 1990s</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Ontario</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Image of protesters walking, including a small boy. The boy's left hand is being held by a man wearing a sandwich board that says "A line in the sand Demonstrate for Democracy CAW TCA Canada National Automobile Aerospace Transportation and General Workers Union of Canada (CAW Canada)."</abstract>
+  <identifier type="local">ASC17430</identifier>
+  <location>
+    <physicalLocation>2004-030 / 001</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : colour print ; 15.1 x 10.1 cm</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Excalibur Publications Inc. fonds (F0502)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000502.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>protest</topic>
+    <topic>Metro Days of Action</topic>
+    <topic>CAW-TCA</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

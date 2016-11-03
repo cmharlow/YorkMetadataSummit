@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Photographs for Comunidade</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Marques, Domingos</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>1974-00-00</dateCreated>
+    <dateOther>[before 1974?]</dateOther>
+  </originInfo>
+  <abstract>Contact sheet consists of 38 negatives, including: #26A-30A, a baby playing with &#8216;Immigrantes Portugueses: 25 Anos no Canada&#8217; by Domingos Marques and Joao Medeiros; #6, Confederation Block, Parliament Hill, Ottawa; #7-8, Portuguese community center; #9-10, family portraits, mother, father, and 3 children: #6A-11, community event at a memorial; #1A-7, portraits of two men (Domingos Marques and John Medeiros?); #16A-22, 0-5, 5-10, 25th anniversary celebration of the &#8216;Pioneiros&#8217; (1953-1978).</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/6251</identifier>
+  <identifier type="local">ASC06639</identifier>
+  <location>
+    <physicalLocation>2010-019 / 002 (14)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>38 negatives : b&amp;w ; 35mm.</extent>
+  </physicalDescription>
+  <note>Two negatives (#2 and #7) scanned out of 38 in assignment.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Domingos Marques fonds (F0573)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000573.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Portuguese community</topic>
+    <topic>Comunidade : O Jornal Comunit&#225;rio Portugu&#234;s</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

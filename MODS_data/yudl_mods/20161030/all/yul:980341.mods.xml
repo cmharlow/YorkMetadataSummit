@@ -1,0 +1,42 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Pour qu'on aime la geographie</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Miller, Emile</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Montreal</placeTerm>
+    </place>
+    <publisher>G. Ducharme</publisher>
+    <dateIssued>1921</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>242 p. : map.</extent>
+  </physicalDescription>
+  <note>At head of title: Emile Miller.</note>
+  <subject authority="lcsh">
+    <topic>Geography</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Montr&#233;al</city>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="lccn">22000393</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">800612</recordCreationDate>
+    <recordIdentifier>abx8054</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

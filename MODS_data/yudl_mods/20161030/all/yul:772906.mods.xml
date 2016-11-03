@@ -1,0 +1,57 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>Why </nonSort>
+    <title>Why we behave like human beings</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Dorsey, George Amos</namePart>
+    <namePart type="date">1868-1931</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Harper</publisher>
+    <dateIssued>1925</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>512 p.</extent>
+  </physicalDescription>
+  <note type="bibliography">Bibliography: p.485-487.</note>
+  <subject authority="lcsh">
+    <topic>Physiology</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>New York</province>
+      <city>New York</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Embryology</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Evolution</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Psychology</topic>
+  </subject>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Harper's modern science series</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordCreationDate encoding="marc">850120</recordCreationDate>
+    <recordIdentifier>acx2855</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

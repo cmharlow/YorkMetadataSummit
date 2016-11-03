@@ -1,0 +1,44 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>New Brunswick; with notes for emigrants.  Comprehending the early history, an account of the Indians, settlement</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Gesner, Abraham</namePart>
+    <namePart type="date">1797-1864</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Simmonds &amp; Ward</publisher>
+    <dateIssued>1847</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>1 p. l., [v]-xv, [1], 388 p. : 5 pl.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">By Abraham Gesner ... --</note>
+  <note>Title vignette.</note>
+  <note>"A map of the province was intended to have been given with the work, but, owing to an accident to the plate while in the hands of the engraver, it could not be got ready in time, and it was thought impolitic to delay the publication to have a new map engraved." - Notice tipped in at p. [1]</note>
+  <subject authority="lcsh">
+    <geographic>New Brunswick</geographic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="lccn">02006636</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">850912</recordCreationDate>
+    <recordIdentifier>acx6771</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

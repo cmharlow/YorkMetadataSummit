@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Arts - sculptures and paintings, 1996-2003</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[North York], Ontario</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Image of a sculpture comprised of a fallen tree with "This is not art" painted on it, placed in front of the east wall of York Lanes. A woman pushing a stroller is seen in the background of the image.</abstract>
+  <identifier type="local">ASC17448</identifier>
+  <location>
+    <physicalLocation>2004-030 / 001</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 20.2 x 12.8 cm</extent>
+  </physicalDescription>
+  <note>See ASC17447 for a lighter exposure of the same print.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Excalibur Publications Inc. fonds (F0502)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000502.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>sculpture</topic>
+    <topic>York University</topic>
+    <topic>York Lanes</topic>
+    <geographic>York University</geographic>
+    <hierarchicalGeographic>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>[North York]</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.774467, -79.501879</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

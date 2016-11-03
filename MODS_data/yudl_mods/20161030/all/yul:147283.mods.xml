@@ -1,0 +1,49 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Proc&#232;s-verbal d'une r&#233;union des anciens el&#232;ves-pr&#234;tres du Petit S&#233;minaire de Sainte-Marie de Monnoir</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Petit Seminaire de Ste-Marie de Monnoir</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montr&#233;al</placeTerm>
+    </place>
+    <publisher>Beauchemin &amp; Fils</publisher>
+    <dateIssued>[1896]</dateIssued>
+    <dateIssued encoding="marc">1896</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>11 p.</extent>
+  </physicalDescription>
+  <note>Cover title.</note>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Petit Seminaire de Ste-Marie de Monnoir.650::Education</namePart>
+    </name>
+    <geographic>Qu&#233;bec (Province)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Montr&#233;al</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">910205</recordCreationDate>
+    <recordIdentifier>afq3359</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

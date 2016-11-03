@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Transcription of notes on 'Credentials of the Catholic Church' by J. B. Bagshawe</title>
+  </titleInfo>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/29543057">
+    <namePart>Welby, Victoria</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+    <namePart type="termsOfAddress">Lady</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Essay</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <location>
+    <physicalLocation>1970-010 / 022 (02)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>6 pages</extent>
+  </physicalDescription>
+  <note type="funding">Digitization made possible, in whole or in part, through a 2014 Librarians Research Grant.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Lady Victoria Welby fonds (F0443)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000443.htm</url>
+    </location>
+  </relatedItem>
+  <accessCondition type="useAndReproduction">Digitized for access and research purposes only. For further copyright information contact: ascproj@yorku.ca.</accessCondition>
+  <originInfo>
+    <dateOther>[After 1885?]</dateOther>
+  </originInfo>
+  <abstract>Consists of a typescript essay formatted as a series of notes responding to J. B. Bagshawe's 'Credentials of the Catholic Church (record available here: http://www.worldcat.org/title/credentials-of-the-catholic-church/oclc/677234463&amp;referer=brief_results). Likely written after 1885 as that is the earliest publication year of Bagshawe's work.</abstract>
+  <identifier type="local">ASC17774</identifier>
+  <subject>
+    <topic>Revelation</topic>
+    <topic>Authority</topic>
+    <topic>Christianity</topic>
+    <topic>Theology</topic>
+    <topic>Catholic Church</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>51.5, -0.116667</coordinates>
+    </cartographics>
+  </subject>
+</mods>

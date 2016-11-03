@@ -1,0 +1,62 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Travels in Lower Canada, with the author's recollections of the soil, and aspect : the morals, habits, and religious institutions, of that country</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Sketches of Lower Canada</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Sansom, Joseph</namePart>
+    <namePart type="date">1765 or 6-1826</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Cornelius, Elias</namePart>
+    <namePart type="date">1794-1832</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed for S.R. Phillips and co.</publisher>
+    <dateIssued>1820</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>iv, 116 p. : front., ill.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">By Joseph Sansom... --</note>
+  <note>[Phillips, Sir Richard, editor and publisher.  A collection of modern and contemporary voyages and travels.  [3d ser.] v.3, no.1]</note>
+  <note>"Tour in Virginia, Tennessee, &amp;c. ... by the Rev. Elias Cornelius": p.[96]-116.</note>
+  <note>First edition published New York, 1817, with title: Sketches of Lower Canada.</note>
+  <subject authority="lcsh">
+    <geographic>Qu&#233;bec (Province)</geographic>
+    <topic>Description and travel</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Southern States</geographic>
+    <topic>Description and travel</topic>
+  </subject>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Modern voyages and travels ; vol.III, no.1.  March 15, 1820</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">01024991</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">850909</recordCreationDate>
+    <recordIdentifier>acd6680</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

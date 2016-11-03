@@ -1,0 +1,47 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Impressions de voyage</title>
+    <subTitle>Rome</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Cimon, Henri</namePart>
+    <namePart type="date">1855-1927</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Qu&#233;bec</placeTerm>
+    </place>
+    <dateIssued>1898</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Henri Cimon.</note>
+  <note>"Second partie" -t.p., v. 1.</note>
+  <subject authority="lcsh">
+    <geographic>Rome (Italy)</geographic>
+    <topic>Description and travel</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">811022</recordCreationDate>
+    <recordIdentifier>afq2811</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

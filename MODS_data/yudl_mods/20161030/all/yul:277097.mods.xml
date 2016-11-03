@@ -1,0 +1,53 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>Le </nonSort>
+    <title>Le premier registre d'etat civil de Montreal</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Lapalice, Ovide M H</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montr&#233;al</placeTerm>
+    </place>
+    <publisher>C. A. Marchand</publisher>
+    <dateIssued>1911</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>28 p.</extent>
+  </physicalDescription>
+  <note>Cover title.</note>
+  <note>From Canadian antiquarian and numismatic journal, Ocober 1911.</note>
+  <subject authority="lcsh">
+    <topic>Registers of births, etc</topic>
+    <geographic>Quebec (Province)</geographic>
+    <geographic>Montreal</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Montr&#233;al</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Montr&#233;al (Qu&#233;bec)</geographic>
+    <topic>History</topic>
+    <topic>Sources</topic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">820611</recordCreationDate>
+    <recordIdentifier>acu3673</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,51 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>British fresh-water Copepoda</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Gurney, Robert</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Ray Society</publisher>
+    <dateIssued>1931-</dateIssued>
+    <dateIssued encoding="marc">1931</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>v. : ill.</extent>
+  </physicalDescription>
+  <note type="bibliography">Includes bibliographies.</note>
+  <subject authority="lcsh">
+    <topic>Copepoda</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Crustacea</topic>
+    <geographic>Great Britain</geographic>
+  </subject>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Ray Society [Publications] ; no. 118-119</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordCreationDate encoding="marc">850216</recordCreationDate>
+    <recordIdentifier>a494607</recordIdentifier>
+    <recordIdentifier>acd0820</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

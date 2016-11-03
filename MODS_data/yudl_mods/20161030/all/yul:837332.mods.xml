@@ -1,0 +1,43 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The natural history of cage birds : their management, habits, food, diseases, treatment, breeding, and the methods of catching them</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Bechstein, Johann Mattha&#776;us</namePart>
+    <namePart type="date">1757-1822</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Groombridge and sons</publisher>
+    <dateIssued>1888</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>311 p. : col. front., ill., col. plates.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">By J. M. Bechstein, M.D. --</note>
+  <subject authority="lcsh">
+    <topic>Cage-birds</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="lccn">15016131</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">850326</recordCreationDate>
+    <recordIdentifier>acr1954</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

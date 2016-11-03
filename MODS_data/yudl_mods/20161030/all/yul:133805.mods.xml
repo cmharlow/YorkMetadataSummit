@@ -1,0 +1,58 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>A collection of psalms and hymns in the Mohawk language : for the use of the Six Nations Indians</title>
+    <subTitle>for the use of the Six Nations Indians</subTitle>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Ne karoron ne teyerikwahkwatha</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Company for Propagation of the Gospel in New England and the Parts Adjacent in America</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">S.l</placeTerm>
+    </place>
+    <dateIssued>1839</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">moh</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>1 v. (various pagings)</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by the New-England Corporation.</note>
+  <note>Added t.p. in Mohawk: Ne karoron ne teyerihwahkwatha ...</note>
+  <note>Mohawk and English on opposite pages, numbered in duplicate, except p. 63-80 in Mohawk. Index in Mohawk.</note>
+  <note>Without music.</note>
+  <note>Includes index.</note>
+  <subject authority="lcsh">
+    <topic>Hymns, English</topic>
+    <topic>Texts</topic>
+    <topic>Mohawk language</topic>
+    <topic>Hymns, Mohawk</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">BV510.M64 C3</classification>
+  <recordInfo>
+    <recordCreationDate encoding="marc">780427</recordCreationDate>
+    <recordIdentifier>afm1370</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.93 2014/01/31)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

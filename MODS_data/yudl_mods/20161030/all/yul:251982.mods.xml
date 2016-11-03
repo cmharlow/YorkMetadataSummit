@@ -1,0 +1,40 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>La </nonSort>
+    <title>La ligue du Sacr&#233;-Coeur : Apostolat de la pri&#232;re, branche des hommes, au Gesu, rue Bleury, Montr&#233;al</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Apostolat de la pri&#232;re</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateIssued>1891?]</dateIssued>
+    <dateIssued encoding="marc">1891</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>15 p.</extent>
+  </physicalDescription>
+  <note>Cover title.</note>
+  <note>"Constitutions et r&#232;glements approuv&#233;s par le Conseil de la ligue le 29 septembre 1891" -cover.</note>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Apostleship of Prayer.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Church societies</topic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">870930</recordCreationDate>
+    <recordIdentifier>afq0456</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

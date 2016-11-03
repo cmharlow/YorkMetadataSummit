@@ -1,0 +1,37 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Landscapes</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <abstract>Wide-angled image of the Ross Building with the "Ross ramp" in prominence</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/706</identifier>
+  <identifier type="local">ASC00261</identifier>
+  <location>
+    <physicalLocation>2004-030 / 002</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Excalibur Publications Inc. fonds (F0502)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000502.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Landscapes</topic>
+    <topic>Ross Ramp</topic>
+    <topic>Ross Building</topic>
+    <topic>Buildings</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Clara Thomas Archives and Special Collections http://www.library.yorku.ca/ccm/ArchivesSpecialCollections/StaffComments.htm</accessCondition>
+</mods>

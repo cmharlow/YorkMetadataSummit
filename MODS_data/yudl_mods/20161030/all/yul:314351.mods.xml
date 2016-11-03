@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>&#4129;&#4116;&#4140;&#4098;&#4112;&#4119;&#4143;&#4114;&#4153;&#4115;&#4125;&#4150;&#4126;&#4096;&#4113;&#4140;&#4096;&#4155;&#4121;&#4154;&#4152;&#8203;&#4171;&#4096;&#4121;&#4153;&#4121;&#4108;&#4116;&#4121;&#4145;&#4114;&#4116;&#4141;&#4096;&#4155;&#4121;&#4154;&#4152;</title>
+  </titleInfo>
+  <titleInfo type="translated" lang="eng">
+    <title>[Treatises on Anargata Buddhavamsa and Kammahtana Maedani]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#4112;&#4145;&#4103;&#4125;&#4150;&#4126; [Teza Wunta]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Treatise on Buddhist</genre>
+  <originInfo>
+    <copyrightDate>1902</copyrightDate>
+    <issuance>monographic</issuance>
+    <publisher>&#4127;&#4150;&#4126;&#4125;&#4112;&#4142;&#4126;&#4112;&#4100;&#4154;&#4152;&#4101;&#4140;&#4112;&#4141;&#4143;&#4096;&#4154; [Hanthawaddy Press]</publisher>
+    <place>
+      <placeTerm type="text">Myanmar</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Yangon</placeTerm>
+    </place>
+    <dateIssued>1902</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">Bur</languageTerm>
+  </language>
+  <identifier>BAB-B00068</identifier>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>100</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Pansodan Research Library</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>S&#257;sana decline</topic>
+    <topic>Buddhism</topic>
+    <topic>Mettayya</topic>
+    <topic>Millenarianism</topic>
+    <geographic>Rangoon</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <city>Yangon</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

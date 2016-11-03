@@ -1,0 +1,169 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>&#1711;&#1604;&#1607;&#1575;&#1740; &#1585;&#1606;&#1711;&#1575;&#1585;&#1606;&#1711; (Golhaye Rangarang No. 472)</title>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1607;&#1605;&#1575;&#1740;&#1608;&#1606; &#1582;&#1585;&#1605;</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1605;&#1585;&#1590;&#1740;&#1607;&#1548; &#1587;&#1740;&#1575;&#1608;&#1588;</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Marzieh,Siavash</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1607;&#1605;&#1575;&#1740;&#1608;&#1606; &#1582;&#1585;&#1605; </namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Homayun Khoram</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<typeOfResource>Sound Recording</typeOfResource>
+	
+    
+	<genre>&#1607;&#1605;&#1575;&#1740;&#1608;&#1606;</genre>
+	
+    
+	<genre>Homayun</genre>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">per</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier>Golhaye-Rangarang-472</identifier>
+	
+    
+	<physicalDescription>
+		
+      
+		<form authority="marcform">sound recording</form>
+		
+    
+	</physicalDescription>
+	
+    
+	<abstract>&#1582;&#1575;&#1591;&#1585;&#1575;&#1578; &#1593;&#1605;&#1585; &#1585;&#1601;&#1578;&#1607; &#1583;&#1585; &#1606;&#1592;&#1585;&#1711;&#1575;&#1607;&#1605; &#1606;&#1588;&#1587;&#1578;&#1607;</abstract>
+	
+    
+	<subject>
+		
+      
+		<topic>Iranian National Radio</topic>
+		
+      
+		<topic>radio programs</topic>
+		
+      
+		<topic>music</topic>
+		
+      
+		<topic>poetry</topic>
+		
+      
+		<geographic>Iran</geographic>
+		
+      
+		<hierarchicalGeographic>
+			
+        
+			<continent>Asia</continent>
+			
+        
+			<country>Iran</country>
+			
+      
+		</hierarchicalGeographic>
+		
+    
+	</subject>
+	
+  
+</mods>

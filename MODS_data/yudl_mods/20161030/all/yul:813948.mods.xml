@@ -1,0 +1,54 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The theatre of Neptune in New France, presented upon the waves of Port Royal the fourteenth day of November, sixteen hundred and six, on the return of the Sieur de Poutrincourt from the Armouchiquois country</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Lescarbot, Marc</namePart>
+    <namePart type="date">1570?-1630?</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">mau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+    <publisher>Houghton Mifflin</publisher>
+    <dateIssued>1927</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>28 p. ill.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Marc Lescarbot; the French text, with translation by Harriette Taber Richardson.</note>
+  <note>"Four hundred and fifty copies of this book...were printed...in September, 1927." This is number 30.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Richardson,  Harriette Taber</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Massachusetts</province>
+      <city>Boston</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>French-Canadian drama</topic>
+  </subject>
+  <classification authority="lcc">PS9523.E83 T413</classification>
+  <classification authority="ddc">819.23</classification>
+  <recordInfo>
+    <recordCreationDate encoding="marc">841108</recordCreationDate>
+    <recordIdentifier>aaw7315</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,80 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>The Big Songs</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Michael Cooney</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Host</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Sir Walter Scott</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>Sound Recording</typeOfResource>
+  <tableOfContents>O, Forbid Ye Maidens All / Sir Walter Scott (Michael Cooney).</tableOfContents>
+  <genre>folk music</genre>
+  <originInfo>
+    <dateIssued>1975-06-22</dateIssued>
+    <publisher>Mariposa Folk Foundation</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto Islands</placeTerm>
+    </place>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code"/>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    <languageTerm authority="iso639-2b" type="code">gla</languageTerm>
+  </language>
+  <abstract>Item consists of audio recording of Michael Cooney performing "O, I Forbid You Maidens All" (Sir Walter Scott) at The Big Songs workshop.</abstract>
+  <identifier>ASC06542</identifier>
+  <physicalDescription>
+    <form>1/4" reel audio tape</form>
+    <extent>0:21:28</extent>
+  </physicalDescription>
+  <note>The audio cuts off partway through the song.&#13;
+0:26:21-0:47:42 of ASC06540.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Mariposa Folk Foundation fonds (F0511)</title>
+    </titleInfo>
+    <location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Mariposa Folk Festival</topic>
+    <topic>guitar</topic>
+    <topic>banjo</topic>
+    <topic>zither</topic>
+    <topic>ballads</topic>
+    <geographic>Area 5</geographic>
+    <temporal>16:15 -18:15</temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Toronto Islands</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.620833, -79.378611</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+  <accessCondition type="restrictionOnAccess"/>
+</mods>

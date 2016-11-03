@@ -1,0 +1,121 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>Greening Hotels and Fair Labour Practices</title>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Tufts, Steve</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart> Milne, Simon</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<genre>working paper</genre>
+	
+    
+	<typeOfResource>text</typeOfResource>
+	
+    
+	<originInfo>
+		
+      
+		<dateCreated>2011</dateCreated>
+		
+    
+	</originInfo>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier type="local">WP_2011-05_Tufts_Greening-Hotels-and-Fair-Labour-Practices.pdf</identifier>
+	
+    
+	<abstract>In recent years, a number of labour union strategic initiatives have been developed which seek to leverage consumer preference against employers in the accommodation services sector. These programs largely focus on rating and certifying hotels based upon environmentally and socially responsible behaviour and labour friendly practices. In part, the campaigns are a response to the perceived 'green-washing' of hotels through voluntary, self-reporting rating systems. This paper examines three union campaigns that recommend hotels according to social and environmental criteria: The Fair Hotels campaign (Ireland); the First Star program (Australia); and INMEX (United States and Canada). We find that these emerging campaigns differ in orientation, but all face challenges in their ability to meet their strategic goals. Specifically we find limitations related to the geographic scale of the campaigns and their inability to advocate for any significant shift toward a more socially and environmentally sustainable accommodation services sector.</abstract>
+	
+    
+	<relatedItem type="host">
+		
+      
+		<part>
+			
+        
+			<date>journal" : </date>
+			
+        
+			<extent>18 p.</extent>
+			
+      
+		</part>
+		
+    
+	</relatedItem>
+	
+    
+	<subject>
+		
+      
+		<topic>Greening Work in a Chilly Climate</topic>
+		
+      
+		<topic>Tourism</topic>
+		
+      
+		<topic>Sustainability</topic>
+		
+      
+		<topic>Climate Change</topic>
+		
+    
+	</subject>
+	
+    
+	<identifier type="url">http://warming.apps01.yorku.ca/wp-content/uploads/WP_2011-05_Tufts_Milne_Greening-Hotels.pdf</identifier>
+	
+    
+	<accessCondition type="useAndReproduction">All rights reserved</accessCondition>
+	
+  
+</mods>

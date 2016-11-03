@@ -1,0 +1,47 @@
+<modsCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <mods version="3.4">
+    <titleInfo>
+      <title>Lecture delivered before the Committee on Agriculture of the Legislative Assembly of Quebec, at the Parliament House, Quebec</title>
+    </titleInfo>
+    <name type="personal" usage="primary">
+      <namePart>Robertson, James W. (James Wilson)</namePart>
+      <namePart type="date">1857-1930</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+      </place>
+      <dateIssued>1895</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>16 p.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">by Professor James W. Robertson.</note>
+    <subject authority="lcsh">
+      <topic>Cattle trade</topic>
+      <geographic>Quebec (Province)</geographic>
+      <topic>Dairy products industry</topic>
+      <hierarchicalGeographic>
+        <continent>North America</continent>
+        <country>Canada</country>
+        <province>Qu&#233;bec</province>
+      </hierarchicalGeographic>
+    </subject>
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordCreationDate encoding="marc">910205</recordCreationDate>
+      <recordIdentifier>afq1675</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+    </recordInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+  </mods>
+</modsCollection>

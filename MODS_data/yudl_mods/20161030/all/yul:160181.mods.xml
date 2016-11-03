@@ -1,0 +1,59 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Encyclop&#233;die de la musique et dictionnaire</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Lavignac, Albert</namePart>
+    <namePart type="date">1846-1916</namePart>
+  </name>
+  <name type="personal">
+    <namePart>La Laurencie, Lionel de</namePart>
+    <namePart type="date">1861-1933</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Conservatoire national de musique et de d&#233;clamation (France)</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">France</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>C. Delagrave</publisher>
+    <dateIssued>1913-1931</dateIssued>
+    <dateIssued encoding="marc" point="start">1913</dateIssued>
+    <dateIssued encoding="marc" point="end">1931</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>11 v. : ill. (incl. music) diagrs.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">directeur, Albert Lavignac. --</note>
+  <note>Edited by A. Lavignac and, after his death, by L. de La Laurencie.</note>
+  <note type="bibliography">Includes bibliographies.</note>
+  <subject authority="lcsh">
+    <topic>Music</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">ML100 .E5</classification>
+  <identifier type="lccn">14000625 //r862</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">780131</recordCreationDate>
+    <recordIdentifier>a249086</recordIdentifier>
+    <recordIdentifier>abb6932</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,42 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Studies on the structure &amp; development of vertebrates</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Goodrich, Edwin S. (Edwin Stephen)</namePart>
+    <namePart type="date">1868-1946</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Macmillan</publisher>
+    <dateIssued>1930</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>837 p. : ill.</extent>
+  </physicalDescription>
+  <note type="bibliography">Includes bibliography.</note>
+  <subject authority="lcsh">
+    <topic>Vertebrates</topic>
+    <topic>Anatomy</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">850102</recordCreationDate>
+    <recordIdentifier>adl4789</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,54 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Daheshanren shi ji (Volume 1)</title>
+  </titleInfo>
+  <titleInfo type="uniform" nameTitleGroup="1">
+    <title>Poems. 1923</title>
+  </titleInfo>
+  <name type="personal" usage="primary" nameTitleGroup="1">
+    <namePart>Zheng, Wenzhuo</namePart>
+    <namePart type="date">1856-1918</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">cc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Suzhou</placeTerm>
+    </place>
+    <publisher>Zhen xin shu she</publisher>
+    <dateIssued>Minguo 12 [1923]</dateIssued>
+    <dateIssued encoding="marc">1923</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">chi</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v. ; 30 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">[Zheng Wenzhuo].</note>
+  <note>On double leaves, oriental style.</note>
+  <note>Gift of the East Asian Resource Centre which includes special collections from Jerome Chen and the Chan family.</note>
+  <subject authority="lcsh">
+    <topic>Chinese poetry</topic>
+    <temporal>Qing dynasty, 1644-1912</temporal>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>China</country>
+      <city>Suzhou</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">CLU</recordContentSource>
+    <recordCreationDate encoding="marc">070221</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20091222083302.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm84773194</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

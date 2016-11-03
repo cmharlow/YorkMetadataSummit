@@ -1,0 +1,54 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>British Empire League in Canada : speech delivered by the president, George T. Denison, in moving the adoption of the annual report at the annual meeting of the League : held in the Railway Committee Room, House of Commons, Ottawa, on Thursday, 6th April, 1899</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Denison, George T. (George Taylor)</namePart>
+    <namePart type="date">1839-1925</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>British Empire League</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <publisher>Printed by order of the annual meeting by the Carswell Co.</publisher>
+    <dateIssued>1899</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>16 p.</extent>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <topic>Imperial federation</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Great Britain</geographic>
+    <topic>Colonies</topic>
+    <geographic>America</geographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">810226</recordCreationDate>
+    <recordIdentifier>afq3242</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

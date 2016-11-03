@@ -1,0 +1,16 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Pivot of Buddhism</title>
+    <partNumber>Vol. 1, no. 1</partNumber>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre>journal</genre>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+  </physicalDescription>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

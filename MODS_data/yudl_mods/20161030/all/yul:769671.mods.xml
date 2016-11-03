@@ -1,0 +1,52 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>Les </nonSort>
+    <title>Les id&#233;es m&#233;dicales dans le th&#233;&#226;tre contemporain</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Eyri&#232;s, Eug&#232;ne</namePart>
+    <namePart type="date">1873-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montpellier</placeTerm>
+    </place>
+    <publisher>Impr. Delord-Boehm et Martial</publisher>
+    <dateIssued>1904</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>270p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Eug&#232;ne   Eyri&#232;s.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject authority="lcsh">
+    <topic>Drama</topic>
+    <temporal>19th century</temporal>
+    <topic>History and criticism</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Montpellier</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Medicine in literature</topic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">770908</recordCreationDate>
+    <recordIdentifier>aab1471</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

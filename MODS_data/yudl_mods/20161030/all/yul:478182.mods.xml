@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>&#4125;&#4139;&#4101;&#4153;&#4101;&#4125;&#4139;&#4101;&#4096;&#4098;&#4111;&#4153;&#4109;&#4141; [Myanmar Grammar]</title>
+  </titleInfo>
+  <titleInfo type="translated" lang="eng">
+    <title>[Myanmar Grammar]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#4129;&#4123;&#4141;&#4122;&#4125;&#4150;&#4126;&#4121;&#4113;&#4145;&#4151;&#4123;&#4154; [Ariya Wuntha Mahthera]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Myanmar language</genre>
+  <originInfo>
+    <copyrightDate>1901</copyrightDate>
+    <issuance>monographic</issuance>
+    <publisher>Hanthawaddy Press</publisher>
+    <place>
+      <placeTerm type="text">Myanmar</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Yangon</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">Bur</languageTerm>
+  </language>
+  <identifier>BAB-B0100</identifier>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>59</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>UCL</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Linguistics</topic>
+    <topic>Language</topic>
+    <topic>Grammar</topic>
+    <geographic>Rangoon</geographic>
+    <geographic>Yangon</geographic>
+    <geographic>Asia</geographic>
+    <geographic>Myanmar</geographic>
+    <geographic>Burma</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <city>Yangon</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

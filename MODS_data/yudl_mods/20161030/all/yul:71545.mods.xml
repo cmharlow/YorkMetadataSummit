@@ -1,0 +1,169 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>&#1711;&#1604;&#1607;&#1575;&#1740; &#1585;&#1606;&#1711;&#1575;&#1585;&#1606;&#1711; (Golhaye Rangarang No. 491B)</title>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1582;&#1585;&#1605;&#1548; &#1588;&#1585;&#1740;&#1601;&#1548; &#1605;&#1604;&#1705;</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1576;&#1740;&#1606;&#1575;&#1548; &#1575;&#1740;&#1585;&#1580;</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Bina,Iraj</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1605;&#1607;&#1583;&#1740; &#1582;&#1575;&#1604;&#1583;&#1740; </namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Mehdi khaledi</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<typeOfResource>Sound Recording</typeOfResource>
+	
+    
+	<genre>&#1605;&#1575;&#1607;&#1608;&#1585;</genre>
+	
+    
+	<genre>Mahur</genre>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">per</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier>Golhaye-Rangarang-491B</identifier>
+	
+    
+	<physicalDescription>
+		
+      
+		<form authority="marcform">sound recording</form>
+		
+    
+	</physicalDescription>
+	
+    
+	<abstract>&#1576;&#1575;&#1583;&#1607; &#1576;&#1583;&#1607; &#1705;&#1607; &#1711;&#1608;&#1740;&#1605;&#1578; &#1605;&#1606; &#1705;&#1740;&#1605; &#1608; &#1670;&#1607; &#1705;&#1575;&#1585;&#1607;&#8204;&#1575;&#1605;</abstract>
+	
+    
+	<subject>
+		
+      
+		<topic>Iranian National Radio</topic>
+		
+      
+		<topic>radio programs</topic>
+		
+      
+		<topic>music</topic>
+		
+      
+		<topic>poetry</topic>
+		
+      
+		<geographic>Iran</geographic>
+		
+      
+		<hierarchicalGeographic>
+			
+        
+			<continent>Asia</continent>
+			
+        
+			<country>Iran</country>
+			
+      
+		</hierarchicalGeographic>
+		
+    
+	</subject>
+	
+  
+</mods>

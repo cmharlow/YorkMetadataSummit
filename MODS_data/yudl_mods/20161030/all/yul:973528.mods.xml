@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>P&#233;n&#233;lope : trag&#233;die</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Genest, (Charles-Claude)</namePart>
+    <namePart type="termsOfAddress">Mr. l'abb&#233;</namePart>
+    <namePart type="date">1639-1719</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Ribou</publisher>
+    <dateIssued>1735</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>96 p.</extent>
+  </physicalDescription>
+  <note>"R&#233;imprim&#233; telle qu'on la repr&#233;sente &#224; la Com&#233;die fran&#231;oise [sic]".</note>
+  <classification authority="lcc">PQ1799.G32 P4 1735</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">OTY</recordContentSource>
+    <recordCreationDate encoding="marc">940831</recordCreationDate>
+    <recordIdentifier>afj0145</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

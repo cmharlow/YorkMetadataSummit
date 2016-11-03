@@ -1,0 +1,44 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>Georgian Bay and Thirty Thousand Islands : views representative of the wonderful beauty and picturesque scenery to be found in the Georgian Bay district</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">onc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Owen Sound, Ont</placeTerm>
+    </place>
+    <publisher>Fleming Pub. Co.</publisher>
+    <dateIssued>[19--]</dateIssued>
+    <dateIssued encoding="marc" point="start" qualifier="questionable">1900</dateIssued>
+    <dateIssued encoding="marc" point="end" qualifier="questionable">1986</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>[56] p. : ill.</extent>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <geographic>Georgian Bay (Ont.)</geographic>
+    <topic>Description and travel</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Owen Sound</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">861107</recordCreationDate>
+    <recordIdentifier>afl6549</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

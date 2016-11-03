@@ -1,0 +1,51 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Aldine House</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Dent (J.M.) and Sons, ltd., London</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <dateIssued>1926</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>39 p. : ill.</extent>
+  </physicalDescription>
+  <note>Inscription to True Davidson on flyleaf.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Dent, Joseph Mallaby</namePart>
+      <namePart type="date">1849-1926</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Dent (J.M.) and Sons, ltd., London.</namePart>
+    </name>
+  </subject>
+  <classification authority="lcc">Z325 .D4</classification>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840106</recordCreationDate>
+    <recordIdentifier>aau2842</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,53 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Bulletin no. 9 de la biblioth&#232;que et du mus&#233;e du Coll&#232;ge Saint-Laurent, pr&#232;s Montr&#233;al, Canada = Bulletin no. 9 of the Library and Museum of the St. Laurent College near Montreal, Canada</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Coll&#232;ge de Saint-Laurent</namePart>
+    <namePart>Biblioth&#232;que.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Coll&#232;ge de Saint-Laurent</namePart>
+    <namePart>Mus&#233;e.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>St. Laurent College</namePart>
+    <namePart>Library.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Le Coll&#232;ge</publisher>
+    <dateIssued>[1893]</dateIssued>
+    <dateIssued encoding="marc">1892</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>24 p.</extent>
+  </physicalDescription>
+  <note>Text in French and English.</note>
+  <note>Cover title.</note>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>St. Laurent College.</namePart>
+      <namePart>Library.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>St. Laurent College.</namePart>
+      <namePart>Museum.</namePart>
+    </name>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">890927</recordCreationDate>
+    <recordIdentifier>afq1303</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

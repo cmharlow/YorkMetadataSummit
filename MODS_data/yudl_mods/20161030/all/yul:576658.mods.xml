@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Promoting safety and health in a green economy</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>International Labour Organization (ILO)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>working paper</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2012</dateCreated>
+    <publisher>ILO</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>The report looks at different "green industries" from  an OSH perspective. Industries discussed include all forms of renewable  energy, waste management (including shipbreaking), agriculture,  forestry, construction, and the special case of nuclear energy.</abstract>
+  <subject>
+    <topic>Green jobs</topic>
+    <topic>Occupational health and safety</topic>
+  </subject>
+  <accessCondition>Copyright remains with the creator.   License to reproduce this document without alteration granted by the ILO in August 2015.</accessCondition>
+  <accessCondition type="useAndReproduction">ILO</accessCondition>
+</mods>

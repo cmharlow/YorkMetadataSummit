@@ -1,0 +1,48 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>L'</nonSort>
+    <title>L'emprunt de 1894 : discours</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Nantel, G.-A. (Guillaume-Alphonse)</namePart>
+    <namePart type="date">1852-1909</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Qu&#233;bec</placeTerm>
+    </place>
+    <dateIssued>1894</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>13 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">prononc&#233; par l'Hon. M. Nantel, a l'Assembl&#233;e Legislative de Qu&#233;bec, le 6 d&#233;cembre 1894.</note>
+  <note>Cover title.</note>
+  <note>Text in two columns.</note>
+  <subject authority="lcsh">
+    <geographic>Qu&#233;bec (Province)</geographic>
+    <topic>Politics and government</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">910205</recordCreationDate>
+    <recordIdentifier>afq1497</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

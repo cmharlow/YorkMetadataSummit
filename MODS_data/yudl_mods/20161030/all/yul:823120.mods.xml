@@ -1,0 +1,26 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Climate Justice, green jobs and sustainability</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Lee, Marc</namePart>
+    <role>Author</role>
+  </name>
+  <name type="personal">
+    <namePart>Carlaw, Kenneth</namePart>
+    <role>Author</role>
+  </name>
+  <genre>working paper</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2010</dateCreated>
+    <publisher>Canadian Centre for Policy Alternatives</publisher>
+  </originInfo>
+  <language>eng</language>
+  <abstract>The authors advocate a green social contract:  "A &#8220;green social contract&#8221; would guide a government to prioritize both the environment and the well-being of its citizens in any decision-making process, and would include strategies for helping workers transition to green jobs and protect against widespread unemployment. &#8220;Just transition&#8221; packages should include education and training, income support and mobility allowances for workers who need assistance in changing careers. A coordinated strategy should bring in secondary, post-secondary and training/apprenticeship programs to ensure appropriate skills development."</abstract>
+  <subject>
+    <topic>British Columbia</topic>
+    <topic>Just Transition</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License</accessCondition>
+</mods>

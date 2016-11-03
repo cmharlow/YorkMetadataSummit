@@ -1,0 +1,53 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>The bibliography of Thorstein Veblen</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Southwestern political and social science quarterly</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Innis, Harold Adams</namePart>
+    <namePart type="date">1894-1952</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <dateIssued>1929?</dateIssued>
+    <dateIssued encoding="marc">1929</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>13 p. ; 26 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Harold A. Innis.</note>
+  <note>Reprint from The Southwestern political and social science quarterly, v.10, no. 1, June 1929.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Veblen, Thorstein</namePart>
+      <namePart type="date">1857-1929</namePart>
+    </name>
+    <genre>Bibliography</genre>
+  </subject>
+  <classification authority="lcc">HB119.V4I56 1929</classification>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Southwestern political and social science quarterly</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="oclc">271411017</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">UBF</recordContentSource>
+    <recordCreationDate encoding="marc">950522</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20120619142049.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocn271411017</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

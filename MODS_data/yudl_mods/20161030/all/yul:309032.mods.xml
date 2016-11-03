@@ -1,0 +1,48 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Nordamerika's Bewohner, Sch&#246;nheiten und Natursch&#228;tze im Allgemeinen und die brittischen Besitzungen insbesondere</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Bromme, Traugott</namePart>
+    <namePart type="date">1802-1866</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Germany</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Stuttgart</placeTerm>
+    </place>
+    <publisher>J. Scheible</publisher>
+    <dateIssued>1839</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>796 p., 48 leaves of plates (some folded) : ill. ; 23 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">geschildert von Traugott Bromme ; Mit zwei Stahlstichen und achtundvierzig, Kupfertafeln.</note>
+  <note>Added t.-p., engr., with title: Nord-Amerika.</note>
+  <subject authority="lcsh">
+    <geographic>North America</geographic>
+    <topic>Description and travel</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Germany</country>
+      <city>Stuttgart</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">E38 .B89</classification>
+  <identifier type="lccn">02001922</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">790202</recordCreationDate>
+    <recordIdentifier>afl1181</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

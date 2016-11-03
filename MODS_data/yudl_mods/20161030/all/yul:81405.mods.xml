@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Photographs for Comunidade</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Marques, Domingos</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>2010-11-27T17:46:00Z</dateCreated>
+    <dateOther>[after 1974?]</dateOther>
+  </originInfo>
+  <abstract>Contact sheet consists of 31 negatives, including: #10A-16, 25th anniversary (1953-1978) of the &#8216;pioneers&#8217;; #28, photo of a photo of a clock tower; #29-31, portraits; #38-42A, a bicycle race; #17-22A, 25A-30, 6-10, Bill Moniz campaigning for election as Alderman of Ward 4.</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/6318</identifier>
+  <identifier type="local">ASC06655</identifier>
+  <location>
+    <physicalLocation>2010-019 / 002 (14)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>31 photographs : b&amp;w negative ; 35mm.</extent>
+  </physicalDescription>
+  <note>6 negatives (#8-9, 12-13, 15-16) scanned out of 31 in assignment.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Domingos Marques fonds (F0573)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000573.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Comunidade : O Jornal Comunit&#225;rio Portugu&#234;s</topic>
+    <topic>Portuguese community</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

@@ -1,0 +1,52 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Speech by the Hon. G.W. Ross, LL.D., Minister of Education, on the policy of the Education Department</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Ross, George W. (George William)</namePart>
+    <namePart type="termsOfAddress">Sir</namePart>
+    <namePart type="date">1841-1914</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <dateIssued>1897</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>27 p.</extent>
+  </physicalDescription>
+  <note>"Delivered in the Legislative Assembly, March 4th, 1897" -t.p.</note>
+  <note>"A system of public instruction almost ideal..." -t.p.</note>
+  <note>Tables.</note>
+  <subject authority="lcsh">
+    <topic>Politics and government</topic>
+    <geographic>Ontario</geographic>
+    <topic>Education, Secondary</topic>
+    <topic>Schools</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">820311</recordCreationDate>
+    <recordIdentifier>afq2165</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

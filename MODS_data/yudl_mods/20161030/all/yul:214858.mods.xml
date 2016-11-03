@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>The People's Doctor : a medical newsletter for consumers</title>
+    <partNumber>Vol. 06, No. 08</partNumber>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Robert S. Mendelsohn</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+    <namePart type="termsOfAddress">Dr.</namePart>
+    <namePart type="date">1926-1988</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">newsletter</genre>
+  <originInfo>
+    <issuance>newsletter</issuance>
+    <publisher>The People's Doctor, Inc.</publisher>
+    <place>
+      <placeTerm authority="marccountry">United States</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Evanston, Illinois</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>10 pp.</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Dr. Robert S. Mendelsohn collection (F0649)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000649.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>the pill</topic>
+    <topic>birth control</topic>
+    <topic>contraceptives</topic>
+    <topic>menstrual problems</topic>
+    <topic>menstruation</topic>
+    <topic>Provera</topic>
+    <topic>Dilantin</topic>
+    <topic>Anaprox</topic>
+    <topic>menstrual cramps</topic>
+    <topic>jaundice</topic>
+    <topic>Harvard Medical School</topic>
+    <topic>PMS</topic>
+    <topic>premenstrual syndrome</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Illinois</province>
+      <county>Cook County</county>
+      <city>Evanston</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>42.046389,-87.694722</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="use and reproduction">Item digitized for access and research purposes only. Copyright retained by Robert S. Mendelsohn Estate. For all other uses, contact archives@yorku.ca.</accessCondition>
+</mods>

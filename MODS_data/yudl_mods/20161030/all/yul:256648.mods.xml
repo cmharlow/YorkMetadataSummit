@@ -1,0 +1,74 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <mods:titleInfo>
+    <mods:title>Jean Augustine interview: April 17 1985 a date with equality button</mods:title>
+  </mods:titleInfo>
+  <mods:identifier>ASC17534</mods:identifier>
+  <mods:typeOfResource>moving image</mods:typeOfResource>
+  <mods:genre>Educational</mods:genre>
+  <mods:name type="corporate">
+    <mods:namePart>Instructional Technology Centre (ITC), UIT</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewee</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart>Jean Augustine</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewer</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart>Norda Majekodunmi</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewer</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateIssued>2014-04-24</mods:dateIssued>
+    <mods:publisher>Norda Majekodunmi</mods:publisher>
+    <mods:place>
+      <mods:placeTerm authority="marccountry">Canada</mods:placeTerm>
+    </mods:place>
+    <mods:place>
+      <mods:placeTerm type="text">Toronto</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Recording consists of an interview with Jean Augustine in which she discusses the April 17 1985 a date with equality button.</mods:abstract>
+  <mods:physicalDescription>
+    <mods:form authority="marccategory">videorecording</mods:form>
+    <mods:extent>00:01:26</mods:extent>
+  </mods:physicalDescription>
+  <mods:note type="funding">This project was supported by a research grant issued by York University Libraries.</mods:note>
+  <mods:note type="transcription">Okay, I think a number of these seems to me comes from women organizations. I&#8217;ll start with this one first: um, I was a member of the Canadian Advisory Council on the Status Women and I was appointed by Prime Minister Trudeau to sit on the Status of Women; the Canadian Advisory Council. And we dealt with a whole series of issues that pertained to&#8212;or we advised and have met on a whole series of issues for gender equality, for women&#8217;s equality, for women&#8217;s inclusion in every aspect of not only law but in every aspect of the society. And so I think this was a special focus on April the 17th, 1985 which was a specific, what we called, &#8220;a date with equality&#8221;. So at the bottom here you can see in small print who did this, the Canadian Advisory Council on the Status of Women and I was on the council at that time.</mods:note>
+  <mods:relatedItem>
+    <mods:titleInfo>
+      <mods:title>Jean Augustine fonds (F0515)</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000515.htm</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:topic>Campaign buttons</mods:topic>
+    <mods:topic>Political buttons</mods:topic>
+    <mods:topic>Charter of Rights and Freedoms</mods:topic>
+    <mods:topic>Constitution</mods:topic>
+    <mods:topic>Equality rights</mods:topic>
+    <mods:topic>Equality before the law</mods:topic>
+    <mods:topic>Women's rights</mods:topic>
+    <mods:geographic>Canada</mods:geographic>
+    <mods:temporal>1985</mods:temporal>
+    <mods:hierarchicalGeographic>
+      <mods:continent>North America</mods:continent>
+      <mods:country>Canada</mods:country>
+      <mods:city>Toronto</mods:city>
+    </mods:hierarchicalGeographic>
+    <mods:cartographics>
+      <mods:coordinates>43.773331100000000000,  -79.499138599999980000</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:accessCondition type="useAndReproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution" License (http://creativecommons.org/licenses/by/2.0/)</mods:accessCondition>
+</mods:mods>

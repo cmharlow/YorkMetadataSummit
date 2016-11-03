@@ -1,0 +1,154 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>&#1583;&#1585; &#1581;&#1587;&#1585;&#1578; &#1711;&#1584;&#1588;&#1578;&#1607; &#1662;&#1585;&#1587;&#1608;&#1586; &#1705;&#1608;&#1583;&#1705;&#1740;</title>
+		
+      
+		<subTitle>&#1610;&#1705; &#1588;&#1575;&#1582;&#1607; &#1711;&#1604;</subTitle>
+		
+      
+		<subTitle>Yek Shakhe Gol</subTitle>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1581;&#1576;&#1740;&#1576;&#8204;&#1575;&#1604;&#1607; &#1576;&#1583;&#1610;&#1593;&#1740;&#1575;&#1605;&#1740;&#1585;&#1606;&#1575;&#1589;&#1585; &#1575;&#1601;&#1578;&#1578;&#1575;&#1581; </namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Habibollah Badiei,Amir Nasser Aftah</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1593;&#1576;&#1583;&#1575;&#1604;&#1608;&#1607;&#1575;&#1576; &#1588;&#1607;&#1610;&#1583;&#1740; </namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Abdolvahab Shahidi</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<typeOfResource>Sound Recording</typeOfResource>
+	
+    
+	<genre>Homayun(Shushtari)</genre>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">per</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier>Shakheh-Gol-404</identifier>
+	
+    
+	<physicalDescription>
+		
+      
+		<form authority="marcform">sound recording</form>
+		
+      
+		<extent>27:48</extent>
+		
+    
+	</physicalDescription>
+	
+    
+	<subject>
+		
+      
+		<topic>Iranian National Radio</topic>
+		
+      
+		<topic>radio programs</topic>
+		
+      
+		<topic>music</topic>
+		
+      
+		<topic>poetry</topic>
+		
+      
+		<geographic>Iran</geographic>
+		
+      
+		<hierarchicalGeographic>
+			
+        
+			<continent>Asia</continent>
+			
+        
+			<country>Iran</country>
+			
+      
+		</hierarchicalGeographic>
+		
+    
+	</subject>
+	
+  
+</mods>

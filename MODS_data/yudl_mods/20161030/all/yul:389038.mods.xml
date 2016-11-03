@@ -1,0 +1,118 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>Climate Change and Work</title>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Sefton MacDowell, Laurel</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart> Galer, Dustin</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<genre>working paper</genre>
+	
+    
+	<typeOfResource>text</typeOfResource>
+	
+    
+	<originInfo>
+		
+      
+		<dateCreated>2011</dateCreated>
+		
+    
+	</originInfo>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier type="local">WP_2011-07_Sefton-MacDowell_Climate-Change-and-Work.pdf</identifier>
+	
+    
+	<abstract>As part a comprehensive review of climate change literature, this paper examines the relationship between climate change and jobs. For 25 years, scientists have warned us of climate change and our need to create a sustainable society to mitigate and adapt to it. Though this process will be difficult, the Global Climate Network, an alliance of independent think tanks, estimates that the development and wide use of low-carbon technology will create millions of jobs globally. In Canada, the lack of political leadership on climate change has increased carbon emissions, stimulated an industry of climate denial, missed out on green jobs and clean energy investments. A proactive approach to climate change leads to job creation. Pending an effective political response, it is urgent and necessary to create a movement to &#8220;repair the planet&#8221; by involving trade unionists, environmental activists, academics, educators and journalists. To the extent that such action &#8220;from the bottom up&#8221; is effective, it will combat climate change and result in new jobs in a new, sustainable economy.</abstract>
+	
+    
+	<relatedItem type="host">
+		
+      
+		<part>
+			
+        
+			<date>journal" : </date>
+			
+        
+			<extent>14 p.</extent>
+			
+      
+		</part>
+		
+    
+	</relatedItem>
+	
+    
+	<subject>
+		
+      
+		<topic>Greening Work in a Chilly Climate</topic>
+		
+      
+		<topic>Labour</topic>
+		
+      
+		<topic>Climate Change</topic>
+		
+    
+	</subject>
+	
+    
+	<identifier type="url">http://warming.apps01.yorku.ca/wp-content/uploads/WP_2011-07_MacDowell_Galer_Climate-Change-Work.pdf</identifier>
+	
+    
+	<accessCondition type="useAndReproduction">All rights reserved</accessCondition>
+	
+  
+</mods>

@@ -1,0 +1,52 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Talkoopolska : yksina&#776;yto&#776;ksinen huvina&#776;ytelma&#776;</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Veijola, Yrjo&#776;</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fi</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Helsinki</placeTerm>
+    </place>
+    <publisher>Na&#776;ytelma&#776;</publisher>
+    <dateIssued>1929</dateIssued>
+    <edition>Toinen painos</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fin</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>20 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Yrjo&#776; Veijola.</note>
+  <note>SC-SPCOLL copy: Part of the Varpu Lindstro&#776;m fonds d'archives (F0558). Item not available for interlibrary loan.</note>
+  <classification authority="lcc">PH355</classification>
+  <identifier type="oclc">58200581</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">FILIN</recordContentSource>
+    <recordCreationDate encoding="marc">960701</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100519140924.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm58200581</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">fin</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Finland</country>
+      <city>Helsinki</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

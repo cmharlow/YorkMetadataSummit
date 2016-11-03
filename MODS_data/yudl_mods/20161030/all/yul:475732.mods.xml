@@ -1,0 +1,48 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Maria Chapdelaine : r&#233;cit du Canada fran&#231;ais</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>H&#233;mon, Louis</namePart>
+    <namePart type="date">1880-1913</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Cochet, G&#233;rard Paul</namePart>
+    <namePart type="date">1888-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Renaissance du livre</publisher>
+    <dateIssued>1922</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>239 p. : ill. ; 25 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Louis H&#233;mon ; bois originaux de G&#233;rard Cochet.</note>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">811124</recordCreationDate>
+    <recordIdentifier>afl8662</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

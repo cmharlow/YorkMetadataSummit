@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Materialism philosophically examined, or, The immateriality of the soul asserted and proved, on philosophical principles in answer to Dr. Priestley's Disquisitions on matter and spirit</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Disquisitions relating to matter and spirit</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Whitehead, John</namePart>
+    <namePart type="date">1740?-1804</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed and sold by James Phillips, George Yard, Lombard Street</publisher>
+    <dateIssued>1778</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>6 p. l., vii, 178 p. 22 cm.</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">by John Whitehead.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Priestley, Joseph</namePart>
+      <namePart type="date">1733-1804</namePart>
+    </name>
+    <titleInfo>
+      <title>Disquisitions relating to matter and spirit</title>
+    </titleInfo>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Soul</topic>
+  </subject>
+  <classification authority="lcc">BT740 .W5</classification>
+  <classification authority="ddc">233.5</classification>
+  <identifier type="lccn">40037285</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">901024</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030630123141.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm22574926</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

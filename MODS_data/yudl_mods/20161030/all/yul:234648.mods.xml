@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Protests, 1990s</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto, Ontario</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Image of protesters gathered around the base of the Sir James Pliny Whitney statue at the Legislative Assembly of Ontario, with the Whitney Block visible in the background. Parts of signs can be seen, including one which reads "Declaration of Opposition."</abstract>
+  <identifier type="local">ASC17442</identifier>
+  <location>
+    <physicalLocation>2004-030 / 001</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : colour print ; 15.1 x 10.2 cm</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Excalibur Publications Inc. fonds (F0502)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000502.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>protest</topic>
+    <topic>Declaration of Opposition</topic>
+    <topic>Legislative Assembly of Ontario</topic>
+    <topic>Whitney statue</topic>
+    <topic>Whitney Block</topic>
+    <geographic>Legislative Assembly of Ontario</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Queen's Park</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.662283, -79.391439</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

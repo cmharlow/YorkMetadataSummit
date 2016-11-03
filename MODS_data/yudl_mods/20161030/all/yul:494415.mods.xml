@@ -1,0 +1,54 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Works (Volume 2)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Hawthorne, Nathaniel</namePart>
+    <namePart type="date">1804-1864</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+    <publisher>Houghton Mifflin</publisher>
+    <dateIssued>[1882-1891]</dateIssued>
+    <dateIssued encoding="marc">1882</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>15 v. : ill.</extent>
+  </physicalDescription>
+  <tableOfContents>v.1. Twice-told tales.-  v.2. Mosses from an old manse.-  v.3. The house of seven gables.  The snow-image and other twice-told tales.-  v.4. A wonder-book for girls and boys.  Tanglewood tales.  The whole history of grandfather's chair.-  v.5. The scarlet letter.  The Blithedale ramance.-  v.6. The marble faun or, The romance of Monte Beni.-  v.7-8. Our old home. Passages from the English note-books of Nathaniel Hawthorne.-  v.9. Passages from the American note-books.-  v.10. Passages from the French and Italian note-books.-  v.11. The Dolliver romance.  Fanshawe.  Septimius Felton.  The ancestral footstep.-  v.12. Tales and sketches, Biographical stories.  Biographical sketches.-  v.13. Doctor Grimshawe's secret; a romance.-  v.14-15. Nathaniel Hawthorne and his wife; a biography.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">With introductory notes by George Parsons Lathrop and Nathaniel Hawthorne and his wife.  A biography by Julian Hawthorne.  Illustrated with etchings and engravings on steel. --</note>
+  <note>Each vol. has seperate t.p.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Lathrop, George Parsons</namePart>
+      <namePart type="date">1851-1898</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Massachusetts</province>
+      <city>Boston</city>
+    </hierarchicalGeographic>
+  </subject>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Standard library edition</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840218</recordCreationDate>
+    <recordIdentifier>a787771</recordIdentifier>
+    <recordIdentifier>adk4067</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

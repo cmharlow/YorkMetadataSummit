@@ -1,0 +1,76 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>An </nonSort>
+    <title>An impartial and correct history of the war between the United States of America and Great Britain : comprising a particular detail of the naval and military operations and a faithful record of the events produced during the contest : from its commencement, June 18, 1812, to the Treaty of Peace, ratified at the city of Washington, February 17, 1815</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>O'Connor, Thomas</namePart>
+    <namePart type="date">1770-1855</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Davis, Paris M.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>P.M. Davis</publisher>
+    <dateIssued>1826</dateIssued>
+    <edition>1st ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>336 p. : ill.</extent>
+  </physicalDescription>
+  <note>Attributed to Thomas O'Connor. Cf. NUC pre-1956 imprints.</note>
+  <note>"Carefully compiled from official documents."</note>
+  <note>"Appendix: History of the Algerine War": p. [313]-328.</note>
+  <note>Includes index.</note>
+  <subject authority="lcsh">
+    <geographic>United States</geographic>
+    <topic>History</topic>
+    <temporal>War of 1812</temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>New York</province>
+      <city>New York</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>History</topic>
+    <temporal>War of 1812</temporal>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>United States</geographic>
+    <topic>Foreign relations</topic>
+    <geographic>Algeria</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Algeria</geographic>
+    <topic>Foreign relations</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">OTY</recordContentSource>
+    <recordCreationDate encoding="marc">951019</recordCreationDate>
+    <recordIdentifier>afn1313</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

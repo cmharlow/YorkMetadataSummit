@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>A Green Economic Stimulus Package to Secure our Current and Future Prosperity</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>David Suzuki Foundation</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>working paper</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2009</dateCreated>
+    <publisher>David Suzuki Foundation; Sustainable Prosperity; University of Ottawa</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>We propose at least $15 billion in targeted investments that will create over 160,000 jobs this year in areas such as clean energy and transportation, and green infrastructure and households. These activities will generate immediate economic returns &#8211; at least on par with other stimulus options &#8211; while reducing environmental impacts hat cost Canada billions each year. We have researched a broad range of potential stimulus measures put forward by international and Canadian organizations and experts. Each was tested against a series of economic and environmental criteria, which essentially ask two questions: (i) will it provide maximum economic bang for the buck (using basically the same criteria as Finance does); and (ii) will it also generate significant environmental benefits (based on a three part test)? Our results were reviewed by some of Canada&#8217;s top economic experts, and form the basis for our recommendations. Our three areas of focus are: Public (green infrastructure); Business (clean development and jobs), and Households (helping Canadians go green).</abstract>
+  <relatedItem type="host">
+    <part>
+      <extent>4 p.</extent>
+    </part>
+  </relatedItem>
+  <accessCondition>Copyright remains with the creator; Reproduced with permission of the David Suzuki Foundation.</accessCondition>
+</mods>

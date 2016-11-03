@@ -1,0 +1,60 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The fight to conquer the ends of the earth : the world's great adventure: 1000 years of polar exploration including the heroic achievements of Admiral Richard Evelyn Byrd</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>The world's great adventure</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Miller, Francis Trevelyan</namePart>
+    <namePart type="date">1877-1959</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Philadelphia</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Chicago [etc]</placeTerm>
+    </place>
+    <publisher>The John C. Winston co.</publisher>
+    <dateIssued>[1930]</dateIssued>
+    <dateIssued encoding="marc">1930</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>384 p. : ill.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Francis Trevelyan Miller ... with forewords by General A.W. Greely ... [and] Dr. Henry Fairfield Osborg ... illustrated: photographs, historic prints, etc. --</note>
+  <note>Maps on lining-papers.</note>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Byrd Antarctic Expedition, 1st, 1928-1930</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Arctic regions</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>North Pole</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Antarctica</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>South Pole</geographic>
+  </subject>
+  <identifier type="lccn">31030860</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">800805</recordCreationDate>
+    <recordIdentifier>abx8918</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

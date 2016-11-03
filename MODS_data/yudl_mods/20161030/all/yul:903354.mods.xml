@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Royal Commission report on compulsory arbitration in disputes affecting hospitals and their employees</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Ontario</namePart>
+    <namePart>Royal Commission on Compulsory Arbitration in Disputes Affecting Hospitals and their Employees</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Bennett, Colin E</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">government publication</genre>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">onc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <publisher>tThe Commission</publisher>
+    <dateIssued>1964</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>62 p.</extent>
+  </physicalDescription>
+  <note>Chairman : C. E. Bennett.</note>
+  <note type="bibliography">Bibliography: p. 60-62.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn-on</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Arbitration, Industrial</topic>
+    <geographic>Ontario</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Hospitals</topic>
+    <geographic>Ontario</geographic>
+    <topic>Personnel management</topic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">751217</recordCreationDate>
+    <recordIdentifier>abp5720</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

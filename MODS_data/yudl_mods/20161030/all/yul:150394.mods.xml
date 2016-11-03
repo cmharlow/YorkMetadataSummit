@@ -1,0 +1,45 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <nonSort>Les </nonSort>
+    <title>Les Int&#233;r&#234;ts maritimes du Canada : ce que le gouvernement et la politique nationale ont fait pour les d&#233;velopper</title>
+    <subTitle>ce que le gouvernement et la politique nationale ont fait pour les d&#233;velopper</subTitle>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateIssued>1891</dateIssued>
+    <dateIssued encoding="marc">1891</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>6 p.</extent>
+  </physicalDescription>
+  <note>Caption title.</note>
+  <subject authority="lcsh">
+    <topic>Politics and government</topic>
+    <geographic>Canada</geographic>
+    <topic>Fisheries</topic>
+    <topic>Fishery resources</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+    </hierarchicalGeographic>
+  </subject>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Aux &#233;lecteurs ; no. 10</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">810415</recordCreationDate>
+    <recordIdentifier>afq0438</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,58 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The complete works of Nathaniel Hawthorne (Volume 1)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Hawthorne, Nathaniel</namePart>
+    <namePart type="date">1804-1864</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Lathrop, George Parsons</namePart>
+    <namePart type="date">1851-1898</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Hawthorne, Julian</namePart>
+    <namePart type="date">1846-1934</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United States</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+    <publisher>Houghton Mifflin</publisher>
+    <dateIssued>c1882</dateIssued>
+    <dateIssued encoding="marc" point="start">1882</dateIssued>
+    <edition>Riverside ed. --</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>13 v.</extent>
+  </physicalDescription>
+  <tableOfContents>v.1 Twice-told tales.-  v.2. Mosses from an old manse.-  v.3. The house of the seven gables.  The snow image and other Twice-told tales.-  v.4. A wonder-book, Tangle-wood tales and Grandfather's chair.-  v.5. The scarlet letter and the Blithedale romance.-  v.6. The marble faun.-  v.7-8. Our old home and English note-books.-  v.9. Passages from the American note-books.-  v.10. Passages from the French and Italian note-books.-  v.11. The Dolliver romance, Fanshawe and Septimius Felton with an appendix containing The ancestral footstep.-  v.12. Tales, sketches and other papers with a biographical sketch by George Parsons Lathrop.-  v.13. Doctor Grimshawe's secret, edited with preface and notes by Julian Hawthorne.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">With introductory notes by George Parsons Lathrop and illustrated with etchings by Blum, Church, Dielman, Gifford, Shirlaw and Turner. --</note>
+  <note>Edition varies.</note>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840218</recordCreationDate>
+    <recordIdentifier>a787768</recordIdentifier>
+    <recordIdentifier>adk4064</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.93 2014/01/31)</recordOrigin>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Massachusetts</province>
+      <city>Boston</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

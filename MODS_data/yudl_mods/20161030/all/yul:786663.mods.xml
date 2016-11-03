@@ -1,0 +1,22 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Ontario's Five Year Climate Action Plan 2016 - 2020</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Ontario. Ministry of the Environment and Climate Change</namePart>
+    <role>Author</role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>June 2016</dateCreated>
+    <publisher>Queens Printer for Ontario</publisher>
+  </originInfo>
+  <language>eng</language>
+  <subject>
+    <topic>Ontario</topic>
+    <topic>climate change policy</topic>
+  </subject>
+  <accessCondition>This document is protected by Crown copyright which is held by the Queen's Printer for Ontario. If credit is given and Crown copyright is acknowledged, the materials may be reproduced for non-commercial purposes.</accessCondition>
+  <accessCondition type="useAndReproduction">&#169; Queen's Printer for Ontario</accessCondition>
+</mods>

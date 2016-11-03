@@ -1,0 +1,33 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>A Green Industrial Revolution: Climate Justice, Green Jobs and Sustainable Production in Canada</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Lee, Marc</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Card, Amanda</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2012-06</dateCreated>
+    <publisher>Canadian Centre for Policy Alternatives</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Marc Lee and Amanda Card acknowledge  that transition to a zero carbon Canada will take several decades, and  state that the principal challenge for Canada and all countries is to  decouple the economy from fossil fuels. They calculate that only 9% of  Canadian workers are employed in jobs related to fossil fuels and other   "hot spots" of Canadian industry (including electricity generation,  freight transportation and transportation services, chemical  manufacturing, metal manu&#173;facturing and agriculture), yet these sectors  comprise 78% of industrial and commercial GHG emissions. The authors  also calculate GHG emissions per worker in 14 industrial sectors in  Canada. The report offers 12 recommendations for achieving zero carbon  growth while creating and maintaining decent green jobs.</abstract>
+  <subject>
+    <topic>green jobs</topic>
+    <topic>green economy</topic>
+  </subject>
+  <accessCondition>Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License</accessCondition>
+  <accessCondition type="useAndReproduction">CCPA</accessCondition>
+</mods>

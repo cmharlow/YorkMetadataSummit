@@ -1,0 +1,62 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Essai philosophique concernant l'entendement humain : ou l'on montre quelle est l'extendue de nos connaissances certaines, &amp; &amp;c la maniere dont nous y parvenons</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Essay concerning human understanding</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Locke, John</namePart>
+    <namePart type="date">1632-1704</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Coste, Pierre</namePart>
+    <namePart type="date">1668-1747</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Netherlands</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Amsterdam</placeTerm>
+    </place>
+    <publisher>H. Schelte</publisher>
+    <dateIssued>1723</dateIssued>
+    <edition>Nouv. &#233;d., rev., corr., et augm.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>[58], 936, [20] p. : port. 21 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">traduit de l'anglois de Mr. Locke par Pierre Coste.</note>
+  <note>Translation of: An essay concerning human understanding. Selections.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Knowledge, Theory of</topic>
+    <temporal>Early works to 1800</temporal>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Netherlands</country>
+      <city>Amsterdam</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">B1293.F8 C79</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">CGU</recordContentSource>
+    <recordCreationDate encoding="marc">921026</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030415142434.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm26859933</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

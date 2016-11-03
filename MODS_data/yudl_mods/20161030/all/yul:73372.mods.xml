@@ -1,0 +1,68 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Manitoba Region 3</title>
+    <subTitle/>
+  </titleInfo>
+  <name type="personal">
+    <namePart>John Warkentin</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>1982-05-22</dateCreated>
+    <dateOther>22-May-82</dateOther>
+    <publisher/>
+    <place>
+      <placeTerm authority="marccountry" type="code"/>
+    </place>
+    <place>
+      <placeTerm type="text"/>
+    </place>
+  </originInfo>
+  <abstract>Item consists of a photographic slide with annotations including: "Manitoba, Portage la Prairie," "main street," "3-51," "May/22/82."</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/17601</identifier>
+  <identifier type="local">ASC16112</identifier>
+  <location>
+    <physicalLocation>2009-029 / 002 (01)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">projected graphic</form>
+    <extent>1 photograph : colour positive ; 35 mm</extent>
+  </physicalDescription>
+  <note/>
+  <note type="funding">Digitization and description made possible by Young Canada Works in Heritage Organizations grant (2012).</note>
+  <relatedItem>
+    <titleInfo>
+      <title>John Warkentin fonds (F0184)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000184.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>John Warkentin Photograph Collection</topic>
+    <topic>Manitoba</topic>
+    <topic>Cityscape</topic>
+    <geographic/>
+    <temporal/>
+    <hierarchicalGeographic>
+      <continent/>
+      <country>Canada</country>
+      <province>Manitoba</province>
+      <region/>
+      <county>Portage La Prairie</county>
+      <city>Portage La Prairie</city>
+      <citySection/>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>49.972901, -98.289197</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+  <language>
+    <languageTerm authority="iso639-2b" type="code"/>
+  </language>
+</mods>

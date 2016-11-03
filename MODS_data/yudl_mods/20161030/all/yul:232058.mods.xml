@@ -1,0 +1,29 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Personal photos 1954-1988</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre>photograph</genre>
+  <originInfo>
+    <dateCreated>[1985]</dateCreated>
+  </originInfo>
+  <abstract>Image of Dr. Robert S. and Rita Mendelsohn standing in the doorway of a room, looking to the side at one another and smiling. Dr. Mendelsohn is wearing a blue t-shirt with "CAMP 80B-RITA PEOPLE'S VACATION" written on it over top of a dress shirt and tie, and the back of Rita's red t-shirt (which she wears over a plaid blouse) says "DIRECTOR."</abstract>
+  <identifier type="local">ASC17227</identifier>
+  <location>
+    <physicalLocation>2014-016 / 001</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : colour print ; 14.9 x 10.1 cm</extent>
+  </physicalDescription>
+  <note>Written on back: 1985?</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Dr. Robert S. Mendelsohn collection (F0649)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000649.htm</url>
+    </location>
+  </relatedItem>
+  <accessCondition type="useAndReproduction">Item digitized for access and research purposes only. Copyright retained by Robert S. Mendelsohn Estate. For all other uses, contact archives@yorku.ca.</accessCondition>
+</mods>

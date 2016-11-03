@@ -1,0 +1,58 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>John Constable d'apr&#232;s les souvenirs</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Leslie, Charles Robert</namePart>
+    <namePart type="date">1794-1859</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>H. Floury</publisher>
+    <dateIssued>1905</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xliv, 379 p. : 2 ports.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">recueillis par C.R. Leslie ; traduits avec une introduction, Constable et les paysagistes de 1830, par L&#233;on Bazalgette ; eau-forte de Loys Delteil ; portrait de Constable d'apr&#232;s lui-m&#234;me ; lettres orn&#233;es et culs-de-lampe de A. Bastard. --</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Constable, John</namePart>
+      <namePart type="date">1776-1837</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Painters</topic>
+    <geographic>Great Britain</geographic>
+    <topic>Correspondence</topic>
+  </subject>
+  <classification authority="lcc">ND497.C7 L414 1905</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">841018</recordCreationDate>
+    <recordIdentifier>aaw5044</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

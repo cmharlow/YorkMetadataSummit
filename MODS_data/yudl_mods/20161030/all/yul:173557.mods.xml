@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC27594</identifier>
+  <location>
+    <physicalLocation>1974-002 / 119</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Lions Convention. : Around the World Show [not used]</title>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <abstract>Image of young girl sitting in stadium seating, yawning. Behind her sits a woman who is partially leaning out of the frame. They are dressed formally.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>[Sean] Browne</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-04-10</dateCreated>
+    <dateOther>10 July 1964</dateOther>
+    <dateIssued>1964-07-10</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>One negative (3) scanned out of 25 in assignment.</note>
+  <note type="ownership">ASC27593</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Maple Leaf Gardens</topic>
+    <topic>Lions Convention</topic>
+    <topic>Around the World Show</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.662174, -79.380160</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

@@ -1,0 +1,35 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Online Tutorials for Students</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>York University</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>mixed material</typeOfResource>
+  <genre authority="lctgm">Website</genre>
+  <originInfo>
+    <dateCaptured>2015-04-24</dateCaptured>
+    <publisher>York University</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Crawl of Online Tutorials for Students.</abstract>
+  <physicalDescription>
+    <form authority="marcform">electronic resource</form>
+    <extent>1.6M</extent>
+  </physicalDescription>
+  <location>
+    <url displayLabel="Active site">http://www.yorku.ca/tutorial/</url>
+    <url displayLabel="Archived site">http://digital.library.yorku.ca/wayback/20150424131650/http://www.yorku.ca/tutorial/</url>
+  </location>
+</mods>

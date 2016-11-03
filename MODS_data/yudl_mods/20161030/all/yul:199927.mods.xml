@@ -1,0 +1,68 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Adresse de l'hon. juge W&#252;rtele aux petits jur&#233;s dans la cause de la reine vs l'Honorable Honor&#233; Mercier et M. Ernest Pacaud, 4 novembre 1892</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>W&#252;rtele, Jonathan Saxton Campbell</namePart>
+    <namePart type="date">1828-1904</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montr&#233;al</placeTerm>
+    </place>
+    <dateIssued>1892</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>24 p.</extent>
+  </physicalDescription>
+  <note>Caption title.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Mercier, Honor&#233;</namePart>
+      <namePart type="date">1840-1894</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Pacaud, Ernest</namePart>
+      <namePart type="date">1850-1904</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Political corruption</topic>
+    <geographic>Quebec (Province)</geographic>
+    <geographic>Montr&#233;al</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Trials (Political crimes and offenses)</topic>
+    <geographic>Quebec (Province)</geographic>
+    <geographic>Montr&#233;al</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Grand jury</topic>
+    <geographic>Quebec (Province)</geographic>
+    <geographic>Montr&#233;al</geographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">830822</recordCreationDate>
+    <recordIdentifier>afq0820</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

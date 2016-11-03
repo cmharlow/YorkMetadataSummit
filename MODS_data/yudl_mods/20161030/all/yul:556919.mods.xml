@@ -1,0 +1,51 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Africa disturbed</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Ross, Emory</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Ross, Myrta</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Friendship Press</publisher>
+    <dateIssued>[1959]</dateIssued>
+    <dateIssued encoding="marc">1959</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>183 p. : ill.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Emory and Myrta Ross. With illus, by Harper Johnson. --</note>
+  <subject authority="lcsh">
+    <geographic>Africa</geographic>
+    <topic>Social life and customs</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>New York</province>
+      <city>New York</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Africa</geographic>
+    <topic>Social conditions</topic>
+  </subject>
+  <identifier type="lccn">59006038</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">820525</recordCreationDate>
+    <recordIdentifier>acz9569</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Climate Change and the Australian Workplace: Final Report for the Australian Department of Industry</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Markey, Ray</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>McIvor, Joseph</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Wright, Christopher</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2014</dateCreated>
+    <publisher>Macquarie University, Centre for Workforce Futures, Faculty of Business and Economics</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>This report, inspired by the Canadian Work in a Warming World project at York University, covers a similar broad range of interest, acknowledging the importance of the world of work in producing, and thus, mitigating, carbon emissions.  It seeks to describe the policies and attitudes and innovative reactions of Australian management and unions regarding climate change and greenhouse gas emission reduction.  It also reports on labour market impacts of climate change. Section 4 is an analysis of the environmental clauses in Enterprise Agreements in Australia for 2009-2010, and for 2011-2012.</abstract>
+  <subject>
+    <topic>green bargaining</topic>
+    <topic>Australia</topic>
+  </subject>
+  <accessCondition>Reproduced by permission of Professor R. Markey, July 2015.</accessCondition>
+  <accessCondition type="useAndReproduction">Copyright remains with the creator.</accessCondition>
+</mods>

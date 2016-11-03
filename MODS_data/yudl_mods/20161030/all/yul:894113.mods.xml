@@ -1,0 +1,31 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Mariposa Fall Festival 1980 program</title>
+  </titleInfo>
+  <name type="personal">
+    <affiliation>Mariposa Folk Foundation</affiliation>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>1980</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Item consists of the 24 page Mariposa Folk Festival program for 1980, held at Harbourfront Queen's Quay, Toronto, Ontario. The program was edited by Daryl Auwai and designed by Wycliffe D. Smith. Program includes a map of the site, a schedule of evening and day concerts and workshops and a list of performer biographies. Also contains several articles including: "Mariposa: The Foundation" by Rob Sinclair, "Here We Go Again" by Daryl Auwai, "Director's Notes" by Ken Whiteley, "Mariposa in the Schools" by Ron Boughton and a financial statement by the festival foundation.</abstract>
+  <identifier type="local">ASC33502</identifier>
+  <location>
+    <physicalLocation>2007-009 / 103 (03)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Mariposa Folk Foundation fonds (F0511)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+    </location>
+  </relatedItem>
+</mods>

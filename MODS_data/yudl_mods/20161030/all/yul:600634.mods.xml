@@ -1,0 +1,51 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>A daughter of New France : being a story of the life and times of Magdelaine de Verch&#232;res, 1665-1692</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Doughty, Arthur G. (Arthur George)</namePart>
+    <namePart type="termsOfAddress">Sir</namePart>
+    <namePart type="date">1860-1936</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">onc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Ottawa</placeTerm>
+    </place>
+    <publisher>Mortimer Press</publisher>
+    <dateIssued>1916</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>x, 166 p.  pl., port., facs.</extent>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Verch&#232;res, Madeleine de</namePart>
+      <namePart type="date">1678-1747</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Ottawa</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">710817</recordCreationDate>
+    <recordIdentifier>aaz4108</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

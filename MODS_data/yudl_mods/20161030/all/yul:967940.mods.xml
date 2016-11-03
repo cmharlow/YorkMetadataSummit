@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>M&#233;decine de l'esprit : o&#249; l'on cherche 1o., le m&#233;chanisme du corps qui influe sur les fonctions de l'ame : 2o., les causes physiques qui rendent ce m&#233;chanisme ou d&#233;fectueux, ou plus parfait : 3o., les moyens qui peuvent l'entretenir dans son &#233;tat libre, &amp; le rectifier lorqu'il est g&#234;n&#233;</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Le Camus, Antoine</namePart>
+    <namePart type="date">1722-1772</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Chez Ganeau ...</publisher>
+    <dateIssued>1769</dateIssued>
+    <edition>Nouvelle &#233;d., rev&#252;e, corrig&#233;e, &amp; augment&#233;e.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v. ; 18 cm. (12mo)</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">par M. le Camus.</note>
+  <note>Vol. 1: [2], xx, [4], 543, [1] p.; v. 2: [4], 484, [4] p. (last leaf blank).</note>
+  <note>Includes index.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Mind and body</topic>
+    <genre>Early works to 1850</genre>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Health</topic>
+    <genre>Early works to 1800</genre>
+  </subject>
+  <classification authority="lcc">BF152 .L433 1769</classification>
+  <identifier type="lccn">2001560647</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <descriptionStandard>dcrb</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">010328</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030403141210.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm47161716</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

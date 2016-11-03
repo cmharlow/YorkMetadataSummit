@@ -1,0 +1,70 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <mods:titleInfo>
+    <mods:title>Jean Augustine interview: Paul Martin leadership button</mods:title>
+  </mods:titleInfo>
+  <mods:identifier>ASC17580</mods:identifier>
+  <mods:typeOfResource>moving image</mods:typeOfResource>
+  <mods:genre>Educational</mods:genre>
+  <mods:name type="corporate">
+    <mods:namePart>Instructional Technology Centre (ITC), UIT</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewee</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart>Jean Augustine</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewer</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart>Norda Majekodunmi</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewer</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateIssued>2014-04-24</mods:dateIssued>
+    <mods:publisher>Norda Majekodunmi</mods:publisher>
+    <mods:place>
+      <mods:placeTerm authority="marccountry">Canada</mods:placeTerm>
+    </mods:place>
+    <mods:place>
+      <mods:placeTerm type="text">Toronto</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Recording consists of an interview with Jean Augustine in which she discusses the Paul Martin leadership button with his photograph.</mods:abstract>
+  <mods:physicalDescription>
+    <mods:form authority="marccategory">videorecording</mods:form>
+    <mods:extent>00:01:10</mods:extent>
+  </mods:physicalDescription>
+  <mods:note type="funding">This project was supported by a research grant issued by York University Libraries.</mods:note>
+  <mods:note type="transcription">When Paul Martin came on the scene; again, this is one of the leadership candidates. Once you're a leadership candidate, you have buttons that everybody would wear. And in the campaign for leadership, those who were going to be voting for him would wear this. So you see it has no other sign on it except his name: Paul Martin. So you'd wear that and this would be a sign that you're voting for him. So then those who were canvassing the room would leave you alone because you already signaled. Then when you become the leader, you have your button now, everybody knows you're Liberal and that's your leader.</mods:note>
+  <mods:relatedItem>
+    <mods:titleInfo>
+      <mods:title>Jean Augustine fonds (F0515)</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000515.htm</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:topic>Martin, Paul</mods:topic>
+    <mods:topic>Politics and government</mods:topic>
+    <mods:topic>Liberal Party</mods:topic>
+    <mods:topic>Campaign buttons</mods:topic>
+    <mods:geographic>Canada</mods:geographic>
+    <mods:hierarchicalGeographic>
+      <mods:continent>North America</mods:continent>
+      <mods:country>Canada</mods:country>
+      <mods:city>Toronto</mods:city>
+    </mods:hierarchicalGeographic>
+    <mods:cartographics>
+      <mods:coordinates>43.773331100000000000,  -79.499138599999980000</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:accessCondition type="useAndReproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution" License (http://creativecommons.org/licenses/by/2.0/)</mods:accessCondition>
+</mods:mods>

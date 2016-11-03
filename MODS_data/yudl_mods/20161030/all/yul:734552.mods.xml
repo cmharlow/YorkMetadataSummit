@@ -1,0 +1,69 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Hommage a la vertu guerriere, ou, Eloges de quelques-uns des plus  celebres officiers francois qui ont vecu et qui sont morts sous le regne de Louis XV</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Hommage a la vertu guerriere</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Eloges de quelques-uns des plus celebres officiers francois</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Duvernois</namePart>
+    <namePart type="termsOfAddress">le chevalier</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">gw</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">A Hombourg-ez Monts</placeTerm>
+    </place>
+    <publisher>Henri Pierre Wolff, Imprimeur</publisher>
+    <dateIssued>1779</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>[8], 204 p. ; 17 cm. (8vo)</extent>
+  </physicalDescription>
+  <note>Caption title, p. 81: Eloge de Mr. le marguis de Montcalm ...</note>
+  <note>Title vignette.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart type="termsOfAddress">marquis de</namePart>
+      <namePart>Montcalm de Saint-V&#233;ran, Louis-Joseph</namePart>
+      <namePart type="date">1712- 1759</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>France.</namePart>
+      <namePart>Arm&#233;e</namePart>
+    </name>
+    <topic>Officers</topic>
+    <topic>Biography</topic>
+  </subject>
+  <relatedItem type="isReferencedBy">
+    <titleInfo>
+      <title>Barbier, A.A. Ouvrages Anonymes,</title>
+    </titleInfo>
+    <part>
+      <detail type="part">
+        <number>v. 2, col. 850</number>
+      </detail>
+    </part>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">940307</recordCreationDate>
+    <recordIdentifier>afn0098</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

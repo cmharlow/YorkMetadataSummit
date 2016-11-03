@@ -1,0 +1,50 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Eighth International congress of applied chemistry Washington and New York, September 4 to 13, 1912 ... (Volume 3)</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>International Congress of Pure and Applied Chemistry. 8th, Washington, D.C., and New York, 1912.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Concord, N.H</placeTerm>
+    </place>
+    <publisher>The Rumford press</publisher>
+    <dateIssued>1912-13]</dateIssued>
+    <dateIssued encoding="marc">1912</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>29 v. : ill., plates (part fold.) tables (part fold.) diagrs. (part fold.)</extent>
+  </physicalDescription>
+  <tableOfContents>v.1-26. Original communications. -- v. 27.  Discussions -- v.28. Transactions and organization -- v.29.  Typographical and authors' changes; index.</tableOfContents>
+  <note>Contributions in English, French, German, or Italian.</note>
+  <note>"Members":  v.28, p. 365-463.</note>
+  <subject authority="lcsh">
+    <topic>Chemistry, Technical</topic>
+    <topic>Congresses</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>New Hampshire</province>
+      <city>Concord</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Chemistry</topic>
+    <topic>Congresses</topic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">850410</recordCreationDate>
+    <recordIdentifier>a611455</recordIdentifier>
+    <recordIdentifier>acr2177</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

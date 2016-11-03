@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>First Nations, 1991-1992</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[British Columbia]</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Image of a tree with signs that say "Lit'watimcw stand non-violent" and "St'&#225;t'imx land" posted to its trunk, and a guitar leaning against it. Behind it, a dog and the back of a male sitting near a tent can be seen.</abstract>
+  <identifier type="local">ASC17456</identifier>
+  <location>
+    <physicalLocation>2004-030 / 002</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 12.6 x 17.6 cm</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Excalibur Publications Inc. fonds (F0502)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000502.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>First Nations</topic>
+    <topic>indigenous</topic>
+    <topic>protest</topic>
+    <topic>St'&#225;t'imx</topic>
+    <topic>St'at'imc</topic>
+    <topic>Lit'watimcw</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>[British Columbia]</province>
+      <region>[British Columbia Interior]</region>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

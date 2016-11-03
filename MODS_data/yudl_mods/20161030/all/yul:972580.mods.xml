@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Papers and records</title>
+    <partNumber>1930</partNumber>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Brant Historical Society</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">onc</placeTerm>
+    </place>
+    <publisher>The Society</publisher>
+    <dateIssued>1930</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>29 p.</extent>
+  </physicalDescription>
+  <tableOfContents>The Acquisition and disposal of lands in Burford Township / Major R. C. Muir -- The Old burial ground at Burford / Major M. F. Muir (reprint from 1908 papers) -- The Last Canadian duel / Major R. C. Muir -- First medical practitioners in the County of Brant / by the Late S. F. Passmore (reprint from 1908 papers).</tableOfContents>
+  <note altRepGroup="00" type="statement of responsibility">Brant Historical Society.</note>
+  <note>SC-SPCOLL copy: From the Sheldon and Judy Godfrey collection.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject authority="lcsh">
+    <geographic>Brant (Ont. : County)</geographic>
+    <topic>History</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <county>Brant</county>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Ontario</geographic>
+    <topic>History</topic>
+  </subject>
+  <classification authority="lcc">FC3095</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">110126</recordCreationDate>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

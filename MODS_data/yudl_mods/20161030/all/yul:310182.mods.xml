@@ -1,0 +1,78 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter to Mrs. Stepler from Gordon Stepler, October 25th 1916</title>
+  </titleInfo>
+  <name type="personal">
+    <affiliation>Canadian Armed Forces</affiliation>
+    <namePart>Stepler, Gordon</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Stepler, Ethelwyn</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Letter</genre>
+  <originInfo>
+    <dateCreated>1916-10-25</dateCreated>
+    <place>
+      <placeTerm authority="marccountry">England</placeTerm>
+    </place>
+    <dateOther>25 October 1916</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a letter written by Gordon Stepler to his mother, Mrs. Ethelwyn Stepler. Transcription is as follows:&#13;
+Ross Barracks, Shornecliffe&#13;
+Oct 25/16&#13;
+Dear Mother,&#13;
+	Rec'd your letter of Oct 7 to-day and although there is no news to tell you I thought I would drop you a line to let you know I am all right.&#13;
+	It has been raining all day and we had gun laying down in the gun sheds. The mud around the tents is fierce but there are good roads around here - better than those in Toronto so that when you get on them you are all right. It has been raining part of nearly every day here for the last week but when it rains it is not as cold. However when you get wet you can't get dry until the weather clears up. We are still in tents and it looks as if we are going&#13;
+|page 2&#13;
+to stay here until we go to France. The rest of the first daft from the 67th left for France early this morning. It was raining and there was a strong wind blowing so that they would have a rough trip across the channel. If I had not been put on this new battery I would be going  too. We are still getting good meals in the new battery. We got poached eggs on toast and coffee for breakfast Sunday. We never got eggs, toast or coffee in the Second Battery.&#13;
+	Don't send any more socks over until further notice as I won't need them. If any body wants to send anything, candy, eats, cigarettes etc would be far more acceptable.&#13;
+	Well I guess this is all the news I can think of now. Lots of love for Dorothy, Dad &amp; yourself.&#13;
+		Gordon&#13;
+My address is&#13;
+No 337810 Gunner W.[G.s.]&#13;
+	83rd Howitzer Battery. CFA&#13;
+	Ross Barracks&#13;
+	Shornecliffe&#13;
+	Eng</abstract>
+  <identifier type="local">ASC19557</identifier>
+  <location>
+    <physicalLocation>1998-037 / 001 (04)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>1 leaf + envelope</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Dorothy Stepler fonds (F0170)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000170.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <region>South East</region>
+      <county>Kent</county>
+      <city>Shorncliffe</city>
+      <citySection>Ross Barracks</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>51.075833,&#160;1.131389</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

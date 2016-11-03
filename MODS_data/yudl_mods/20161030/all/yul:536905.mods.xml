@@ -1,0 +1,58 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Zhou yi gu shi guan (Volume 1)</title>
+  </titleInfo>
+  <titleInfo type="uniform">
+    <title>Yi jing. 1942</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Hu, Pu'an</namePart>
+    <namePart type="date">1878-1947</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateIssued>Minguo 31 [1942]</dateIssued>
+    <dateIssued encoding="marc">1942</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">chi</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v.  : port. ; 20 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">[Hu Pu'an zhu].</note>
+  <note>Gift of the East Asian Resource Centre which includes special collections from Jerome Chen and the Chan family.</note>
+  <note>On double leaves, oriental style.</note>
+  <subject>
+    <geographicCode authority="marcgac">a-cc---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <titleInfo>
+      <title>Yi jing</title>
+    </titleInfo>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>China</geographic>
+    <topic>History</topic>
+    <temporal>To 221 B.C</temporal>
+  </subject>
+  <classification authority="lcc">PL2464.Z6 H742 1942</classification>
+  <classification authority="ddc" edition="22">299/.51282</classification>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Yi jing. 1942</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC-R</recordContentSource>
+    <recordCreationDate encoding="marc">870909</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20070826105226.0</recordChangeDate>
+    <recordIdentifier>5089828</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,30 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Canada's Emission Trends 2014</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Canada. Environment Canada</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2014</dateCreated>
+    <publisher>Environment Canada</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>"Under under a scenario that includes current measures  and the contribution from LULUCF, absolute emissions are projected to &#13;
+be 727 Mt in 2020, 1.2% below 2005 levels. Emissions from the oil and gas and buildings sectors are expected to increase, while &#13;
+emissions in the electricity sector are projected to decrease between 2005 and 2020. Emissions in the transportation, emissions&#13;
+-intensive and trade-exposed, agriculture, and waste and other sectors remain close to 2005 levels."  (LULUCF = Land Use, Land-Use Change and Forestry).</abstract>
+  <subject>
+    <topic>Canada</topic>
+    <topic>greenhouse gas emissions</topic>
+  </subject>
+  <accessCondition>Reproduced with permission of Environment Canada.</accessCondition>
+  <accessCondition type="useAndReproduction">&#169; Her Majesty the Queen in Right of Canada, represented by the Minister of the Environment.</accessCondition>
+</mods>

@@ -1,0 +1,60 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The revised statutes of Ontario, 1914 : being a revision and consolidation of The revised statutes of Ontario, 1897, and the subsequent public general acts of the Legislature of Ontario (Volume 1)</title>
+  </titleInfo>
+  <titleInfo type="alternative" displayLabel="Cited as:">
+    <title>R.S.O</title>
+  </titleInfo>
+  <titleInfo type="uniform" nameTitleGroup="1">
+    <title>Laws, etc. (Revised statutes of Ontario, 1914)</title>
+  </titleInfo>
+  <name type="corporate" nameTitleGroup="1">
+    <namePart>Ontario</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">onc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <publisher>Printed by L. K. Cameron</publisher>
+    <dateIssued>1914</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>3 v. ; 25 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Vol. 1. Ch. 1-177 -- v. 2. Ch. 178-301 -- v. 3. Imperial and dominion statutes ; appendices ; tables ; index.</tableOfContents>
+  <note>Vols. 1-2 paged continuously.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn-on</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Law</topic>
+    <geographic>Ontario</geographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">CaOTYL</recordContentSource>
+    <recordCreationDate encoding="marc">090420</recordCreationDate>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

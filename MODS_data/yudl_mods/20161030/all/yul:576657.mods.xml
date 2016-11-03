@@ -1,0 +1,43 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Towards an ILO approach to climate change adaptation</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Harnsdorff, Merek</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Lieuw-Kie-Song, Maikel</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Tsukamoto, Mito</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>working paper</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2011</dateCreated>
+    <publisher>International Labour Organization (ILO)</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>A working paper jointly produced by ILO&#8217;s Employment Intensive Investment Programme and the Green Jobs Programme.  It explores the implications of climate change, its impacts on the world of work, and the role to be played by the ILO. This report is a detailed description of the relevant ongoing work, including the Decent Work Agenda, Green Jobs Programme and Skills for Green Jobs. It also discusses future strategies and priorities for the ILO and identifies three clusters which can serve as a basis for the integration of initiatives: 1) Local resource-based infrastructure, Social Protection, Income and Local Development, 2) Re-skilling, Social Protection and Active Labour Market Policies, and 3) Disaster Risk Reduction and Access to a Range of Financial Services.</abstract>
+  <relatedItem type="host">
+    <part>
+      <extent>84 pages</extent>
+    </part>
+  </relatedItem>
+  <subject>
+    <topic>International Labour Organization (ILO)</topic>
+  </subject>
+  <accessCondition>Copyright remains with the creator.  Reproduced under license from the ILO, granted 2015.</accessCondition>
+  <accessCondition type="useAndReproduction">ILO</accessCondition>
+</mods>

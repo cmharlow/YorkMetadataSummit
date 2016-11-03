@@ -1,0 +1,30 @@
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods:titleInfo>
+    <mods:title>We're Canadian take it to heart button</mods:title>
+  </mods:titleInfo>
+  <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+  <mods:genre>Buttons (Information artifacts)</mods:genre>
+  <mods:originInfo>
+    <mods:dateOther>[19--]</mods:dateOther>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    <mods:languageTerm authority="iso639-2b" type="code">fre</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Image consists of one square, white, metal button. At the centre is an image of a red maple leaf with a red heart. Above the image in uppercase red text it reads:"We're Canadian". Right of the image, in a vertical direction, in uppercase red text it reads: "Take it to heart". Below the image, in uppercase black text it reads:"Une affaire de coeur". To the left of the image, in a vertical direction, in uppercase black text it reads:"Etre Canadien".</mods:abstract>
+  <mods:identifier type="local">ASC17628</mods:identifier>
+  <mods:location>
+    <mods:physicalLocation>2007-022 / 120</mods:physicalLocation>
+  </mods:location>
+  <mods:physicalDescription>
+    <mods:form>tactile material</mods:form>
+    <mods:extent>1 button: colour; 5.2 cm</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem>
+    <mods:titleInfo>
+      <mods:title>Jean Augustine fonds (F0515)</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:accessCondition type="useAndReproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution" License (http://creativecommons.org/licenses/by/2.0/)</mods:accessCondition>
+  <mods:note type="funding">This project was supported by a research grant issued by York University Libraries.</mods:note>
+</mods:mods>

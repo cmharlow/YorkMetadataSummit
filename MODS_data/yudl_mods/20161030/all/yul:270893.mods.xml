@@ -1,0 +1,68 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter from T.C. McGill to V[ivien] Beer Regarding Death of James Allan, November 5th 1916</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>McGill, T.C.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Beer, V[ivien]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">letter</genre>
+  <originInfo>
+    <dateCreated>1916-11-5</dateCreated>
+    <dateOther>5 November 1916</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a letter written by T.C. McGill to V[ivien] Beer on the death of Captain James R. Allan. Item includes envelope. Transcription is as follows:&#13;
+"France. 5 Nov 1916&#13;
+Dear Miss Beer.&#13;
+So glad you wrote to us about Capt Allan's death as we very often spoke about you in those following days when we had to send home his kit but none of us felt that we mighy presume to the extent of writing to you.&#13;
+I have taken over Capt Allan's work and will tell you all I know of the affair as I was stationed in exactly the same place on my arrival. The other officers who saw it all, are extremely busy and have asked me, when writing, to extend to you their sincere sympathy. They all speak in such glowing terms of his work and his character, and in fact quite resented my presence for a time as his successor.&#13;
+The letter which he wrote to you on the morning of the 20th was written in the officers mess. It was scarcely finished (1145 am to the exact) when the Germans stared shelling the town (I think under the circumstances I may tell you that it was the town of Albert) and especially our horse lines, which were just across the road about 150 yards from the mess. The homes were all tethered of course and everyone was working madly to get&#13;
+| page 2:&#13;
+them untied and away. Capt Allan was the first to rush out of the mess to help them and possibly to see that his own horse got safely away. This was finally accomplished whilst many shells burst among them and Capt Allan, together with about ten men and six horses took shelter behind a stone stable, close up against the wall but the last shell that came over burst right in the centre of this group killing, as you know, Capt Allan and three men, also wounding the other six men more or less badly and killing four horses. It may be some small consolation to you to know that Capt Allan was not at all mutilated, a small piece of shell pierced his left breast killing him instantly.&#13;
+Rather a pathetic but charming little act was done by some French Peasant women close by, who went into the fields and gathered daisies and other wild flowers which they spread over the four bodies when they had been properly composed and laid out on ground sheets.&#13;
+He was buried in a quiet little military cemetery with the small wooden cross, more dignified than the most elaborate marble ever made. An the ceremony, so they say, was brief and strong in feeling. I visited his grave when first I came and somehow Miss Beer I almost envied&#13;
+| page 3:&#13;
+him. A splendid straight life he had and one always strong for principle and again these fine chaps who make "the great sacrifice" will live forever in the fine deeds they have done whereas those others of us who return shall probably live on unworthily, of the life which is given us to make what we may of it. Its our women who really suffer, you sweethearts and wives are the ones who really suffer for us, and as a Soldier's Sweetheart you too must be strong and brave and smile when you proudly say Yes I gave him what move could I do. When we put your picture back among his effects our hearts were sore for that bonny curly head but time heals all things, even broken hearts and I'm quite sure he would not wish you to be sad on his account but rather to be proud and happy in the knowledge that you had the love of such a Soldier.&#13;
+Is there anything else I have not told you of? if so please ask again and I shall try to tell you. Again our deepest sympathy Miss Beer to which may I add my personal respects. &#13;
+Very sincerely yours&#13;
+T.C. McGill Capt."</abstract>
+  <identifier type="local">ASC17724</identifier>
+  <location>
+    <physicalLocation>1994-031 / 001 (03)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <extent>2 leaves + envelope</extent>
+    <form>text</form>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Beer family fonds (F0375)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000375.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>47,&#160;2</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

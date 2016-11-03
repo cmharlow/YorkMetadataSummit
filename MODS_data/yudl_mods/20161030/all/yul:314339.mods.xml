@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>&#4117;&#4108;&#4121;&#4101;&#4140;&#4112;&#4145;&#4140;&#4154;&#4117;&#4156;&#4116;&#4154;&#4133;&#4117;&#4114;&#4145;</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Association Tract</genre>
+  <originInfo>
+    <copyrightDate>1883</copyrightDate>
+    <issuance>monographic</issuance>
+    <publisher>&#4123;&#4157;&#4158;&#4145;&#4124;&#4157;&#4112;&#4154;&#4112;&#4145;&#4140;&#4154;&#4123;&#4158;&#4145;&#4151;&#4101;&#4140;&#4117;&#4150;&#4143;&#4116;&#4158;&#4141;&#4117;&#4154;&#4112;&#4141;&#4143;&#4096;&#4154; [Shwe Luttaw Shay Sarpon Naiktaik]</publisher>
+    <place>
+      <placeTerm type="text">Myanmar</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Mandalay</placeTerm>
+    </place>
+    <dateIssued script="Burmese">&#4161;&#4162;&#4164;&#4165;</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">Bur</languageTerm>
+  </language>
+  <identifier>BAB-B00049</identifier>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>24</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>UCL</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Pariyatti</topic>
+    <topic>Pali</topic>
+    <topic>Language</topic>
+    <topic>Buddhism</topic>
+    <topic>Patamabyan</topic>
+    <geographic>Mandalay</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <city>Mandalay</city>
+    </hierarchicalGeographic>
+  </subject>
+  <titleInfo type="translated" lang="eng">
+    <title>[Rules for the Patamabyan Pali Examinations]</title>
+  </titleInfo>
+</mods>

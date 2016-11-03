@@ -1,0 +1,59 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Forest conditions of Nova Scotia</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Canada</namePart>
+    <namePart>Commission of Conservation.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Fernow, B. E. (Bernhard Eduard)</namePart>
+    <namePart type="date">1851-1923</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Howe, Clifton Durant</namePart>
+    <namePart type="date">1874-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>White, James Herbert.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Nova Scotia</namePart>
+    <namePart>Crown Lands Dept.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Ottawa</placeTerm>
+    </place>
+    <dateIssued>1912</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>x p., 93, 5 p. : plates, fold. maps (in pocket) diagr.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by B.E. Fernow ... assisted by C.D. Howe and J.H. White, pub. by permission of the Department of Crown Lands, Nova Scotia. --</note>
+  <note>At head of title: Commission of Conservation.</note>
+  <subject authority="lcsh">
+    <topic>Forests and forestry</topic>
+    <geographic>Nova Scotia</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Ottawa</city>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="lccn">GS 13000094</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">830329</recordCreationDate>
+    <recordIdentifier>acn9319</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

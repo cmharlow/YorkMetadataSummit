@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC03392</identifier>
+  <identifier type="hdl"/>
+  <location>
+    <physicalLocation>1974-002 / 252 (302)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Cobalt Street : explosion</title>
+  </titleInfo>
+  <note type="titleSrc"/>
+  <abstract/>
+  <abstract>Image of remnants of residential building billowing smoke into air, with ambulance, fire truck, firefighters, and firehouse in street</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Russell, [Proulx], Ward</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2000-04-12</dateCreated>
+    <dateOther/>
+    <dateIssued>1963-02-28</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 6 x 6 cm</extent>
+  </physicalDescription>
+  <note>Box 2 CD 1</note>
+  <note type="ownership"/>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject/>
+  <accessCondition type="useAndReproduction"/>
+</mods>

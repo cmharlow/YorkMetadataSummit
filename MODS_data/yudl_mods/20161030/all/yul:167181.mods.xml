@@ -1,0 +1,47 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Essays on the intellectual powers of man</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Reid, Thomas</namePart>
+    <namePart type="date">1710-1796</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Ireland</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Dublin</placeTerm>
+    </place>
+    <publisher>Printed for L. White</publisher>
+    <dateIssued>1786</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v. ; 22 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Thomas Reid.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Knowledge, Theory of</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Intellect</topic>
+  </subject>
+  <classification authority="lcc">B1533 .I4 1786</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">COF</recordContentSource>
+    <recordCreationDate encoding="marc">940404</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030626112113.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm30083137</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

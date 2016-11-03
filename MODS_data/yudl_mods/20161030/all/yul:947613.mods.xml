@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mexique : Amerique Centrale</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Sorre, Maximilien</namePart>
+    <namePart type="date">1880-1962</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>A. Colin</publisher>
+    <dateIssued>1928</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>234 p. : ill.</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">par Max. Sorre. --</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject authority="lcsh">
+    <topic>Physical geography</topic>
+    <geographic>Mexico</geographic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Physical geography</topic>
+    <geographic>Central America</geographic>
+  </subject>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Geographie universelle ; t.14</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordCreationDate encoding="marc">800612</recordCreationDate>
+    <recordIdentifier>abx8044</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

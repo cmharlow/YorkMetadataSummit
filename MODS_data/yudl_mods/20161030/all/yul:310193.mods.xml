@@ -1,0 +1,85 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter to Mrs. Stepler from Gordon Stepler, November 2nd 1916</title>
+  </titleInfo>
+  <name type="personal">
+    <affiliation>Canadian Armed Forces</affiliation>
+    <namePart>Stepler, Gordon</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Stepler, Ethelwyn</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Letter</genre>
+  <originInfo>
+    <dateCreated>1916-11-02</dateCreated>
+    <place>
+      <placeTerm authority="marccountry">England</placeTerm>
+    </place>
+    <dateOther>2 November 1916</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a letter written by Gordon Stepler to his mother, Mrs. Ethelwyn Stepler. Transcription is as follows:&#13;
+Risboro Barracks, Shornecliffe&#13;
+Dear Mother,&#13;
+	Rec'd your letter of Oct 17 to-day and was glad to get it as our mail has not got started coming here right yet and I just got this one by chance.&#13;
+	Well we are in fine quarters now and it is a welcome change as it was fierce in the tents the last two weeks. We are in a terrace of houses which were the married mens quarters of the permanent garrison before the war and were just built a few years ago. There are cement walks all around and paved roads. They are on the outskirts of the town of Cheriton which touches Folkestone. There is a room and kitchen with closet adjoining downstairs and two rooms upstairs. There are nine in a house. Colbeck Redmond and &#13;
+|page 2&#13;
+myself have the downstairs room. There is a grate stone in the room a sort of combination open grate with oven and stone attached so that we can cook things. There is a cupboard for keeping things in and gas-light. We have a table, three chairs and a bench but don't expect to keep them long as everybody is swiping things. We sleep on the floor.&#13;
+	The old Second Battery is in huts and these are a lot better quarters than they leave. All of the rest of the draft I came over with except the dozen that are on this battery are in France. They have been all broken up and are in different batteries and some of them have been up at the front. It is reported that another draft of 95 is on its way from the 67th&#13;
+|page 3&#13;
+so there won't be much left of them.&#13;
+	We are still working on the guns. Forty-five of our horses arrived yesterday and that means extra work as we have to spend from 6.30-7; 11.30-12 am + 4-4.30 pm cleaning and feeding them. The [drivers] look after them the rest of the time.&#13;
+	I wish you would send over some Oxo cubes a small tin of cocoa, prepared coffee of something like that as we can heat them up now - that is if we are not moved by the time the parcel arrives. Would also like a box of [?] and cold tablets.&#13;
+	We don't know how long we are going to stay&#13;
+|page 4&#13;
+here as you never know anything about your future in the army. I want my mail sent to the Army Post Office now as I may be moved any time. Well I guess this is all the news now. Love to Dad, Dorothy and yourself.&#13;
+		Your loving son&#13;
+			Gordon&#13;
+No 337810 ------&#13;
+	83rd Howitzer Battery&#13;
+	Canadian Field Artillery&#13;
+	Army Post Office&#13;
+	London&#13;
+	Eng&#13;
+I sent Dorothy a bunch of pics a few days ago. That picture of Ross barracks is the old one as the present Ross Barracks is a nice looking building. All them were [taken] before the war.</abstract>
+  <identifier type="local">ASC19560</identifier>
+  <location>
+    <physicalLocation>1998-037 / 001 (04)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>2 leaves</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Dorothy Stepler fonds (F0170)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000170.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <region>South East</region>
+      <county>Kent</county>
+      <city>Shorncliffe</city>
+      <citySection>Risborough Barracks</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>51.075833,&#160;1.131389</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

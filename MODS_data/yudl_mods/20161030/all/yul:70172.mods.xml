@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>&#1606;&#1607; &#1583;&#1604;&#8204;&#1583;&#1575;&#1585;&#1740; &#1583;&#1575;&#1585;&#1605; &#1606;&#1607; &#1594;&#1605;&#8204;&#1582;&#1608;&#1575;&#1585;&#1740;</title>
+    <subTitle>&#1740;&#1705; &#1588;&#1575;&#1582;&#1607; &#1711;&#1604;</subTitle>
+    <subTitle>Yek Shakhe Gol</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#1593;&#1604;&#1740; &#1578;&#1580;&#1608;&#1740;&#1583;&#1740;</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>AliTajvidi</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>&#1575;&#1604;&#1607;&#1607; </namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Elahe</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>Sound Recording</typeOfResource>
+  <genre>Abu Ata</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">per</languageTerm>
+  </language>
+  <identifier>Shakheh-Gol-075</identifier>
+  <physicalDescription>
+    <form authority="marcform">sound recording</form>
+    <extent>14:34</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Iranian National Radio</topic>
+    <topic>radio programs</topic>
+    <topic>music</topic>
+    <topic>poetry</topic>
+    <geographic>Iran</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Iran</country>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

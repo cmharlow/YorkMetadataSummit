@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo><title>Just Labour &#8226; About JL   &#8226; A Canadian Journal of Work and Society</title><subTitle/></titleInfo>
+  <name type="corporate"><namePart>Just Labour</namePart><role><roleTerm authority="marcrelator" type="text">Creator</roleTerm></role></name>
+  <typeOfResource>mixed material</typeOfResource>
+  <genre authority="lctgm">Website</genre>
+  <originInfo><dateCaptured>2014-11-27</dateCaptured><publisher>Just Labour</publisher><place><placeTerm authority="marccountry" type="code">Canada</placeTerm></place><place><placeTerm type="text">Toronto</placeTerm></place></originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Web crawl of Just Labour: York University's Centre for Research on Work and Society (CRWS) is pleased to offer academics, trade-unionists, community activists, researchers, policy makers and students Just Labour: A Canadian Journal of Work and Society.</abstract>
+  <identifier type="local">JUSTLABOUR-2014_11_27</identifier>
+  <physicalDescription><form authority="marcform">electronic resource</form><extent>26M</extent><internetMediaType/></physicalDescription>
+  <note/>
+  <relatedItem type="host">
+    <location><url>http://www.justlabour.yorku.ca/index.php?page=about</url><url/></location>
+  </relatedItem>
+  <titleInfo><title/><subTitle/></titleInfo>
+  <location><url displayLabel="Active site">http://www.justlabour.yorku.ca</url><url displayLabel="Archived site">http://digital.library.yorku.ca/wayback/20141127/http://www.justlabour.yorku.ca</url></location>
+  <subject><topic/><topic>journal</topic><topic>labour</topic><geographic/><temporal/></subject>
+</mods>

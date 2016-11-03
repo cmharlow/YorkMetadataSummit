@@ -1,0 +1,37 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Romans</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Nodier, Charles</namePart>
+    <namePart type="date">1780-1844</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Charpentier</publisher>
+    <dateIssued>1862</dateIssued>
+    <edition>Nouv. &#233;d., rev. et accompagn&#233;es de notes. -</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>355 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">de Charles Nodier. -</note>
+  <classification authority="lcc">PQ2376.N6 R7 1862</classification>
+  <recordInfo>
+    <recordCreationDate encoding="marc">741220</recordCreationDate>
+    <recordIdentifier>abl7176</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods>

@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC19128</identifier>
+  <location>
+    <physicalLocation>1974-002 / 446</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Phyllis Griffiths : Retirement party</title>
+  </titleInfo>
+  <abstract>Image (portrait orientation) of Telegram reporter, Phyllis Griffiths, (striped dress) at her retirement party, holding a large sheet of card that reads "Good Luck Phyl".</abstract>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>Jac Holland</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>30 October 1967</dateOther>
+    <dateIssued>1967-10-31</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative; 35 mm</extent>
+  </physicalDescription>
+  <note>One negative (#14A-15) scanned from 40 in assignment.</note>
+  <note type="ownership">ASC19120, ASC19121, ASC19122, ASC19123, ASC19124, ASC19125, ASC19126, ASC19127, ASC19129</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Phyllis Griffiths</topic>
+    <topic>Telegram employees</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

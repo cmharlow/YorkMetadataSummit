@@ -1,0 +1,53 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Histoire du Canada sous la domination fran&#231;aise</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Bibaud, M. (Michel)</namePart>
+    <namePart type="date">1782-1857</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montr&#233;al</placeTerm>
+    </place>
+    <publisher>Lovell et Gibson</publisher>
+    <dateIssued>1843</dateIssued>
+    <edition>2. &#233;d., rev., cor., et augm.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>414 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par M. Bibaud. --</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn---</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Montr&#233;al</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>History</topic>
+    <temporal>To 1763 (New France)</temporal>
+  </subject>
+  <classification authority="lcc">FC305 .B52 1843</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">831107</recordCreationDate>
+    <recordIdentifier>aaz1716</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

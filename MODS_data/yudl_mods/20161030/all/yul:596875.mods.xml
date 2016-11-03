@@ -1,0 +1,57 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Dictionnaire general de la langue francaise du commencement du XVIIe siecle jusqu'a nos jours : precede d'un traite de la formation de la langue</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Hatzfeld, Adolphe</namePart>
+    <namePart type="date">1824-1900</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Darmesteter, Arsene</namePart>
+    <namePart type="date">1846-1888</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Thomas, Antoine (i.e. Andre Antoine)</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>C. Delagrave</publisher>
+    <dateIssued>[1895-1900]</dateIssued>
+    <dateIssued encoding="marc" point="start">1895</dateIssued>
+    <dateIssued encoding="marc" point="end">1900</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par Adolphe Hatfeld ... et Arsene Darmesteter ... avec le concours de M. Antoine Thomas. --</note>
+  <note>Issued in parts, 1890-1900.</note>
+  <note>"Ouvrage ayant obtenu le prix Jean Reynaud d'une valeur de 10,000 francs."</note>
+  <subject authority="lcsh">
+    <topic>French language</topic>
+    <topic>Dictionaries</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">830607</recordCreationDate>
+    <recordIdentifier>a750137</recordIdentifier>
+    <recordIdentifier>adf5621</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,41 @@
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods:titleInfo>
+    <mods:title>Biko lives button</mods:title>
+  </mods:titleInfo>
+  <mods:name type="corporate">
+    <mods:namePart>Black Consciousness Movement of Azania</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+  <mods:genre>Buttons (Information artifacts)</mods:genre>
+  <mods:originInfo>
+    <mods:dateOther>[1977?]</mods:dateOther>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Image consists of one round, yellow, metal button. At the centre is a black and white image of Steve Biko. Above the image bold text reads:"Biko lives". Below the image bold text reads:"BCM of Azania".</mods:abstract>
+  <mods:identifier type="local">ASC17642</mods:identifier>
+  <mods:location>
+    <mods:physicalLocation>2007-022 / 120</mods:physicalLocation>
+  </mods:location>
+  <mods:physicalDescription>
+    <mods:form>tactile material</mods:form>
+    <mods:extent>1 button: colour; 5.5 cm</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem>
+    <mods:titleInfo>
+      <mods:title>Jean Augustine fonds (F0515)</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:topic>Black Consciousness Movement</mods:topic>
+    <mods:topic>Apartheid</mods:topic>
+    <mods:topic>Steve Biko</mods:topic>
+    <mods:geographic>South Africa</mods:geographic>
+  </mods:subject>
+  <mods:accessCondition type="useAndReproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution" License (http://creativecommons.org/licenses/by/2.0/)</mods:accessCondition>
+  <mods:note type="funding">This project was supported by a research grant issued by York University Libraries.</mods:note>
+</mods:mods>

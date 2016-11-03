@@ -1,0 +1,28 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Tomorrow Now: Manitoba's Green Plan</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Manitoba. Conservation and Water Stewardship</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2012</dateCreated>
+    <publisher>Government of Manitoba</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>This document is a comprehensive strategic plan, including green economy goals such as: A key activity for transitioning to a green economy is instilling green skills, knowledge and values within our existing and future workforce.This task will require a multitude of stakeholders to engage in educational and training efforts to enable change towards sustainable work practices. We will foster collaborative dialogue between industry, formal education, and training in order to support the identification, forecasting and provision of skills to support green sectors in Manitoba and a low-carbon future. This will include working with institutions and&#13;
+advancing our technical and vocational education and training in support of the transition to a green economy and launching a Guide to Green Jobs and Sustainable Careers. Also included: coal-free Manitoba; energy efficiency goals, development of an eco-tourism industry, and co-operation with aboriginal groups.</abstract>
+  <subject>
+    <topic>Manitoba</topic>
+    <topic>climate change policy</topic>
+  </subject>
+  <accessCondition>Reproduced with permission of the government of Manitoba</accessCondition>
+  <accessCondition type="useAndReproduction">Copyright retained by the Government of Manitoba</accessCondition>
+</mods>

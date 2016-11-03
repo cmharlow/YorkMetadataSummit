@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter to Mrs. Stepler from Gordon Stepler, August 25th 1916</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Stepler, Gordon</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Stepler, Ethelwyn</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre>Letter</genre>
+  <originInfo>
+    <dateCreated>1916-08-25</dateCreated>
+    <place>
+      <placeTerm authority="marccountry">England</placeTerm>
+    </place>
+    <dateOther>25 August 1916</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a letter written by Gordon Stepler to his mother, Mrs. Ethelwyn Stepler. Transcription is as follows:&#13;
+Glasgow, Aug 25 1916&#13;
+Dear Mother,&#13;
+	Just a line to let you know where I am. I left London at 10 a.m. yesterday and got  to Glasgow at 6.15. The scenery along the way was very pretty and I like this place better than I dod London. It was pouring rain when we got here but we took a cab and got something to eat. We went to the Glasgow Alhambre theatre at night and I never enjoyed a show so much  before. We stayed here all night. Am going on a boat trip up the [?] this morning.&#13;
+		Gordon</abstract>
+  <identifier type="local">ASC19538</identifier>
+  <location>
+    <physicalLocation>1998-037 / 001 (04)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>1 leaf</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Dorothy Stepler fonds (F0170)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000170.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Scotland</country>
+      <city>Glasgow</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>55.858,&#160;-4.259</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Romanian Online Dialect Atlas :  An experimental presentation of linguistic information</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Sheila M. Embleton</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Dorin Uritescu</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Eric S. Wheeler</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>mixed material</typeOfResource>
+  <genre authority="lctgm">Website</genre>
+  <originInfo>
+    <dateCaptured>2014-08-11</dateCaptured>
+    <place>
+      <placeTerm authority="marccountry" type="code">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>The Romanian Online Dialect Atlas is an experimental online presentation of dialect information about Romanian.&#13;
+&#13;
+The Romanian Online Dialect Atlas project proposes applying innovative contemporary methods in dialect geography to an online set of Romanian dialect data.</abstract>
+  <identifier type="local">romainian-online-dialect-atlas-2014_08_11</identifier>
+  <physicalDescription>
+    <form authority="marcform">electronic resource</form>
+    <extent>10M</extent>
+  </physicalDescription>
+  <relatedItem type="host">
+    <location>
+      <url>http://www.yorku.ca/embleton/research/romanian</url>
+    </location>
+  </relatedItem>
+  <titleInfo>
+    <title>Romanian Online Dialect Atlas</title>
+  </titleInfo>
+  <location>
+    <url displayLabel="Active site">http://www.yorku.ca/embleton/research/romanian</url>
+    <url displayLabel="Archived site">http://digital.library.yorku.ca/wayback/20141214165522/http://www.yorku.ca/embleton/research/romanian/</url>
+  </location>
+  <subject>
+    <topic>Romanian</topic>
+    <topic>linguistics</topic>
+  </subject>
+</mods>

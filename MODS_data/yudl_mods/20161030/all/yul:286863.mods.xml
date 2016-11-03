@@ -1,0 +1,41 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>My French Canadian neighbours : and other sketches</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Fairchild, Queenie.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Qu&#233;bec</placeTerm>
+    </place>
+    <publisher>Telegraph Print. Co.</publisher>
+    <dateIssued>1916</dateIssued>
+    <issuance>monographic</issuance>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>121 p. : ill.</extent>
+  </physicalDescription>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840727</recordCreationDate>
+    <recordIdentifier>adl1914</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

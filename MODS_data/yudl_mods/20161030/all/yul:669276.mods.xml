@@ -1,0 +1,55 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Gui Zhuang shou xie shi gao (Volume 1)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Gui, Zhuang</namePart>
+    <namePart type="date">1613-1673</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Zhonghua shu ju</namePart>
+    <namePart>Shanghai bian ji suo.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">cc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Beijing</placeTerm>
+    </place>
+    <publisher>Zhonghua shu ju</publisher>
+    <dateIssued>1959</dateIssued>
+    <edition>Di 1 ban.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">chi</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v. ; 28 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">[Gui Zhuang zhu ; Zhonghua shu ju Shanghai bian ji suo bian ji].</note>
+  <note>Gift of the East Asian Resource Centre which includes special collections from Jerome Chen and the Chan family.</note>
+  <note>On double leaves, oriental style.</note>
+  <subject authority="lcsh">
+    <topic>Chinese poetry</topic>
+    <temporal>Ming dynasty, 1368-1644</temporal>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>China</country>
+      <city>Beijing</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">PL2698.K85 A6 1959</classification>
+  <recordInfo>
+    <recordContentSource authority="marcorg">SNN</recordContentSource>
+    <recordCreationDate encoding="marc">850604</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20091211105609.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm12115254</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

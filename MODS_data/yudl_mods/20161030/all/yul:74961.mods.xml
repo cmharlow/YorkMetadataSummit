@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Shipping invoices</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart/>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated/>
+    <dateCreated>2010-06-24T17:59:55Z</dateCreated>
+    <dateOther>March 18, 1954</dateOther>
+  </originInfo>
+  <abstract>Item consists of a printed invoice for shipping an Albion Press purchased at the Chiswick Press in London by Allan Robb Fleming on behalf of Carl Dair by ship to Toronto.</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/4440</identifier>
+  <identifier type="local">ASC06461</identifier>
+  <location>
+    <physicalLocation>2008-031 / 001 (10)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>1 document : one page ; 19.5 x 17</extent>
+  </physicalDescription>
+  <note>1 document from file 10</note>
+  <note/>
+  <relatedItem>
+    <titleInfo>
+      <title>Allan Robb Fleming fonds (F0529)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000529.htm</url>
+    </location>
+  </relatedItem>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

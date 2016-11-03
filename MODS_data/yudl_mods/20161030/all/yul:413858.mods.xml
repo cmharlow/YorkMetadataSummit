@@ -1,0 +1,100 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>State of Play for Canadian Clean Technology SMEs</title>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Bak, Celine</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<genre>working paper</genre>
+	
+    
+	<typeOfResource>text</typeOfResource>
+	
+    
+	<originInfo>
+		
+      
+		<dateCreated>2011-03-22</dateCreated>
+		
+      
+		<publisher>National Round Table on the Environment and the Economy</publisher>
+		
+    
+	</originInfo>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier type="local">RPT_NRTEE_State-of-Play-for-Canadian-Clean-Technology-SMEs.pdf</identifier>
+	
+    
+	<abstract>As part of the National Round Table on the Environment and the Economy&#8217;s (NRTEE&#8217;s) research program and specifically in the context of the NRTEE&#8217;s sixth report in the NRTEE&#8217;s climate prosperity program, it has commissioned this brief study and report on how Canadian clean technology Small-and Medium-sized Enterprises (SMEs) can contribute to climate prosperity.</abstract>
+	
+    
+	<relatedItem type="host">
+		
+      
+		<titleInfo>
+			
+        
+			<title/>
+			
+      
+		</titleInfo>
+		
+      
+		<part>
+			
+        
+			<extent>30 p.</extent>
+			
+      
+		</part>
+		
+    
+	</relatedItem>
+	
+    
+	<location>
+		
+      
+		<url>http://warming.apps01.yorku.ca/library/wp-content/uploads/2013/03/NRTEE-2010-State-of-Play-for-Canadian-Clean-Technology-SMEs.pdf</url>
+		
+    
+	</location>
+	
+    
+	<accessCondition type="useAndReproduction">All rights reserved</accessCondition>
+	
+  
+</mods>

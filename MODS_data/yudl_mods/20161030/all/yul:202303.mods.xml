@@ -1,0 +1,20 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Dhamma Dhetanana Taya Thandinsa</title>
+    <partNumber>Vol. 10, no. 121</partNumber>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre>journal</genre>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+  </physicalDescription>
+  <originInfo>
+    <dateCreated>1918-11</dateCreated>
+    <dateOther>November 1918</dateOther>
+  </originInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

@@ -1,0 +1,39 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Allan Fleming in his studio</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Peter Croydon</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>2010-06-24T17:59:38Z</dateCreated>
+    <dateCreated/>
+    <dateOther>[1955] 196-</dateOther>
+  </originInfo>
+  <abstract>Image of Allan Robb Fleming standing and posing in front of a drafting table with arms crossed.</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/4414</identifier>
+  <identifier type="local">ASC06422</identifier>
+  <location>
+    <physicalLocation>2008-002 / 024 (08)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w photoprint ;  6 x 6 cm||1 jpeg (1900dpi) : 800 pixels across</extent>
+  </physicalDescription>
+  <note>1 image "#33" scanned from Croydon contact sheet file 8</note>
+  <note/>
+  <relatedItem>
+    <titleInfo>
+      <title>Allan Robb Fleming fonds (F0529)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000529.htm</url>
+    </location>
+  </relatedItem>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

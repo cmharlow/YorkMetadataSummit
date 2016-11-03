@@ -1,0 +1,54 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Xiachuan hua yin ci</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Li, Ciming</namePart>
+    <namePart type="date">1830-1894</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">cc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Shanghai</placeTerm>
+    </place>
+    <publisher>Zhonghua shu ju</publisher>
+    <dateIssued>Minguo 29 [1940]</dateIssued>
+    <dateIssued encoding="marc">1940</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">chi</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>21, 31, 8  leaves ; 19 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">zhu zhe Li Ciming.</note>
+  <note>On double leaves, oriental style.</note>
+  <note>Gift of the East Asian Resource Centre which includes special collections from Jerome Chen and the Chan family.</note>
+  <subject authority="lcsh">
+    <topic>Chinese poetry</topic>
+    <temporal>Qing dynasty, 1644-1912</temporal>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>China</country>
+      <city>Shanghai</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">PL2718.I24 X53 1940</classification>
+  <identifier type="lccn">81836339</identifier>
+  <identifier type="oclc">36653622</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">970331</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100330131220.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm36653622</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

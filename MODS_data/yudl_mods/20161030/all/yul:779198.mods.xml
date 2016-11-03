@@ -1,0 +1,45 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Works (Volume 1)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Aldrich, Thomas Bailey</namePart>
+    <namePart type="date">1836-1907</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+    <publisher>Jefferson Press</publisher>
+    <dateIssued>[c1903-1915; v.1, 1915]</dateIssued>
+    <dateIssued encoding="marc">1903</dateIssued>
+    <edition>[Library ed.] --</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>9 v. : ill.</extent>
+  </physicalDescription>
+  <tableOfContents>v.1-2. Poems.-v.3. Marjorie Daw, and other stories.- v.4. Prudence Palfrey [and] A Rivermouth romance.- v.5. The queen of Sheba, [and] My cousin the colonel.- v.6. The Stillwater tragedy.- v.7. The story of a bad boy, The little violinst, and other sketches.- v.8. From Ponkapog to Pesth [and] An old town by the sea.- v.9 Ponkapog papers, A sea turn, and other papers.</tableOfContents>
+  <note>"Printed by arrangement with Houghton, Mifflin."</note>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840827</recordCreationDate>
+    <recordIdentifier>a796158</recordIdentifier>
+    <recordIdentifier>adl2525</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Massachusetts</province>
+      <city>Boston</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

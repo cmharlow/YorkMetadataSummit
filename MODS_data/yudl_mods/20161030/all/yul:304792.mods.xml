@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>&#4121;&#4127;&#4114;&#4157;&#4139;&#4123; &#4116;&#4141;&#4096;&#4140;&#4122; &#4126;&#4140;&#4126;&#4116;&#4125;&#4150;&#4126; &#4114;&#4142;&#4117;&#4116;&#4142;</title>
+  </titleInfo>
+  <titleInfo type="translated" lang="eng">
+    <title>[Treatise of Maha Dwara Nikara Thathana Wuntha Dipani]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#4126;&#4142;&#4123;&#4141;&#4126;&#4145;&#4140;&#4120;&#4116; [Thiri Thawbana}</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Buddhist scripture</genre>
+  <originInfo>
+    <dateIssued>1974</dateIssued>
+    <copyrightDate>1974</copyrightDate>
+    <issuance>monographic</issuance>
+    <publisher>&#4124;&#4122;&#4154;&#4112;&#4142;&#4121;&#4111;&#4154;&#4112;&#4141;&#4143;&#4100;&#4154;&#4171; [Ledi Mandine]</publisher>
+    <place>
+      <placeTerm type="text">Myanmar</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Yangon</placeTerm>
+    </place>
+    <dateIssued script="Burmese">&#4126;&#4142;&#4112;&#4100;&#4154;&#4152;&#4096;&#4155;&#4157;&#4112;&#4154;&#4170;&#4161;&#4163;&#4163;&#4166;&#4171;</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">Bur</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>577</extent>
+  </physicalDescription>
+  <subject>
+    <geographic>Rangoon</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <city>Yangon</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

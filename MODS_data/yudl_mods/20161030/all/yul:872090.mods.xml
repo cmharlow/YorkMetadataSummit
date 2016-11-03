@@ -1,0 +1,55 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Oeuvres philosophiques de l'Abb&#233; de Condillac</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Condillac, Etienne Bonnot de</namePart>
+    <namePart type="date">1714-1780</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">it</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Parme</placeTerm>
+    </place>
+    <dateIssued>1792</dateIssued>
+    <edition>Nouv. ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>4 v. 21 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>t. 1. Essai sur l'origine des connaissances humaines -- t. 2. Trait&#233; des sensations -- t. 3. Logique et le trait&#233; des animaux -- t. 4. Trait&#233; des syst&#234;mes.</tableOfContents>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Knowledge</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Italy</country>
+      <city>Parme</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Philosophy</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Emotions</topic>
+  </subject>
+  <classification authority="lcc">B1982</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">LRU</recordContentSource>
+    <recordCreationDate encoding="marc">870702</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20021216150345.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm16128444</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

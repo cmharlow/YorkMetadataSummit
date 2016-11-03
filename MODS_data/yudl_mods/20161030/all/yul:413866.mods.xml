@@ -1,0 +1,34 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Ecological Fiscal Reform and Sustainable Urban Growth - A Research Framework</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Metropole Consultants</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>working paper</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2002-03-13</dateCreated>
+    <publisher>National Round Table on the Environment and the Economy</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RPT_NRTEE_Ecological-Fiscal-Reform-and-Sustainable-Urban-Growth-A-Research-Framework.pdf</identifier>
+  <abstract>This report delivered to the NRTEE provides background information, data, and comparisons of sustainable urban growth as it pertains to Canadian cities. It addresses the federal responses to sustainability, and fiscal responsiblities urban sustainablility. Finally, this report  looks at possible actors, research paramaters, and what can be done in Canada.</abstract>
+  <relatedItem type="host">
+    <part>
+      <extent>34 p.</extent>
+    </part>
+  </relatedItem>
+  <location>
+    <url>http://warming.apps01.yorku.ca/library/wp-content/uploads/2013/03/NRTEE-2002-Ecological-Fiscal-Reform-and-Sustainable-Urban-Growth-A-Research-Framework.pdf</url>
+  </location>
+  <subject>
+    <topic>Urban policy and planning</topic>
+  </subject>
+  <accessCondition>&#169; This Work is protected by copyright and made available for personal or public non-commercial use and may be reproduced, in part or in whole, and by any means, and may be further distributed for non-commercial use, without charge or further permission. All users are required to indicate that the reproduction, in part or in whole, is a copy of a Work of the National Round Table on the Environment and the Economy (NRTEE). Reproduction, in whole or in part, of this Work for the purpose of commercial redistribution is strictly prohibited. Furthermore, no right to modify or alter in any manner the Work is hereby granted.</accessCondition>
+</mods>

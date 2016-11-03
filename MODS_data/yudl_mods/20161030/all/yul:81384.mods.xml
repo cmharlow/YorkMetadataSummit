@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Development of campus buildings : Large lecture auditorium [Burton Auditorium] project no. 360</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Neil Newton Photography Ltd.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>1965-05-18</dateCreated>
+    <dateOther>1965-05-18</dateOther>
+  </originInfo>
+  <abstract>Image of Burton Auditorium under construction from the SW</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/1126</identifier>
+  <identifier type="local">ASC02076</identifier>
+  <location>
+    <physicalLocation>1972-016 / 001 (04)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w photoprint ; 20 x 25 cm, mounted on linen</extent>
+  </physicalDescription>
+  <note>Architect - U.P.A.C.E. | Contractor - Louis Donolo (Ontario) Ltd.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>York University (Toronto, Ont.) Photograph collection (F0091)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000091.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Burton Auditorium</topic>
+    <topic>Buildings</topic>
+    <topic>York50Photos</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+</mods>

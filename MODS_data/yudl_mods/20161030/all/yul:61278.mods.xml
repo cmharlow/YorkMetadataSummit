@@ -1,0 +1,76 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Concert: Robbie McNeill</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Robbie MacNeill</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Host</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Paul Grady</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>Sound Recording</typeOfResource>
+  <tableOfContents>Belle of the Ball / Paul Grady (Robbie McNeill). -- Evangeline / (Robbie McNeill). -- Love Is Not Just A Valentine / Paul Grady (Robbie McNeill). -- Sunshine / (Robbie McNeill). -- Lazy Love / (Robbie McNeill). -- Maybe / (Robbie McNeill). -- Can't Even Change Our Minds [?] / (Robbie McNeill).</tableOfContents>
+  <genre>folk music</genre>
+  <originInfo>
+    <dateIssued>1975-06-22</dateIssued>
+    <publisher>Mariposa Folk Foundation</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto Islands</placeTerm>
+    </place>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code"/>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of audio recording of concert with Robbie MacNeill performing Nova Scotian Blues songs, "Bell of the Ball" (Paul Grady) "Evangeline", "Love is not Just a Valentine" (Paul Grady), "Sunshine", "Lazy Love", "Maybe" and "Can't Even Change Our Minds(?)".</abstract>
+  <identifier>ASC06037</identifier>
+  <physicalDescription>
+    <form>1/4" reel audio tape</form>
+    <extent>0:21:42</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Mariposa Folk Foundation fonds (F0511)</title>
+    </titleInfo>
+    <location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Mariposa Folk Festival</topic>
+    <topic>folk music</topic>
+    <topic>guitar</topic>
+    <topic>folk songs</topic>
+    <geographic>Area 4</geographic>
+    <temporal>13:30-14:30</temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Toronto Islands</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.620833, -79.378611</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+  <accessCondition type="restrictionOnAccess">Robbie MacNeill: contact info not yet found.</accessCondition>
+</mods>

@@ -1,0 +1,54 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The iron industry : what it is to Great Britain and the United States : what it may be to Canada : read at the</title>
+    <subTitle>what it may be to Canada : read at the annual meeting of the General Mining Association of Quebec, Montreal, January 11th, 1894</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Drummond, George E. (George Edward)</namePart>
+    <namePart type="date">b. 1858</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>General Mining Association of Qu&#233;bec</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montreal</placeTerm>
+    </place>
+    <dateIssued>1894?]</dateIssued>
+    <dateIssued encoding="marc">1894</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>36 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Geo. E. Drummond.</note>
+  <note>Cover title.</note>
+  <note>"With compliments of Canada Iron Furnace Co. Ltd. Montreal and Radnor Forges, Que."</note>
+  <subject authority="lcsh">
+    <topic>Iron industry and trade</topic>
+    <geographic>Canada</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">810306</recordCreationDate>
+    <recordIdentifier>afq1520</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

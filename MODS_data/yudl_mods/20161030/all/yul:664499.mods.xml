@@ -1,0 +1,62 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Glimpses of early Canadians : Lahontan</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Crompton, F. C. B.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">onc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <publisher>Nelson</publisher>
+    <dateIssued>1925</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xiii, 101 p. : ill. ; 21 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by F.C.B. Crompton.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn---</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart type="termsOfAddress">baron de</namePart>
+      <namePart>Lahontan, Louis Armand de Lom d'Arce</namePart>
+      <namePart type="date">1666-1715?</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>History</topic>
+    <temporal>To 1763 (New France)</temporal>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>Description and travel</topic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">900508</recordCreationDate>
+    <recordIdentifier>afm2000</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,80 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Bill Haywoodin kirja : kertomus William D. Haywoodin ela&#776;ma&#776;sta&#776; ja tyo&#776;sta&#776;</title>
+  </titleInfo>
+  <titleInfo type="uniform" nameTitleGroup="1">
+    <title>Bill Haywood's book. Finnish</title>
+  </titleInfo>
+  <name type="personal" usage="primary" nameTitleGroup="1">
+    <namePart>Haywood, Big Bill</namePart>
+    <namePart type="date">1869-1928</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">wiu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Superior, Wis</placeTerm>
+    </place>
+    <publisher>Amerikan Suom. Sos. Kustannusliikkeiden Liiton Kustantama</publisher>
+    <dateIssued>c1929</dateIssued>
+    <dateIssued encoding="marc">1929</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fin</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>333 p. : port. ; 22 cm.</extent>
+  </physicalDescription>
+  <note>Translation of: Bill Haywood's book : the autobiography of William D. Haywood.</note>
+  <note>SC-SPCOLL copy: Part of the Varpu Lindstro&#776;m fonds d'archives (F0558). Item not available for interlibrary loan.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Haywood, Big Bill</namePart>
+      <namePart type="date">1869-1928</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Wisconsin</province>
+      <city>Superior</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Industrial Workers of the World</namePart>
+    </name>
+    <topic>History</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Labor unions</topic>
+    <geographic>United States</geographic>
+    <topic>Officials and employees</topic>
+    <genre>Biography</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Labor leaders</topic>
+    <geographic>United States</geographic>
+    <genre>Biography</genre>
+  </subject>
+  <classification authority="lcc">HD6509.H3 A32135 1929</classification>
+  <identifier type="oclc">35370224</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">CUY</recordContentSource>
+    <recordCreationDate encoding="marc">960905</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100322152509.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">a2367013</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+<relatedItem><titleInfo><title>Varpu Lindstrom fonds (F0558)</title></titleInfo><location><url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000558.htm</url></location></relatedItem>
+</mods>

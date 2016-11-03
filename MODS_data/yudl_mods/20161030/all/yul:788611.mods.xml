@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Submission to the Legislative Committee on Bill C-30 Clean Air Act</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Canadian Autoworkers Union (CAW)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Submission</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>February 6, 2007</dateCreated>
+    <publisher>CAW</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>The submission summarizes some statistics re  Canada's auto industry, and lays out the union's position in favour of vehicle emission standards, alternative fuel vehicles, and manufacture of transit vehicles.</abstract>
+  <subject>
+    <topic>labour union policies</topic>
+    <topic>auto manufacturing industry</topic>
+  </subject>
+  <accessCondition>Reproduced with permission of Unifor, July 2016.</accessCondition>
+  <accessCondition type="useAndReproduction">copyright remains with the creator</accessCondition>
+</mods>

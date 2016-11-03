@@ -1,0 +1,43 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Zenobia; queen of Palmyra</title>
+    <subTitle>A poem</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Dawson, AEneas Mac Donell</namePart>
+    <namePart type="date">1810-1894</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Ottawa</placeTerm>
+    </place>
+    <publisher>C.W. Mitchell, printer</publisher>
+    <dateIssued>1883</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>108 p., 1 l.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">By the Rev. AEneas Mac Donell Dawson. --</note>
+  <identifier type="lccn">06028617</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840725</recordCreationDate>
+    <recordIdentifier>adl1716</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Ottawa</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

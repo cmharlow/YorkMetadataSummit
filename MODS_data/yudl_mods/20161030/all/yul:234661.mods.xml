@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Environment, 1985-1992</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Excalibur Publications Inc.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Clive Cohen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <originInfo>
+    <dateCreated>Photograph</dateCreated>
+    <publisher>Excalibur Publications Inc.</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">North York, Ontario</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Image of a man [Mitch Blass?] putting a cardboard box into a large metal recycling container at York's main recycling depot. The #6 Assiniboine residence tower is seen in the background.</abstract>
+  <identifier type="local">ASC17454</identifier>
+  <location>
+    <physicalLocation>2004-030 / 002</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : sepia print ; 12.6 x 17.7 cm</extent>
+  </physicalDescription>
+  <note>"48%," "Mitch Blass," "10/10/90," "Photo By: Clive Cohen" is written on the back of the photograph. A press clipping saying "The main recycling depot at York is located behind the #6 Assiniboine Road residence tower. The city of North York currently hauls the material for the university." is also taped to the back of the photograph.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Excalibur Publications Inc. fonds (F0502)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000502.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>York University</topic>
+    <topic>Assiniboine residence tower</topic>
+    <topic>recycling</topic>
+    <geographic>York University</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>North York</city>
+      <citySection>Assiniboine Road</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.767951, -79.504024</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

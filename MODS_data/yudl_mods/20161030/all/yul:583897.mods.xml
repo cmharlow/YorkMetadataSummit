@@ -1,0 +1,50 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Casani's self-tutor of ballroom dancing</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Casani, Santos</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <publisher>Cassell and Co.</publisher>
+    <dateIssued>1927</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xii, 107 p., [16] p. of plates : ill., port. ; 20 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Santos Casani.</note>
+  <subject authority="lcsh">
+    <topic>Ballroom dancing</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Dance</topic>
+    <topic>Study and teaching</topic>
+  </subject>
+  <classification authority="lcc">GV1751 .C3</classification>
+  <identifier type="oclc">11980654</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">PMC</recordContentSource>
+    <recordCreationDate encoding="marc">850430</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100208123610.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm11980654</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

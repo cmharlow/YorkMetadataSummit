@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter to VW from Mary Everest Boole 5 May 1884</title>
+  </titleInfo>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/29543057">
+    <namePart>Welby, Victoria</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+    <namePart type="termsOfAddress">Lady</namePart>
+  </name>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/11807535">
+    <namePart>Boole, Mary Everest, 1832-1916</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+    <namePart type="date">1832-1916</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Correspondence</genre>
+  <originInfo>
+    <dateIssued>1884-05-05</dateIssued>
+    <dateOther>5 May 1884</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a manuscript letter to Victoria Welby from Mary Everest Boole.</abstract>
+  <identifier type="local">ASC17855</identifier>
+  <location>
+    <physicalLocation>1970-010 / 001 (044)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>10 pages</extent>
+  </physicalDescription>
+  <note type="funding">Digitization made possible, in whole or in part, through a 2014 Librarians Research Grant.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Lady Victoria Welby fonds (F0443)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000443.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Religion</topic>
+    <topic>Humanity</topic>
+    <topic>Love</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <city>London</city>
+      <citySection>103 Seymour Place, Bryanston Square</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>51.514647, -0.161008</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digitized for access and research purposes only. For further copyright information contact: ascproj@yorku.ca.</accessCondition>
+</mods>

@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>&#4119;&#4143;&#4114;&#4120;&#4140;&#4126;&#4140;&#4126;&#4097;&#4145;&#4117; &#4096;&#4155;&#4121;&#4154;&#4152;</title>
+  </titleInfo>
+  <titleInfo type="translated" lang="eng">
+    <title>[The Epitome of Buddhism]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#4118;&#4145; &#4134;&#4152;&#4118;&#4145; [Phay Pe]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Buddhism</genre>
+  <originInfo>
+    <copyrightDate>1914</copyrightDate>
+    <issuance>monographic</issuance>
+    <publisher>&#4121;&#4121;&#4156;&#4129;&#4100;&#4154;&#4102;&#4116;&#4154;&#4152;&#4171; Ma Mya &amp; Son</publisher>
+    <place>
+      <placeTerm type="text">Myanmar</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Kyaiklatt</placeTerm>
+    </place>
+    <dateIssued script="Burmese">&#4161;&#4162;&#4167;&#4166;</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">Bur</languageTerm>
+  </language>
+  <identifier>BAB-B00015</identifier>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>202</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Pansodan Research Library</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Alpabetical index at the back of book</note>
+  <subject>
+    <geographic>Kyaiklatt</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <city>Kyaiklatt</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

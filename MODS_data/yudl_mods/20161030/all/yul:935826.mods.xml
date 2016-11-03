@@ -1,0 +1,74 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC35562</identifier>
+  <location>
+    <physicalLocation>1974-001 / 365 (2401)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Pollution : Water</title>
+  </titleInfo>
+  <abstract>Image of a crowd, including University of Toronto students, listening to the Lady Godiva Memorial Band, during a demonstration by Pollution Probe, on the steps of the Ontario Legislative Building [there are staple holes in upper right corner].</abstract>
+  <targetAudience>Canadian Centre for Architecture</targetAudience>
+  <name>
+    <namePart>Richard Cole</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>[17 November 1969]</dateOther>
+    <dateIssued>1970-04-27</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 20.7 x 25.4 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <note type="ownership">ASC35567</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Protest</topic>
+    <topic>Demonstration</topic>
+    <topic>Ontario Legislative Building</topic>
+    <topic>Don River (Ontario)</topic>
+    <topic>Water pollution</topic>
+    <topic>Pollution Probe</topic>
+    <topic>University of Toronto Engineering Society</topic>
+    <topic>Lady Godiva Memorial Bnad</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.662447, -79.391708</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

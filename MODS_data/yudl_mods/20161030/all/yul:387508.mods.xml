@@ -1,0 +1,63 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Nos luttes constitutionnelles : conf&#233;rence de Lionel Groulx (Volume 3)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Groulx, Lionel Adolphe</namePart>
+    <namePart type="date">1878-1967</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montr&#233;al</placeTerm>
+    </place>
+    <publisher>Imprim&#233; au Devoir</publisher>
+    <dateIssued>[1915-1916]</dateIssued>
+    <dateIssued encoding="marc" point="start">1915</dateIssued>
+    <dateIssued encoding="marc" point="end">1916</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>5 v.</extent>
+  </physicalDescription>
+  <tableOfContents>1. La constitution de l'Angleterre.  Le Canada politique en 1791. -- 2. La question des subsides. -- 3. La responsabilit&#233; minist&#233;rielle. -- 4. La libert&#233; scolaire. -- 5. Les droits du fran&#231;ais.</tableOfContents>
+  <note>At head of title: Universit&#233; Laval de Montr&#233;al.  Facult&#233; des arts.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn---</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Montr&#233;al</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>French-Canadians</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>Constitutional history</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>Politics and government</topic>
+  </subject>
+  <classification authority="lcc">JL31 .G76</classification>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NUC</recordContentSource>
+    <recordCreationDate encoding="marc">771107</recordCreationDate>
+    <recordIdentifier>a410649</recordIdentifier>
+    <recordIdentifier>abu3799</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

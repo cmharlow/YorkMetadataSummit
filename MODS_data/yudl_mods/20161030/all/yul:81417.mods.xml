@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Photographs for Comunidade</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Marques, Domingos</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>1974</dateCreated>
+    <dateOther>[after 1974?]</dateOther>
+  </originInfo>
+  <abstract>Contact sheet consists of 36 negatives, including: #33A-38, street scenes with cars and a traffic policeman; #15A-16, men with trophies; #17-19, 38-40, street scenes; #41, a group of children outdoors; #41A-42, portraits; #10-14A, trophy presentations; #32-35, a community dinner with Bill Moniz at a table 34, 35; #35, apples; #36-40, portraits; #23-28, picking apples.</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/6320</identifier>
+  <identifier type="local">ASC06657</identifier>
+  <location>
+    <physicalLocation>2010-019 / 002 (14)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>36 photographs : b&amp;w negatives ; 35 mm.</extent>
+  </physicalDescription>
+  <note>5 negatives (#10-14A) scanned out of 36 in assignment.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Domingos Marques fonds (F0573)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000573.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Comunidade : O Jornal Comunit&#225;rio Portugu&#234;s</topic>
+    <topic>Portuguese community</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

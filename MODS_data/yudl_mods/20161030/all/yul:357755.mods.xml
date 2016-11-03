@@ -1,0 +1,84 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Statutes of Ontario 1996 = Lois de l'Ontario 1996 (Volume 2)</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Lois de l'Ontario</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Ontario</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">onc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto, Ont</placeTerm>
+    </place>
+    <publisher>Queen's Printer</publisher>
+    <dateIssued>1988-</dateIssued>
+    <dateIssued encoding="marc" point="start">1992</dateIssued>
+    <issuance>serial</issuance>
+    <frequency>Annual</frequency>
+    <frequency authority="marcfrequency">Annual</frequency>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language objectPart="summary or subtitle">
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>v. ; 25 cm.</extent>
+  </physicalDescription>
+  <note type="date/sequential designation">1988-    .</note>
+  <note type="language">Includes some text in French.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn-on</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Statutes</topic>
+    <geographic>Ontario</geographic>
+    <topic>Periodicals</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Session laws</topic>
+    <topic>Ontario</topic>
+    <topic>Periodicals</topic>
+  </subject>
+  <classification authority="lcc">KEO62 .S73</classification>
+  <classification authority="ddc" edition="19">348.713/022</classification>
+  <relatedItem type="preceding">
+    <titleInfo>
+      <title>Statutes of the Province of Ontario</title>
+    </titleInfo>
+    <name>
+      <namePart>Ontario.</namePart>
+    </name>
+    <identifier type="issn">0709-227X</identifier>
+    <identifier type="local">(OTY)aar0991</identifier>
+  </relatedItem>
+  <identifier type="issn">0843-8994</identifier>
+  <identifier type="lccn">cn 89083045</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">CaOOP</recordContentSource>
+    <recordCreationDate encoding="marc">891108</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19960821114842.0</recordChangeDate>
+    <recordIdentifier>194407210</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

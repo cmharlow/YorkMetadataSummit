@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>M&#233;langes historiques : &#233;tudes &#233;parses et in&#233;dites de Benjamin Sulte</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Sulte, Benjamin</namePart>
+    <namePart type="date">1841-1923</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Malchelosse, G&#233;rard</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montr&#233;al</placeTerm>
+    </place>
+    <publisher>G. Ducharme [etc.]</publisher>
+    <dateIssued>1918-</dateIssued>
+    <dateIssued encoding="marc" point="start">1918</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>v. : ill., fold. map, ports. ; 25 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>v.4. George-&#201;tienne Cartier -- v.6. Les forges Saint-Maurice -- v.8. Le r&#233;giment de Carignan -- v.12. Jos. Montferrand. Histoire du jeu des Echecs -- v.13. Papineau et son temps -- v.15. La Saint-Jean-Baptiste, 1636-1852 -- v.16. L'Acadie fran&#231;aise -- v.17. D&#233;fense de nos origines -- v.18-21. Trois-Rivi&#232;res d'autrefois.</tableOfContents>
+  <note altRepGroup="00" type="statement of responsibility">Benjamin Sulte ; compil&#233;es, annot&#233;es et publi&#233;es par G&#233;rard Malchelosse. --</note>
+  <note>Title varies.</note>
+  <note>Vol. 14 has imprint: Montr&#233;al, E. Garand.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn---</geographicCode>
+    <geographicCode authority="marcgac">n-cn-qu</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Montr&#233;al</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>History</topic>
+    <temporal>To 1763 (New France)</temporal>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Qu&#233;bec (Province)</geographic>
+    <topic>History</topic>
+  </subject>
+  <classification authority="lcc">FC305 .S8</classification>
+  <identifier type="lccn">19006851</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">LC</recordContentSource>
+    <recordCreationDate encoding="marc">821025</recordCreationDate>
+    <recordIdentifier>a217520</recordIdentifier>
+    <recordIdentifier>aay4716</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

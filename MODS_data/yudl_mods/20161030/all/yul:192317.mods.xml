@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC18156</identifier>
+  <location>
+    <physicalLocation>1974-002 / 119</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Long Branch. : Marie Curtis Parking Drawing [copy] [not used]</title>
+    <subTitle>Long Branch, [Ontario]. : Marie Curtis Parking Drawing [copy] [not used]</subTitle>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <abstract>Image of front and back of negative envelope and one contact sheet. Assignment: Long Branch, [Ontario]. : Marie Curtis Parking Drawing.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>[Telegram staff]</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-05-26</dateCreated>
+    <dateOther>[March 1957]</dateOther>
+    <dateIssued>1957-03</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ;  9.5 x 12 cm + 1 envelope : 11 x 13.7 cm</extent>
+  </physicalDescription>
+  <note>ASC18156</note>
+  <note type="ownership">ASC18156</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Long Branch</topic>
+    <topic>Technical drawing</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Long Branch</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.593509,-79.537853</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

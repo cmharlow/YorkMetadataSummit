@@ -1,0 +1,49 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Miscellaneous</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Excalibur Publications Inc.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <originInfo>
+    <publisher>Excalibur Publications Inc.</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[North York, Ontario]</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Image of a man wearing a t-shirt, shorts, and sunglasses lying down on a sidewalk and resting his head on a small pile of ice shavings or snow. A school bus and the back of a building are visible in the background.</abstract>
+  <identifier type="other">ASC17463</identifier>
+  <location>
+    <physicalLocation>2004-030 / 003</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 17.6 x 12.6 cm</extent>
+  </physicalDescription>
+  <note>"92%" is written on the back of the photograph.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Excalibur Publications Inc. fonds (F0502)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000502.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>[Ontario]</province>
+      <city>[North York]</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

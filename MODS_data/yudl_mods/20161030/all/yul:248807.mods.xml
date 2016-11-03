@@ -1,0 +1,39 @@
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods:titleInfo>
+    <mods:title>YWCA Week Without Violence button</mods:title>
+  </mods:titleInfo>
+  <mods:name type="corporate">
+    <mods:namePart>YWCA</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+  <mods:genre>Buttons (Information artifacts)</mods:genre>
+  <mods:originInfo>
+    <mods:dateCreated>1997-10-19</mods:dateCreated>
+    <mods:dateOther>1997</mods:dateOther>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Image consists of one square, white, metal button. At the top right is an image of a dove  with a branch in its beak. Below the image to the left is the YWCA logo and text reads:"YWCA Week without Violence". Below text is a stylized "M" beside text which reads:"The Mutual Group". On the left side of button in a vertical line black texts reads:"October 19-25, 1997".</mods:abstract>
+  <mods:identifier type="local">ASC17667</mods:identifier>
+  <mods:location>
+    <mods:physicalLocation>2007-022 / 121</mods:physicalLocation>
+  </mods:location>
+  <mods:physicalDescription>
+    <mods:form>tactile material</mods:form>
+    <mods:extent>1 button: colour; 5.4 x 5.4 cm</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem>
+    <mods:titleInfo>
+      <mods:title>Jean Augustine fonds (F0515)</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:topic>Violence against women</mods:topic>
+  </mods:subject>
+  <mods:accessCondition type="useAndReproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution" License (http://creativecommons.org/licenses/by/2.0/)</mods:accessCondition>
+  <mods:note type="funding">This project was supported by a research grant issued by York University Libraries.</mods:note>
+</mods:mods>

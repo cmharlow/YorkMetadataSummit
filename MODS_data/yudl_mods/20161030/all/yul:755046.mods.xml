@@ -1,0 +1,52 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Journals of Ralph Waldo Emerson : with annotations</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Emerson, Ralph Waldo</namePart>
+    <namePart type="date">1803-1882</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Emerson, Edward Waldo</namePart>
+    <namePart type="date">1844-1930</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Forbes, Waldo Emerson</namePart>
+    <namePart type="date">1879-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+    <publisher>Houghton Mifflin</publisher>
+    <dateIssued>1909-14</dateIssued>
+    <dateIssued encoding="marc">1909</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>10 v. : facsims., ports.</extent>
+  </physicalDescription>
+  <tableOfContents>v.1. 1820-1824.-  v.2. 1824-1832.-  v.3. 1833-1835.-  v.4. 1836-1838.-  v.5.1838-1841.-  v.6. 1841-1844.-  v.7. 1845-1848.-  v.8. 1849-1855.-  v.9. 1856-1863.-  v.10. 1864-1876.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Edited by Edward Waldo Emerson and Waldo Emerson Forbes. --</note>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840114</recordCreationDate>
+    <recordIdentifier>a755130</recordIdentifier>
+    <recordIdentifier>adg0644</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Massachusetts</province>
+      <city>Boston</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

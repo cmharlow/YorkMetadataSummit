@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Reminiscences, political and personal</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Willison, John</namePart>
+    <namePart type="termsOfAddress">Sir</namePart>
+    <namePart type="date">1856-1927</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">onc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <publisher>McClelland and Stewart</publisher>
+    <dateIssued>c1919</dateIssued>
+    <dateIssued encoding="marc">1919</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>351 p. : ports.</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">by John Willison. --</note>
+  <note type="bibliography">Includes index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn---</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart>Willison, John</namePart>
+      <namePart type="date">1856-1927</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>Politics and government</topic>
+    <temporal>1867-1914</temporal>
+  </subject>
+  <classification authority="lcc">FC551.W55 A3</classification>
+  <identifier type="lccn">21011182</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg">LC</recordContentSource>
+    <recordCreationDate encoding="marc">770517</recordCreationDate>
+    <recordIdentifier>abc5335</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

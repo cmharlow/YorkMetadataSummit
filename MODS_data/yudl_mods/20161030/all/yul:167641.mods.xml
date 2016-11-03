@@ -1,0 +1,51 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <nonSort>An </nonSort>
+    <title>An enquiry into the nature of the human soul: wherein the immateriality of the soul is evinced from the principles of reason and</title>
+    <subTitle>wherein the immateriality of the soul is evinced from the principles of reason and philosophy</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Baxter, Andrew</namePart>
+    <namePart type="date">1686?-1750</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>A. Millar</publisher>
+    <dateIssued>1745</dateIssued>
+    <dateIssued encoding="marc" point="start">1745</dateIssued>
+    <dateIssued encoding="marc" point="end">1745</dateIssued>
+    <edition>The 3d ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v. 20 cm.</extent>
+  </physicalDescription>
+  <note>Includes index.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Soul</topic>
+  </subject>
+  <classification authority="lcc">BD240 .B3</classification>
+  <identifier type="lccn">11022199</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">780217</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20021129144833.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm03646393</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

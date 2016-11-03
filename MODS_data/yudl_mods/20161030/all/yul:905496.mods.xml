@@ -1,0 +1,75 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC35488</identifier>
+  <location>
+    <physicalLocation>1974-002 / 156</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Pierre Trudeau, Justice Minister, Mitchell Sharp, Finance Minister, and Jean Marchand, Minister of Manpower and Immigration, among a group exiting a building in Ottawa.</title>
+    <note displayLabel="source of supplied title">Title based on content of image</note>
+  </titleInfo>
+  <note type="formsPartOfTIF">Liberal leadership convention : Loek negs [not used]</note>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>[Dick] Loek</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>04 April 1968</dateOther>
+    <dateIssued>1968-04</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>One negative (#15-15A) scanned out of 124 in assignment [only 90 images in envelope].</note>
+  <note type="ownership">ASC34699</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Liberal Party of Canada</topic>
+    <topic>Leadership election 1968</topic>
+    <topic>Trudeau, Pierre Elliott, 1919-2000</topic>
+    <topic>Canada. Justice Minister</topic>
+    <topic>Sharp, Mitchell, 1911-2004</topic>
+    <topic>Canada. Finance Minister</topic>
+    <topic>Marchand, Jean, 1918-1988</topic>
+    <topic>Canada. Minister of Manpower and Immigration</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Ottawa</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>45.4, -75.7</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

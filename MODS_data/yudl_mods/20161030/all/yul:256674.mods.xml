@@ -1,0 +1,67 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <mods:titleInfo>
+    <mods:title>Jean Augustine interview: International Women's Day button</mods:title>
+  </mods:titleInfo>
+  <mods:identifier>ASC17561</mods:identifier>
+  <mods:typeOfResource>moving image</mods:typeOfResource>
+  <mods:genre>Educational</mods:genre>
+  <mods:name type="corporate">
+    <mods:namePart>Instructional Technology Centre (ITC), UIT</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewee</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart>Jean Augustine</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewer</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart>Norda Majekodunmi</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewer</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateIssued>2014-04-24</mods:dateIssued>
+    <mods:publisher>Norda Majekodunmi</mods:publisher>
+    <mods:place>
+      <mods:placeTerm authority="marccountry">Canada</mods:placeTerm>
+    </mods:place>
+    <mods:place>
+      <mods:placeTerm type="text">Toronto</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Recording consists of an interview with Jean Augustine in which she discusses a modern International Women's Day button.</mods:abstract>
+  <mods:physicalDescription>
+    <mods:form authority="marccategory">videorecording</mods:form>
+    <mods:extent>00:00:51</mods:extent>
+  </mods:physicalDescription>
+  <mods:note type="funding">This project was supported by a research grant issued by York University Libraries.</mods:note>
+  <mods:note type="transcription">This is a government one; International Women&#8217;s Day. And again, Journe de Nationale--  and it shows women here in different roles and I think it was focused on women in the Americas. If you notice the South America and North America in the middle, the globe. And then all the activities that women are involved in, you can see in this circle, so again, March the 8th which is International. Women&#8217;s Day, so that was a button that was struck for that.</mods:note>
+  <mods:relatedItem>
+    <mods:titleInfo>
+      <mods:title>Jean Augustine fonds (F0515)</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000515.htm</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:topic>Women's Rights Movement</mods:topic>
+    <mods:topic>International Women's Day</mods:topic>
+    <mods:hierarchicalGeographic>
+      <mods:continent>North America</mods:continent>
+      <mods:country>Canada</mods:country>
+      <mods:city>Toronto</mods:city>
+    </mods:hierarchicalGeographic>
+    <mods:cartographics>
+      <mods:coordinates>43.773331100000000000,  -79.499138599999980000</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:accessCondition type="useAndReproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution" License (http://creativecommons.org/licenses/by/2.0/)</mods:accessCondition>
+</mods:mods>

@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Diary #1, 31 December 1915 - 18 December 1916</title>
+  </titleInfo>
+  <name type="personal">
+    <affiliation>Canadian Armed Forces</affiliation>
+    <namePart>Stepler, Gordon</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Diary</genre>
+  <originInfo>
+    <dateCreated>1915-12-31</dateCreated>
+    <dateOther>31 December 1916 - 18 December 1916</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a diary kept by Gordon Stepler between 31 December, 1915 and 18 December, 1916. The diary covers the time just before his return to a new semester at the University of Toronto to his initial training in the Reserve Brigade at the Ross and Risborough Barracks near Shornecliffe in England.</abstract>
+  <identifier type="local">ASC26544</identifier>
+  <location>
+    <physicalLocation>1998-037 / 001 (01)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>110 pages</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Dorothy Stepler fonds (F0170)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000170.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>University of Toronto</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.661667, -79.395</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

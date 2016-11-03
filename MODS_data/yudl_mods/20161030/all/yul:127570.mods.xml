@@ -1,0 +1,33 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Timeline: Greek Community of Toronto 1909-2009 Women's Issues 1994-2009 : news clippings from 2004</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="other">ASC27529</identifier>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>1 page of printed text.</extent>
+  </physicalDescription>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <name type="corporate">
+    <namePart>Greek Community of Toronto</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>2009</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">gre</languageTerm>
+  </language>
+  <abstract>Item consists of scanned page from publication "Timeline" featuring news clippings from 2004.</abstract>
+  <identifier type="local">2013-050 / 002 (04)</identifier>
+</mods>

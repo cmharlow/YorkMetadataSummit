@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC17032</identifier>
+  <location>
+    <physicalLocation>1974-001 / 164 (1129)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Dancing - pt. 1 (no ballet or square dancing)</title>
+  </titleInfo>
+  <abstract>Image consists of four young women dancing in go-go dancer costumes.&#13;
+Photographic print has been marked up and painted for reproduction in the Toronto Telegram.&#13;
+Caption on reverse reads: "Miss Marlie A Go-Go. Sunday's Miss Marlie A Go-Go shake it up at Maple Leaf Gardens.  From left to right: Sandra Bailey, Shonna Milligan, Shirley Toderan and Judy King. Shonna was Sunday's winner and appears on our cover with Jim McKenny."</abstract>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>Fred Klus</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-02-19</dateCreated>
+    <dateOther>3 February 1966</dateOther>
+    <dateIssued>1966-02-03</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph: b&amp;w photoprint : 34.3 x 18.7 cm.</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Dance</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.662268,-79.380237</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

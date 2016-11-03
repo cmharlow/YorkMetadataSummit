@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>&#1583;&#1604; &#1607;&#1608;&#1740; &#1587;&#1576;&#1586;&#1607; &#1608; &#1589;&#1581;&#1585;&#1575; &#1576;&#1586;&#1575;&#1585;&#1583;</title>
+    <subTitle>&#1610;&#1705; &#1588;&#1575;&#1582;&#1607; &#1711;&#1604;</subTitle>
+    <subTitle>Yek Shakhe Gol</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#1575;&#1581;&#1605;&#1583; &#1593;&#1576;&#1575;&#1583;&#1740;</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Ahmad Ebadi</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>&#1593;&#1575;&#1585;&#1601; &#1602;&#1586;&#1608;&#1740;&#1606;&#1740;</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>ArefGhazvini</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>&#1587;&#1610;&#1605;&#1575; &#1576;&#1610;&#1606;&#1575;</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Sima Bina</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>Sound Recording</typeOfResource>
+  <genre>Abu Ata</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">per</languageTerm>
+  </language>
+  <identifier>Shakheh-Gol-225</identifier>
+  <physicalDescription>
+    <form authority="marcform">sound recording</form>
+    <extent>26:12</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Iranian National Radio</topic>
+    <topic>radio programs</topic>
+    <topic>music</topic>
+    <topic>poetry</topic>
+    <geographic>Iran</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Iran</country>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

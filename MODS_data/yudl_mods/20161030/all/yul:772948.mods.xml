@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Achieving Balance - Ontario's Long-Term Energy Plan</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Ontario. Ministry of Energy</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2013</dateCreated>
+    <publisher>Queen's Printer for Ontario</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Achieving Balance was released on December 2, 2013. It is an updated long-term energy plan which emphasizes energy conservation, maintains the policy of ending coal-generated electricity, and holds the line on investment in new nuclear power facilities.  The Thunder Bay nuclear plant will be converted to generate energy from advanced biomass.  The plan acknowledges Ontario&#8217;s reduced energy demands and sets a target of about half of Ontario&#8217;s installed generating capacity to come from renewable sources by 2025. Several backgrounders were also released supporting the strategic directions, including backgrounders re Northern Ontario, First Nations, and conservation. Also available in French.</abstract>
+  <subject>
+    <topic>energy policy</topic>
+    <topic>Ontario</topic>
+  </subject>
+  <accessCondition>If credit is given and Crown copyright is acknowledged, the materials may be reproduced for non-commercial purposes. The materials may only be reproduced for commercial purposes under a licence from the Queen's Printer.</accessCondition>
+  <accessCondition type="useAndReproduction">&#169; Queen's Printer for Ontario. This document is protected by Crown copyright which is held by the Queen's Printer for Ontario.</accessCondition>
+</mods>

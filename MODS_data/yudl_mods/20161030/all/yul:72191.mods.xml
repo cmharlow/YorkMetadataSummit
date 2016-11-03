@@ -1,0 +1,114 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Concert: Boys of the Lough</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Boys of the Lough</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Host</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Aly Bain</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Cathal McConnell</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Dave Richardson</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Robin Morton</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>Sound Recording</typeOfResource>
+  <tableOfContents>The Boys of the Lough / (Boys of the Lough). --  Slanty Gart, aka MacDonald's Reel / (Boys of the Lough). -- The Laird of Drumblair / (Boys of the Lough). -- Instrumental / (Boys of the Lough). -- For He Is Such a Bonny Lad / (Boys of the Lough). -- Salmon Tails Up The Water / (Boys of the Lough). -- The Devil And The Bailiff / (Boys of the Lough). -- The Winnie Hills of Lietrim / (Boys of the Lough). -- Ryan's Slip Jig / (Boys of the Lough). -- Jack Broke The Prison Door (Boys of the Lough). -- Instrumental / (Boys of the Lough). -- Twisting of The Rope, aka Casadh an t'Sugain (Boys of the Lough). -- Instrumental / (Boys of the Lough).</tableOfContents>
+  <genre>folk music</genre>
+  <originInfo>
+    <dateIssued>1975-06-20</dateIssued>
+    <publisher>Mariposa Folk Foundation</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto Islands</placeTerm>
+    </place>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of concert performance by Boys of the Lough of traditional Irish, Scottish (specifically Shetland and Northumbrian music.) Songs include: "The Boys of the Lough", "Slanty Gart" aka MacDonald's Reel, "The Laird of Drumblair" (strathspey), Northumbrian pipe tunes (?), "For He Is Such A Bonny Lad" and "Salmon Tails Up The Water", "The Devil And The Bailiff" (slip jig), "The Winnie Hills Of Leitrim" (slip jig), "Ryan's Slip Jig" "Jack Broke The Prison Door" (reel) a couple of whistle tunes, "Twisting of the Rope" aka "Casadh an t'Sug&#225;in" and an untitled mazurka.</abstract>
+  <identifier>ASC06562</identifier>
+  <physicalDescription>
+    <form>1/4" reel audio tape</form>
+    <extent>0:47:06</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Mariposa Folk Foundation fonds (F0511)</title>
+    </titleInfo>
+    <location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Mariposa Folk Festival</topic>
+    <topic>jig</topic>
+    <topic>reel</topic>
+    <topic>mazurka</topic>
+    <topic>fiddle</topic>
+    <topic>flute</topic>
+    <topic>mandolin</topic>
+    <topic>guitar</topic>
+    <topic>concertina</topic>
+    <topic>folk songs --Scottish</topic>
+    <topic>folk songs --Irish</topic>
+    <geographic>Area 3</geographic>
+    <temporal>12:30-13:30</temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Toronto Islands</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.620833, -79.378611</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">gla</languageTerm>
+  </language>
+</mods>

@@ -1,0 +1,64 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Histoire litt&#233;raire de la France (Volume 5)</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Acad&#233;mie des inscriptions &amp; belles-lettres (France)</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Benedictines</namePart>
+    <namePart>Congr&#233;gation de Saint Maur.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Imprimerie nationale</publisher>
+    <dateIssued>1733-</dateIssued>
+    <dateIssued encoding="marc" point="start">1733</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>v.</extent>
+  </physicalDescription>
+  <tableOfContents>t. 1, ptie 1. Les temps qui ont pr&#233;c&#233;d&#233; la naissance de J&#233;sus-Christ et les trois premi&#232;res si&#232;cles de l'Eglise -- ptie. 2. IVe si&#232;cle -- t. 2. Ve si&#232;cle -- t. 3. VIe et VIIe si&#232;cles -- t. 4-5. XIIIe et IXe si&#232;cles -- t. 6. Xe si&#232;cle -- t. 7-8. XIe si&#232;cle -- t. 9-15. XIIe si&#232;cle -- t. 16-23. XIIIe si&#232;cle -- t. 24-40. XIVe si&#232;cle -- t. 41. Suite du quatorzi&#233;me si&#232;cle</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">ouvrage commenc&#233; par des religieux b&#233;n&#233;dictins de la Congr&#233;gation de Saint Maur, et continu&#233; par des membres de l'Institut (Acad&#233;mie des inscriptions et belles-lettres).</note>
+  <note>Title and imprint vary.</note>
+  <note>Vols. 1-9 are principally the work of Rivet; v. 10-12 of Cl&#233;mencet and Cl&#233;ment. In the first 7 volumes published by the Acad&#233;mie (v. 13-20, 1814-1838) Daunou was the principal collaborator. Vols. 20-24 (1842-1863) were edited by V. Le Clerc; v. 25-31 (1869-1893) by B. Haur&#233;au; v. 32-  (1898-    ) by P. Meyer; v. 35-36 (1921-1926) by C. V. Langlois; v. 37-38 (1938-1949) by M. Roques; v. 39-41 (1962-1981) by C. Samaran.</note>
+  <note type="bibliography">Includes bibliographies and indexes.</note>
+  <subject authority="lcsh">
+    <topic>French literature</topic>
+    <topic>History and criticism</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>French literature</topic>
+    <temporal>To 1500</temporal>
+    <topic>History and criticism</topic>
+  </subject>
+  <classification authority="lcc">PQ101.A2 H6</classification>
+  <identifier type="lccn">f 00002304 //r15</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg">LC</recordContentSource>
+    <recordCreationDate encoding="marc">830721</recordCreationDate>
+    <recordIdentifier>a162015</recordIdentifier>
+    <recordIdentifier>aas8063</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

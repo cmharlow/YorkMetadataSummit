@@ -1,0 +1,55 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Bibliographie du R.P. Joachim-Joseph Monfette</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Hugolin</namePart>
+    <namePart type="termsOfAddress">pe&#768;re</namePart>
+    <namePart type="date">1877-1938</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Que&#769;bec</placeTerm>
+    </place>
+    <publisher>Imp. Franciscaine Miss.</publisher>
+    <dateIssued>1931</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>42 p. ; 25 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par Le R.P. Hugolin. --</note>
+  <note>"Il a e&#769;te&#769; tire&#769; de cette Bibliographie 125 exemplaires. Pro manuscripto."</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Monfette, Joachim Joseph</namePart>
+      <namePart type="date">1877-</namePart>
+    </name>
+    <topic>Bibliography</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">Z8587.5 .H89</classification>
+  <identifier type="lccn">35021189</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">LC</recordContentSource>
+    <recordCreationDate encoding="marc">840106</recordCreationDate>
+    <recordIdentifier>aau2864</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

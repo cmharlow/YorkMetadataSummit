@@ -1,0 +1,44 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Just Transition: Creating a Green Social Contract for BC&#8217;s Resource Workers</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Cooling, Karen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Lee, Marc</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Daub, Shannon</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Singer, Jesse</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>working paper</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2015</dateCreated>
+    <publisher>Canadian Centre for Policy Alternatives</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>The result of  of seven focus groups composed of displaced workers from the forestry, mining, and fossil fuel industries.  Participants stressed the importance of improving training and education programs, which were seen as neglecting transferable and upgraded skills in favour of narrow specialization that plugged current labour gaps but left workers vulnerable to wage suppression and unable to change industries without downgrading. Participants also highlighted personal, family and community strain associated with moving to find work or commuting long distances, pointing to the need for related socioeconomic support, counselling, and policies that keep workers closer to home.</abstract>
+  <subject>
+    <topic>British Columbia</topic>
+    <topic>Just Transition</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License for all works</accessCondition>
+</mods>

@@ -1,0 +1,59 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Smolensk : les origines, l'&#233;pop&#233;e de Smolensk en 1812 d'apr&#232;s des documents in&#233;dits</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Baye, J. (Joseph)</namePart>
+    <namePart type="termsOfAddress">baron de</namePart>
+    <namePart type="date">1853-1931</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Perrin</publisher>
+    <dateIssued>1912</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>296 p. : ill.</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">Baron de Baye. -</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject>
+    <geographicCode authority="marcgac">e-un---</geographicCode>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart type="termsOfAddress">I, Emperor of the French</namePart>
+      <namePart>Napol&#233;on</namePart>
+      <namePart type="date">1769-1821</namePart>
+    </name>
+    <topic>Invasion of Russia, 1812</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Smolensk, Soviet Union (City)</geographic>
+    <topic>History</topic>
+  </subject>
+  <classification authority="lcc">DC235 .B385</classification>
+  <recordInfo>
+    <recordCreationDate encoding="marc">750109</recordCreationDate>
+    <recordIdentifier>abl7950</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,41 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>[</nonSort>
+    <title>Speech delivered by Mr. John Hall before the Legislative Assembly of the province of Quebec, on 4th and 5th December 1894 on the loan of 27,632,647 francs (3% bonds at 77 for 60 years)]</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Hall, John S. (John Smythe)</namePart>
+    <namePart type="date">b. 1853</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateIssued>1894?]</dateIssued>
+    <dateIssued encoding="marc">1894</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>42 p.</extent>
+  </physicalDescription>
+  <note>Cover title.</note>
+  <note>Cover is missing on York copy.</note>
+  <subject authority="lcsh">
+    <topic>Finance, Public</topic>
+    <geographic>Quebec (Province)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Quebec (Province)</geographic>
+    <topic>Politics and government</topic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">810319</recordCreationDate>
+    <recordIdentifier>afq1517</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

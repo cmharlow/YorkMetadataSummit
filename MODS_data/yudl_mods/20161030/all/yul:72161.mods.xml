@@ -1,0 +1,115 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Mariposa in the Schools</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Rich Avery</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Host</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Dick Smith</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Chris Whiteley</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Lois Lilienstein</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Martin, Bogan and Armstrong</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Tom Paxton</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>William Jerome</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Harry Von Tilzer</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <name type="corporate"/>
+  <typeOfResource>Sound Recording</typeOfResource>
+  <tableOfContents>The Village Pump / (Rich Avery). -- Fox and hound story / (Chris Whiteley). -- Aiken Drum / trad. (Lois Lilienstein). -- Instruction on jug playing / Chris Whiteley. -- The Barnyard Dance / Martin, Bogan and Armstrong (Chris Whiteley). -- Take Your Fingers Off It / trad. (Chris Whiteley). -- Mary Mac / trad. (Rich Avery). -- We're Going To The Zoo / Tom Paxton (Lois Lilienstein). -- Green Grass Grew All Around / William Jerome, Harry Von Tilzer (Rich Avery). -- Head and Shoulders Baby / (Lois Lilienstein). -- George Washington Bridge / Lois Lilienstein, Rich Avery.</tableOfContents>
+  <genre>folk music</genre>
+  <originInfo>
+    <dateIssued>1975-06-22</dateIssued>
+    <publisher>Mariposa Folk Foundation</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto Islands</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code"/>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of audio recording of Rich Avery hosting the Mariposa in the Schools (MITS) workshop, (a program teaching children about folk music) beginning by performing "The Village Pump" with children in the audience singing along. Next Chris Whiteley recites a story (accompanied by harmonica) about a fox being chased by hounds, an Lois Lilienstein performs "Aiken Drum" (trad.) with children participating, followed by Chris Whiteley explaining to the children how to play a jug and then performing "The Barnyard Dance" (Martin, Bogan and the Armstrongs) and "Take Your Fingers Off It" (trad.) with children playing makeshift instruments. Also consists of Rich Avery teaching the children to sing "Mary Mac" (trad.) and Lois Lilienstein performing "We're Going to the Zoo" (Tom Paxton) and teaching the children about syncopation, as well as Rich Avery performing an "echo song" with the children called "Green Grass Grew All Around" (William Jerome (lyrics), Harry Von Tilzer (music)) and Lois Lilienstein teaching the children to sing/play "Head and Shoulders, Baby" (?), and ending with Rich Avery and Lois Lilienstein together with the children performing "George Washington Bridge".</abstract>
+  <identifier>ASC06531</identifier>
+  <physicalDescription>
+    <form>1/4" reel audio tape</form>
+    <extent>0:53:09</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Mariposa Folk Foundation fonds (F0511)</title>
+    </titleInfo>
+    <location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Mariposa Folk Festival</topic>
+    <topic>folk music</topic>
+    <topic>guitar</topic>
+    <topic>slide-whistle</topic>
+    <topic>jug</topic>
+    <topic>spoons</topic>
+    <topic>kazoo</topic>
+    <topic>washboard</topic>
+    <topic>harmonica</topic>
+    <topic>dulcimer</topic>
+    <topic>banjo</topic>
+    <topic>children's songs</topic>
+    <geographic>Area 5</geographic>
+    <temporal>14:00-15:00</temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Toronto Islands</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.620833, -79.378611</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+  <accessCondition type="restrictionOnAccess">Lois Lilienstein: contacted, permission granted (pending receipt of official documents). Chris Whiteley: contact, permission granted. Rich Avery: contacted, no response as of 08.04.10. Dick Smith: contact info not yet found.</accessCondition>
+</mods>

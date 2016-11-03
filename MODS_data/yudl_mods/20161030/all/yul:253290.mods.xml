@@ -1,0 +1,40 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Observatory (York)</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <abstract>Image of a telescope pointing up to the ceiling of one of the domes at the York University Observatory.</abstract>
+  <identifier type="local">ASC17471</identifier>
+  <location>
+    <physicalLocation>2004-030 / 004</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 20.2 x 12.6 cm</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Excalibur Publications Inc. fonds (F0502)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000502.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <geographic>York University</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>North York</city>
+      <citySection>York University</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.775760, -79.503307</coordinates>
+    </cartographics>
+    <topic>York University Observatory</topic>
+    <topic>telescope</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

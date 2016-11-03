@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Manitoba's Climate Change and Green Economy Action Plan</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Manitoba. Conservation and Water Stewardship</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>December 2015</dateCreated>
+    <publisher>Government of Manitoba</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>A comprehensive policy framework which includes a promise of 6000 new green jobs by 2020. Also states: "Manitoba will enshrine environmental rights in legislation and be the first province to formally endorse the Blue Dot Campaign. This new legislation will be a foundation for everything we do and will set Manitoba on a new, greener path."</abstract>
+  <subject>
+    <topic>Manitoba</topic>
+    <topic>climate change policy</topic>
+  </subject>
+  <accessCondition>Reproduced by permission.</accessCondition>
+  <accessCondition type="useAndReproduction">Copyright retained by the Government of Manitoba</accessCondition>
+</mods>

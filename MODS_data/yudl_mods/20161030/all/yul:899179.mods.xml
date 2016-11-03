@@ -1,0 +1,43 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>A ridiculous courting : and other stories of French Canada</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Fairchild, George Moore</namePart>
+    <namePart type="date">1854-1912</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Chicago</placeTerm>
+    </place>
+    <publisher>R.R. Donnelley &amp; sons company</publisher>
+    <dateIssued>1900</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>4 p.l., 3-261 p., 1 l. : front. (port.)</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">by G.M. Fairchild, jr. --</note>
+  <identifier type="lccn">00002227 Revised</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840727</recordCreationDate>
+    <recordIdentifier>adl1913</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Illinois</province>
+      <city>Chicago</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

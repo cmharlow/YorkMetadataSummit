@@ -1,0 +1,74 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter to Mrs. Stepler from Gordon Stepler, August 26th 1916</title>
+  </titleInfo>
+  <name type="personal">
+    <affiliation>Canadian Armed Forces</affiliation>
+    <namePart>Stepler, Gordon</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Stepler, Ethelwyn</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Letter</genre>
+  <originInfo>
+    <dateCreated>1916-08-26</dateCreated>
+    <place>
+      <placeTerm authority="marccountry">Scotland</placeTerm>
+    </place>
+    <dateOther>26 August 1916</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a letter written by Gordon Stepler to his mother, Mrs. Ethelwyn Stepler. Transcription is as follows:&#13;
+Aug 26 1916&#13;
+Dear Mother&#13;
+	We have tried to get tickets for the show here but they are all full. However, there is a second show that starts at nine o'clock so we are going to it and in the meantime I will scribble this letter. Well this morning as Harcourt and I were coming out of the hotel in Glasgow we met Colbeck and Cobton so there are four of us again. I don't know where Caverhill is so the chances &#13;
+|page 2&#13;
+are we won't see him until we get back. We took the train at 10 o'clock for Edinburgh and arrived here at noon so we first came to the hotel and got dinner. It was raining and has been raining all day but that has not stopped us from seeing [?] but my clothes are soaking wet. After dinner we first went to Edinburgh Castle. It is on a high rock and built of stone walls four or five feet thick. There is a winding road up to it and there are about eight gates to go through before you get to the top. The gates are strong and one of them has a big porcullis [sic], on three sides of it the stone rock is almost&#13;
+|page 3&#13;
+perpendicular so that before the invention of gunpowder it was impregnable. Of course now it would make a fine target for artillery. Odd guns are mounted all over the top and one of the guns called the "Main May" has a bore of 90 inches diameter. It  was made in the fifteenth century but was burnt once when they fired a salute on the Duke of York. You can get a great view of the city from up there&#13;
+|page 4&#13;
+I went in the Old Parliament Hall where the old Scottish Parliament used to sit. It is full of ancient armour. Also Queen Marys [sic] room where James I was born. &#13;
+	Then we went down an old fashioned street by the house where John Knox lived by St. Silas' Cathedral to Holy Rood Palace. There I saw a Picture Gallery full of old pictures [Lord Rawley's] Apartments and Queen Mary's Apartments. Also saw the Abbey, the roof of which has fallen in. Then came along by a hill where there are a lot of castles and monuments and by [Sir Walter Scots] &#13;
+|page 5&#13;
+monuments. It is very beautiful and is about two hundred feet high. Then I went to the Royal Scottish Arts Gallery. It is full of the most famous paintings in the world and they were wonderful. The original famous cartoons by the Dutch cartoonist Raemaekers were there also and all kinds of statues. It has been raining all day&#13;
+|page 6&#13;
+so that sort of spoiled things. To-morrow I am going back to Glasgow and am going to take a boat trip up the Clyde so hope this rain stops. I also saw the Glasgow [University] and other things which I have not time to mention. Wish you luck in deciphering this epistle as I am writing it in an awful hurry.&#13;
+		Gordon</abstract>
+  <identifier type="local">ASC19539</identifier>
+  <location>
+    <physicalLocation>1998-037 / 001 (04)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>3 leaves</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Dorothy Stepler fonds (F0170)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000170.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Scotland</country>
+      <city>[Edinburgh]</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>55.953056,&#160;-3.188889</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

@@ -1,0 +1,49 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Cartier and Hochelaga : Maisonneuve and Ville-Marie : two historic poems of Montreal</title>
+    <subTitle>Maisonneuve and Ville-Marie : two historic poems of Montreal</subTitle>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Maisonneuve and Ville-Marie</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Evans, Walter Norton</namePart>
+    <namePart type="date">1836-1896</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montreal</placeTerm>
+    </place>
+    <publisher>W. Drysdale &amp; Co.</publisher>
+    <dateIssued>1895</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>28 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Walter Norton Evans.</note>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">810306</recordCreationDate>
+    <recordIdentifier>afq1767</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.93 2014/01/31)</recordOrigin>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Montr&#233;al</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

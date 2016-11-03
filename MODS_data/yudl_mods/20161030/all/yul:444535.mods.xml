@@ -1,0 +1,70 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Beaut&#233;s de l'histoire du Canada, ou, Epoques remarquables, traits int&#233;ressans, moeurs, usages, coutumes des habitans du Canada</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Beaut&#233;s de l'histoire du Canada</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Epoques remarquables, traits int&#233;ressans, moeurs, usages, coutumes des habitans du Canada</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Dainville, D.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Bossange fr&#232;res</publisher>
+    <dateIssued>1821</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>iv, 511 p. : ill.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par D. Dainville.</note>
+  <note>The author is said to be the Paris publisher Gustave Bossange. Cf. Gagnon, Essai de bibliographie canadienne.</note>
+  <note type="reproduction">Microfiche. Ottawa : Canadian Institute for Historical Microreproductions, 1983. 6 microfiches ; 11 x 15 cm. (CIHM/ICMH microfiche series ; no. 44361)</note>
+  <subject authority="lcsh">
+    <topic>Indians of North America</topic>
+    <geographic>Canada</geographic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>History</topic>
+    <temporal>To 1763 (New France)</temporal>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>History</topic>
+    <temporal>1763-1867</temporal>
+  </subject>
+  <classification authority="lcc">F1026 .D13</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>CIHM/ICMH microfiche series ; no. 44361</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">02010669</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">780413</recordCreationDate>
+    <recordIdentifier>afl1177</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

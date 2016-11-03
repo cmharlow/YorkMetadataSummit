@@ -1,0 +1,59 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Community music : a practical guide for the conduct of community music activities</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>National Recreation Association</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">mau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+    <publisher>C.C. Birchard</publisher>
+    <dateIssued>1926</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>193 p. ; 21 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">prepared by the Playground and Recreation Association of America.</note>
+  <note>"The first edition of the Community music handbook [was] published in 1920"--Introd.</note>
+  <note>Includes index.</note>
+  <note type="bibliography">"Sources of information" at end of each chapter.</note>
+  <subject authority="lcsh">
+    <topic>Community music</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Massachusetts</province>
+      <city>Boston</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">MT87.N2 C7</classification>
+  <classification authority="ddc">780.79</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>The Laurel library</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">27019027</identifier>
+  <identifier type="oclc">648480</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">730629</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100202165219.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm00648480</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,41 @@
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mods:titleInfo>
+    <mods:title>Let Black Children Talk conference button</mods:title>
+  </mods:titleInfo>
+  <mods:name type="corporate">
+    <mods:namePart>Congress of Black Women of Canada</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+  <mods:genre>Buttons (Information artifacts)</mods:genre>
+  <mods:originInfo>
+    <mods:dateOther>[19--]</mods:dateOther>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    <mods:languageTerm authority="iso639-2b" type="code">fre</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Image consists of one round, yellow, metal button. Several lines of black text in semi-cirlce. First line of text reads:"V. Let black children talk!" Second line of text reads:"Congress of Black Women". Third line of text reads: "of Canada. Fourth line of text reads: "Montreal". The bottom half of image provides inverse four lines of black text in semi-circle. First top line of text reads:"V. La parole aux enfants noirs". Second line of text reads:"Congres de femmes noires". The third line of text reads: "du Canada". The fourth line of text reads: "Montreal".</mods:abstract>
+  <mods:identifier type="local">ASC17656</mods:identifier>
+  <mods:location>
+    <mods:physicalLocation>2007-022 / 120</mods:physicalLocation>
+  </mods:location>
+  <mods:physicalDescription>
+    <mods:form>tactile material</mods:form>
+    <mods:extent>1 button: colour; 4.5 cm</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem>
+    <mods:titleInfo>
+      <mods:title>Jean Augustine fonds (F0515)</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:topic>Congress of Black Women</mods:topic>
+    <mods:topic>Conference</mods:topic>
+    <mods:topic>Black youths</mods:topic>
+  </mods:subject>
+  <mods:accessCondition type="useAndReproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution" License (http://creativecommons.org/licenses/by/2.0/)</mods:accessCondition>
+  <mods:note type="funding">This project was supported by a research grant issued by York University Libraries.</mods:note>
+</mods:mods>

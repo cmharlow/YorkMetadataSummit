@@ -1,0 +1,54 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Mes heures : la vie au Canada et ailleurs</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>La vie au Canada et ailleurs</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Rhode, Lambert de</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montre&#769;al</placeTerm>
+    </place>
+    <publisher>Beauchemin</publisher>
+    <dateIssued>1924</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>124 p.  --</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">Lambert de Rhode. --</note>
+  <classification authority="lcc">PS9535.H63 M4</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Bibliothe&#768;que canadienne</title>
+      <partName>Collection Montcalm</partName>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource authority="marcorg">NUC</recordContentSource>
+    <recordCreationDate encoding="marc">830415</recordCreationDate>
+    <recordIdentifier>aar9104</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Montr&#233;al</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC06414</identifier>
+  <location>
+    <physicalLocation>1974-002 / 355</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Allan Fleming : Executive art director at MacLaren advertising co.</title>
+  </titleInfo>
+  <abstract>Image of Allan Robb Fleming posing in suit and tie.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Harrison</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2010-05-20</dateCreated>
+    <dateOther>June 18, 1964</dateOther>
+    <dateIssued>1964-06-10</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photographic negative : b&amp;amp;w ; 6 x 6 cm</extent>
+  </physicalDescription>
+  <note type="ownership">See also ASC04735, ASC4736, ASC4737, ASC06405, ASC4738, ASC06406, ASC6407, ASC06408, ASC04739, ASC04740, ASC04741, ASC0472, ASC06410, ASC06411, ASC06412, ASC06413.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Allan Robb Fleming Digitization Project</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

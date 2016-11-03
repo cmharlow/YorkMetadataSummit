@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Photographs for Comunidade</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Marques, Domingos</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>1974</dateCreated>
+    <dateOther>[after 1974?]</dateOther>
+  </originInfo>
+  <abstract>Contact sheet consists of 37 negatives, including: #6-11A, protest, CFAW on strike with the &#8216;Filarmonica Lira &#8211; Portugesea of Brampton&#8217; (John Medeiros carrying a baby?); #40-42A, 1-6A, community play (about fishers?); #17-21, 3A-7, community religious event (festival of the Virgin Mary?); #7A-8A, &#8216;Banda Lira &#8211; Nossa Senhora de Fatima&#8217;; #12-14, 16, community play (about fishers?); #15, wasted frame; #37-42, community play (about fishers?).</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/6328</identifier>
+  <identifier type="local">ASC06667</identifier>
+  <location>
+    <physicalLocation>2010-019 / 002 (14)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>37 photographs : b&amp;w ; 35 mm.</extent>
+  </physicalDescription>
+  <note>6 negatives (#1A, 5-6, 8-9, 40)  scanned out of 37 in assignment.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Domingos Marques fonds (F0573)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000573.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Comunidade : O Jornal Comunit&#225;rio Portugu&#234;s</topic>
+    <topic>Portuguese community</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

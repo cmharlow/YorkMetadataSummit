@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC08448</identifier>
+  <location>
+    <physicalLocation>2004-009 / 024</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Vari Hall : Ground breaking ceremony</title>
+  </titleInfo>
+  <abstract>Image of a man of man shoveling dirt; a sign behind him reads: "Future Home of New Academic Building". [tentatively identified as Harry Arthurs].</abstract>
+  <targetAudience>M. Leon for YorkU Alumni Relations</targetAudience>
+  <name type="personal">
+    <namePart>[ITC staff]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>Mar-90</dateOther>
+    <dateIssued>01/03/1990</dateIssued>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative</extent>
+    <extent>35 mm</extent>
+  </physicalDescription>
+  <note>One neg (#6-6A) scanned.out of 39 in assignment.</note>
+  <note type="ownership">ASC08448</note>
+  <relatedItem>
+    <titleInfo>
+      <title>York University (Toronto, Ont.). Computing and Network Services fonds (F0477)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000447.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Computing &amp; Network Services fonds, F0477</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.773331100000000000, -79.499138599999980000</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Access restricted.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

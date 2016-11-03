@@ -1,0 +1,37 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>The Feminist Porn Archive Project: Questions from a Working Ontologist</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Lisa Sloniowski</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Researcher</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>moving image</typeOfResource>
+  <originInfo>
+    <dateIssued>2016-01-25</dateIssued>
+    <publisher>Testimonial Cultures Project</publisher>
+  </originInfo>
+  <abstract>Feminists have long been concerned by archival silences and their impact on memory. Most reclamation work has been about uncovering the buried or lost records of women and inserting interpretations of such material inside broad social, political, cultural and historical narratives. Archivists and librarians also create new and sometimes exciting juxtapositions of archival material that allows for radical recontextualizations of womens&#8217; cultural and political contributions. Archival work at every stage is thus a process of transforming private documents into public testimonial. However, in the creation of women&#8217;s archives inside institutional archives using traditional archival principles, we replicate neoliberal ideological formations by emphasizing the individual subject and focusing on the records of primarily white straight women of privilege. How might we instead use the new archival media of the Internet to explore feminist theoretical emphases on collectivity, intersubjectivity, intersectionality, and the affective relations of care, desire and intimacy? How do we prevent subjectivity and meaning from being fixed into place but allow for more slippery and promiscuous plays of meaning in a public feminist archive? How might we reboot the archives of women through digitization, and also provoke feminist rethinkings of the technologies of archivization? Linked open data can be viewed as a deeply post-structuralist response to the nomological principle of authority and commandment of the traditional archive and offers us a generative, erotic commingling of information which resists fixity and hierarchy and focuses instead on relationality. In this paper I will speculate about how a feminist porn archive can, through linked data spatializations and their attendant onotologies, offer new ways of thinking about the archive and the archival-able.</abstract>
+  <identifier>http://hdl.handle.net/10315/31525</identifier>
+  <identifier type="other">https://www.youtube.com/watch?v=Xc843dKCBJE</identifier>
+  <physicalDescription>
+    <form authority="marccategory">videorecording</form>
+  </physicalDescription>
+  <note>Sloniowski, Lisa. The Feminist Porn Archive Project, Questions From A Working Ontologist. Archiver les t&#233;moignages, Universit&#233; du Qu&#233;bec &#224; Montr&#233;al. Hosted by the Testimonial Cultures Project on January 25th, 2016.</note>
+  <subject>
+    <topic>Digital humanities</topic>
+    <topic>Feminist porn</topic>
+    <topic>Linked data</topic>
+    <topic>Ontologies</topic>
+    <topic>Jacques Derrida</topic>
+    <topic>Psychoanalytic theory</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Quebec</province>
+      <city>Montreal</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

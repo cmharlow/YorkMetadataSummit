@@ -1,0 +1,61 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Sermons et morceaux choisis de Massillon</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Massillon, Jean Baptiste</namePart>
+    <namePart type="termsOfAddress">bp</namePart>
+    <namePart type="date">1663-1742</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Alembert, Jean Lerond d'</namePart>
+    <namePart type="date">1717-1783</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Didot</publisher>
+    <dateIssued>1848</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>653 p. : port.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">pr&#233;c&#233;d&#233;s de son &#233;loge. --</note>
+  <note>"Eloge de Jean-Baptiste Massillon [par d'Alembert]" p. 1-19.</note>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Catholic church</namePart>
+    </name>
+    <topic>Sermons</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Lenten sermons</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sermons, French</topic>
+  </subject>
+  <classification authority="lcc">BX1756 .M32</classification>
+  <recordInfo>
+    <recordContentSource authority="marcorg">LC</recordContentSource>
+    <recordCreationDate encoding="marc">781109</recordCreationDate>
+    <recordIdentifier>abw4043</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

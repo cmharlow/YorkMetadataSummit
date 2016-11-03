@@ -1,0 +1,71 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC34491</identifier>
+  <location>
+    <physicalLocation>1974-001 / 210 (1557)</physicalLocation>
+  </location>
+  <note type="with">Folder 2 of 2</note>
+  <titleInfo>
+    <title>Ethnic Groups : Greeks</title>
+  </titleInfo>
+  <abstract>Image of dancing crowd at the Greek Ball held at the Royal York Hotel.</abstract>
+  <targetAudience>HSA | GCHP</targetAudience>
+  <name>
+    <namePart>McFadden</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>02 February [1967]</dateOther>
+    <dateIssued>1967-02-13</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w photoprint ; 20.5 x 25.5 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <note type="ownership">ASC34492</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Greek diaspora</topic>
+    <topic>Dance</topic>
+    <topic>Royal York Hotel</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Royal York Hotel, 100 Front Street West</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.645905, -79.381464</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

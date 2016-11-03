@@ -1,0 +1,34 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Pertti Kaski photograph collection, Northern Quebec - 1920s</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>1920</dateCreated>
+    <dateOther>[ca. 1920]</dateOther>
+  </originInfo>
+  <abstract>Image of a group of people sitting at a table.</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/6555</identifier>
+  <identifier type="local">ASC08069</identifier>
+  <location>
+    <physicalLocation>2009-025 / 006 (01)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 11 x 6.5 cm</extent>
+  </physicalDescription>
+  <note>One photograph scanned out of 120 photographs in the file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Varpu Lindstrom fonds (F0558)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000558.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Pertti Kaski photograph collection</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

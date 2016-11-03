@@ -1,0 +1,82 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC05310</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/5886</identifier>
+  <location>
+    <physicalLocation>1974-002 / 356</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Image of Celia Franca working from her desk at home.</title>
+    <note displayLabel="source of supplied title">Title based on content of image</note>
+  </titleInfo>
+  <targetAudience>ASC</targetAudience>
+  <name>
+    <namePart>Reg. Towers</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2009-05-14</dateCreated>
+    <dateOther>26 June [1961]</dateOther>
+    <dateIssued>1961-06-30</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>One negative (#13) scanned out of 26 in assignment.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Franca, Celia, 1921?-2007</topic>
+    <topic>National ballet of Canada</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>168 Carlton Street</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.66309, -79.37362</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+  <note type="formsPartOfTIF">Celia Franca</note>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <note type="ownership">ASC34970</note>
+</mods>

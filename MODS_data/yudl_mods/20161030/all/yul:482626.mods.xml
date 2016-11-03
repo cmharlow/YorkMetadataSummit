@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>&#4112;&#4096;&#4154;&#4096;&#4141;&#4096;&#4116;&#4122; &#4114;&#4142;&#4117;&#4116;&#4142;&#4170; &#4112;&#4096;&#4154;&#4096;&#4155;&#4121;&#4154;&#4152; [Book of Logic]</title>
+    <subTitle>[Book of Logic]</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#4101;&#4150;&#4123;&#4157;&#4158;&#4145;&#4129;&#4145;&#4140;&#4100;&#4154; [San Shwe Aung]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Logic</genre>
+  <originInfo>
+    <dateIssued script="Burmese">&#4114;&#4143;&#4112;&#4141;&#4122;&#4125;&#4139;&#4102;&#4141;&#4143;&#4170;&#4161;&#4162;&#4167;&#4162;</dateIssued>
+    <copyrightDate>1910</copyrightDate>
+    <issuance>monographic</issuance>
+    <publisher>&#4096;&#4125;&#4141;&#4121;&#4155;&#4140;&#4096;&#4154;&#4121;&#4158;&#4116;&#4154; &#4101;&#4140;&#4117;&#4143;&#4150;&#4116;&#4158;&#4141;&#4143;&#4117;&#4154;&#4112;&#4141;&#4143;&#4096;&#4154;</publisher>
+    <place>
+      <placeTerm type="text">Myanmar</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Yangon</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">bur</languageTerm>
+  </language>
+  <identifier>BAB-B0118</identifier>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>414</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>UCL</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>logic</topic>
+    <geographic>Rangoon</geographic>
+    <geographic>Yangon</geographic>
+    <geographic>Burma</geographic>
+    <geographic>Myanmar</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <city>Yangon</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

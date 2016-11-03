@@ -1,0 +1,94 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Folksong Accompaniment</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Bram Morrison</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Host</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Barry O'Neill</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Martin Carthy</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Dick Snell</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Sam Larner</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>Sound Recording</typeOfResource>
+  <tableOfContents>The Water is Wide / traditional (Bram Morrison). -- The Jolly Fellows That Fall To The Plough / (Barry O'Neill). -- Two Young Lovers. -- (Martin Carthy). --  Thorneymoor Woods / (Martin Carthy). - El Serano / (Bram Morrison). -- The Gosport Tragedy / Sam Larner (Barry O'Neill). --  A Night Visiting Song / (Martin Carthy). -- The Thresher / Dick Snell (Martin Carthy). -- Sowing On The Mountain / traditional (Barry O'Neill.</tableOfContents>
+  <genre>folk music</genre>
+  <originInfo>
+    <dateIssued>1973-07-07</dateIssued>
+    <publisher>Mariposa Folk Foundation</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto Islands</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code"/>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+  </language>
+  <abstract>Item consists of an audio recording of workshop about accompaniment to folk songs with Bram Morrison describing how to adapt the guitar during accompaniment. He performs "The Water is Wide" (trad.) as an example. Also contains Barry O'Neill performing "The Jolly Fellows That Follow The Plough"  and Martin Carthy performing "Two Young Lovers/Thorneymoor Woods" Sam Hinton also shares his thoughts on accompaniment and motion. There may be a break in recording here as documentation indicates that Sam Hinton performs "Franky &amp; Johnny", "Little Dogies", St. James Infirmary" and "Boll Weavil". followed by Bram Morrison singing a Spanish song called "El Serano", Barry O'Neill performing "The Gosport Tragedy" (Sam Larner), followed by a discussion about repetition.  Next,  Martin Carthy performs "A Night Visiting Song", "The Thresher" (Dick Snell) and Barry O'Neill concluding with "Sowing On The Mountain" (trad.).</abstract>
+  <identifier>ASC06035</identifier>
+  <physicalDescription>
+    <form>1/4" reel audio tape</form>
+    <extent>0:51:11</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Mariposa Folk Foundation fonds (F0511)</title>
+    </titleInfo>
+    <location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Mariposa Folk Festival</topic>
+    <topic>folk songs --British</topic>
+    <topic>folk songs --American</topic>
+    <topic>country music</topic>
+    <topic>guitar</topic>
+    <topic>violin</topic>
+    <topic>concertina</topic>
+    <topic>musical accompaniment</topic>
+    <topic>spirituals</topic>
+    <geographic>Area 1</geographic>
+    <temporal>14:30-15:30</temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Toronto Islands</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.620833, -79.378611</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+  <accessCondition type="restrictionOnAccess">Bram Morrison: contacted, permission granted. Sam Hinton: estate contacted, no response as of 30.03.10.</accessCondition>
+</mods>

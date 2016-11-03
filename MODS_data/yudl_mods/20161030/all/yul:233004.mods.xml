@@ -1,0 +1,82 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC02510</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/2288</identifier>
+  <location>
+    <physicalLocation>1974-002 / 101 (331)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Immigrants : At Union Station</title>
+  </titleInfo>
+  <abstract>Image of girl, holding bow in right hand and purse in left, sitting on floor amidst luggage, some of which is marked in part: "Izralewicz Leon, c/o Korenblum [&#8230;], 278 Palmerston, Toronto, Canada"</abstract>
+  <abstract>Image of girl, holding bow in right hand and purse in left, sitting on floor amidst luggage, some of which is marked in part: "Izralewicz Leon, c/o Korenblum [&#8230;], 278 Palmerston, Toronto, Canada"</abstract>
+  <targetAudience>Weiss for City of Toronto | ASC</targetAudience>
+  <name>
+    <namePart>MacLean</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2000-04-25</dateCreated>
+    <dateOther>[29 January 1951]</dateOther>
+    <dateIssued>1951-01-29</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 9.3 x 11.9 cm</extent>
+  </physicalDescription>
+  <note>One negative (no #) scanned out of 4 in assignment. | Box 2 CD 2</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Immigrants</topic>
+    <topic>Union Station</topic>
+    <topic>Children</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Union Station</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.645278, -79.380556</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+</mods>

@@ -1,0 +1,42 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tillie, a Mennonite maid : a story of the Pennsylvania Dutch</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Martin, Helen Reimensnyder</namePart>
+    <namePart type="date">1868-1939</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <publisher>Copp Clark</publisher>
+    <dateIssued>1904</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>336 p. : incl. 17 pl.  col. front.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Helen Reimensnyder Martin, with illustrations by Florence Scovel Shinn. --</note>
+  <identifier type="lccn">40003734</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840716</recordCreationDate>
+    <recordIdentifier>adl1086</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

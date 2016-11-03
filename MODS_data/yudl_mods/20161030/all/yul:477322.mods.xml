@@ -1,0 +1,50 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Paul Gauguin</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Morice, Charles</namePart>
+    <namePart type="date">1861-1919</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>H. Floury</publisher>
+    <dateIssued>1919</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>235 p., [64] leaves of plates : ill. (some col.), ports. ; 27 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Charles Morice. --</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Gauguin, Paul</namePart>
+      <namePart type="date">1848-1903</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">ND553.G27 M6</classification>
+  <identifier type="lccn">20018591</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg">LC</recordContentSource>
+    <recordCreationDate encoding="marc">771101</recordCreationDate>
+    <recordIdentifier>abu3383</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

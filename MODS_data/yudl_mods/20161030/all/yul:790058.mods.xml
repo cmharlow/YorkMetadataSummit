@@ -1,0 +1,54 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Uusille raiteille : na&#776;ytelma&#776; yhdessa&#776; na&#776;yto&#776;ksessa&#776;</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Gro&#776;nlund, Lyydia</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Finnish Organization of Canada</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">onc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Sudbury (Ont.)</placeTerm>
+    </place>
+    <publisher>Vapauden kp</publisher>
+    <dateIssued>1931</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fin</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>16 p.</extent>
+  </physicalDescription>
+  <abstract>One act play set in Heikkila&#776;'s home.</abstract>
+  <note type="statement of responsibility" altRepGroup="00">Lyydia Gro&#776;nlund.</note>
+  <note>The Finnish Organization of Canada claims performance rights or copyright to this work.</note>
+  <note>SC-SPCOLL copy: Part of the Varpu Lindstro&#776;m fonds d'archives (F0558). Item not available for interlibrary loan.</note>
+  <classification authority="lcc">PS8513</classification>
+  <classification authority="udc">894.541-2</classification>
+  <identifier type="oclc">58166185</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">950929</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100401091205.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm58166185</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Sudbury</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

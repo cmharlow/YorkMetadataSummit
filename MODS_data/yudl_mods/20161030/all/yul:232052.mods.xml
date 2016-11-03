@@ -1,0 +1,25 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>1980s professional photos for press releases, book covers, etc [ca 1980-1984]</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre>photograph</genre>
+  <abstract>Image of Dr. Robert S. Mendelsohn in a suit.</abstract>
+  <identifier type="local">ASC17221</identifier>
+  <location>
+    <physicalLocation>2014-016 / 001</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 8.8 x 11.9 cm</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Dr. Robert S. Mendelsohn collection (F0649)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000649.htm</url>
+    </location>
+  </relatedItem>
+  <accessCondition type="useAndReproduction">Item digitized for access and research purposes only. Copyright retained by Robert S. Mendelsohn Estate. For all other uses, contact archives@yorku.ca.</accessCondition>
+</mods>

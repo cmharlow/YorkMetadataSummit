@@ -1,0 +1,81 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The development of the sciences</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Woodruff, Lorande Loss</namePart>
+    <namePart type="date">1879-1947</namePart>
+    <role>
+      <roleTerm type="text">ed.</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Brown, Ernest W. (Ernest William)</namePart>
+    <namePart type="date">1866-1938</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Bumstead, Henry Andrews</namePart>
+    <namePart type="date">1870-1920</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Johnston, John</namePart>
+    <namePart type="date">1881-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Schlesinger, Frank</namePart>
+    <namePart type="date">1871-1943</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Gregory, Herbert E. (Herbert Ernest)</namePart>
+    <namePart type="date">1869-1952</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Amasa Stone Mather Memorial Publication Fund</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ctu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New Haven</placeTerm>
+    </place>
+    <publisher>Yale University Press; [etc., etc.]</publisher>
+    <dateIssued>1923</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xiv, 327, [1] p. incl. tables. front., ports. 24 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Mathematics, by E.W. Brown.--Physics, by H.A. Bumstead.--Chemistry, by J. Johnston.--Astronomy, by F. Schlesinger.--Geology, by H.E. Gregory.--Biology, by L.L. Woodruff.--Appendix I. Biographies.--Appendix II. Bibliography (p. [297]-305)--Appendix III. Table of the chemical elements. Terms of the geologic column.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">by Ernest William Brown, Henry Andrews Bumstead, John Johnston, Frank Schlesinger, Herbert Ernest Gregory, Lorande Loss Woodruff; edited by L.L. Woodruff.</note>
+  <note>"A series of lectures delivered at Yale University [in 1920] under the auspices of the Yale Chapter of Gamma Alpha."</note>
+  <note>"The present volume is the second work published by the Yale University Press on the Amasa Stone Mather Memorial Publication Fund."</note>
+  <subject authority="lcsh">
+    <topic>Science</topic>
+    <topic>History</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Connecticut</province>
+      <city>New Haven</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">Q125 .W8</classification>
+  <identifier type="lccn">23016668</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">741125</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20060329115357.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm01086525</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

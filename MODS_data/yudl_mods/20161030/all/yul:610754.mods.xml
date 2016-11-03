@@ -1,0 +1,59 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Documents in&#233;dits sur le colonel de Longueuil</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Beaujeu, Monongah&#233;la de</namePart>
+    <namePart type="date">1870-1928</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montr&#233;al</placeTerm>
+    </place>
+    <publisher>Imprimeurs Deslaulniers &amp; Leblanc</publisher>
+    <dateIssued>1891</dateIssued>
+    <edition>Limited ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>37 p. : ill.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">annot&#233;s et publi&#233;s par Monongah&#233;la de Beaujeu.</note>
+  <note>"Editeurs : Trudel &amp; Demers" -cover.</note>
+  <note>"Brochure tir&#233;e &#224; 300 exemplaires" -t.p. (verso).</note>
+  <note>Text in French and English.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Longueuil, Joseph Dominique Emmanuel Le Moyne de</namePart>
+      <namePart type="date">1738-1807</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Montr&#233;al</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>History</topic>
+    <temporal>1763-1791</temporal>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">810226</recordCreationDate>
+    <recordIdentifier>afq3512</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

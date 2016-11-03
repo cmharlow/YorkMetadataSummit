@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>&#4116;&#4141;&#4143;&#4100;&#4154;&#4100;&#4150;&#4123;&#4145;&#4152;&#4129;&#4124;&#4100;&#4154;&#4152;&#4117;&#4156;&#4096;&#4155;&#4121;&#4154;&#4152;</title>
+  </titleInfo>
+  <titleInfo type="translated" lang="eng">
+    <title>Gleanings on politics</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#4097;&#4100;&#4154;&#4121;&#4145;&#4140;&#4100;&#4154;&#4096;&#4156;&#4142;&#4152; [Khin Maung Gyi]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Politics</genre>
+  <originInfo>
+    <dateIssued>[n.d]</dateIssued>
+    <issuance>monographic</issuance>
+    <publisher>Myanma Alin</publisher>
+    <place>
+      <placeTerm type="text">Myanmar</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Yangon</placeTerm>
+    </place>
+    <copyrightDate>n.d.</copyrightDate>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">Bur</languageTerm>
+  </language>
+  <identifier>BAB-B00094</identifier>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>158</extent>
+  </physicalDescription>
+  <subject>
+    <geographic>Rangoon</geographic>
+    <geographic>Asia</geographic>
+    <geographic>Myanmar</geographic>
+    <geographic>Yangon</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <city>Yangon</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

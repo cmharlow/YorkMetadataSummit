@@ -1,0 +1,100 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>The ABCS of Emissions Trading: An Overview</title>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Global Change Strategies International</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<genre>working paper</genre>
+	
+    
+	<typeOfResource>text</typeOfResource>
+	
+    
+	<originInfo>
+		
+      
+		<dateCreated>2002</dateCreated>
+		
+      
+		<publisher>National Round Table on the Environment and the Economy</publisher>
+		
+    
+	</originInfo>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier type="local">RPT_2001_GCSI_The-ABCs-of-Emissions-Trading-Overview.pdf</identifier>
+	
+    
+	<abstract>This background paper has been prepared by the National Round Table on the Environment and the Economy as part of a series for its Emissions Trading Awareness Initiative, which is taking place between November 2001 and February 2002. The initiative, funded by the federal government, is intended to broaden awareness and understanding of the concept of greenhouse gas emissions trading among leaders in key sectors that would be involved in such trading. These sectors include industrial greenhouse gas emitters, the financial sector, municipalities and non-governmental organizations. The initiative is intended to lay the groundwork for future national discussions on the role of emissions trading in Canada&#8217;s response to climate change and the United Nations accord known as the Kyoto Protocol.</abstract>
+	
+    
+	<relatedItem type="host">
+		
+      
+		<titleInfo>
+			
+        
+			<title/>
+			
+      
+		</titleInfo>
+		
+      
+		<part>
+			
+        
+			<extent>15 p.</extent>
+			
+      
+		</part>
+		
+    
+	</relatedItem>
+	
+    
+	<location>
+		
+      
+		<url>http://warming.apps01.yorku.ca/library/wp-content/uploads/2013/03/NRTEE-2002-The-ABCs-of-Emissions-Trading-An-Overview.pdf</url>
+		
+    
+	</location>
+	
+    
+	<accessCondition type="useAndReproduction">All rights reserved</accessCondition>
+	
+  
+</mods>

@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>&#1576;&#1585;&#1608; &#1575;&#1740; &#1583;&#1608;&#1587;&#1578; &#1705;&#1607; &#1605;&#1575; &#1583;&#1587;&#1578; &#1576;&#1607; &#1583;&#1575;&#1605;&#1575;&#1606; &#1582;&#1608;&#1583;&#1740;&#1605;</title>
+    <subTitle>&#1610;&#1705; &#1588;&#1575;&#1582;&#1607; &#1711;&#1604;</subTitle>
+    <subTitle>Yek Shakhe Gol</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#1607;&#1605;&#1575;&#1740;&#1608;&#1606; &#1582;&#1585;&#1617;&#1605;&#1605;&#1580;&#1740;&#1583; &#1606;&#1580;&#1575;&#1581;&#1740; </namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Homayun Khoram,Majid Najahe</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>&#1605;&#1581;&#1605;&#1608;&#1583;&#1740; &#1582;&#1608;&#1575;&#1606;&#1587;&#1575;&#1585;&#1740;</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Mahmooudi khansari</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>Sound Recording</typeOfResource>
+  <genre>Abu Ata</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">per</languageTerm>
+  </language>
+  <identifier>Shakheh-Gol-437</identifier>
+  <physicalDescription>
+    <form authority="marcform">sound recording</form>
+    <extent>26:24</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Iranian National Radio</topic>
+    <topic>radio programs</topic>
+    <topic>music</topic>
+    <topic>poetry</topic>
+    <geographic>Iran</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Iran</country>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

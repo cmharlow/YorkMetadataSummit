@@ -1,0 +1,49 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Dan lu ying yu</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Xu, Yun</namePart>
+    <namePart type="date">jin shi 1894</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">cc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">China</placeTerm>
+    </place>
+    <dateIssued>1931?]</dateIssued>
+    <dateIssued encoding="marc">1931</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">chi</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>1 v. ; 27 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Xu Yun zhu.</note>
+  <note>In double leaves.</note>
+  <note>Gift of the East Asian Resource Centre which includes special collections from Jerome Chen and the Chan family.</note>
+  <subject authority="lcsh">
+    <topic>Couplets, Chinese</topic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>China</country>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="oclc">44902202</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">HMY</recordContentSource>
+    <recordCreationDate encoding="marc">000829</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100401153411.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm44902202</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

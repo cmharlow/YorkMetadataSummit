@@ -1,0 +1,40 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Mariposa Festival [1973]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Peter Williams</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>1973-04-01</dateCreated>
+    <dateOther>[1973]</dateOther>
+  </originInfo>
+  <abstract>Image of Joni Mitchell playing guitar.</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/3774</identifier>
+  <identifier type="local">ASC05918</identifier>
+  <location>
+    <physicalLocation>2007-009</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>1 image: b&amp;amp;w; 2.4cm x 3.5cm</extent>
+  </physicalDescription>
+  <note>1 image (#3) scanned out of 26 of contact sheet</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Mariposa Folk Foundation fonds (F0511)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Mariposa Folk Festival</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

@@ -1,0 +1,59 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Sir Walter Raleigh</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Thoreau, Henry David</namePart>
+    <namePart type="date">1817-1862</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Metcalf, Henry Aiken</namePart>
+    <namePart type="date">1845-1911</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Bibliophile Society (Boston, Mass.)</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">mau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+    <publisher>Printed exclusively for members of the Bibliophile Society</publisher>
+    <dateIssued>1905</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xiv, 106 p. : port. ; 24 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Henry David Thoreau ; lately discovered among his unpublished journals and manuscripts ; introduction by Franklin Benjamin Sanborn ; edited by Henry Aiken Metcalf.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart>Raleigh, Walter</namePart>
+      <namePart type="date">1552?-1618</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Massachusetts</province>
+      <city>Boston</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">DA86.22.R2 T6 1905</classification>
+  <identifier type="lccn">05027424</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">910530</recordCreationDate>
+    <recordIdentifier>afk3983</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

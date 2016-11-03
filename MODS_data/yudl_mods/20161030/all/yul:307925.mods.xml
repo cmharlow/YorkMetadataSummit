@@ -1,0 +1,80 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter to Mrs. Stepler from Gordon Stepler, August 20th 1916</title>
+  </titleInfo>
+  <name type="personal">
+    <affiliation>Canadian Armed Forces</affiliation>
+    <namePart>Stepler, Gordon</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Stepler, Ethelwyn</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Letter</genre>
+  <originInfo>
+    <dateCreated>1916-08-20</dateCreated>
+    <place>
+      <placeTerm authority="marccountry">England</placeTerm>
+    </place>
+    <dateOther>20 August 1916</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a letter written by Gordon Stepler to his mother, Mrs. Ethelwyn Stepler. Transcription is as follows:&#13;
+Shorncliffe, Aug 20/16&#13;
+Dear Mother&#13;
+	This is Sunday afternoon and I am writing this letter in a soldier's home near the camp. There are several soldier's homes around here where you can go to write or read and get refreshments. Ham and eggs, then sandwitchs [sic] and rock cakes are the only things they make around here. I have forgotten what a roast, steak or piece of pie looks like. The people are pretty slow and old fashioned around here for altho [sic] Folkstone is a city of about 40, 000 there is not a restaurant there where you can get a good meal.&#13;
+	I have not rec'd any mail since last writing you but suppose I will get it all in a bunch. I have not rec'd [sic] those papers you&#13;
+|page 2&#13;
+said Miss Meekison sent about a month ago or any parcels you may have sent. I have just got letters from you, Charlotte, Lorne Geddes, Bernie [Cummiford], Miss Drynan and Verna. When I first got here I sent long letters to [Abu Nettleton], Gladys Donaldson, [Barto] Watson, Edgar Sexton, Lytle, Marjorie Bagg, Jean Thompson, Verna, Helen Sulman, Mary Winlow and lots of others so I am wondering if they even get them as I have not had a line from any of them. It is very seldom that mail is ever censored from England to Canada but they sometimes take a few out and they may have been mine.&#13;
+	I tried to get my week's leave a few days ago but did&#13;
+|page 3&#13;
+not succeeded. I am going to try again to-morrow as I may be sent to France any time now and if I was put on a draft it would mean that my leave was all up. I don't think I will be going for quite a while yet as they do not need gunners badly now and it is getting late on in the season. You aren't supposed to get your weeks leave until you have been in the country three months but as we may be sent to France now they make a different allowance for us.&#13;
+	I hope you get those snaps all right that I sent in my last letter. It may be of interest to you to know that Caverhill is a cousin of Florence Caverhill who is going to S.C.I. He has often visited in Strathroy and graduated from Trinity College this year.&#13;
+|page 4&#13;
+year and so knows Lytle [Cummiford].&#13;
+	I am a spare gunman now and so am apt to do anything. Monday I shoveled coal all day and it was a dirty job. Tuesday I had 2 hours foot drill in the morning and got paid in the afternoon. We got &#163;4 this time which is more than we should get. Let me know when my assigned pay reaches you. Wednesday we had a mobilization and every man in the camp had to appear in marching order ready to move away. We were inspected by a bunch of high officers and it took all day. We had bathing parade in the ocean at 5 a.m. so that we had a busy day. Thursday and Friday we had a couple of [?] drill in the morning and a [route] march in the afternoon.&#13;
+|page 5&#13;
+We marched to a high hill near here. You can see the country all around from it but it is a tiresome tramp up.&#13;
+Saturday morning I practiced for an alarm race for the sports that are going to be held here soon. You have fair trams, a gun and six horses each. The horses are all unharnessed and are tied to the gun carriage and lie down. The gunners and drivers take part of their clothes off and lie down too. Then when the whistle is blown, everybody get up, gets dressed harness up the horses and gallops to a certain place, put your gun into action, lay it on a certain place and fire a dummy shell. You are judged by speed, the way the outfit is fixed up and the accuracy of the way your gun is laid.&#13;
+|page 6&#13;
+I went to Folkstone in the afternoon and had a bath, and in the evening came home by way of the [leas] and listened to the band concert there. It gets dark a lot earlier now than it used to - about half past eight. We generally go to bed early and sing for an hour or two as there is not much to do. Well I guess this is all the news now. Love to Dad, Dorothy and yourself.&#13;
+		Gordon.</abstract>
+  <identifier type="local">ASC19536</identifier>
+  <location>
+    <physicalLocation>1998-037 / 001 (04)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>3 leaves</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Dorothy Stepler fonds (F0170)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000170.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <region>South East</region>
+      <county>Kent</county>
+      <city>Shorncliffe</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>51.088,&#160;1.142</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

@@ -1,0 +1,67 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Voyages from Holland to America, A.D. 1632 to 1644</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Vries, David Pietersz. de</namePart>
+    <namePart type="date">fl. 1593-1655</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Murphy, Henry Cruse</namePart>
+    <namePart type="date">1810-1882</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued>1853</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">dut</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>199 p. : ill. ; 32 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by David Peterson de Vries ; translated from the Dutch by Henry C. Murphy.</note>
+  <note>Translation of: Korte historiael ende journaels.</note>
+  <note>"Only 250 copies printed"--T.p. verso.</note>
+  <subject>
+    <geographicCode authority="marcgac">n------</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>New York</province>
+      <city>New York</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Voyages and travels</topic>
+    <topic>Early works to 1800</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>New York (State)</geographic>
+    <topic>Description and travel</topic>
+    <topic>Early works to 1800</topic>
+  </subject>
+  <classification authority="lcc">E162 .V98</classification>
+  <identifier type="lccn" invalid="yes">02007761</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">920211</recordCreationDate>
+    <recordIdentifier>afk0099</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

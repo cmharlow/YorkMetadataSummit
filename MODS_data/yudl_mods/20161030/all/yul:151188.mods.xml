@@ -1,0 +1,52 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>&#201;gypte</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Maspero, Gaston Camille Charles</namePart>
+    <namePart type="termsOfAddress">Sir</namePart>
+    <namePart type="date">1846-1916</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">France</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Hachette</publisher>
+    <dateIssued>1911</dateIssued>
+    <dateIssued encoding="marc">1911</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xii, 326 p. : ill. (some col.). --</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par G. Maspero. --</note>
+  <note type="bibliography">Includes bibliographies and indexes.</note>
+  <subject>
+    <geographicCode authority="marcgac">f-ua---</geographicCode>
+    <topic>Antiquities</topic>
+    <topic>Art</topic>
+    <geographic>Egypt</geographic>
+  </subject>
+  <classification authority="lcc">N5350 .M314</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Ars una : species mille : general history of art</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordCreationDate encoding="marc">760622</recordCreationDate>
+    <recordIdentifier>abq9246</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,46 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <mods:titleInfo>
+    <mods:title>The Dini Petty Show : Humble Howard/James Earl Jones/Inniskillin Wine/The Waltons/Jean-Marc Rozon</mods:title>
+    <mods:subTitle>[Episode 830?]</mods:subTitle>
+  </mods:titleInfo>
+  <mods:typeOfResource>moving image</mods:typeOfResource>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Consists of closed captioned episode featuring James Earl Jones and Jean-Marc Rozon.</mods:abstract>
+  <mods:identifier>2010-026 830</mods:identifier>
+  <mods:physicalDescription>
+    <mods:form authority="marccategory">videorecording</mods:form>
+    <mods:extent>57:55:00</mods:extent>
+  </mods:physicalDescription>
+  <mods:relatedItem>
+    <mods:titleInfo>
+      <mods:title>Dini Petty fonds (F0575)</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000575.htm</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:name type="personal">
+    <mods:namePart>Dini Petty</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Host</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:genre>Interview</mods:genre>
+  <mods:originInfo>
+    <mods:dateIssued>1993-10-07</mods:dateIssued>
+    <mods:publisher>CTV Television Network</mods:publisher>
+    <mods:place>
+      <mods:placeTerm authority="marccountry">Canada</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:note>Digi Beta cam videocassette</mods:note>
+  <mods:subject>
+    <mods:hierarchicalGeographic>
+      <mods:continent>North America</mods:continent>
+      <mods:country>Canada</mods:country>
+    </mods:hierarchicalGeographic>
+  </mods:subject>
+  <mods:accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. Online streaming copy made available for research and non-commercial purposes only by creator. For further details contact ascproj@yorku.ca</mods:accessCondition>
+</mods:mods>

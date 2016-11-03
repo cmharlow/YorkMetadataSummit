@@ -1,0 +1,48 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Cathedral cities of Italy</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Collins, W. W.</namePart>
+    <namePart type="date">1862-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>W. Heinemann</publisher>
+    <publisher>Dodd, Mead</publisher>
+    <dateIssued>1911</dateIssued>
+    <dateIssued encoding="marc">1911</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xii, 308 p. : ill., col. plates ; 24 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">written and illustrated by W.W. Collins.</note>
+  <subject authority="lcsh">
+    <topic>Description and travel</topic>
+    <geographic>Italy</geographic>
+    <topic>Cathedrals</topic>
+  </subject>
+  <classification authority="lcc">DG428 C6</classification>
+  <identifier type="lccn">11027467</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">790320</recordCreationDate>
+    <recordIdentifier>afm0880</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.86 2013/06/10)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

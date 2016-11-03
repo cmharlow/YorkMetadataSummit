@@ -1,0 +1,46 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Histoire des guerres d'Italie, traduite de l'italien de Francios Guichardin (Volume 2)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Guicciardini, Francesco</namePart>
+    <namePart type="date">1483-1540</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Londres [Paris]</placeTerm>
+    </place>
+    <publisher>P. &amp; I. Vaillant</publisher>
+    <dateIssued>1738</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>3 v.</extent>
+  </physicalDescription>
+  <tableOfContents>Contents. -t. 1. 1490-1508. -t. 2. 1508-1522. -t. 3. 1522-1534.</tableOfContents>
+  <note>Title in red and black.</note>
+  <note>Translated by Favre and revised by Georgeon.  cf. Grunet, Grasse, Querard.</note>
+  <subject authority="lcsh">
+    <geographic>Italy</geographic>
+    <topic>History</topic>
+    <temporal>1492-1559</temporal>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="lccn">03022269</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">820204</recordCreationDate>
+    <recordIdentifier>a466527</recordIdentifier>
+    <recordIdentifier>aca1857</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,55 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Dix repr&#233;sentations de Ballets russes de Serge de Diaghilew ; chor&#233;graphe, L&#233;onide Massine</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Th&#233;&#226;tre des Champs-Elys&#233;es</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>La Danse</publisher>
+    <dateIssued>1920</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>1 v. (unpaged) : chiefly ill. (some col.)</extent>
+  </physicalDescription>
+  <note>"La Danse, D&#233;cembre 1920".</note>
+  <note>"Programme des Ballets russes D&#233;cembre 1920".--Cover</note>
+  <note>Performances held at the Th&#233;atre des Champs Elysees, December    1920.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Diaghilev, Serge</namePart>
+      <namePart type="date">1872-1929</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Ballets russes.</namePart>
+    </name>
+  </subject>
+  <classification authority="lcc">GV1786.B47 D59 1920</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">930616</recordCreationDate>
+    <recordIdentifier>afc4843</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

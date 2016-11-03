@@ -1,0 +1,45 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>A daughter of the regiment and other stories</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Pitman, Isaac.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Sheila Thibodeau Lambrinos Collection - York University</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London, England</placeTerm>
+    </place>
+    <publisher>Sir Isaac Pitman &amp; Sons, Ltd.</publisher>
+    <dateIssued>[189-?]</dateIssued>
+    <dateIssued encoding="marc">189u</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>61 p. : ill.</extent>
+  </physicalDescription>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">090911</recordCreationDate>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

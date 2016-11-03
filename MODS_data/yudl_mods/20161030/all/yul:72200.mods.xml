@@ -1,0 +1,84 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Concert: Angele Arsenault  and Les Danseurs du St. Laurent</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Angele Arsenault</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Host</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Les Danseurs du Saint Laurent</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Arthur Arsenault</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>Sound Recording</typeOfResource>
+  <tableOfContents>P.E.I.O. / Angele Arsenault. -- Toc-toc, Toc-toc-toc-toc / Angele Arsenault. -- I Want To Leave My Name / Angele Arsenault. -- L'Homme et la femme / (Angele Arsenault). -- Le monde de par chez nous / Angele Arsenault. -- Women are Beggers / Angele Arsenault. -- Vishten / Arthur Arsenault (Angele Arsenault). -- Maman, Maman /  Angele Arsenault. -- Les Cautin? / trad. (Les Danseurs de St.Laurent). -- La Plus Belle de Sairent / trad. (Les Danseurs de St.Laurent). -- La Caderie de Whisky / trad. (Les Danseurs de St.Laurent). -- Les Jig des Gars et Les Jig des Filles, Les Jig Tout Monde / trad. (Les Danseurs de St.Laurent). -- [Unknown song] / trad. (Les Danseurs de St.Laurent). -- [Unknown song] / trad. (Les Danseurs de St.Laurent). -- Le Brandy du Lac Saint Jean / trad.(Les Danseurs de St.Laurent). -- L' Aurais la Neuf / trad. (Les Danseurs de St.Laurent). -- La Caduses / trad. (Les Danseurs de St.Laurent). -- Les Waltz de Montreal? / trad. (Les Danseurs de St.Laurent). -- Irish Jig / trad. (Les Danseurs de St.Laurent). -- La Belle Catherine / trad. (Les Danseurs de St.Laurent). -- [Unknown song] / trad. (Les Danseurs de St.Laurent).</tableOfContents>
+  <genre>folk music</genre>
+  <originInfo>
+    <dateIssued>1974-06-21</dateIssued>
+    <publisher>Mariposa Folk Foundation</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto Islands</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code"/>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    <languageTerm authority="iso639-2b" type="code">fra</languageTerm>
+  </language>
+  <abstract>Item consists of performance by Angele Arsenault accompanied by Les Danseurs de St.Laurent. Includes "P.E.I.O.", her song about growing up in P.E.I. (to the tune of "Old MacDonald Had A Farm"), followed by "Toc-toc, Toc-toc-toc-toc", a song she wrote for TVOntario and "I Want To Leave My Name". She nexts sings "L'Homme et la femme", and includes a commentary on how women are viewed and treated in society. Her next song, "Le monde de par chez nous," is self-composed and discusses the confusion with Acadian last names, sung in French, no title is provided. Written by Angele Arsenault one week prior, she also performs a song with a serious meaning "Women are Beggers", raises issues of women begging for equality, freedom, humanity, children and the poor. This is followed by a song made up of words of Mi'Kmaq sounds, "Vishten" (arr. by her father, Arthur Arsenault) which is performed in both French and English. Angele Arsenault concludes with a French song entitled "Maman, Maman". Les Danseurs du St. Laurent begin with instrumental performance, with Philip Brueanu on accordion and Yvan Brault on piano. Performance of "Les Cautin?"  from the Vie Saint Catherine Regio, instruments include accordion and piano followed by a song and dance "La Plus Belle de Sairent". Continued with "La Caderie de Whisky" from the lower Saint Laurent region. Each geographic region has its own style of dance, this dance is based on the sailors who sailed the seven seas; a melody of jigs called "Les Jig des Gars et Les Jig des Filles, Les Jig Tout Monde". The next performance, French vocals (French) no titled given. Phillip Brueanu plays a march from 1900 on the small accordion. Dance performance from the Lac Saint Jean region called "Le Brandy du Lac Saint Jean" accompanied by fiddler Jean Carignan. From the same Lac Saint Jean region comes a dance performance tittled "L' Aurais la Neuf" followed by "La Caduses" which is a form of weaving. From the Montreal area after the first world war, presents a performance entitled "Les Waltz de Montreal?" followed by a performance from the north west part of Quebec, the Pontiac region (lumber jack) called the "Irish Jig", followed by the final dance and musical performance titled "La Belle Catherine" from the eastern Quebec area and a good bye and thank you song.</abstract>
+  <identifier>ASC06572</identifier>
+  <physicalDescription>
+    <form>1/4" reel audio tape</form>
+    <extent>0:52:44</extent>
+  </physicalDescription>
+  <note>Static found in right channel during Angele Arsenault concert. Some Concerts on this tape are in stereo, others in mono (see column AI - Technical Notes for more information).</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Mariposa Folk Foundation fonds (F0511)</title>
+    </titleInfo>
+    <location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Mariposa Folk Festival</topic>
+    <topic>folk music</topic>
+    <topic>accordian</topic>
+    <topic>piano</topic>
+    <topic>fiddle</topic>
+    <topic>jig</topic>
+    <topic>folk songs --Canadian</topic>
+    <topic>folk songs --French-Canadian</topic>
+    <topic>instrumental</topic>
+    <topic>women's songs</topic>
+    <geographic>Area 6</geographic>
+    <temporal>20:00-21:00</temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Toronto Islands</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.620833, -79.378611</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+  <accessCondition type="restrictionOnAccess"/>
+</mods>

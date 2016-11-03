@@ -1,0 +1,92 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Folk Fun and Games for Children of all Ages</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Rich Avery</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Host</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Sharron Hampson</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Bram Morrison</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Chick Roberts</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Brothers Four</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Songwriter</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>Sound Recording</typeOfResource>
+  <tableOfContents>Green Grass Grew All Around / (Bram Morrison). -- George Washington Bridge / (Rick Avery). -- Uncle Roon's Gotta Coon(?) / (Chick Roberts). -- Bingo / (Sharron Hampson). -- A Symphonic Variation (The Violins Play Along) / Brothers Four (Ensemble). -- My Bonnie Lies Over The Ocean / trad. (Ensemble). -- Oh What A Merry Land Is England / trad. (Bram Morrison). -- One Finger, One Thumb / (Sharron Hampson and others). -- Three Blind Mice / trad. (Rick Avery and children). -- Frere Jacques / trad. (Rick Avery and children). -- Row Row Row Your Boat / trad. (Rick Avery and children). -- Lion Hunt / (Rick Avery and children). -- Father Abraham / (Ensemble). -- Come Little Rabbit / (Sharron Hampson). -- I See A Bear / (Chick Roberts and children).</tableOfContents>
+  <genre>folk music</genre>
+  <originInfo>
+    <dateIssued>1974-06-23</dateIssued>
+    <publisher>Mariposa Folk Foundation</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto Islands</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code"/>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    <languageTerm authority="iso639-2b" type="code">fra</languageTerm>
+    <languageTerm authority="iso639-2b" type="code">gla</languageTerm>
+  </language>
+  <abstract>Item consists of an audio recording of Rick Avery introducing the workshop that encourages children to have fun with folk songs. Bram Morrison begins the workshop by teaching the children the song"Green Grass Grew All Around" followed by Rick Avery instructing the children to sing "George Washington Bridge", Chick Roberts performing "Uncle Roon's Gotta Coon(?)", Sharron Hampson performing "Bingo" with the audience clapping along, the entire group along with the audience performing the harmony song "A Symphonic Variation (The Violins Play Along)" (Brothers Four), followed by "My Bonnie Lies Over The Ocean" (trad.). A child performs her own version of the song and they all sing along. Bram Morrison performing "Oh What A Merry Land Is England" (trad.) but changing the words to include various nursery rhymes, Sharron Hampson and the whole group performing "One Finger, One Thumb", Rick Avery instructing the children to sing a harmony combining "Three Blind Mice", "Frere Jacques" and "Row Row Row Your Boat". Also includes Rick Avery playing "Lion Hunt" with the children and then the group performing "Father Abraham", Sharron Hampson teaching the children "Come Little Rabbit"and  Chick Roberts organizing and playing the "I See A Bear" game.</abstract>
+  <identifier>ASC06577</identifier>
+  <physicalDescription>
+    <form>1/4" reel audio tape</form>
+    <extent>0:59:36</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Mariposa Folk Foundation fonds (F0511)</title>
+    </titleInfo>
+    <location>
+      <location>
+        <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+      </location>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Mariposa Folk Festival</topic>
+    <topic>folk music</topic>
+    <topic>square dancing</topic>
+    <topic>contra dancing</topic>
+    <topic>guitar</topic>
+    <topic>violin</topic>
+    <geographic>Area 5</geographic>
+    <temporal>14:30-15:30</temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Toronto Islands</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.620833, -79.378611</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+  <accessCondition type="restrictionOnAccess"/>
+</mods>

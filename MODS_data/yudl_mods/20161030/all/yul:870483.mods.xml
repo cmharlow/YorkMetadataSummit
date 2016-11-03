@@ -1,0 +1,36 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Oeuvres</title>
+    <subTitle>Publiees sur ses manuscrits, avec la vie de l'auteur</subTitle>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Melange curieux des meilleures pieces</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Desmaizeaux, Pierre</namePart>
+    <namePart type="date">1673?-1745</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Amsterdam</placeTerm>
+    </place>
+    <publisher>Covens &amp; Mortier</publisher>
+    <dateIssued>1726</dateIssued>
+    <edition>4. ed., corr. &amp; augm. --</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>7 v.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par Mr. Des Maizeaux. --</note>
+  <note>Vols. 6-7 have individual title only:  Melange curieux des meilleures pieces.</note>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840407</recordCreationDate>
+    <recordIdentifier>a710836</recordIdentifier>
+    <recordIdentifier>adb5012</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods>

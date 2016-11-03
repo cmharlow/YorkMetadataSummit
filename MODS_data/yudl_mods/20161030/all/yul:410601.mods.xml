@@ -1,0 +1,130 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>Canada in a Changing Climate: Sector Perspectives on Impacts and Adaptation</title>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Lemmen, D.S</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Editor</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart> Warren, F.J.</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Editor</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<genre>working paper</genre>
+	
+    
+	<typeOfResource>text</typeOfResource>
+	
+    
+	<originInfo>
+		
+      
+		<dateCreated>2014</dateCreated>
+		
+      
+		<publisher>Government of Canada</publisher>
+		
+    
+	</originInfo>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier type="local">RPT_2014_NRC_Canada-in-a-Changing-Climate.pdf</identifier>
+	
+    
+	<abstract>This report, an update to a 2008 edition, synthesized over 1500 publications since 2007, and includes chapters on natural resources, food production, industry, biodiversity and protected areas, human health, and water and transportation infrastructure. Over 90 authors and 115 expert reviewers contributed to the document.</abstract>
+	
+    
+	<relatedItem type="host">
+		
+      
+		<part>
+			
+        
+			<date>journal" : </date>
+			
+        
+			<extent>292 p.</extent>
+			
+      
+		</part>
+		
+    
+	</relatedItem>
+	
+    
+	<subject>
+		
+      
+		<topic/>
+		
+      
+		<topic/>
+		
+      
+		<topic/>
+		
+      
+		<topic/>
+		
+    
+	</subject>
+	
+    
+	<location>
+		
+      
+		<url>http://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/earthsciences/pdf/assess/2014/pdf/Full-Report_Eng.pdf</url>
+		
+    
+	</location>
+	
+    
+	<accessCondition type="useAndReproduction">All rights reserved</accessCondition>
+	
+  
+</mods>

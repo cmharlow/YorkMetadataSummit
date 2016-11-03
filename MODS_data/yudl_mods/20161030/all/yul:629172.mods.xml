@@ -1,0 +1,50 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Einfu&#776;hrung in die theoretische physik : mit besonderer beru&#776;cksichtigung ihrer modernen probleme</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Haas, Arthur Erich</namePart>
+    <namePart type="date">1884-1941</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">gw</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Berlin und Leipzig</placeTerm>
+    </place>
+    <publisher>Vereinigung wissenschaftlicher verleger W. de Gruyter &amp; co.</publisher>
+    <dateIssued>1921</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v. : diagrs. ; 23 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">von Arthur Haas.</note>
+  <note>1 bd., 2., unvera&#776;nderte aufl.  2 bd., 1. und 2. aufl.</note>
+  <note>"Literaturu&#776;bersicht": v. 2, p. [269]</note>
+  <subject authority="lcsh">
+    <topic>Mathematical physics</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Germany</country>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">QC20 .H3 1921</classification>
+  <identifier type="lccn">22024708</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">781219</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030811083255.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm04474460</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,49 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Essais de morale contenus en divers traite's sur plusieurs devoirs importants (Volume 2)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Nicole, Pierre</namePart>
+    <namePart type="date">1625-1695</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">France</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>chez G. Desprez [etc.]</publisher>
+    <dateIssued>1713-15</dateIssued>
+    <dateIssued encoding="marc" point="start">1713</dateIssued>
+    <dateIssued encoding="marc" point="end">1715</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>13 v. 14 cm.</extent>
+  </physicalDescription>
+  <note>Title vignette (device of Desprez; v. 6-8 in variant form).</note>
+  <note>Vols. 6-8 are dated 1715.</note>
+  <note>Vols. 9-13 have title: Continuation des Essais de morale ... Contenant des reflexions morales sur les Epitres Evangiles ... Nouvelle &#233;dition, augment&#233;e des Epitres &amp; Evangiles en leur entier, avec une table des matieres.</note>
+  <note>Author's name given in the privilege.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Christian ethics</topic>
+  </subject>
+  <classification authority="lcc">BJ 1242 .N63 1713</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">EYM</recordContentSource>
+    <recordCreationDate encoding="marc">890926</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030730114506.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm23641146</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

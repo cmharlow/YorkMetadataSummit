@@ -1,0 +1,118 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>Climate Change, Work and Employment in the Agri-Food Sector: Is the Ontario Food System Sustainable?</title>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Kainer, Jan</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart> Sefton MacDowell, Lauren</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<genre>working paper</genre>
+	
+    
+	<typeOfResource>text</typeOfResource>
+	
+    
+	<originInfo>
+		
+      
+		<dateCreated>2013</dateCreated>
+		
+    
+	</originInfo>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier type="local">WP_2013-01_Kainer_Climate-Change-Work-and-Employment-in-the-Agri-Food-Sector.pdf</identifier>
+	
+    
+	<abstract>The alternative food movement is growing and consists of local groups that advocate for a sustainable, secure, affordable and safe food system that is distributed primarily through local or regional community markets. It has grown in response to consumer demand as more people search for high quality, often organic, food products. As the amount of this food increases, the jobs and labour processes are also changing. This paper seeks to analyse the current food system in Ontario &#8211; both the industrial system and the growing alternative, often organic, local food system. We also will examine the interrelationship between the industrial and alternative food systems, because organics are influencing management decisions at grocery stores, and government policy is evolving. Our research is taking account of the growing theoretical literature that covers food and climate change and we link this material to issues of work and employment. We will focus on jobs and employment in the food system as well as analyse how best to make the food system in this province sustainable in the face of climate change. With increasing extreme weather events, the need to adapt the food system to climate change, the need for food security and the necessity of having a sustainable food system in Ontario all become more urgent concerns. We also suggest ways of mitigation and adaptation to ensure future food security. Some of this information is known, while some requires more research which we are undertaking, so this is very much a working paper.</abstract>
+	
+    
+	<relatedItem type="host">
+		
+      
+		<part>
+			
+        
+			<date>journal" : </date>
+			
+        
+			<extent>39 p.</extent>
+			
+      
+		</part>
+		
+    
+	</relatedItem>
+	
+    
+	<subject>
+		
+      
+		<topic>Climate Change</topic>
+		
+      
+		<topic>Ontario</topic>
+		
+      
+		<topic>Employment</topic>
+		
+    
+	</subject>
+	
+    
+	<identifier type="url">http://warming.apps01.yorku.ca/wp-content/uploads/WP_2013_01_Kainer_MacDowell_Climate-Change-Work-Employment-in-Agri-food.pdf</identifier>
+	
+    
+	<accessCondition type="useAndReproduction">All rights reserved</accessCondition>
+	
+  
+</mods>

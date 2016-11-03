@@ -1,0 +1,43 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>The Burman Buddhist</title>
+    <partNumber>Vol. 2, No. 2</partNumber>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre>journal</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng, bur</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+  </physicalDescription>
+  <originInfo>
+    <dateCreated>1909-07</dateCreated>
+    <publisher>Young Men's Buddhist Association</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Burma</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Rangoon</placeTerm>
+    </place>
+    <dateOther>July 1909</dateOther>
+  </originInfo>
+  <subject>
+    <topic>Buddhism</topic>
+    <topic>Colonial</topic>
+    <geographic>Burma</geographic>
+    <geographic>Myanmar</geographic>
+    <geographic>Rangoon</geographic>
+    <geographic>Yangon</geographic>
+    <temporal>20th Century</temporal>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Burma</country>
+      <city>Rangoon</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>16.800000, 96.150000</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Creative Commons</accessCondition>
+</mods>

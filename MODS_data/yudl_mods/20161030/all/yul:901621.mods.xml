@@ -1,0 +1,77 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Royal commission inquiry into civil rights, reports</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Inquiry into civil rights</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Ontario</namePart>
+    <namePart>Royal Commission Inquiry into Civil Rights</namePart>
+  </name>
+  <name type="personal">
+    <namePart>McRuer, J. C. (James Chalmers)</namePart>
+    <namePart type="date">1890-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">government publication</genre>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">onc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <publisher>Queen's Printer</publisher>
+    <dateIssued>1968-1971</dateIssued>
+    <dateIssued encoding="marc" point="start">1968</dateIssued>
+    <dateIssued encoding="marc" point="end">1971</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>5 v. ; 26 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>v.1-3. Report no.1. -- v.4. Report no.2. -- v.5. Report no.3.</tableOfContents>
+  <note>Commissioner: James Chalmers McRuer.</note>
+  <note>Scott V.1 copy 1 donated to York University Libraries in memory of Peter Nesbitt Oliver, Prof. of History, York University, 1965-2005.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn-on</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Civil rights</topic>
+    <geographic>Ontario</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Justice, Administration of</topic>
+    <geographic>Ontario</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Administrative procedure</topic>
+    <geographic>Ontario</geographic>
+  </subject>
+  <classification authority="lcc">LAW</classification>
+  <classification authority="lcc">KEO819.A33 A15 1968</classification>
+  <classification authority="ddc">347.99/713</classification>
+  <identifier type="lccn">79355715</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg">LC</recordContentSource>
+    <recordCreationDate encoding="marc">790727</recordCreationDate>
+    <recordIdentifier>a9243</recordIdentifier>
+    <recordIdentifier>aaa9502</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

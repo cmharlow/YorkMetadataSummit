@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Photographs for Comunidade</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Marques, Domingos</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>2010-11-27T20:08:30Z</dateCreated>
+    <dateOther>[after 1974?]</dateOther>
+  </originInfo>
+  <abstract>Contact sheet consists of 31 negatives, including: #15A-19A, an awards ceremony; #10A-11A, &#8216;Portuguese Fish Market&#8217;; #12A-20, a park with sculptures in it; #5-10, 0-5, Canadian Food and Allied Workers (CFAW) locals 175 and 633 on strike against &#8216;Lancia-Bravo&#8217; foods; #0A, a building with rail tracks along side; #1A, a sign with &#8216;A Riteway Feature &#8211; Good bye Pierre, May 22&#8217;; #2-5A, a meeting with a small band.</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/6324</identifier>
+  <identifier type="local">ASC06662</identifier>
+  <location>
+    <physicalLocation/>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>32 photographs : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>1 negative (#11A) scanned out of 31 in assignment.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Domingos Marques fonds (F0573)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000573.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Comunidade : O Jornal Comunit&#225;rio Portugu&#234;s</topic>
+    <topic>Portuguese community</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

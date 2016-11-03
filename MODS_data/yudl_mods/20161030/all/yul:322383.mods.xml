@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Theosophical Society advertisement</title>
+  </titleInfo>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/29543057">
+    <namePart>Welby, Victoria</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+    <namePart type="termsOfAddress">Lady</namePart>
+  </name>
+  <name type="corporate" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/68925562">
+    <namePart>Besant, Annie, 1847-1933</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Associated name</roleTerm>
+    </role>
+    <namePart type="date">1847-1933</namePart>
+    <namePart type="termsOfAddress">Lady</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Advertisement</genre>
+  <originInfo>
+    <dateOther>[189-]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of an advertisement for the objects, activities, educational program and publications of the Theosophical Society. Item includes reference to the publications and activities of Annie Besant, a correspondent with Victoria Welby.</abstract>
+  <identifier type="local">ASC17820</identifier>
+  <location>
+    <physicalLocation>1970-010 / 001 (036)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>1 page</extent>
+  </physicalDescription>
+  <note type="funding">Digitization made possible, in whole or in part, through a 2014 Librarians Research Grant.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Lady Victoria Welby fonds (F0443)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000443.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Theosophy</topic>
+    <topic>Christianity</topic>
+    <topic>Occultism</topic>
+    <topic>Buddhism</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <city>London</city>
+      <citySection>7 Duke Street, Adelphi</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>51.514623, -0.119058</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digitized for access and research purposes only. For further copyright information contact: ascproj@yorku.ca.</accessCondition>
+</mods>

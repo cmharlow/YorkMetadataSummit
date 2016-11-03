@@ -1,0 +1,46 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Introduction &#224; une &#233;dition critique du roman d'&#201;n&#233;as</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">theses</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ne</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">'S-Gravenhage</placeTerm>
+    </place>
+    <publisher>Mouton</publisher>
+    <dateIssued>1888</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>iii, 128 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Jean Jacques Salverda de Grave. --</note>
+  <note type="thesis">Proefschrift -- Rijks-Universiteit, Groningen.</note>
+  <subject authority="lcsh">
+    <titleInfo>
+      <title>&#201;n&#233;as (Romance)</title>
+    </titleInfo>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Netherlands</country>
+      <city>The Hague</city>
+      <citySection>'S-Gravenhage</citySection>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">PQ1459.E353 S2</classification>
+  <recordInfo>
+    <recordCreationDate encoding="marc">750814</recordCreationDate>
+    <recordIdentifier>aab4790</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

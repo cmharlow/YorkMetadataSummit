@@ -1,0 +1,38 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Rita Reading</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Rita Greer Allen</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Depicted</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated>1958</dateCreated>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Image consists of Rtia Greer Allen reading.</abstract>
+  <identifier type="local">ASC17507</identifier>
+  <location>
+    <physicalLocation>2010-167 / 045 (23)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 6.3 x 8 cm</extent>
+  </physicalDescription>
+  <note>This image is part of a series labelled "Publicity Photos."&#13;
+This image is scanned at 1600 dpi.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Rita Greer Allen fonds (F0596)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000596.htm</url>
+    </location>
+  </relatedItem>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

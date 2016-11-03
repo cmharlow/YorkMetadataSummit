@@ -1,0 +1,53 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>Les </nonSort>
+    <title>Les conservateurs veng&#233;s! : la position de la province telle qu'elle est : r&#233;ponse &#224; M. Duffy</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Nantel, G.-A. (Guillaume-Alphonse)</namePart>
+    <namePart type="date">1852-1909</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montr&#233;al</placeTerm>
+    </place>
+    <dateIssued>1897?]</dateIssued>
+    <dateIssued encoding="marc">1897</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>32 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par M. Nantel.</note>
+  <note>Caption title.</note>
+  <subject authority="lcsh">
+    <geographic>Quebec (Province)</geographic>
+    <topic>Appropriations and expenditures</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Montr&#233;al</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Quebec (Province)</geographic>
+    <topic>Politics and government</topic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">811210</recordCreationDate>
+    <recordIdentifier>afq2190</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

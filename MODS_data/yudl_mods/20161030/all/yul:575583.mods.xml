@@ -1,0 +1,31 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>CLC Statement on Climate Change for Presentation to the House of Commons Committee on Bill C-30 March 1, 2007</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Canadian Labour Congress (CLC)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Submission</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2007</dateCreated>
+    <publisher>Canandian Labour Congress</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Concluding paragraph: "Bill C-30 must set a clear framework for a national action plan to meet specified greenhouse gas reduction targets, including hard emissions caps for large final emitters and an emission trading system, a framework for new regulatory standards, establishment of mandates for funds to support a green jobs/green industrial strategy, including a Climate Change Investment Fund and funds for Just Transition. Funding for climate change programs and  related tax reforms as highlighted above should be included in the 2007 Budget."</abstract>
+  <relatedItem type="host">
+    <part>
+      <extent>14 p.</extent>
+    </part>
+  </relatedItem>
+  <subject>
+    <topic>Labour union policies</topic>
+    <topic>Just Transition</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright remains with the creator. Reproduced with permission of the Canadian Labour Congress.</accessCondition>
+</mods>

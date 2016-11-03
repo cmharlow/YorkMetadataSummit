@@ -1,0 +1,73 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Choregraphie : ou L'art d&#233;crire la dance par caracteres, figures, et signes demonstratifs</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Feuillet, Raoul-Auger</namePart>
+    <namePart type="date">1659 or 60-1710</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Feuillet, Raoul-Auger</namePart>
+    <namePart type="date">1659 or 60-1710</namePart>
+  </name>
+  <name type="personal">
+    <namePart>P&#233;court, Guillaume Louis</namePart>
+    <namePart type="date">1653-1729</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">France</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">L'auteur et M. Brunet</placeTerm>
+    </place>
+    <dateIssued>1701</dateIssued>
+    <edition>2. &#233;d. augm</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>106, 84, 72 p. : ill.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par M. Feuillet. --</note>
+  <note>"Recueil de dances, compos&#233;es par M. Feuillet" (84 p.) and "Recueil de dances, compos&#233;es par M. Pecour" (72 p.) have special title pages.</note>
+  <note type="reproduction">Photocopy.  Ann Arbor, Mich. : University Microfilms.</note>
+  <subject authority="lcsh">
+    <topic>Dance notation</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">GV1587. F4 1701</classification>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Recueil de dances</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Feuillet, Raoul-Auger,</namePart>
+      <namePart type="date">1659 or 60-1710</namePart>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Recueil de dances</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>P&#233;court, Guillaume Louis,</namePart>
+      <namePart type="date">1653-1729</namePart>
+    </name>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource authority="marcorg">LCMOD</recordContentSource>
+    <recordCreationDate encoding="marc">770721</recordCreationDate>
+    <recordIdentifier>abt6355</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC18325</identifier>
+  <location>
+    <physicalLocation>1974-002 / 119</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>London, Ontario. : University of Western Ontario Marijuana Smoke In [not used]</title>
+    <subTitle>London, Ontario. : University of Western Ontario Marijuana Smoke In [not used]</subTitle>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <abstract>Image of a group of people sitting inside a building.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Sheppard</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-07-15</dateCreated>
+    <dateOther>31 October 1969</dateOther>
+    <dateIssued>1969-10-31</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>Canada</place>
+    <place>Toronto</place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>eng</language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>One negative (15-15A) scanned out of 19 in assignment.</note>
+  <note type="ownership">ASC18312</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>University</topic>
+    <topic>Marijuana legalization</topic>
+    <topic>Protest</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>London</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.009731,-81.273855</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

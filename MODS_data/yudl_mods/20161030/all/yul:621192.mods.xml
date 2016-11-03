@@ -1,0 +1,61 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Dongpo yue fu jian (Volume 1)</title>
+  </titleInfo>
+  <titleInfo type="uniform" nameTitleGroup="1">
+    <title>Selections. 1936</title>
+  </titleInfo>
+  <name type="personal" usage="primary" nameTitleGroup="1">
+    <namePart>Su, Shi</namePart>
+    <namePart type="date">1037-1101</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Long, Yusheng</namePart>
+    <namePart type="date">1902-1966</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">cc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Shanghai</placeTerm>
+    </place>
+    <publisher>Shang wu yin shu guan</publisher>
+    <dateIssued>1936</dateIssued>
+    <dateCreated>(1958 printing)</dateCreated>
+    <edition>Chu ban.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">chi</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v. ; 20 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Long Yusheng jiao jian.</note>
+  <note>Gift of the East Asian Resource Centre which includes special collections from Jerome Chen and the Chan family.</note>
+  <note>On double leaves, oriental style.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Su, Shi</namePart>
+      <namePart type="date">1037-1101</namePart>
+    </name>
+    <topic>Criticism and interpretation</topic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>China</country>
+      <city>Shanghai</city>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <recordContentSource authority="marcorg">CUF</recordContentSource>
+    <recordCreationDate encoding="marc">891205</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20091210142352.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm20734486</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

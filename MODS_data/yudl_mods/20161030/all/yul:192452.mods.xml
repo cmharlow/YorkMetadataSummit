@@ -1,0 +1,67 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC18162</identifier>
+  <location>
+    <physicalLocation>1974-002 / 119</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Long Branch, Ont. : School Strike. : Re- Crossing Guard.</title>
+    <subTitle>Long Branch, Ont[ario]. : School Strike. : Re- Crossing Guard.</subTitle>
+  </titleInfo>
+  <abstract>Image of adults and children seated in rows of chairs inside a building.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>[Telegram staff]</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-05-26</dateCreated>
+    <dateOther>[5 September 1956]</dateOther>
+    <dateIssued>1956-09-05</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ;  9.5 x 12 cm</extent>
+  </physicalDescription>
+  <note>One negative (VS-14) scanned out of 7 in assignment.</note>
+  <note type="ownership">ASC18158</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Long Branch</topic>
+    <topic>Public School</topic>
+    <topic>Children</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Long Branch</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.593509,-79.537853</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+</mods>

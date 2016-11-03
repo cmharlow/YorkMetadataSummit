@@ -1,0 +1,36 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>RSM with people of note (1962-1986)</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>[Valerie K.]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre>photograph</genre>
+  <originInfo>
+    <dateCreated>1980-02-01</dateCreated>
+  </originInfo>
+  <abstract>Image of Dr. Robert S. Mendelsohn at a desk, holding a telephone to one ear and a [pen] in one hand.</abstract>
+  <identifier type="local">ASC17209 (variant)</identifier>
+  <location>
+    <physicalLocation>2014-016 / 001</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 11.8 x 8.6 cm</extent>
+  </physicalDescription>
+  <note>ASC17209 is a slightly smaller version of the same image, and also appears to be focused slightly further out.&#13;
+Writing on back: Valerie K. 2/80</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Dr. Robert S. Mendelsohn collection (F0649)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000649.htm</url>
+    </location>
+  </relatedItem>
+  <accessCondition type="useAndReproduction">Item digitized for access and research purposes only. Copyright retained by Robert S. Mendelsohn Estate. For all other uses, contact archives@yorku.ca.</accessCondition>
+</mods>

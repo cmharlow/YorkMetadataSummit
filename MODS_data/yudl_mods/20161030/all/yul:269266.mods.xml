@@ -1,0 +1,54 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Baines history of the late war between the United States and Great Britain : with a critical appendix</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Baines, Edward</namePart>
+    <namePart type="date">1774-1848</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Cummins, Ebenezer Harlow</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United States</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Baltimore</placeTerm>
+    </place>
+    <publisher>Printed by B. Edes</publisher>
+    <dateIssued>1820</dateIssued>
+    <edition>1st American ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xii, [13]-167, xivii p. ; 19 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Ebenezer Harlow Cummins.</note>
+  <note>Reprinted from his History of the wars of the French revolution, London, 1817, v. 2, book 5, chapters 1-3.</note>
+  <subject authority="lcsh">
+    <geographic>United States</geographic>
+    <topic>History</topic>
+    <temporal>War of 1812</temporal>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Maryland</province>
+      <city>Baltimore</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">E354 .B16</classification>
+  <identifier type="lccn">02017601</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">751006</recordCreationDate>
+    <recordIdentifier>afl1169</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

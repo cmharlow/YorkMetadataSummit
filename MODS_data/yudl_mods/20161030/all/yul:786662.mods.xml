@@ -1,0 +1,28 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Ontario's Climate Change: Discussion Paper 2015</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Ontario. Ministry of the Environment and Climate Change</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Discussion Paper</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2015</dateCreated>
+    <publisher>Ontario Government</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>The document is intended to lay the groundwork for a forthcoming comprehensive policy and to facilitate consultation with business, municipalities, industry, Indigenous groups and the public. The paper suggests implementing new regulations and market instruments, including carbon pricing, which will realign economic incentives and disincentives with climate change mitigation goals. The paper emphasizes the importance of climate-smart infrastructure and transportation development to help merge economic growth, resilience, energy efficiency, and emissions reduction strategies. It concludes with a call for the opinions of stakeholders, including how to build upon existing successful policies, which industries to target, how to design climate-friendly built communities, and which carbon pricing mechanism might suit Ontario best.  Also available in French.</abstract>
+  <subject>
+    <topic>climate change policy</topic>
+    <topic>cap and trade</topic>
+    <topic>Ontario</topic>
+  </subject>
+  <accessCondition>This document is protected by Crown copyright which is held by the Queen's Printer for Ontario. If credit is given and Crown copyright is acknowledged, the materials may be reproduced for non-commercial purposes.</accessCondition>
+  <accessCondition type="useAndReproduction">&#169; Queen's Printer for Ontario</accessCondition>
+</mods>

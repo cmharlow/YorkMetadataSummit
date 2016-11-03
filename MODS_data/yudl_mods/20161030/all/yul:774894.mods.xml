@@ -1,0 +1,22 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>A New Wave of Climate Insurgents Defines Itself as Law-Enforcers</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Brecher, Jeremy</namePart>
+    <role>Author</role>
+  </name>
+  <genre>Article</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2016</dateCreated>
+    <publisher>Labor Network for Sustainability</publisher>
+  </originInfo>
+  <language>eng</language>
+  <abstract>The author characterizes the upcoming 2016 "Breakfree" protests as part of  a &#8220;climate insurgency&#8221;, which is seen &#8220;not only as a moral but as a legal right and duty, necessary to protect the Constitution and the public trust for ourselves and our posterity&#8221;. Brecher catalogues other U.S. examples, including the court challenges led by  Our Children&#8217;s Trust.</abstract>
+  <subject>
+    <topic>climate change and the law</topic>
+  </subject>
+  <accessCondition>Reproduced with permission of the Labor Network for Sustainability, July 2016.</accessCondition>
+  <accessCondition type="useAndReproduction">Copyright retained by LNS</accessCondition>
+</mods>

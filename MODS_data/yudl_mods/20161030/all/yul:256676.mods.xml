@@ -1,0 +1,71 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <mods:titleInfo>
+    <mods:title>Jean Augustine interview: Jean Augustine and Jean Chretien Jean  campaign button</mods:title>
+  </mods:titleInfo>
+  <mods:identifier>ASC17563</mods:identifier>
+  <mods:typeOfResource>moving image</mods:typeOfResource>
+  <mods:genre>Educational</mods:genre>
+  <mods:name type="corporate">
+    <mods:namePart>Instructional Technology Centre (ITC), UIT</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewee</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart>Jean Augustine</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewer</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal">
+    <mods:namePart>Norda Majekodunmi</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">Interviewer</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateIssued>2014-04-24</mods:dateIssued>
+    <mods:publisher>Norda Majekodunmi</mods:publisher>
+    <mods:place>
+      <mods:placeTerm authority="marccountry">Canada</mods:placeTerm>
+    </mods:place>
+    <mods:place>
+      <mods:placeTerm type="text">Toronto</mods:placeTerm>
+    </mods:place>
+  </mods:originInfo>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Recording consists of an interview with Jean Augustine in which she discusses her Jean campaign button which features a photo of Jean Chretien and Jean Augustine.</mods:abstract>
+  <mods:physicalDescription>
+    <mods:form authority="marccategory">videorecording</mods:form>
+    <mods:extent>00:01:40</mods:extent>
+  </mods:physicalDescription>
+  <mods:note type="funding">This project was supported by a research grant issued by York University Libraries.</mods:note>
+  <mods:note type="transcription">And of course, this was my campaign button in 93. He came out to canvas with me a few places. And so that's him canvassing with me. And we played in my campaign on the name Jean which is also Jean (male French differentiation). Look at my afro, huh? And so all of my workers had this campaign button, and again it was identifying-- these buttons really show identification with the leader. Everybody liked him, he was upfront, he was the one on TV, he was the one that was everywhere and therefore you wanted to wear a button with the leader or you wanted to wear the leader's button to show that you're Liberal and to show that&#8230; it's interesting. The unrobing; first the jacket, then take out the jacket, shirt and tie, then take out the tie and put a blue jean jacket on him and giving that young, youthful preppy look and we won. We won by big numbers.</mods:note>
+  <mods:relatedItem>
+    <mods:titleInfo>
+      <mods:title>Jean Augustine fonds (F0515)</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000515.htm</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:subject>
+    <mods:topic>Political buttons</mods:topic>
+    <mods:topic>Campaign buttons</mods:topic>
+    <mods:topic>Political election</mods:topic>
+    <mods:topic>Politics and government</mods:topic>
+    <mods:geographic>Canada</mods:geographic>
+    <mods:temporal>1993</mods:temporal>
+    <mods:hierarchicalGeographic>
+      <mods:continent>North America</mods:continent>
+      <mods:country>Canada</mods:country>
+      <mods:city>Toronto</mods:city>
+    </mods:hierarchicalGeographic>
+    <mods:cartographics>
+      <mods:coordinates>43.773331100000000000,  -79.499138599999980000</mods:coordinates>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:accessCondition type="useAndReproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution" License (http://creativecommons.org/licenses/by/2.0/)</mods:accessCondition>
+</mods:mods>

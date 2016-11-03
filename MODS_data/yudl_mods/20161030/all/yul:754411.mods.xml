@@ -1,0 +1,67 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Journal of Larocque from the Assiniboine to the Yellowstone, 1805</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Larocque, Fran&#231;ois Antoine</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Burpee, Lawrence J. (Lawrence Johnstone)</namePart>
+    <namePart type="date">1873-1946</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">government publication</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">onc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Ottawa</placeTerm>
+    </place>
+    <publisher>Government Printing Bureau</publisher>
+    <dateIssued>1910</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>82 p. ; 25 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">edited with notes by L.J. Burpee.</note>
+  <subject>
+    <geographicCode authority="marcgac">np  ---</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Ottawa</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America</topic>
+    <geographic>Northwestern States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Fur trade</topic>
+    <geographic>Canada</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Northwestern States</geographic>
+    <topic>Description and travel</topic>
+  </subject>
+  <classification authority="lcc">FC 16 C23 no.3</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Publications of the Canadian Archives ; no. 3</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordCreationDate encoding="marc">120179</recordCreationDate>
+    <recordIdentifier>afl6660</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

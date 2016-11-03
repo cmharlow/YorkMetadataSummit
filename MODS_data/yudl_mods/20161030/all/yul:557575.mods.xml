@@ -1,0 +1,76 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC34486</identifier>
+  <location>
+    <physicalLocation>1974-002 / 103</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Greek dancers, in national costume, perform on stage at Nathan Phillips Square outside Toronto City Hall</title>
+    <note displayLabel="source of supplied title">Title based on content of image</note>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <note type="formsPartOfTIF">Greek Groups : Dancers at City Hall [not used]</note>
+  <note type="formsPartOfPDF">Toronto Telegram photographic negatives, S00054</note>
+  <targetAudience>HIST4840 - GCHP | GCHP</targetAudience>
+  <name>
+    <namePart>Brian Willer</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>14 July 1970</dateOther>
+    <dateIssued>1970-07</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35mm</extent>
+  </physicalDescription>
+  <note>One neg (#14A-15) scanned out of 41 images in assignment [only 10 images in envelope].</note>
+  <note type="ownership">ASC34471</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Dance</topic>
+    <topic>Toronto Telegram</topic>
+    <topic>Greek Canadian History Project</topic>
+    <topic>Greek diaspora</topic>
+    <topic>Demonstration</topic>
+    <topic>Nathan Phillips Square</topic>
+    <topic>Toronto City Hall</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>Nathan Phillips Square</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.6525, -79.383611</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Washington through Canadian eyes</title>
+    <partNumber>Vol. 1, no. 15</partNumber>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Knowlton Nash</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+    <namePart type="date">November 18, 1927 - May 24, 2014</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">newsletter</genre>
+  <originInfo>
+    <dateIssued>1958-09-30</dateIssued>
+    <issuance>newsletter</issuance>
+    <publisher>Nash Associates</publisher>
+    <place>
+      <placeTerm authority="marccountry">United States</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Washington D.C.</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Newsletter published by Canadian journalist Knowlton Nash while a foreign correspondent in Washington, D.C. between 1958 and 1959.</abstract>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>4 pp.</extent>
+  </physicalDescription>
+  <subject>
+    <topic>United States</topic>
+    <topic>Canada</topic>
+    <topic>Relations</topic>
+    <topic>Canada -- Relations -- United States</topic>
+    <topic>Foreign public opinion</topic>
+    <topic>Canada -- Relations -- United States</topic>
+    <topic>Politics and government</topic>
+    <geographic>Canada</geographic>
+    <geographic>United States</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <city>Washington D.C.</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution-NonCommercial-NoDerivs 2.5" Canada http://creativecommons.org/licenses/by-nc-nd/2.5/ca/</accessCondition>
+</mods>

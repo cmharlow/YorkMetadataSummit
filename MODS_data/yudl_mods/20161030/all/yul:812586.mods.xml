@@ -1,0 +1,49 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tendencies in modern American poetry</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Lowell, Amy</namePart>
+    <namePart type="date">1874-1925</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+    <publisher>Houghton Mifflin</publisher>
+    <dateIssued>1921</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>349 p. : front.,ports.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Amy Lowell. --</note>
+  <note>Originally published: New York, Macmillan, 1917.</note>
+  <note type="bibliography">Bibliography: p.[345]-349.</note>
+  <subject authority="lcsh">
+    <topic>American poetry</topic>
+    <temporal>20th century</temporal>
+    <topic>History and criticism</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Massachusetts</province>
+      <city>Boston</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Poets, American</topic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840314</recordCreationDate>
+    <recordIdentifier>adk5051</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,45 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>York University</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart/>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>2007-06-04T18:31:23Z</dateCreated>
+    <dateOther/>
+  </originInfo>
+  <abstract>Image of Lord James Rusholme, Vice-Chancellor of the University of York,  wiping mud from his shoes</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/1102</identifier>
+  <identifier type="local">ASC02052</identifier>
+  <location>
+    <physicalLocation>1980-025 / 001 (031c)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent/>
+  </physicalDescription>
+  <note/>
+  <relatedItem>
+    <titleInfo>
+      <title>York University photograph collection (F0091)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000091.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>York50Photos</topic>
+    <topic>Rusholme, Lord James</topic>
+    <topic>Construction</topic>
+    <topic/>
+    <topic/>
+    <topic/>
+  </subject>
+  <accessCondition type="useAndReproduction"/>
+</mods>

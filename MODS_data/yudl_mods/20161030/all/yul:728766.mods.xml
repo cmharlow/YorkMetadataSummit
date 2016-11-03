@@ -1,0 +1,65 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>A history of the New York Iroquois : now commonly called the Six Nations</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Beauchamp, William Martin</namePart>
+    <namePart type="date">1830-1925</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Albany</placeTerm>
+    </place>
+    <publisher>New York State Education Department</publisher>
+    <dateIssued>1905</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>p. 126-461, [17] leaves of plates : ill., maps ; 23 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by William M. Beauchamp.</note>
+  <note type="bibliography">Includes bibliographical references (p. 128-130) and index.</note>
+  <subject authority="lcsh">
+    <topic>Iroquois Indians</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>New York</province>
+      <city>Albany</city>
+    </hierarchicalGeographic>
+  </subject>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Bulletin (University of the State of New York) ; no.329</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>New York State Museum bulletin ; no. 78</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>New York State Museum bulletin. 9</title>
+      <partName>Archeology</partName>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">05010152</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">800409</recordCreationDate>
+    <recordIdentifier>afm0411</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

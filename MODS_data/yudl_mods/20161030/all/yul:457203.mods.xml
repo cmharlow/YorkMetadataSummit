@@ -1,0 +1,115 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Biblioth&#232;que internationale de l'Alliance scientifique universelle</title>
+    <partNumber>tome 1, fascicule 3</partNumber>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Le Moine, J. M. (James MacPherson)</namePart>
+    <namePart type="termsOfAddress">Sir</namePart>
+    <namePart type="date">1825-1912</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Routhier, A. B. (Adolphe Basile)</namePart>
+    <namePart type="termsOfAddress">Sir</namePart>
+    <namePart type="date">1839-1920</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Dionne, N.-E. (Narcisse-Eutrope)</namePart>
+    <namePart type="date">1848-1917</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Gagnon, Ernest</namePart>
+    <namePart type="date">1834-1915</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Alliance scientifique universelle</namePart>
+    <namePart>Comit&#233; de Qu&#233;bec.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Qu&#233;bec</placeTerm>
+    </place>
+    <publisher>L. Brousseau</publisher>
+    <dateIssued>1892</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>pp. [205]-257.</extent>
+  </physicalDescription>
+  <tableOfContents>Etude ethnographique des &#233;l&#233;ments qui constituent la population de la province de Qu&#233;bec / par J.-M. LeMoine--La langue fran&#231;aise en Canada / par E. Gagnon--Dans les prairies du Nord-Ouest / par A.-B. Routhier--Les langues sauvages et le Pater / par N.E. Dionne--Une question d'anthropologie / par N.E. Dionne.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">compos&#233; par le Comit&#233; de Qu&#233;bec.</note>
+  <note>Cover title.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject authority="lcsh">
+    <topic>French language</topic>
+    <geographic>Canada</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America</topic>
+    <topic>Languages</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Quebec (Province)</geographic>
+    <topic>Population</topic>
+  </subject>
+  <relatedItem>
+    <titleInfo>
+      <title>Etude ethnographique des &#233;l&#233;ments qui constituent la population de la province de Qu&#233;bec</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Le Moine, J. M. (James MacPherson),</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1825-1912</namePart>
+    </name>
+  </relatedItem>
+  <relatedItem>
+    <titleInfo>
+      <title>Dans les prairies du Nord-Ouest</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Routhier, A. B. (Adolphe Basile),</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1839-1920</namePart>
+    </name>
+  </relatedItem>
+  <relatedItem>
+    <titleInfo>
+      <title>Les langues sauvages et le Pater</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Dionne, N.-E. (Narcisse-Eutrope),</namePart>
+      <namePart type="date">1848-1917</namePart>
+    </name>
+  </relatedItem>
+  <relatedItem>
+    <titleInfo>
+      <title>La langue fran&#231;aise en Canada</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Gagnon, Ernest,</namePart>
+      <namePart type="date">1834-1915</namePart>
+    </name>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">810409</recordCreationDate>
+    <recordIdentifier>afq0875</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,65 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Gabriel Richard : Sulpicien, cur&#233; et second fondateur de la ville de D&#233;troit ; la m&#233;moire du P. Rasle veng&#233;e</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Le pere S&#233;bastien Rasle</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Dionne, N.-E., (Narcisse Eutrope)</namePart>
+    <namePart type="date">1848-1917</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Qu&#233;bec</placeTerm>
+    </place>
+    <publisher>Laflamme &amp; Proulx</publisher>
+    <dateIssued>1911</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xv, 191 p. --</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par N.-E. Dionne. --</note>
+  <note>La pere S&#233;bastien Rasle, Jesuite et missionnaire chez les Ab&#233;naquis, 1657-1724: p. [127]-177.</note>
+  <note type="bibliography">Includes index.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Richard, Gabriel</namePart>
+      <namePart type="date">1767-1832</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Rasles, S&#233;bastien</namePart>
+      <namePart type="date">1657-1724</namePart>
+    </name>
+  </subject>
+  <classification authority="lcc">F574.D4 R5</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Galerie historique ; 6</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">11011096</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">760308</recordCreationDate>
+    <recordIdentifier>abq1145</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

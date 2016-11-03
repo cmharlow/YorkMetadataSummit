@@ -1,0 +1,136 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>&#1576;&#1585;&#1711; &#1587;&#1576;&#1586; (Barg-e-Sabz No. 162)</title>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1581;&#1587;&#1606; &#1705;&#1587;&#1575;&#1740;&#1740; &#1585;&#1590;&#1575; &#1608;&#1585;&#1586;&#1606;&#1583;&#1607;</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>&#1593;&#1576;&#1583;&#1575;&#1604;&#1608;&#1607;&#1575;&#1576; &#1588;&#1607;&#1740;&#1583;&#1740;</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Abdolvahab Shahidi</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<typeOfResource>Sound Recording</typeOfResource>
+	
+    
+	<genre>&#1576;&#1740;&#1575;&#1578; &#1575;&#1589;&#1601;&#1607;&#1575;&#1606;</genre>
+	
+    
+	<genre>bayat-e-Esfahan</genre>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">per</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier>Barge-Sabz-162</identifier>
+	
+    
+	<physicalDescription>
+		
+      
+		<form authority="marcform">sound recording</form>
+		
+      
+		<extent>29:6</extent>
+		
+    
+	</physicalDescription>
+	
+    
+	<abstract>&#1587;&#1582;&#1606; &#1593;&#1588;&#1602; &#1578;&#1608; &#1576;&#1607; &#1570;&#1606;&#8204;&#1705;&#1607; &#1576;&#1585;&#1570;&#1740;&#1583; &#1576;&#1607; &#1586;&#1576;&#1575;&#1606;&#1605;</abstract>
+	
+    
+	<subject>
+		
+      
+		<topic>Iranian National Radio</topic>
+		
+      
+		<topic>radio programs</topic>
+		
+      
+		<topic>music</topic>
+		
+      
+		<topic>poetry</topic>
+		
+      
+		<geographic>Iran</geographic>
+		
+      
+		<hierarchicalGeographic>
+			
+        
+			<continent>Asia</continent>
+			
+        
+			<country>Iran</country>
+			
+      
+		</hierarchicalGeographic>
+		
+    
+	</subject>
+	
+  
+</mods>

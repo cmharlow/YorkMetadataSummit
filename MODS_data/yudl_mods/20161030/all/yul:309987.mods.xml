@@ -1,0 +1,65 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter to VW from Miss D. Beale 26 September 1896</title>
+  </titleInfo>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/29543057">
+    <namePart>Welby, Victoria, Lady, 1837-1912</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+    <namePart type="termsOfAddress">Lady</namePart>
+    <namePart type="date">1837-1912</namePart>
+  </name>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/29543057">
+    <namePart>Beale, Dorothea, 1831-1906</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+    <namePart type="date">1831-1906</namePart>
+    <namePart type="termsOfAddress">Lady</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Correspondence</genre>
+  <originInfo>
+    <dateCreated>1896-09-26</dateCreated>
+    <dateOther>26 September 1896</dateOther>
+    <dateIssued>1896-08-26</dateIssued>
+    <dateOther>26 September 1896</dateOther>
+  </originInfo>
+  <abstract>Consists of a handwritten letter from Miss Dorothea Beale to Victoria Welby, written on letterhead of Ladies' College of Cheltenham.</abstract>
+  <identifier type="local">ASC17788</identifier>
+  <location>
+    <physicalLocation>1970-010 / 001 (029)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>4 pages</extent>
+  </physicalDescription>
+  <note type="funding">Digitization made possible, in whole or in part, through a 2014 Librarians Research Grant.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Lady Victoria Welby fonds (F0443)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000443.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <county>Gloucestershire</county>
+      <city>Cheltenham</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>51.897928, -2.081386</coordinates>
+    </cartographics>
+    <topic>Philosophy</topic>
+    <topic>Language</topic>
+    <topic>Intellectual exchange</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+</mods>

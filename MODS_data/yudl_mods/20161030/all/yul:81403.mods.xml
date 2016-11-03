@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Photographs for Comunidade</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Marques, Domingos</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>2010-11-27T20:16:20Z</dateCreated>
+    <dateOther>[after 1974?]</dateOther>
+  </originInfo>
+  <abstract>Contact sheet consists of 36 negatives, including: #27-28, a meeting featuring signs for &#8216;Ianno&#8217; on the stage; #29-31, people at a meeting; six unnumbered, people at a dinner event (Domingos Marques and Bill Moniz?); #5-9, 42, 1-4A, 10-14A, community meeting at the Toronto Hilton Harbour Castle featuring men speaking at a podium with Bill Moniz (Martin Silva featured?); #3-4, man being interviewed; #5-8, an art show with pictures featuring an individual man; #34, a display for &#8217;25 Years in Canada, Our History&#8217; (Domingos Marques on left with cigarette and John Medeiros on right?); #35-36, community function at Toronto Hilton Harbour Castle, (#35, John Medeiros in center?).</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/6326</identifier>
+  <identifier type="local">ASC06665</identifier>
+  <location>
+    <physicalLocation>2010-019 / 002 (14)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>36 photographs : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>1 negative (#34) scanned out ouf 36 in assignment.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Domingos Marques fonds (F0573)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000573.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Portuguese community</topic>
+    <topic>Comunidade : O Jornal Comunit&#225;rio Portugu&#234;s</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

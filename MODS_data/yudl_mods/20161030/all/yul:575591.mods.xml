@@ -1,0 +1,27 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>More Jobs, Less Pollution: Why Energy Conservation is Common Sense for Ontario</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>BlueGreen Canada</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>working paper</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2013</dateCreated>
+    <publisher>Blue Green Canada</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>BlueGreen Canada calls on the Ontario government to cut energy use by 25 per cent by 2025 (&#8220;25 by 25.&#8221;) According to the economic analysis commissioned by BlueGreen and conducted by Stokes Economic Consulting, reducing consumption by 25% would result in 25,000 new jobs, $3.7 billion more in GDP, lower deficits for both the federal and provincial governments, and a 9% reduction in carbon emissions by 2025. BlueGreen Canada states that a more aggressive conservation approach is supported by environmental groups. &#13;
+&#13;
+The release of the BlueGreen report coincides with a formal review of the provincial government&#8217;s long term energy plan.</abstract>
+  <subject>
+    <topic>Ontario</topic>
+    <topic>Energy conservation</topic>
+  </subject>
+</mods>

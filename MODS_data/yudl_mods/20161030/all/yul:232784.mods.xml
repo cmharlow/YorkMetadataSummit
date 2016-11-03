@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC17416</identifier>
+  <location>
+    <physicalLocation>1987-001 / 017</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>U. of T. Scarborough College : Around Campus</title>
+  </titleInfo>
+  <abstract>Image of two young women (Janet Burns and Joan Hebert) standing in front of a Scarborough College building and smiling. Both are holding clipboards with a logo on them, and Joan is pointing to something in the distance.&#13;
+Writing on back: "Two girls outside the school - with the "cliffs" of Scarb. College in the background." "L to R - Janet Burns + Joan Hebert"</abstract>
+  <name>
+    <namePart>Harrison</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>18 January [1967]</dateOther>
+    <dateIssued>1967-02-06</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 19.9 x 24.9 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Scarborough College</topic>
+    <topic>University of Toronto</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Scarborough</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.784704,-79.186009</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

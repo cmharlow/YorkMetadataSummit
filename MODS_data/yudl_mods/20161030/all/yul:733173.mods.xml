@@ -1,0 +1,55 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Hogarth</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Blum, Andr&#233;</namePart>
+    <namePart type="date">1881-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>F. Alcan</publisher>
+    <dateIssued>1922</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>150 p., xvi leaves of plates : ill.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par Andr&#233; Blum. --</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Hogarth, William</namePart>
+      <namePart type="date">1697-1764</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">ND497.H7 B6</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Art et esth&#233;tique</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">23007679</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">841018</recordCreationDate>
+    <recordIdentifier>aaw5061</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

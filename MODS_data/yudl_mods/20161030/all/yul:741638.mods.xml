@@ -1,0 +1,52 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>In Northern Labrador</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Cabot, William Brooks</namePart>
+    <namePart type="date">1858-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>J. Murray</publisher>
+    <dateIssued>1912</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xii, 292 p., [48] leaves of plates : ill., maps, ports. ; 24 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by William B. Cabot ; with many  illustrations from photographs.</note>
+  <note>Maps on lining-papers.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn-nf</geographicCode>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Labrador (Nfld.)</geographic>
+    <topic>Description and travel</topic>
+  </subject>
+  <classification authority="lcc">F1122 .C12</classification>
+  <classification authority="lcc">FC2193.4 .C32</classification>
+  <identifier type="lccn">13001418</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">830303</recordCreationDate>
+    <recordIdentifier>afm5901</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

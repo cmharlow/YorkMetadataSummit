@@ -1,0 +1,32 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Paying the Price: The Economic Impacts of Climate Change for Canada</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>National Roundtable on the Environment and the Economy</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2011</dateCreated>
+    <publisher>NRTEE</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>The 4th report in the Climate Prosperity series.  The report quantifies the economic costs of inaction if Canada fails to reduce its greenhouse gas emissions,  specifically on timber supply, coastal areas, human health, and ecosystem. It makes recommendations for future research on economic costs. &#13;
+Concluding statement: " Examining long-term economic costs of climate change to Canada raises the spectre of two futures: one where the world acts &#8212; and keeps global warming to 2&#176;C by 2050 as world leaders have pledged &#8212; and one where it doesn&#8217;t and climate change impacts grow and accelerate beyond targets. At slightly under 2&#176;C of global warming, the economic costs of climate change to Canada in 2050 would be between $21 billion and $43 billion with no adaptive action taken; costs could be at the lower end of range if economic growth slowed as part of domestic mitigation or for other reasons. If the world acts to limit warming to 2&#176;C, future costs could stabilize around this 2050 level since emissions growth would have been dampened and plateaued to reach this new global reality."</abstract>
+  <relatedItem type="host">
+    <part>
+      <extent>162 p.</extent>
+    </part>
+  </relatedItem>
+  <subject>
+    <topic>economic costs of climate change</topic>
+  </subject>
+  <accessCondition>&#169; This Work is protected by copyright and made available for personal or public non-commercial use and may be reproduced, in part or in whole, and by any means, and may be further distributed for non-commercial use, without charge or further permission. All users are required to indicate that the reproduction, whether in part or in whole, is a copy of a Work of the National Round Table on the Environment and the Economy (NRTEE). Reproduction, in whole or in part, of this Work for the purpose of commercial redistribution is strictly prohibited. Furthermore, no right to modify or alter in any manner the Work is hereby granted.</accessCondition>
+  <accessCondition type="useAndReproduction">NRTEE</accessCondition>
+</mods>

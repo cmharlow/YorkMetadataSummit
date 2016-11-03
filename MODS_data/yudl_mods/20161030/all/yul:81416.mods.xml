@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Photographs for Comunidade</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Marques, Domingos</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>1974</dateCreated>
+    <dateOther>[after 1974?]</dateOther>
+  </originInfo>
+  <abstract>Contact sheet consists of 31 negatives, including: #3-7, 40-41, 1-2A, a Portuguese community event at Nathan Philips Square, Toronto including the &#8216;Camoes Portuguese Club of Harrow&#8217;; #0-5A, a meeting; #34-39, an event at Nathan Philip&#8217;s Square Toronto; #39A, a memorial event in front of the cenotaph outside the Toronto Court House; #14A-18, a man playing a Portuguese guitar; #19, a man speaking at a podium; #13A-16, night scenes of Toronto building.</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/6325</identifier>
+  <identifier type="local">ASC06663</identifier>
+  <location>
+    <physicalLocation>2010-019 / 002 (14)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>31 photographs : b&amp;w negative ; 35mm.</extent>
+  </physicalDescription>
+  <note>5 negatives (#3A, 5A, 18, 38A, 39A) scanned out of 31 in assignment.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Domingos Marques fonds (F0573)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000573.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Comunidade : O Jornal Comunit&#225;rio Portugu&#234;s</topic>
+    <topic>Portuguese community</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

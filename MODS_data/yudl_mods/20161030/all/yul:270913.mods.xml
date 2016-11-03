@@ -1,0 +1,93 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC29609</identifier>
+  <location>
+    <physicalLocation>1974-002/020</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Image of The Beatles members at airport, Ringo, unidentified woman, John and Paul (with camera), plane in background.</title>
+    <note displayLabel="source of supplied title">Title based on content of image</note>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Image of The Beatles members at airport, Ringo, unidentified woman, John and Paul (with camera), plane in background.</title>
+    <note displayLabel="source of supplied title">Title based on content of image</note>
+  </titleInfo>
+  <targetAudience>W. Reeves for City of Toronto | M. Ellis for C. Gunderson</targetAudience>
+  <targetAudience>W. Reeves for City of Toronto | M. Ellis for C. Gunderson</targetAudience>
+  <name type="personal">
+    <namePart>Ken Robertson</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>6 &amp; 8 September 1964</dateOther>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <dateCreated>1964-09</dateCreated>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <dateIssued>1964-09</dateIssued>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm</extent>
+  </physicalDescription>
+  <note>One negative (#13A-14)  scanned out of 47 in assignment [only 39 images in envelope].</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds (F0433)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>McCartney, Paul</topic>
+    <topic>Starr, Ringo</topic>
+    <topic>The Beatles</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Mississauga</city>
+      <citySection>Malton</citySection>
+    </hierarchicalGeographic>
+    <topic>Toronto Telegram</topic>
+    <topic>Lennon, John, 1940-1980</topic>
+    <topic>Toronto International Airport</topic>
+    <cartographics>
+      <coordinates>43.676667, -79.630556</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+  <note type="formsPartOfTIF">Beatles : Arrival and departure [not used]</note>
+  <name>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <note type="ownership">ASC34750</note>
+</mods>

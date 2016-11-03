@@ -1,0 +1,52 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>&#1583;&#1585;&#1588;&#1575;&#1605; &#1578;&#1610;&#1585;&#1607; &#1575;&#1740; &#1605;&#1607; &#1578;&#1575;&#1576;&#1575;&#1606; &#1582;&#1608;&#1588; &#1570;&#1605;&#1583;&#1740;</title>
+    <subTitle>&#1610;&#1705; &#1588;&#1575;&#1582;&#1607; &#1711;&#1604; </subTitle>
+    <subTitle>Yek Shakhe Gol</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#1580;&#1604;&#1740;&#1604; &#1588;&#1607;&#1606;&#1575;&#1586;&#1662;&#1585;&#1608;&#1740;&#1586; &#1610;&#1575;&#1581;&#1602;&#1740;&#1605;&#1580;&#1740;&#1583; &#1606;&#1580;&#1575;&#1581;&#1740;&#1580;&#1607;&#1575;&#1606;&#1711;&#1740;&#1585; &#1605;&#1604;&#1705; </namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Jalil Shahnaz,Parviz Yahgie,Majid Najahe,Jahangir Molk</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Performers</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>&#1575;&#1610;&#1585;&#1580; </namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Iraj</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Singer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>Sound Recording</typeOfResource>
+  <genre>Abu Ata</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">per</languageTerm>
+  </language>
+  <identifier>Shakheh-Gol-462</identifier>
+  <physicalDescription>
+    <form authority="marcform">sound recording</form>
+    <extent>28:20</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Iranian National Radio</topic>
+    <topic>radio programs</topic>
+    <topic>music</topic>
+    <topic>poetry</topic>
+    <geographic>Iran</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Iran</country>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

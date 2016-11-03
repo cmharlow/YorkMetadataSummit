@@ -1,0 +1,48 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Conf&#233;rences sur la th&#233;orie darwinienne de la transmutation des esp&#232;ces et de l'apparition du monde organique</title>
+    <subTitle>application de cette th&#233;orie &#224; l'homme</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>B&#252;chner, Ludwig</namePart>
+    <namePart type="date">1824-1899</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Germany</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Leipzig</placeTerm>
+    </place>
+    <publisher>T. Thomas</publisher>
+    <dateIssued>1869</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xvi, 281 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Louis B&#252;chner ; traduit de l'allemand d'apr&#232;s la 2e. &#233;d. par Auguste Jacquot. -</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Materialism</topic>
+    <topic>Evolution</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Germany</country>
+      <city>Leipzig</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">QH369 .B9214</classification>
+  <recordInfo>
+    <recordCreationDate encoding="marc">741212</recordCreationDate>
+    <recordIdentifier>abl6545</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,150 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>ONTARIO SESSIONAL PAPERS</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>ONTARIO.  LEGISLATIVE ASSEMBLY</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>AN</extent>
+  </physicalDescription>
+  <note type="additional physical form">Digitized and made available by: University of Toronto Libraries</note>
+  <location>
+    <url displayLabel="vol.&quot;30, no.4&quot; Internet_Archive" usage="primary display">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=884712&amp;T=F&amp;Vol="30, no.4"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;24, no.5&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=884710&amp;T=F&amp;Vol="24, no.5"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;30, no.3&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=884708&amp;T=F&amp;Vol="30, no.3"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;22, no.3&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=884707&amp;T=F&amp;Vol="22, no.3"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;10, no.1&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=884706&amp;T=F&amp;Vol="10, no.1"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;14, no.6&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=884705&amp;T=F&amp;Vol="14, no.6"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;24, no.8&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=884704&amp;T=F&amp;Vol="24, no.8"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;23, no.8&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=884703&amp;T=F&amp;Vol="23, no.8"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;16, no.3&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=884702&amp;T=F&amp;Vol="16, no.3"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;15, no.1&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=884701&amp;T=F&amp;Vol="15, no.1"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;32, no.4&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=884700&amp;T=F&amp;Vol="32, no.4"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.51 n.02 Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882972&amp;T=F&amp;Vol=51 n.02</url>
+  </location>
+  <location>
+    <url displayLabel="vol.49 n.08 Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882964&amp;T=F&amp;Vol=49 n.08</url>
+  </location>
+  <location>
+    <url displayLabel="vol.46 n.06 Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882963&amp;T=F&amp;Vol=46 n.06</url>
+  </location>
+  <location>
+    <url displayLabel="vol.45 n.05 Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882962&amp;T=F&amp;Vol=45 n.05</url>
+  </location>
+  <location>
+    <url displayLabel="vol.44 n.12 Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882960&amp;T=F&amp;Vol=44 n.12</url>
+  </location>
+  <location>
+    <url displayLabel="vol.44 n.11 Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882959&amp;T=F&amp;Vol=44 n.11</url>
+  </location>
+  <location>
+    <url displayLabel="vol.44 n.08 Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882958&amp;T=F&amp;Vol=44 n.08</url>
+  </location>
+  <location>
+    <url displayLabel="vol.44 n.06 Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882957&amp;T=F&amp;Vol=44 n.06</url>
+  </location>
+  <location>
+    <url displayLabel="vol.44 n.05 Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882956&amp;T=F&amp;Vol=44 n.05</url>
+  </location>
+  <location>
+    <url displayLabel="vol.43 n.01 Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882953&amp;T=F&amp;Vol=43 n.01</url>
+  </location>
+  <location>
+    <url displayLabel="vol.42 n.04 Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882952&amp;T=F&amp;Vol=42 n.04</url>
+  </location>
+  <location>
+    <url displayLabel="vol.42 n.03 Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882951&amp;T=F&amp;Vol=42 n.03</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;41, no.10&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882950&amp;T=F&amp;Vol="41, no.10"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;40, no.2&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882949&amp;T=F&amp;Vol="40, no.2"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;38, no.8&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882942&amp;T=F&amp;Vol="38, no.8"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;38, no.4&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882941&amp;T=F&amp;Vol="38, no.4"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;37, no.9&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882939&amp;T=F&amp;Vol="37, no.9"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;37, no.7&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882938&amp;T=F&amp;Vol="37, no.7"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;36, no.8&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882937&amp;T=F&amp;Vol="36, no.8"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;35, no.6&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882934&amp;T=F&amp;Vol="35, no.6"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;35, no.4&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882933&amp;T=F&amp;Vol="35, no.4"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;35, no.2&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882932&amp;T=F&amp;Vol="35, no.2"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;34, no.7&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882931&amp;T=F&amp;Vol="34, no.7"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;34, no.1&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882930&amp;T=F&amp;Vol="34, no.1"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.&quot;33, no.1&quot; Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882929&amp;T=F&amp;Vol="33, no.1"</url>
+  </location>
+  <location>
+    <url displayLabel="vol.48 Internet_Archive">http://link.library.utoronto.ca/eir/EIRdetail.cfm?Resources__ID=882603&amp;T=F&amp;Vol=48</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">OTU</recordContentSource>
+    <recordCreationDate encoding="marc">781215</recordCreationDate>
+    <recordIdentifier>1286106</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

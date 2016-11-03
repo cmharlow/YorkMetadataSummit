@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter to VW from Adeline Bedford 6 February [1889?]</title>
+  </titleInfo>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/29543057">
+    <namePart>Welby, Victoria</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+    <namePart type="termsOfAddress">Lady</namePart>
+  </name>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/36868311">
+    <namePart>Bedford, Adeline Marie, 1852-1920</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+    <namePart type="date">1852-1920</namePart>
+    <namePart type="termsOfAddress">Lady</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Correspondence</genre>
+  <originInfo>
+    <dateIssued>1889-02-06</dateIssued>
+    <dateOther>6 February [1889?]</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a manuscript letter to Victoria Welby from Adeline, Duchess of Bedford, written on Woburn Abbey letterhead.</abstract>
+  <identifier type="local">ASC17797</identifier>
+  <location>
+    <physicalLocation>1970-010 / 001 (031)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>4 pages</extent>
+  </physicalDescription>
+  <note type="funding">Digitization made possible, in whole or in part, through a 2014 Librarians Research Grant.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Lady Victoria Welby fonds (F0443)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000443.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Christianity</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <county>Bedfordshire</county>
+      <city>Woburn</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>51.9831, -0.5968</coordinates>
+    </cartographics>
+    <topic>Theology</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Digitized for access and research purposes only. For further copyright information contact: ascproj@yorku.ca.</accessCondition>
+</mods>

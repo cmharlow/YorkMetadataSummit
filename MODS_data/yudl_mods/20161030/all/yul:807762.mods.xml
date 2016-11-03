@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>Calendar notebook - 1936 - 1937</title>
+		
+    
+	</titleInfo>
+	
+    
+	<identifier type="local">ASC35227</identifier>
+	
+    
+	<location>
+		
+      
+		<physicalLocation>2016-006 / 001 (02)</physicalLocation>
+		
+    
+	</location>
+	
+    
+	<relatedItem>
+		
+      
+		<titleInfo>
+			
+        
+			<title>Herbert Hunt fonds (F0683)</title>
+			
+      
+		</titleInfo>
+		
+      
+		<location>
+			
+        
+			<url note="Finding Aid">http://archives.library.yorku.ca/atom/index.php/herbert-hunt-fonds</url>
+			
+      
+		</location>
+		
+    
+	</relatedItem>
+	
+    
+	<accessCondition type="useAndReproduction">Digitized for access and research purposes only. For further copyright information contact: ascproj@yorku.ca.</accessCondition>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		
+    
+	</language>
+	
+  
+</mods>

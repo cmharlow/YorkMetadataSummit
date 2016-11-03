@@ -1,0 +1,37 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Mariposa folk festival footage</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Mariposa Folk Foundation</namePart>
+    <role>Owner</role>
+  </name>
+  <typeOfResource>moving image</typeOfResource>
+  <genre>Music</genre>
+  <originInfo>
+    <dateIssued>[196-?]</dateIssued>
+  </originInfo>
+  <abstract>Consists of a digitized copy of a silent 16mm film. Film can annotated "Bob Doan Mariposa Folk Festival."</abstract>
+  <identifier>ASC19389</identifier>
+  <physicalDescription>
+    <form authority="marccategory">motion_picture</form>
+    <extent>00:10:00</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Mariposa Folk Foundation fonds (F0511)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000511.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Music</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+    </hierarchicalGeographic>
+  </subject>
+  <note>Digitized for preservation and access purposes.  Not to be copied, reproduced or distributed without expressed permission of copyright holders.</note>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. Online streaming copy made available for research and non-commercial purposes only by creator. For further details contact ascproj@yorku.ca</accessCondition>
+  <identifier type="other">2010-066 / 003 (01)</identifier>
+</mods>

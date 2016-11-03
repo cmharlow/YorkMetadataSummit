@@ -1,0 +1,55 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The ups and downs of political life, or, the adventures of Mr. G. Raball</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Adventures of Mr. G. Raball</title>
+  </titleInfo>
+  <titleInfo type="uniform">
+    <title>Dominion illustrated monthly</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Gilmour, J.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montr&#233;al</placeTerm>
+    </place>
+    <dateIssued>1892</dateIssued>
+    <dateIssued encoding="marc">1892</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>30 p. : all col. ill.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by J. Gilmour.</note>
+  <note>Cover title.</note>
+  <note>"Supplement to the Dominion Illustrated Christmas Number, 1892" -cover.</note>
+  <subject authority="lcsh">
+    <geographic>Canada</geographic>
+    <topic>Politics and government</topic>
+    <topic>Caricatures and cartoons</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+    </hierarchicalGeographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">830317</recordCreationDate>
+    <recordIdentifier>afq4731</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

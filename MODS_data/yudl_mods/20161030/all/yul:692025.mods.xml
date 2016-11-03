@@ -1,0 +1,54 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Histoire critique des doctrines de l'&#233;ducation en France depuis le seizi&#232;me si&#232;cle (Volume 1)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Compayr&#233;, Gabriel</namePart>
+    <namePart type="date">1843-1913</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Hachette</publisher>
+    <dateIssued>1911</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par Gabriel Compayr&#233;. --</note>
+  <note>"Ouvrage qui a obtenu le prix Bordin &#224; l'Acad&#233;mie des sciences morales et politiques et un prix Monthyon &#224; l'Acad&#233;mie fran&#231;aise."</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <note type="bibliography">v. 2 includes index.</note>
+  <subject>
+    <geographicCode authority="marcgac">e-fr---</geographicCode>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Education</topic>
+    <geographic>France</geographic>
+    <topic>History</topic>
+  </subject>
+  <classification authority="lcc">LA691 .C74 1911</classification>
+  <recordInfo>
+    <recordCreationDate encoding="marc">760803</recordCreationDate>
+    <recordIdentifier>a380144</recordIdentifier>
+    <recordIdentifier>abr2078</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

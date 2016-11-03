@@ -1,0 +1,60 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Transcription of letter to VW from James Sully 10 July 1908</title>
+  </titleInfo>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/29543057">
+    <namePart>Welby, Victoria</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+    <namePart type="termsOfAddress">Lady</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Correspondence</genre>
+  <location>
+    <physicalLocation>1970-010 / 016 (03)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>1 page</extent>
+  </physicalDescription>
+  <note type="funding">Digitization made possible, in whole or in part, through a 2014 Librarians Research Grant.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Lady Victoria Welby fonds (F0443)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000443.htm</url>
+    </location>
+  </relatedItem>
+  <accessCondition type="useAndReproduction">Digitized for access and research purposes only. For further copyright information contact: ascproj@yorku.ca.</accessCondition>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/71477633">
+    <namePart>Sully, James, 1842-1923</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+    <namePart type="date">1842-1923</namePart>
+  </name>
+  <originInfo>
+    <dateIssued>1908-07-10</dateIssued>
+    <dateOther>10 July 1908</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a typescript transcription of a letter written to Victoria Welby from James Sully.</abstract>
+  <identifier type="local">ASC26586</identifier>
+  <subject>
+    <topic>Logic</topic>
+    <topic>Intellectual exchange</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <city>London</city>
+      <citySection>41 Ennerdale Road, Richmond, Surrey</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>51.473866, -0.290336</coordinates>
+    </cartographics>
+  </subject>
+</mods>

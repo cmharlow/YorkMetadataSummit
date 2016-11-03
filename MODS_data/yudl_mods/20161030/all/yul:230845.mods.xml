@@ -1,0 +1,66 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC18358</identifier>
+  <location>
+    <physicalLocation>1974-002 / 119</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>London, Ontario. : U. of Western Ont. Course for Wives of School of Business Administration Students</title>
+    <subTitle>London, Ontario. : U[niversity]. of Western Ont[ario]. Course for Wives of School of Business Administration Students</subTitle>
+  </titleInfo>
+  <note type="titleSrc">[not used]</note>
+  <abstract>Image of front and back of negative envelope and contact sheet. Assignment: London, Ontario. : U[niversity]. of Western Ont[ario]. Course for Wives of School of Business Administration Students.</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>John Sharp</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateCreated>2014-07-28</dateCreated>
+    <dateOther>28 March 1969</dateOther>
+    <dateIssued>1969-04-25</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>28 photographs : b&amp;w negative ; 35 mm + 1 envelope : 13.7 x 10.5 cm</extent>
+  </physicalDescription>
+  <note>ASC18358</note>
+  <note type="ownership">ASC18358</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>University</topic>
+    <topic>Business wear</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>London</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.009731,-81.273855</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by York University. For permission to publish or other copyright questions, contact ascproj@yorku.ca</accessCondition>
+</mods>

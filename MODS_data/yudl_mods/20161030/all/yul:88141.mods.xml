@@ -1,0 +1,77 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC01600</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10315/739</identifier>
+  <location>
+    <physicalLocation>1974-001 / 388 (2546)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>York University</title>
+  </titleInfo>
+  <abstract>Image of "a male student, cow-lick and all, gets[s] the vital statistics from a freshie in the U of T book shop... not a posed shot and they wouldn't give me their names..." (taken from back of photo).</abstract>
+  <targetAudience>B. Jacobs</targetAudience>
+  <name>
+    <namePart>Pete Ward</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>2006-08-28</dateCreated>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <dateOther>19 September [1961]</dateOther>
+    <dateIssued>1961-10-02</dateIssued>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 25.6 x 20.8 cm</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <mods:url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</mods:url>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>York University</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+      <citySection>University of Toronto Bookstore</citySection>
+    </hierarchicalGeographic>
+    <topic>York50Photos</topic>
+    <topic>University of Toronto</topic>
+    <topic>Bookstore</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</accessCondition>
+  <name>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <note>One print scanned from file.</note>
+  <note type="ownership">ASC04403 and ASC34071</note>
+  <name>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+  </name>
+</mods>

@@ -1,0 +1,33 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>#panamapapers crawl; May 1-7, 2016</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Nick Ruest</namePart>
+  </name>
+  <typeOfResource>mixed material</typeOfResource>
+  <genre authority="lctgm">Website</genre>
+  <originInfo>
+    <dateCaptured>2016-05-01</dateCaptured>
+    <dateCaptured>2016-05-07</dateCaptured>
+  </originInfo>
+  <abstract>Consists of a web crawl of unique URLs tweeted with the #panamapapers hashtag. #panamapapers collection took place from April 4-29, 2016. Unique URLs were extracted from the dataset, and harvested with Heritrix on May 1-7, 2016.</abstract>
+  <identifier type="local">WEB-20160505182658813-00010-9949~rho.library.yorku.ca~9191-PANAMAPAPERS</identifier>
+  <physicalDescription>
+    <form authority="marcform">electronic resource</form>
+    <extent>9.9GB</extent>
+  </physicalDescription>
+  <note>Tweet ids: http://hdl.handle.net/10864/11592</note>
+  <subject>
+    <topic>#panamapapers</topic>
+    <topic>politics</topic>
+    <topic>Panama Papers</topic>
+    <topic>Mossack Fonseca</topic>
+    <topic>International Consortium of Investigative Journalists</topic>
+    <topic>tax havens</topic>
+    <topic>web archiving</topic>
+    <topic>twitter</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Use of this resource is governed by the terms and conditions of the Creative Commons "Attribution" License (http://creativecommons.org/licenses/by/2.0/)</accessCondition>
+  <note type="funding">This research was supported by a research grant -- 435-2015-0011 -- issued by Social Sciences and Humanities Research Council.</note>
+</mods>

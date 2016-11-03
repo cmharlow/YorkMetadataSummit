@@ -1,0 +1,31 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Photograph of soldiers at camp in relaxed pose</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photographic postcard</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="other">ASC19516</identifier>
+  <location>
+    <physicalLocation>1994-031 / 001 (10)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : sepia photographic print ; 12.6 x 8 cm</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Beer family fonds (F0375)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000375.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+  </subject>
+  <abstract>Consists of photographic postcard of many [soldiers] arranged in front of an [army] camp. The men are in relaxed poses, many are smiling, and some have placed camp mugs on top of their heads. &#13;
+On the back of the image is written, "Just after [VD]."</abstract>
+</mods>

@@ -1,0 +1,53 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Essai sur la n&#233;cessit&#233; de conf&#233;rer les emplois selon les talens</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Locella, Alois Emmerich</namePart>
+    <namePart type="termsOfAddress">Freiherr von</namePart>
+    <namePart type="date">1733-1800</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Europe</placeTerm>
+    </place>
+    <publisher>Chez les Libraires</publisher>
+    <dateIssued>1760</dateIssued>
+    <dateIssued encoding="marc">1763</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">microfilm</form>
+    <form authority="marccategory">microform</form>
+    <form authority="marcsmd">microfilm reel</form>
+    <extent>[10], 66 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par M. le baron de Loc**.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject authority="lcsh">
+    <topic>Personnel management</topic>
+    <topic>Recruiting</topic>
+    <topic>Civil service</topic>
+    <topic>Public administration</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">HB161 .G64 no. 9566.3</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">TXA</recordContentSource>
+    <recordCreationDate encoding="marc">910426</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20040129130719.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm23610091</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

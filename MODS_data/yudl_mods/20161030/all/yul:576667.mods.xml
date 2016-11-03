@@ -1,0 +1,26 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Opportunities to Improve Alberta's climate strategy</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Pembina Institute</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Backgrounder</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2015</dateCreated>
+    <publisher>Pembina Institute</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>A brief (5 page) Backgrounder which examines the highest-value opportunities for Alberta to take evidence-based and effective climate action.</abstract>
+  <subject>
+    <topic>Alberta</topic>
+  </subject>
+  <accessCondition>Copyright remains with the creator.  Permission to reproduce this document granted by Pembina Institute.</accessCondition>
+  <accessCondition type="useAndReproduction">Pembina Institute</accessCondition>
+</mods>

@@ -1,0 +1,41 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Dhamma Dhetanana Taya Thandinsa</title>
+    <partNumber>Vol. 1, no. 4</partNumber>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre>journal</genre>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+  </physicalDescription>
+  <originInfo>
+    <dateCreated>1907</dateCreated>
+    <dateOther>1907</dateOther>
+    <publisher>&#4126;&#4143;&#4115;&#4121;&#4153;&#4121;&#4125;&#4112;&#4142; &#4101;&#4140;&#4117;&#4143;&#4150;&#4116;&#4158;&#4141;&#4117;&#4154;&#4112;&#4141;&#4143;&#4096;&#4154;</publisher>
+    <place>
+      <placeTerm authority="marccountry" type="code">Myanmar</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Yangon</placeTerm>
+    </place>
+  </originInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <city>Yangon</city>
+    </hierarchicalGeographic>
+    <topic>Buddhism</topic>
+    <topic>Preaching</topic>
+    <topic>Buddhist Associations</topic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">bur</languageTerm>
+  </language>
+  <name type="corporate">
+    <namePart>&#4123;&#4116;&#4154;&#4096;&#4143;&#4116;&#4154;&#4152;&#4121;&#4156;&#4141;&#4143;&#4151; &#4115;&#4121;&#4153;&#4121;&#4126;&#4125;&#4116; &#4119;&#4143;&#4114;&#4153;&#4115;&#4126;&#4140;&#4126;&#4116;&#4140;&#4117;&#4156;&#4143; &#4129;&#4126;&#4100;&#4154;&#4152;</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Sponsoring Association</roleTerm>
+    </role>
+  </name>
+</mods>

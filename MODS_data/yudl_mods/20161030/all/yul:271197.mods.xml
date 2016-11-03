@@ -1,0 +1,69 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Photograph of souvenir postcard</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photographic postcard</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="other">ASC19510</identifier>
+  <location>
+    <physicalLocation>1994-031 / 001 (09)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : sepia print ; 8.9 x 13.8 cm</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Beer family fonds (F0375)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000375.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <region>South East</region>
+      <county>Surrey</county>
+      <city>[Witley]</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>51.15, -0.646</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+  <name type="personal">
+    <namePart>Arnett, [G.C.]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Beer, Mr. &amp; Mrs.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated>1917-08-04</dateCreated>
+    <publisher>A.P. Taylor, Photographic Studios, The Crescent</publisher>
+    <place>
+      <placeTerm authority="marccountry">England</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Milford, Surrey</placeTerm>
+    </place>
+    <dateOther>8 August 1917</dateOther>
+  </originInfo>
+  <abstract>Consists of photographic postcard showing a portrait of a soldier within a frame. The card is titled, "Souvenir of the Great War" and shows the flags of the Allies behind the frame. The frame shows a decorated "119" at the top, and has maple leafs encircling it. Below the frame are drawn a moose, a beaver, woodland, and a crown with "Canada" written on it. On the back of the postcard is written: &#13;
+"To Mr. &amp; Mrs. Beer with best [...]  &#13;
+From [G.C.] Arnett. 334 182 &#13;
+119 Canadians &#13;
+Whitley Surrey &#13;
+Aug 4/17"</abstract>
+</mods>

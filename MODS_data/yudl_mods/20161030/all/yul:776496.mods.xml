@@ -1,0 +1,33 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Community Energy Planning: the Value Proposition. Environmental, Health and Economic Benefits</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Cairns, Stephanie</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Baylin-Stern, Adam</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>February 2016</dateCreated>
+    <publisher>QUEST</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>The paper reports on Community Energy Planning activities and programs in Canada, with comprehensive economic analyses and case studies of six.  The report states that more than 180 communities across Canada, representing over 50% of the population, live in communities with some community energy plan. The cities of Barrie and Hamilton, Ontario are given as examples:  the study evaluated the long-term effects (over a period from 2008-2031) of maximizing cost-effective building energy efficiency retrofits and technologies and found that for every $1 million invested in building energy efficiency retrofits, over 9 person-years of permanent employment would be created within the province of Ontario.  The Project Partners for this report were Community Energy Association, QUEST, and Sustainable Prosperity.</abstract>
+  <subject>
+    <topic>distributed energy</topic>
+    <topic>community economic development</topic>
+  </subject>
+  <accessCondition>These materials may be reproduced in whole or in part without  charge or written permission, provided that appropriate source  acknowledgements are made and that no changes are made to  the contents. All other rights are reserved.</accessCondition>
+  <accessCondition type="useAndReproduction">&#169; QUEST &#8211; Quality Urban Energy Systems of  Tomorrow</accessCondition>
+</mods>

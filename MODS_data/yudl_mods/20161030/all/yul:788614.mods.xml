@@ -1,0 +1,28 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>We  make it Move: a Vision for Sustainable Transportation</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Canadian Autoworkers Union (CAW)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>working paper</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2011</dateCreated>
+    <publisher>CAW</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>At  the first ever CAW  Transportation Conference, held from September 23 &#8211; 25, 2011 the Canadian Auto Workers discussed  a draft version of a new policy for transportation in Canada. The starting point of the  policy is that &#8220;transportation must change&#8221;, because of three forces: climate  change, peak oil, and globalization. The union states its goal: &#8220;to create a made-in Canada  transportation system that is the most efficient, accessible, green and safe in  the world&#8221;, based on four overarching principles: the transportation system  must be environmentally sustainable, recognized as a public good,  made-in-Canada, and a place for good jobs.   For each of the transportation sectors (road, rail, air, marine) the paper  outlines issues and proposes very specific solutions and policy goals. The  document and an accompanying action plan will be discussed and voted on by the  National Executive Board, and CAW and Quebec Councils.</abstract>
+  <subject>
+    <topic>transportation industry</topic>
+    <topic>labour union policies</topic>
+    <topic>auto manufacturing industry</topic>
+  </subject>
+  <accessCondition>Reproduced with permission of Unifor, July 2016.</accessCondition>
+  <accessCondition type="useAndReproduction">copyright remains with the creator</accessCondition>
+</mods>

@@ -1,0 +1,35 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Mapping the Sustainability Supply Chain for Sustainable Building Practices in Canada</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Canadian Urban Institute</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>working paper</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2005-03</dateCreated>
+    <publisher>National Round Table on the Environment and the Economy</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RPT_CUI_Mapping-the-Sustainablility-Supply-Chain-for-Sustainable-Building-Practices-in-Canada.pdf</identifier>
+  <abstract>Report submitted to the NRTEE by the Canadian Urban Institute on the sustainability of building practices. The report sets out to define sustainable buildings practice and identifies the benefits of focusing on this area of endeavor. The report briefly describes the concept of a supply chain and why this concept is a useful way to view the activities related to implementing a sustainable buildings program. Sustainable buildings (also referred to as green, resource-efficiency and high-performance buildings) rely on an integrated approach to design, procurement, construction and building operations. The application of sustainable building practices can reduce or minimize the on-going impact of an individual building both on the environment and in terms of operating costs. Such practices can also have benefits for the community as a whole through promoting of conservation, minimizing waste and reducing air pollution. The concept is relatively new and as such is not yet widely known.</abstract>
+  <relatedItem type="host">
+    <part>
+      <extent>52 p.</extent>
+    </part>
+  </relatedItem>
+  <location>
+    <url>http://warming.apps01.yorku.ca/library/wp-content/uploads/2013/03/NRTEE-2001-Extended-Eco-efficiency-Indicator-Testing-Summary.pdf</url>
+  </location>
+  <subject>
+    <topic>Green construction</topic>
+    <topic>Green buildings</topic>
+  </subject>
+  <accessCondition>&#169; This Work is protected by copyright and made available for personal or public non-commercial use and may be reproduced, in part or in whole, and by any means, and may be further distributed for non-commercial use, without charge or further permission. All users are required to indicate that the reproduction, in part or in whole, is a copy of a Work of the National Round Table on the Environment and the Economy (NRTEE). Reproduction, in whole or in part, of this Work for the purpose of commercial redistribution is strictly prohibited. Furthermore, no right to modify or alter in any manner the Work is hereby granted.</accessCondition>
+</mods>

@@ -1,0 +1,42 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Group portrait of American Y.M.C.A. Plymouth Feb. 23rd 1919</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>American Y.M.C.A., Plymouth, Eng.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Subject</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <dateCreated>1919-02-23</dateCreated>
+  </originInfo>
+  <abstract>Item is photographic portrait of members of the American Y.M.C.A. based in Plymouth England on postcard.&#13;
+From file labelled: Loose photos: Nurses WWI.</abstract>
+  <identifier type="local">ASC17709</identifier>
+  <location>
+    <physicalLocation>1999-013 / 001 (20)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photographic print : sepia ; 10 x 15 cm.</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Ernest H. Bartlett fonds (F0122)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000122.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <county>Devon</county>
+      <city>Plymouth</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

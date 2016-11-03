@@ -1,0 +1,49 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Archaelogiae philosophicae : sive, doctrina antiqua de rerum originibus, libri duo</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Burnet, Thomas</namePart>
+    <namePart type="date">1635?-1715</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Typis R.N. impensis Gualt. Kettilby</publisher>
+    <dateIssued>1692</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>[16], 358, [8] p. ; 21 cm.</extent>
+  </physicalDescription>
+  <note>Liber secundus has special t.p.</note>
+  <note>ASC copy: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Creation</topic>
+    <genre>Early works to 1800</genre>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">BX</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">STF</recordContentSource>
+    <recordCreationDate encoding="marc">920127</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20021216114333.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm38664321</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

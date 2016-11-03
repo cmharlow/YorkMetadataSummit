@@ -1,0 +1,61 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The works of Thomas Reid, D.D : now fully collected, with selections from his umpublished letters</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Reid, Thomas</namePart>
+    <namePart type="date">1710-1796</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Hamilton, William</namePart>
+    <namePart type="termsOfAddress">Sir</namePart>
+    <namePart type="date">1788-1856</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Stewart, Dugald</namePart>
+    <namePart type="date">1753-1828</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Scotland</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Edinburgh</placeTerm>
+    </place>
+    <publisher>Maclachlan and Stewart</publisher>
+    <dateIssued>1852</dateIssued>
+    <edition>3rd ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>914 p. 23 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">preface, notes and supplementary dissertations, by Sir William Hamilton.</note>
+  <note>"Text collated and revised; useful distinctions inserted; leading words and propositions marked out; allusions indicated; quotations filled up. Prefixed, Stewart's account of the life and writings of Reid; with notes by the editor. Copious indices subjoined." -t.p.</note>
+  <note>ASC: from the Yolton Library Rare Book Collection.</note>
+  <subject authority="lcsh">
+    <topic>Philosophy</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Scotland</country>
+      <city>Edinburgh</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">B1532</classification>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">RBN</recordContentSource>
+    <recordCreationDate encoding="marc">870702</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20030626111907.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm16628249</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,62 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Arts</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Excalibur Publications Inc.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Allan Lee</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Photograph</genre>
+  <originInfo>
+    <publisher>Excalibur Publications Inc.</publisher>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">[North York], Ontario</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Image of a group of females in dresses performing a fan dance.</abstract>
+  <identifier type="local">ASC17446</identifier>
+  <location>
+    <physicalLocation>2004-030 / 001</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 20.2 x 11.3 cm</extent>
+  </physicalDescription>
+  <note>"Allan Lee," "12/01," "118%" are written on the back of the photograph.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Excalibur Publications Inc. fonds (F0502)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000502.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>dance</topic>
+    <geographic>York University</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>[North York]</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>43.773647, -79.501889</coordinates>
+    </cartographics>
+    <topic>York University</topic>
+    <topic>fan dance</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</accessCondition>
+</mods>

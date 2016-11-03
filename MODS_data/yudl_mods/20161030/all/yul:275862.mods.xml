@@ -1,0 +1,64 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>[Winnipeg] Manitoba</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>John Warkentin</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateOther>29-Sep-99</dateOther>
+    <dateIssued>1999-09-29</dateIssued>
+    <place>
+      <placeTerm type="text">Winnipeg, Manitoba</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Winnipeg, Manitoba</placeTerm>
+    </place>
+    <place>
+      <placeTerm authority="marccountry">Canada</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Item consists of a photographic slide with annotations including: "Manitoba Wpg," "Sept 29/99," "Section 6 - Street Scape."</abstract>
+  <identifier type="local">ASC16410</identifier>
+  <location>
+    <physicalLocation>2009-029 / 003 (04)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">projected graphic</form>
+    <extent>1 photograph : colour positive ; 35 mm</extent>
+  </physicalDescription>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <note>One slide scanned out of 421 in file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>John Warkentin fonds (F0184)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000184.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Streetscape</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Manitoba</province>
+      <region>Winnipeg Capital</region>
+      <city>Winnipeg</city>
+    </hierarchicalGeographic>
+    <topic>John Warkentin Photograph Collection</topic>
+    <topic>Eaton's</topic>
+    <geographic>Winnipeg</geographic>
+    <geographic>Manitoba</geographic>
+    <cartographics>
+      <coordinates>49.893366, -97.143815</coordinates>
+    </cartographics>
+  </subject>
+</mods>

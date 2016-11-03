@@ -1,0 +1,61 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Snow man : John Hornby in the Barren lands</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Waldron, Malcolm Thomas</namePart>
+    <namePart type="date">1903-1931</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Bullock, James Charles Critchell</namePart>
+    <namePart type="date">1898-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">biography</genre>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">mau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Houghton Mifflin co.</publisher>
+    <dateIssued>1931</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>x , 1 l., 292 p. : ill., maps.</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">by Malcolm Waldron.</note>
+  <note>Maps on lining-papers.</note>
+  <note>Re-written from diaries and records of Captain James C. Critchell-Bullock, who accompanied Mr. Hornby on his first expedition to the North. of. Author's note.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn-nt</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Hornby, John</namePart>
+      <namePart type="date">1880-1927</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Mackenzie (N.W.T.)</geographic>
+  </subject>
+  <classification authority="lcc">F1096 .W16</classification>
+  <classification authority="ddc">917.122</classification>
+  <identifier type="lccn">31010486 //r902</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">751223</recordCreationDate>
+    <recordIdentifier>afl1171</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

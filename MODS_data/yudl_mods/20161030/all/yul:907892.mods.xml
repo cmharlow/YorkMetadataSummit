@@ -1,0 +1,57 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The story of old Kingston</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Machar, Agnes Maule</namePart>
+    <namePart type="date">1837-1927</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry" type="code">onc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+    <publisher>Musson Book Co.</publisher>
+    <dateIssued>1908</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>291 p., [16] leaves of plates : ill., maps, ports. ; 22 cm.</extent>
+  </physicalDescription>
+  <note altRepGroup="00" type="statement of responsibility">by Agnes Maule Machar. --</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn-on</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Kingston, Ont</geographic>
+    <topic>History</topic>
+  </subject>
+  <classification authority="ddc">971.3/72</classification>
+  <identifier type="lccn">10011372</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg">CaOONL</recordContentSource>
+    <recordContentSource authority="marcorg">NLC</recordContentSource>
+    <recordCreationDate encoding="marc">740515</recordCreationDate>
+    <recordIdentifier>abc1126</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

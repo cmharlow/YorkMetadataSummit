@@ -1,0 +1,56 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Authentic letters from upper Canada : with an account of Canadian field sports</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Magrath, Thomas William</namePart>
+    <namePart type="date">1769-1851</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Radcliff, Thomas.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Lover, Samuel</namePart>
+    <namePart type="date">1797-1868</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Dublin</placeTerm>
+    </place>
+    <publisher>W. Curry, jun. and company; [etc., etc.]</publisher>
+    <dateIssued>1833</dateIssued>
+    <issuance>monographic</issuance>
+    <place>
+      <placeTerm authority="marccountry">Republic of Ireland</placeTerm>
+    </place>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 p. l., [3]-334 p. : front., plates.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by T. W. Magrath, esq.  The etchings by Samuel Lover, esq.  Edited by the Rev. T. Radcliff. --</note>
+  <subject authority="lcsh">
+    <topic>Sports</topic>
+    <geographic>Canada</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Ontario</geographic>
+    <topic>Description and travel</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Republic of Ireland</country>
+    </hierarchicalGeographic>
+  </subject>
+  <identifier type="lccn">20012843</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">850909</recordCreationDate>
+    <recordIdentifier>acr5757</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

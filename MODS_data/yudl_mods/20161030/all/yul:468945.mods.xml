@@ -1,0 +1,65 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The Alhambra</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Irving, Washington</namePart>
+    <namePart type="date">1783-1859</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Hitchcock, Alfred M. (Alfred Marshall)</namePart>
+    <namePart type="date">1868-1941</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Macmillan</publisher>
+    <dateIssued>1908</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xvii, 436 p. : ill. ; 18 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Washington Irving ; with an introduction by Elizabeth Robins Pennell.</note>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Alhambra (Granada, Spain)</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">PS2056 A1 1908</classification>
+  <classification authority="lcc">PS2956.A2 P4 1908</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Macmillan's pocket classics</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="oclc">ocm08000530</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg">KSU</recordContentSource>
+    <recordCreationDate encoding="marc">811216</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20020824143343.0</recordChangeDate>
+    <recordIdentifier source="CaMWOCL">0712528.01</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

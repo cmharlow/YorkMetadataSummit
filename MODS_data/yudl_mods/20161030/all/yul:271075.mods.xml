@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Selected Psalms and Proverbs: Active Service Edition, 1914-1917</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="marcgt">book</genre>
+  <originInfo>
+    <dateCreated>1914</dateCreated>
+    <publisher>Scripture Gift Mission and Naval and Military Bible Society, 15 Strand, W.C.</publisher>
+    <place>
+      <placeTerm authority="marccountry">United Kingdom</placeTerm>
+    </place>
+    <dateOther>1914</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a booklet of psalms and proverbs. The inside front cover shows "Lord Robert's Message to the Troops," dated 25 August 1914. The inside back cover is signed, and the outside back cover is stamped.</abstract>
+  <identifier type="local">ASC19519</identifier>
+  <location>
+    <physicalLocation>ASC19519</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>18 pages</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Beer family fonds (F0375)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000375.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <region>London</region>
+      <county>Greater London</county>
+      <city>London</city>
+      <citySection>Westminster</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>51.5114, -0.119</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

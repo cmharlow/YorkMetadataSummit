@@ -1,0 +1,121 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+    
+	<titleInfo>
+		
+      
+		<title>The Impact of Bioenergy and Biofuel Policies on Employment in Canada</title>
+		
+    
+	</titleInfo>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart>Earley, Sinead</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<name type="personal">
+		
+      
+		<namePart> Mabee, Warren</namePart>
+		
+      
+		<role>
+			
+        
+			<roleTerm authority="marcrelator" type="text">Author</roleTerm>
+			
+      
+		</role>
+		
+    
+	</name>
+	
+    
+	<genre>working paper</genre>
+	
+    
+	<typeOfResource>text</typeOfResource>
+	
+    
+	<originInfo>
+		
+      
+		<dateCreated>2011</dateCreated>
+		
+    
+	</originInfo>
+	
+    
+	<language>
+		
+      
+		<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		
+    
+	</language>
+	
+    
+	<identifier type="local">WP_2011-09_Earley_The-Impact-of-Bioenergy-and-Biofuel-Policies-on-Employment-in-Canada.pdf</identifier>
+	
+    
+	<abstract>Environmental policy, particularly written to deal with climate change and the related issue of renewable or clean energy production, has the potential to change the capacity of businesses, states, and other organizations to provide employment opportunities. This paper reviews the development of environmental policy in Canada at the federal level as well as in two provinces (Ontario and British Columbia). Key policies include the Canadian renewable fuel standard (included in Bill C-30, the Clean Air Act of 2007) as well as Ontario&#8217;s Green Energy Act (Ontario Bill 150) and British Columbia&#8217;s Bioenergy Strategy. Our methodology describes employment associated with the bioenergy and biofuel sectors as concentric circles ranging from direct through indirect and temporary jobs, and describes forthcoming survey analyses that aim to quantify the impact that these policies have had on employment opportunities. We situate our findings within the context of an ambiguous climate or energy strategy at the national level, and discuss what may be at stake when labour issues are excluded from climate policy debates. The paper looks critically upon the strategic &#8220;greening&#8221;of economies, jobs and governance in Canada, while providing recommendations for future iterations of policy at the federal and provincial levels.</abstract>
+	
+    
+	<relatedItem type="host">
+		
+      
+		<part>
+			
+        
+			<date>journal" : </date>
+			
+        
+			<extent>14 p.</extent>
+			
+      
+		</part>
+		
+    
+	</relatedItem>
+	
+    
+	<subject>
+		
+      
+		<topic>Greening Work in a Chilly Climate</topic>
+		
+      
+		<topic>Bioenergy</topic>
+		
+      
+		<topic>Energy Policy</topic>
+		
+      
+		<topic>Employment</topic>
+		
+    
+	</subject>
+	
+    
+	<identifier type="url">http://warming.apps01.yorku.ca/wp-content/uploads/WP_2011-09_Earley_Mabee_Impact-of-BioenergyBiofuel-on-Employment.pdf</identifier>
+	
+    
+	<accessCondition type="useAndReproduction">All rights reserved</accessCondition>
+	
+  
+</mods>

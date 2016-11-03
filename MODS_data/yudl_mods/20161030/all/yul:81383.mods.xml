@@ -1,0 +1,51 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Development of campus buildings : Natural Science Library [Steacie Library] project no. 354 York University</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Panda Associates Photography and Art Services</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>1964-10-20</dateCreated>
+    <dateOther>1964-10-20</dateOther>
+  </originInfo>
+  <abstract>Image of the Steacie Building under construction from the SW</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/1125</identifier>
+  <identifier type="local">ASC02075</identifier>
+  <location>
+    <physicalLocation>1972-016 / 001 (10)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w photoprint ; 20 x 25 cm, mounted on linen</extent>
+  </physicalDescription>
+  <note>Architect - U.P.A.C.E. (joint venture of Gordon S. Adamson &amp; Associates, John B. Parkin Associates, Shore &amp; Moffat and Partners) | Contractor - Taylor Woodrow of Canada Ltd.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>York University (Toronto, Ont.) Photograph collection (F0091)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000091.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Steacie Building</topic>
+    <topic>Buildings</topic>
+    <topic>York50Photos</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Ontario</province>
+      <city>Toronto</city>
+    </hierarchicalGeographic>
+  </subject>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="other">Panda Associates Photography and Art Services reference no. 64401-19</identifier>
+</mods>

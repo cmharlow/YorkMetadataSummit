@@ -1,88 +1,109 @@
 # York University Libraries Metadata Summit
 ### November 3-4
-### Plans, Goals, Documentation
 
-## Preparation
-**Read:**
+## This Repository
 
-**Look over:**
+Contains links, guides, scripts, and datasets for analysis of York University Library Digital Collections.
 
- - Application Profile / Data Models generation docs
- - RDF introduction docs
+## Running Assessment scripts
 
-### Tools to have ready:
+_Should_ work with python 2 and python 3 (tested with python 3.5). Run in top level of this directory.
 
-## Session Details
-### Abstract
+Run `pip install -r requirements.txt` first to download all needed python libraries.
 
-The York University Library has many areas of metadata expertise, as well as rich and diverse collections. Recognizing this, the York University Libraries Metadata Summit will be 2 days of interactive sessions leveraging existing expertise while also preparing for new technologies. Sessions range from workshops to working sessions. Topics may include but are not limited to: a review of emerging models, ideas for workflow efficiency, and metadata enhancements within existing and proposed systems. There are a few further goals for the YUL Metadata Summit beyond leveraging existing expertise and work. We will perform an analysis of the current state of the YUL metadata ecosystem. Then we will start building out expanded metadata workflows. Finally, we will begin preparing intellectually and pragmatically for the shift towards Linked Open Data. The hope is to coordinate metadata efforts across YUL units, departments, and platforms, and as a result, capture a shared metadata understanding and vision.
+### York Digital Collections Islandora
 
-### Goals
-**1. Perform and discuss an analysis of the current metadata at York, including but not limited to:**
+**Generate full output from local MODS/XML files copy**
 
- - repositories currently working with, generating, exposing metadata;
- - metadata needs, standards, application profiles, and other;
- - metadata workflows as they exist;
- - Ingest, editing, discovery, indexing, and access points.
+```bash
+python scripts/file_modsAnalysis.py MODS_data/yudl_mods/20161030/all/
+```
 
-**2. Work towards cross-project, cross-repository solutions to common issues, such as:**
+**Generate full output from calling Islandora PIDs (will take a while, requires text file with list of PIDs)**
 
- - generating a shared, base metadata application profile (or at least an agreed upon mapping between different profiles) across repositories;
- - creating infrastructure for shared metadata management needs (such as managing authorities data, managing ETL processes, etc.);
- - select, perform, and assess targeted enhancements that enable better cross-collection, cross-platform discovery options (leveraging tools like OpenRefine);
- - discuss semi-automated validation, enhancement, and queuing for review mechanisms for metadata.
+```bash
+python scripts/pid_modsAnalysis.py MODS_data/yudl_mods/20161030/yul:123929.txt
+```
 
-**3. Prepare metadata management at York University Libraries for moving into Linked Data:**
+**Get all unique field values for the given XPath**
 
- - Evaluating, testing and choosing an option for migrating the existing metadata practices (not limited to but heavily focused on descriptive practices) to RDF;
- - Creating functional requirements for emerging tools and testing/learning/working with existing tools for RDF conversion workflows and native RDF creation;
- - Skill-sharing across functional areas and departments in preparation for movement towards Linked Open Data, including increasing common understanding of the Whys and Hows involved in this process.
+```bash
+python scripts/file_modsAnalysis.py MODS_data/yudl_mods/20161030/all/ -x 'mods:subject/mods:topic' | sort | uniq -c   
+```
 
-**4. Develop a shared process and framework for future metadata discussion, including but not limited to:**
- - Point persons for workflows, needs, or development activities;
- - A clear, shared understanding of the metadata ecosystem;
- - Interlinked and updated documentation.
+### YorkSpace DSpace
 
-### Involved Data Platforms / Repositories / External Sources
+**Generate full output**
 
- - ILS: Sirsi
- - Discovery Layer: VuFind
- - Digital Repositories / Collections Platforms:
-   - York University Digital Collections (Islandora)
-   - YorkSpace IR (DSpace)
-   - Finding Aids (??)
-   - Omeka instances
-   - Atom
-   - Open Journal Systems for eJournals (PKP)
- - Archival systems: ?
- - Decide selected Authorities, other leveraged or to be leveraged
+```bash
+python scripts/dim_analysis.py DIMS_data/yorkspace.dims.xml
+```
 
-## Tentative Schedule
+**Get all unique values for the given XPath that queries DIMS/XML**
 
-| **Thursday, 3rd November** ||
-| ------------------ | ---------------------------------------- |
-| 9 AM - 9:10 AM     | Introduction of/by University Librarian. |
-| 9:10 AM - 10 AM    | YUL Metadata Goals, Assessment, & Infrastructure Presentation / Discussion. |
-| 10 AM - 12:30 PM   | Metadata Application Profile or Mappings Generation |
-| 12:30 PM - 1:30 PM | Lunch |
-| 1:30 PM - 3 PM     | Metadata Application Profile Generation or Mappings (continued) then testing & documentation |
-| 3 PM - 5 PM        | Data Enhancement Planning, Performing, Documenting. Skilling for data tools. Establishing process and framework for metadata discussion in the future. |
+```bash
+python scripts/dim_analysis.py DIMS_data/yorkspace.dims.xml -x 'dim:field[@element="identifier"]' | sort | uniq -c      
+```
 
-| **Friday, 4th November** ||
-| ------------------ | ---------------------------------------- |
-| 9 AM - 11 AM       | Enhancement Planning: Authorities management, leading into LOD |
-| 11 AM - 12:30 PM   | Linked Open Data efforts, starting with local authorities negotiation infrastructure, reconciliation in current repositories, discovery system enhancements. |
-| 12:30 PM - 1:30 PM | Lunch |
-| 1:30 PM - 4 PM     | Future planning: moving to RDF where applicable ; workflow + systems needs for this ; MAP conversion to RDF. |
-| 4 PM - 5 PM        | Wrap up, plans moving forward, Q & A, Confirm outcomes + documentation area, communication channels. |
+## YorkSpace Assessment
 
-## Summit Deliverables
-
- - Base, Repository Resources Metadata Application Profile for YUL
-   - Including interoperability with existing, bibliographic and archival databases and data formats of record (i.e. MARC ⇔ MODS, EAD? ⇔ MODS, etc.)
- - MODSXML -> RDF strategy
-   - Including a machine-actionable conversion, mapping
- - Local authorities strategy
- - Workflows for migration and post-migration to RDF work
- - Framework and process for future metadata discussions
+```
+            dc:contributor: |                         |     19/29561 |   0%
+    dc:contributor.advisor: |=                        |   1368/29561 |   4%
+     dc:contributor.author: |================         |  19617/29561 |  66%
+     dc:contributor.editor: |                         |      4/29561 |   0%
+      dc:contributor.other: |                         |      1/29561 |   0%
+          dc:coverage.city: |===                      |   3995/29561 |  13%
+        dc:coverage.county: |===                      |   3995/29561 |  13%
+        dc:coverage.region: |===                      |   3884/29561 |  13%
+             dc:coverage.x: |===                      |   3995/29561 |  13%
+             dc:coverage.y: |===                      |   3995/29561 |  13%
+                dc:creator: |=======                  |   8583/29561 |  29%
+                   dc:date: |==========               |  11937/29561 |  40%
+       dc:date.accessioned: |======================== |  29559/29561 |  99%
+         dc:date.available: |======================== |  29557/29561 |  99%
+         dc:date.copyright: |=                        |   1261/29561 |   4%
+           dc:date.created: |================         |  19013/29561 |  64%
+            dc:date.issued: |======================== |  29303/29561 |  99%
+           dc:date.updated: |====                     |   5337/29561 |  18%
+      dc:degree.discipline: |=                        |   1267/29561 |   4%
+         dc:degree.grantor: |                         |      3/29561 |   0%
+           dc:degree.level: |=                        |   1267/29561 |   4%
+            dc:degree.name: |=                        |   1263/29561 |   4%
+            dc:description: |=====================    |  24851/29561 |  84%
+   dc:description.abstract: |===                      |   4400/29561 |  14%
+      dc:description.local: |===                      |   3996/29561 |  13%
+ dc:description.provenance: |=========================|  29561/29561 | 100%
+dc:description.sponsorship: |=                        |   1258/29561 |   4%
+                 dc:format: |=====================    |  25010/29561 |  84%
+          dc:format.extent: |                         |    231/29561 |   0%
+        dc:format.mimetype: |                         |    231/29561 |   0%
+             dc:identifier: |=====================    |  25498/29561 |  86%
+    dc:identifier.citation: |================         |  19868/29561 |  67%
+        dc:identifier.isbn: |                         |    311/29561 |   1%
+        dc:identifier.issn: |                         |    454/29561 |   1%
+       dc:identifier.other: |==                       |   3470/29561 |  11%
+         dc:identifier.uri: |=========================|  29561/29561 | 100%
+               dc:language: |                         |     21/29561 |   0%
+           dc:language.iso: |=========                |  10649/29561 |  36%
+              dc:publisher: |=======                  |   9349/29561 |  31%
+               dc:relation: |==========               |  12650/29561 |  42%
+    dc:relation.isformatof: |========                 |  10549/29561 |  35%
+      dc:relation.ispartof: |==============           |  17471/29561 |  59%
+dc:relation.ispartofseries: |=====================    |  25087/29561 |  84%
+       dc:relation.mapsuri: |===                      |   3995/29561 |  13%
+      dc:relation.replaces: |                         |    978/29561 |   3%
+           dc:relation.uri: |                         |   1057/29561 |   3%
+                 dc:rights: |======================   |  26119/29561 |  88%
+         dc:rights.article: |                         |    657/29561 |   2%
+         dc:rights.journal: |                         |    630/29561 |   2%
+       dc:rights.publisher: |                         |    557/29561 |   1%
+             dc:rights.uri: |=====                    |   6066/29561 |  20%
+                dc:subject: |========                 |  10210/29561 |  34%
+ dc:subject.classification: |                         |      1/29561 |   0%
+       dc:subject.keywords: |=                        |   1282/29561 |   4%
+           dc:subject.lcsh: |                         |      1/29561 |   0%
+                  dc:title: |======================== |  29559/29561 |  99%
+      dc:title.alternative: |=                        |   1801/29561 |   6%
+                   dc:type: |=======================  |  28299/29561 |  95% ``
 

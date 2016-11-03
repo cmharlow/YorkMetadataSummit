@@ -1,0 +1,43 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Dictionar muzical ilustrat</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Ivela, A      L</namePart>
+    <namePart type="date">d.1927</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Bucuresti, Alcalay</placeTerm>
+    </place>
+    <dateIssued>[1927]</dateIssued>
+    <dateIssued encoding="marc">1927</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>[6] 224 p. : ill., music, ports.</extent>
+  </physicalDescription>
+  <note type="bibliography">Bibliography: 5th prelim. page.</note>
+  <subject authority="lcsh">
+    <topic>Music</topic>
+    <topic>Dictionaries</topic>
+    <topic>Romanian</topic>
+  </subject>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Librariei Universala</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordCreationDate encoding="marc">821006</recordCreationDate>
+    <recordIdentifier>acu8480</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">roh</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

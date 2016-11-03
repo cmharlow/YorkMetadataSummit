@@ -1,0 +1,31 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Freshwater Supply &amp; Quality Issues in Canada - Issues Exploration Paper</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Compass Resource Management Ltd.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>working paper</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2004-08-04</dateCreated>
+    <publisher>National Round Table on the Environment and the Economy</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RPT_CRML_Freshwater-Supply-&amp;-Quality-Issues-in-Canada-Issues-Exploration-Paper.pdf</identifier>
+  <abstract>This paper is intended to assist the members of the NRTEE to determine whether there is a potential role for a Round Table program related to freshwater. This paper summarizes human interventions in the hydrological cycle and their impacts, identifies current and emerging issues related to freshwater quality and supply, describes current roles and responsibilities for water management in Canada, describes recent and/or ongoing freshwater initiatives in Canada, and identifies some possible areas where the NRTEE might play a role (in particular, areas where a multi-stakeholder assessment and approach could advance sustainable use of Canada&#8217;s freshwater resources).</abstract>
+  <relatedItem type="host">
+    <part>
+      <extent>79 p.</extent>
+    </part>
+  </relatedItem>
+  <location>
+    <url>http://warming.apps01.yorku.ca/library/wp-content/uploads/2013/03/NRTEE-2004-Freshwater-Supply-and-Quality-Issues-in-Canada.pdf</url>
+  </location>
+  <accessCondition>&#169; This Work is protected by copyright and made available for personal or public non-commercial use and may be reproduced, in part or in whole, and by any means, and may be further distributed for non-commercial use, without charge or further permission. All users are required to indicate that the reproduction, in part or in whole, is a copy of a Work of the National Round Table on the Environment and the Economy (NRTEE). Reproduction, in whole or in part, of this Work for the purpose of commercial redistribution is strictly prohibited. Furthermore, no right to modify or alter in any manner the Work is hereby granted.</accessCondition>
+</mods>

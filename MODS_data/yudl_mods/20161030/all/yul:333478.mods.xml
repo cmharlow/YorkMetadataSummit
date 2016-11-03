@@ -1,0 +1,58 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <identifier type="local">ASC08195</identifier>
+  <location>
+    <physicalLocation>1974-001 / 087 (564)</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Bombs : Atomic : England : Tests ca 1952-1957</title>
+  </titleInfo>
+  <abstract>Image of London Evening Newspaper reporter, Barrie Morgan, testing English and New Zealand meat for radiation in a London butcher's shop, October 1.</abstract>
+  <targetAudience>O'Brian</targetAudience>
+  <name>
+    <namePart>AP Wirephoto from London</namePart>
+    <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+  </name>
+  <originInfo>
+    <dateOther>01 October [1957]</dateOther>
+    <dateIssued>1957-10-28</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w print ; 14.2 x 20.4 cm</extent>
+  </physicalDescription>
+  <note>One print scanned from file.</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Food</topic>
+    <topic>Radiation</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="useAndReproduction">Copyright owned by wire service. For more information contact, ascproj@yorku.ca</accessCondition>
+</mods>

@@ -1,0 +1,54 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Histoire des philosophes modernes (Volume 2)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Sav&#233;rien, (Alexandre)</namePart>
+    <namePart type="termsOfAddress">M</namePart>
+    <namePart type="date">1720-1805</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Chez Bleuet [et] Guillaume</publisher>
+    <dateIssued>1773</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>8 t. : fronts., plates, ports. ; 29 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par M. Sav&#233;rien ; avec leurs portraits grav&#233;s par Fran&#231;ois.</note>
+  <subject authority="lcsh">
+    <topic>Philosophers</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Philosophy, Modern</topic>
+    <topic>History</topic>
+  </subject>
+  <classification authority="lcc">B76 .S4</classification>
+  <identifier type="oclc">4372712</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">TJC</recordContentSource>
+    <recordCreationDate encoding="marc">781115</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20080229111831.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm04372712</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

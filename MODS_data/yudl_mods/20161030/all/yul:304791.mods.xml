@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>&#4126;&#4144;&#4123;&#4140;&#4121;&#4145;&#4123;&#4122; &#4117;&#4096;&#4140;&#4126;&#4116;&#4142; &#4096;&#4155;&#4121;&#4154;&#4152; [Treatise on Drinking Alcohol]</title>
+  </titleInfo>
+  <titleInfo type="translated" lang="eng">
+    <title>[Treatise on Drinking Alcohol]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#4096;&#4155;&#4145;&#4140;&#4154;&#4123;&#4116;&#4154; [Kyaw Yan]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Buddhism</genre>
+  <originInfo>
+    <dateIssued>&#4112;&#4116;&#4154;&#4102;&#4145;&#4140;&#4100;&#4154;&#4121;&#4143;&#4116;&#4154;&#4152;&#4124;&#4102;&#4116;&#4154;&#4152;&#4161;&#4165;&#4123;&#4096;&#4154; &#4161;&#4162;&#4167;&#4168;</dateIssued>
+    <copyrightDate>1916/11/09</copyrightDate>
+    <issuance>monographic</issuance>
+    <edition>2nd</edition>
+    <publisher>SPB Press</publisher>
+    <place>
+      <placeTerm type="text">Myanmar</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Mandalay</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">Bur</languageTerm>
+  </language>
+  <identifier>BAB-B00026</identifier>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>27</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Pansodan Research Library</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <geographic>Mandalay</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <city>Mandalay</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

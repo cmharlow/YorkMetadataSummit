@@ -1,0 +1,41 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>Changes which time has brought</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateIssued>1891?]</dateIssued>
+    <dateIssued encoding="marc">1891</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>8 p.</extent>
+  </physicalDescription>
+  <note>Caption title.</note>
+  <subject authority="lcsh">
+    <topic>Commerce</topic>
+    <topic>Reciprocity</topic>
+    <topic>Politics and government</topic>
+    <geographic>United States</geographic>
+    <geographic>Canada</geographic>
+  </subject>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Information for the electors ; no. 13</title>
+    </titleInfo>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">810415</recordCreationDate>
+    <recordIdentifier>afq0425</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.93 2014/01/31)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

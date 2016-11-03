@@ -1,0 +1,76 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>An </nonSort>
+    <title>An account of the first voyages and discoveries made by the Spaniards in America : containing the most exact relation hitherto publish'd, of their unparallel'd cruelties on the Indians</title>
+  </titleInfo>
+  <titleInfo type="uniform" nameTitleGroup="1">
+    <title>Selections. English. 1699</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Art of travelling to advantage</title>
+  </titleInfo>
+  <name type="personal" usage="primary" nameTitleGroup="1">
+    <namePart>Casas, Bartolom&#233; de las</namePart>
+    <namePart type="date">1474-1566</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Printed by J. Darby, J. Harris and Andr. Bell</publisher>
+    <dateIssued>1699</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>[8], 248, 40 p. : ill. ; 19 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Don Bartholomew de las Casas ; illustrated with cuts. To which is added The art of travelling : showing how a man may dispose his travels to the best advantage.</note>
+  <note>A translation from the French, apparently from the Relation des voyages et des d&#233;couvertes que les Espagnols ont fait dans les Indes Occidentales ... Amsterdam, 1698. The English work, following the French, contains abridged translations.</note>
+  <note>"The art of travelling to advantage": p. 1-40 at end.</note>
+  <subject>
+    <geographicCode authority="marcgac">n------</geographicCode>
+    <geographicCode authority="marcgac">nc-----</geographicCode>
+    <geographicCode authority="marcgac">s------</geographicCode>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>United Kingdom</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians, Treatment of</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Slavery</topic>
+    <geographic>Latin America</geographic>
+    <topic>History</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Spain</geographic>
+    <topic>Colonies</topic>
+    <geographic>America</geographic>
+  </subject>
+  <classification authority="lcc">F1411 .C426</classification>
+  <identifier type="lccn">01020194</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">901002</recordCreationDate>
+    <recordIdentifier>afk0094</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

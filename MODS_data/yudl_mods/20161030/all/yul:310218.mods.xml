@@ -1,0 +1,85 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter to Mrs. Stepler from Gordon Stepler, November 29th 1916</title>
+  </titleInfo>
+  <name type="personal">
+    <affiliation>Canadian Armed Forces</affiliation>
+    <namePart>Stepler, Gordon</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Stepler, Ethelwyn</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Letter</genre>
+  <originInfo>
+    <dateCreated>1916-11-29</dateCreated>
+    <place>
+      <placeTerm authority="marccountry">England</placeTerm>
+    </place>
+    <dateOther>29 November 1916</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a letter written by Gordon Stepler to his mother, Mrs. Ethelwyn Stepler. Transcription is as follows:&#13;
+Risboro barracks, Shornecliffe&#13;
+Nov 29/16&#13;
+Dear Mother&#13;
+	Rec'd a couple of letters since last writing you and of course was glad to get them. Also rec'd Aunt [Marnie's] Xmas parcel and altho it is rather early for Xmas was glad to get it now, as I can make good use of it and will probably get a bunch around Xmas time.&#13;
+	We have been going out for rides every day lately to get our horses trained. We go out through the country and so see it well and see some very pretty sights. Everything is so old-fashioned and picturesque. We also go along the top of the high&#13;
+|page 2&#13;
+hills near here and you get a great view of the country. You get a bird's eye view of Folkestone and several towns, Shornecliffe camp, and the Straits of Dover with all the boats sailing by.&#13;
+	One of the biggest hills is called Caesar's Hill. It was a perfect place for a camp in the old days, the sides being steep and it can only be approached from one side. There is an old moat around it and other relics of the olden days, and many battles have been fought around it. Caesar first landed in Britain near here and this is where he made his camp.&#13;
+	The whole battery went out to-day for a field day in&#13;
+|page 3&#13;
+a pasture field across the hills. We went in heavy marching order and carried everything we possess, but as we sit on our blankets and our kit-bags are carried on the [limbers] and waggons [sic], that does not worry us much. We had dinner out there, which consisted of a cheese sandwitch [sic].&#13;
+	Colbeck and I went over to Dover last Sunday. We took a motor-bus and the road was along the chalk cliffs overlooking the sea part of the time and was very pretty. We passed by the Royal Naval Aerial Depot where the areoplanes and airships that are always&#13;
+|page 4&#13;
+flying about and passing to and from France are kept. The air sheds are great, big [basins], clear of all beams on the inside, and the walls are supported by steel girders leaning on the outside. The door is as big as the whole end of the building, is hinged at the bottom and worked by machinery. We have a new type of an air ship here. It is as big as a Zepp  but is a different shape, being like two sausages on the bottom and one on top, with a big rib through the centre. The ends are blunt. The gas bag is made of aluminum. The old type are fish or cigar shaped. They fly over the channel and help&#13;
+|page 5&#13;
+the fleet as scouts and hunt submarines.&#13;
+	Dover is an interesting place but the chief thing we saw was the waterfront. It has a great harbour and there were lots of battleships, destroyers, hospital ships, subs etc. in it. The Channel Fleet had just returned from chasing those German destroyers who tried to raid the Channel two days before. The town is hilly and Dover Castle stands on one of the cliffs but I did not go to see it as I have been fed up with that sort of stuff.&#13;
+	Expect to go to London again then week end and &#13;
+|page 6&#13;
+then Monday we expect to leave here for firing practice.&#13;
+	I guess this is all the news this time so will close.&#13;
+		Your loving son,&#13;
+			Gordon.</abstract>
+  <identifier type="local">ASC19565</identifier>
+  <location>
+    <physicalLocation>1998-037 / 001 (04)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>3 leaves + envelope</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Dorothy Stepler fonds (F0170)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000170.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <region>South East</region>
+      <county>Kent</county>
+      <city>Shorncliffe</city>
+      <citySection>Risborough Barracks</citySection>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>51.075833,&#160;1.131389</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

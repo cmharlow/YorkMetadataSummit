@@ -1,0 +1,47 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Narrative of the Arctic land expedition to the mouth of the Great Fish River : and along the shores of the Arctic Ocean, in the years, 1833, 1834, and 1835</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Back, George</namePart>
+    <namePart type="termsOfAddress">Sir</namePart>
+    <namePart type="date">1796-1878</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>J. Murray</publisher>
+    <dateIssued>1836</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>x, 663 p. : front., plates, fold. map.</extent>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <topic>Scientific expeditions</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <city>London</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Northwest, Canadian</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Arctic regions</geographic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">850917</recordCreationDate>
+    <recordIdentifier>acd6910</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,47 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>RSM with people of note (1962-1986)</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre>photograph</genre>
+  <originInfo>
+    <place>
+      <placeTerm authority="marccountry">Switzerland</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Z&#252;rich, Canton of Z&#252;rich</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Image of Dr. Robert S. and Rita Mendelsohn sitting at a table in Z&#252;rich, Switzerland holding wineglasses, with Fred Pestalozzi (Head of Biostrath) behind them.</abstract>
+  <identifier type="local">ASC17215</identifier>
+  <location>
+    <physicalLocation>2014-016 / 001</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : colour print ; 12.5 x 8.8 cm</extent>
+  </physicalDescription>
+  <note>Writing on back: Zuric[h] Switzerland c&#772; Fred P., (Pestalozzi) head of [Biostrath]</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Dr. Robert S. Mendelsohn collection (F0649)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000649.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Switzerland</country>
+      <province>Z&#252;rich</province>
+      <city>Z&#252;rich</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>47.368764, 8.542072</coordinates>
+    </cartographics>
+    <topic>Fred Pestalozzi</topic>
+    <topic>Biostrath</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">Item digitized for access and research purposes only. Copyright retained by Robert S. Mendelsohn Estate. For all other uses, contact archives@yorku.ca.</accessCondition>
+</mods>

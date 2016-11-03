@@ -1,0 +1,32 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Energy [R]evolution: A Sustainable Energy Outlook for Canada</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Greenpeace International</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <name type="corporate">
+    <namePart>Greenpeace Canada</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2010</dateCreated>
+    <publisher>Greenpeace International; European Renewable  Energy Council (EREC</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>The Greenpeace Advanced Energy [R]evolution scenario shows how, by 2050, renewable energy sources could provide 96% of the electricity produced in Canada and 92% of our total heating demand, accounting for 74% of our overall primary energy demand. The blueprint would create about 72,000 jobs in the renewables sector alone, by 2030.</abstract>
+  <subject>
+    <topic>renewable energy</topic>
+    <topic>employment impacts</topic>
+  </subject>
+  <accessCondition>Reproduced with permission of Greenpeace Canada, July 2016.</accessCondition>
+</mods>

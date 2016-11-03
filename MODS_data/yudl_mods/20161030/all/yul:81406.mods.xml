@@ -1,0 +1,40 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Photographs for Comunidade</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Marques, Domingos</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Photograph</genre>
+  <originInfo>
+    <dateCreated>2010-11-14T22:59:04Z</dateCreated>
+    <dateOther>[after 1974?]</dateOther>
+  </originInfo>
+  <abstract>Contact sheet consists of 30 negatives, including: #30-33, 15, men speaking at a head table to a room; #34-35, men socializing; #1, 3, a man behind the counter of a store; #2 &#8216;Casa Acores Variety&#8217; store; #4, &#8216;Iberica Meat Market&#8217; sign in store window; #5, Parliament Hill, Ottawa; #11, &#8216;Iberica Travel Agency&#8217;; #12-14, landscapes; #2A-5, women working with papers at a table; #27-30, individual portraits; #31-32, photos of old photographs of a group of children; #1A-4, men in an office.</abstract>
+  <identifier type="hdl">http://hdl.handle.net/10315/6239</identifier>
+  <identifier type="local">ASC06637</identifier>
+  <location>
+    <physicalLocation>2010-019 / 002 (14)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>30 negatives : b&amp;w ; 35mm.</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Domingos Marques fonds (F0573)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000573.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Portuguese community</topic>
+    <topic>Comunidade : O Jornal Comunit&#225;rio Portugu&#234;s</topic>
+  </subject>
+  <accessCondition type="useAndReproduction">For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

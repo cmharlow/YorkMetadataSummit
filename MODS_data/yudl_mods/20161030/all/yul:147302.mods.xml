@@ -1,0 +1,50 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Proc&#232;s-verbal de l'assembl&#233;e du bureau de la Soci&#233;t&#233; eccl&#233;siastique St-Joseph : tenue au s&#233;minaire de Qu&#233;bec le 30 aout 1892</title>
+    <subTitle>tenue au s&#233;minaire de Qu&#233;bec le 30 aout 1892</subTitle>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Soci&#233;t&#233; eccl&#233;siastique St-Joseph</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateIssued>1892?]</dateIssued>
+    <dateIssued encoding="marc">1892</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>pp. 191-203.</extent>
+  </physicalDescription>
+  <note>Caption title.</note>
+  <note>Signed: H. T&#234;tu, ptre, sec.-tr&#233;sorier.</note>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Soci&#233;t&#233; eccl&#233;siastique St-Joseph.</namePart>
+    </name>
+    <topic>Salaries, etc</topic>
+    <topic>Clergy</topic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Catholic Church</namePart>
+    </name>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">871216</recordCreationDate>
+    <recordIdentifier>afq0870</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

@@ -1,0 +1,32 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>The Future of Canada's Oil and Gas Sector: Innovation, Sustainable Solutions and Economic Opportunities</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Canada. House of Commons. Standing Committee on Natural Resources</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Report</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>September 2016</dateCreated>
+    <publisher>Canada. House of Commons</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>The report summarizes the comments from 33 witnesses who appeared before the Standing Committee of the House in 7 meetings, and makes recommendations, including: &#8220;1. The Committee recommends that the Government of Canada continue to promote the benefits of investing in Canada&#8217;s Natural Resources sectors, including oil and gas, which shall include the continued encouragement of innovation, research and development.&#8221; And &#8220;2.The Committee recommends that the Government of Canada work in collaboration with industry and the indigenous, provincial, territorial, and municipal governments to develop the supporting infrastructure needed to create a favourable environment for natural resource development and transportation, and to deliver oil and gas products to strategic domestic and international markets.&#8221;    The Dissenting Report from the Conservative members goes even further to support the fossil fuel industry, making 5 recommendations which include:   &#8220;We strongly encourage the government not to impose any additional tax or regulation on the oil and gas sector or the Canadian consumer that our continental trading partners and competitors do not have. This includes measuring the upstream greenhouse gas emissions from pipelines&#8230;&#8221;  The Opinion statement by the New Democratic Party members of the Committee calls for speedy, permanent changes to the National Energy Board assessment process, and for the Government to honour its obligation for a Nation to Nation relationship with Indigenous peoples, including proper consultation and accommodation on all energy projects and the protection of Indigenous rights.   The NDP also states its support for the testimony of Gil McGowan, President of the Alberta Federation of Labour, calling for support for  value-added development of the oil and gas industry, &#8220;because these kinds of investments not only create jobs directly in upgrading, refining, and petrochemicals but also create other jobs&#8221;.</abstract>
+  <relatedItem type="host">
+    <part>
+      <extent>46</extent>
+    </part>
+  </relatedItem>
+  <subject>
+    <topic>Canada</topic>
+    <topic>Oil and gas Industry</topic>
+  </subject>
+  <accessCondition>"Reproduction of the proceedings of the House of Commons and its Committees, in whole or in part and in any&#13;
+medium, is hereby permitted provided that the reproduction is accurate and is not presented as official."</accessCondition>
+</mods>

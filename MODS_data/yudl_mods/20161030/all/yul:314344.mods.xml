@@ -1,0 +1,49 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>&#4129;&#4121;&#4112;&#4121;&#4098;&#4153;&#4098;&#4116;&#4141;&#4114;&#4153;&#4114;&#4145;&#4126;&#4101;&#4140;&#4112;&#4121;&#4154;&#4152;</title>
+  </titleInfo>
+  <titleInfo type="translated" lang="eng">
+    <title>[Paper of Amatamaggnidhesa]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#4101;&#4123;&#4141;&#4116;&#4154;&#4114;&#4139;&#4113;&#4145;&#4123; [Sareinda Thera]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Buddhism</genre>
+  <originInfo>
+    <copyrightDate>1904</copyrightDate>
+    <issuance>monographic</issuance>
+    <publisher>Hanthawady</publisher>
+    <place>
+      <placeTerm type="text">Myanmar</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Yangon</placeTerm>
+    </place>
+    <dateIssued>1904</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">Bur</languageTerm>
+  </language>
+  <identifier>BAB-B00058</identifier>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>47</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Pansodan Research</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <geographic>Rangoon</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <city>Yangon</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

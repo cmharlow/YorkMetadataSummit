@@ -1,0 +1,49 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>&#4117;&#4123;&#4121;&#4112;&#4153;&#4113;&#4121;&#4145;&#4114;&#4116;&#4142;&#4096;&#4155;&#4121;&#4154;&#4152;</title>
+  </titleInfo>
+  <titleInfo type="translated" lang="eng">
+    <title>[Treatise on Paramatta Maedani]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#4116;&#4141;&#4159;&#4123;&#4106;&#4154;&#4152;&#4102;&#4123;&#4140; [Nithayee]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Treatise on Buddhism</genre>
+  <originInfo>
+    <copyrightDate>1897</copyrightDate>
+    <issuance>monographic</issuance>
+    <publisher>&#4127;&#4150;&#4126;&#4125;&#4112;&#4142;&#4126;&#4112;&#4100;&#4154;&#4152;&#4101;&#4140;&#4112;&#4141;&#4143;&#4096;&#4154; [Hanthawaddy Press]</publisher>
+    <place>
+      <placeTerm type="text">Myanmar</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Yangon</placeTerm>
+    </place>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">Bur</languageTerm>
+  </language>
+  <identifier>BAB-B00048</identifier>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>146</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Pansodan Research</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Rangoon</topic>
+    <topic>Buddhism</topic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <city>Yangon</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

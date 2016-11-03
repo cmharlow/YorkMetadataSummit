@@ -1,0 +1,31 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Falling behind: Canada's lost clean energy jobs</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Blue Green Canada</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>working paper</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2010</dateCreated>
+    <publisher>BlueGreen Canada</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Contributors: Gillian McEachern, Charles Campbell, Matt Price. BlueGreen Canada is a partnership of Environmental Defence and United Steelworkers. The report compares the government investment in clean energy jobs between Canada and the U.S. since Obama became President, and concludes that the lack of investment in Canada is creating thousands of lost jobs for Canadians. If Canada&#8217;s spending matched U.S. investment in renewable energy alone, an additional estimated 66,000 jobs would have been created. The actual job gap is much larger once energy efficiency and transportation investment are taken into account.  The report suggests an improved path for Canada to try to bridge the jobs gap.  Includes a bibliography.</abstract>
+  <relatedItem type="host">
+    <part>
+      <date>2010</date>
+      <extent>16 p.</extent>
+    </part>
+  </relatedItem>
+  <subject>
+    <topic>Job creation</topic>
+    <topic>Clean Energy</topic>
+  </subject>
+</mods>

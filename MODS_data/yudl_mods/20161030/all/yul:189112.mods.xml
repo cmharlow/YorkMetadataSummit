@@ -1,0 +1,53 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Annual report for the year 1898 submitted at the annual general meeting of shareholders</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Quebec and Lake St. John Railway</namePart>
+    <namePart>Colonization Department.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Qu&#233;bec</placeTerm>
+    </place>
+    <publisher>The Railway</publisher>
+    <dateIssued>[1899]</dateIssued>
+    <dateIssued encoding="marc">1899</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Quebec &amp; Lake St. John Railway, Colonization Department.</note>
+  <note>Title from cover.</note>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Quebec and Lake St. John Railway.</namePart>
+      <namePart>Colonization Department.</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Railroads</topic>
+    <geographic>Quebec (Province)</geographic>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordCreationDate encoding="marc">890614</recordCreationDate>
+    <recordIdentifier>afq3311</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/05/02)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

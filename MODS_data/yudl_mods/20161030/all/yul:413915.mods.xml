@@ -1,0 +1,31 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Environment and Sustainable Development Indicators Initiative: Renewable Resources Cluster Group - Interim Report</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>DSS Management Consultants Inc.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>working paper</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2002-01-21</dateCreated>
+    <publisher>National Round Table on the Environment and the Economy</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="local">RPT-2002_DSSMC_Environment-and-Sustainable-Development-Indicators-Initiative-RRCG-Interim-Report.pdf</identifier>
+  <abstract>The  interim report describes the main outcomes of the first Renewable Resources Cluster Group meeting held on October 25, 2001. This cluster group is one of six providing expert support for the NRTEE&#8217;s Environment and Sustainable Development Indicators (ESDI) Initiative. The cluster group acts in an advisory capacity to the ESDI Steering Committee and is composed of experts from industry, government, academe, and NG0s.</abstract>
+  <relatedItem type="host">
+    <part>
+      <extent>52 p.</extent>
+    </part>
+  </relatedItem>
+  <location>
+    <url>http://warming.apps01.yorku.ca/library/wp-content/uploads/2013/03/NRTEE-2002-ESDI-Interim-Report-Renewable-Resources-Cluster-Group.pdf</url>
+  </location>
+  <accessCondition>&#169; This Work is protected by copyright and made available for personal or public non-commercial use and may be reproduced, in part or in whole, and by any means, and may be further distributed for non-commercial use, without charge or further permission. All users are required to indicate that the reproduction, in part or in whole, is a copy of a Work of the National Round Table on the Environment and the Economy (NRTEE). Reproduction, in whole or in part, of this Work for the purpose of commercial redistribution is strictly prohibited. Furthermore, no right to modify or alter in any manner the Work is hereby granted.</accessCondition>
+</mods>

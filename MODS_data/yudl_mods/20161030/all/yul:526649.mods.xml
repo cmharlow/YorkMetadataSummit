@@ -1,0 +1,48 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Th&#233;&#226;tre de Jules Lema&#238;tre (Volume 2)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Lema&#238;tre, Jules</namePart>
+    <namePart type="date">1853-1914</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Calmann-L&#233;vy</publisher>
+    <dateIssued>1906-1908</dateIssued>
+    <dateIssued encoding="marc" point="start">1906</dateIssued>
+    <dateIssued encoding="marc" point="end">1908</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>3 v.</extent>
+  </physicalDescription>
+  <tableOfContents>1. R&#233;volt&#233;e. Le d&#233;put&#233; Leveau. Mariage blanc. Flipote. -  2. Les rois. L'age difficile. Le pardon. La bonne H&#233;l&#232;ne. -  3. L'ain&#233;e. La massi&#232;re. La princesse de Cl&#232;ves.</tableOfContents>
+  <classification authority="lcc">PQ2337.L3 A19 1906</classification>
+  <identifier type="lccn">14006314 Revised</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">750203</recordCreationDate>
+    <recordIdentifier>a339290</recordIdentifier>
+    <recordIdentifier>abl9445</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

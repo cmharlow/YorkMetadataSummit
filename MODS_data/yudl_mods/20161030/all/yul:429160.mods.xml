@@ -1,0 +1,42 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Works (Volume 1)</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Cooper, James Fenimore</namePart>
+    <namePart type="date">1789-1851</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>P.F. Collier</publisher>
+    <dateIssued>1891-92</dateIssued>
+    <dateIssued encoding="marc">1891</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>10 v. : ill.</extent>
+  </physicalDescription>
+  <tableOfContents>v.1. The deerslayer. The pathfinder. The pioneers.- v.2. The last of the Mohicans. The prairie. The spy.- v.3. The pilot. The Red Rover. The two admirals.- v.4. The sea lions. Afloat and ashore. The water witch.- v.5. The crater. Miles Wallingford. Homeward bound.- v.6. Home as found. The chainbearers. The redskins.- v.7. Wyandotte. The monikins. Jack Tier.- v.8. Oak openings. Satanstoe. Mercedes of Castile.- v.9. The ways of the hour. Wing and wing. The Wept of the wish-ton-wish. Precaution.- v.10. The headsman. Lionel Lincoln. The bravo. Heidenmauer.</tableOfContents>
+  <recordInfo>
+    <recordCreationDate encoding="marc">840919</recordCreationDate>
+    <recordIdentifier>a796910</recordIdentifier>
+    <recordIdentifier>adl3282</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>New York</province>
+    </hierarchicalGeographic>
+  </subject>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

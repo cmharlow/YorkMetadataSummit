@@ -1,0 +1,55 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Praxit&#232;le : &#233;tude critique</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Perrot, Georges</namePart>
+    <namePart type="date">1832-1914</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>H. Laurens</publisher>
+    <dateIssued>[1904?]</dateIssued>
+    <dateIssued encoding="marc">1904</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>128 p. : ill. --</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par Georges Perrot. --</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Praxiteles</namePart>
+      <namePart type="date">4th cent. B. C</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <classification authority="lcc">NB102 .P4</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Les grands artistes, leur vie, leur oeuvre</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">08009101</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">760319</recordCreationDate>
+    <recordIdentifier>abq2217</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

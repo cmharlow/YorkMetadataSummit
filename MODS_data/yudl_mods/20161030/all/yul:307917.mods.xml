@@ -1,0 +1,73 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Letter to his Aunt Dollie from Gordon Stepler, August 14th 1916</title>
+  </titleInfo>
+  <name type="personal">
+    <affiliation>Canadian Armed Forces</affiliation>
+    <namePart>Stepler, Gordon</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>[Stepler], Dollie</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Correspondent</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Letter</genre>
+  <originInfo>
+    <dateCreated>1916-08-14</dateCreated>
+    <place>
+      <placeTerm authority="marccountry">England</placeTerm>
+    </place>
+    <dateOther>14 August 1916</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>Consists of a letter written by Gordon Stepler to his aunt Dollie. Transcription is as follows:&#13;
+Shorncliffe. Aug 14/16.&#13;
+Dear Aunt Dollie&#13;
+	I suppose you have been hearing all about me from Mother but I thought I would drop you a line anyway as I am in the letter writing business to-night. Well I have completed my course in gunnery now and am now what they called a spare gunner and I may be sent to France any day now. I will be leaving on the next draft they send over from here but no one knows when that will be. It may be in a few weeks or as it is getting towards fall it may not be until next spring. The course was very easy and I never had such an easy time in my life as we had no physical drill, foot drill or stuff like that but were on the guns.&#13;
+|page 2&#13;
+We now will get a little physical drill or foot drill and a few fatigues but a lot of time we don't have anything. There is not much to do around here. There are towns all around here and Folkstone which is a big city is only a few minutes walk but you get sick of going there. We get up at six o'clock every morning so that you never get a chance to sleep in and you can not go to bed until the bunch goes. There are ten of us in a tent and so we are pretty crowded. They are all my chums though so that does not make it as bad. The grub we get is fierce and you can't buy anything decent outside as they are very slow about business here.&#13;
+	The country around here is very pretty&#13;
+|page 3&#13;
+I went down to Canterbury last week end and enjoyed it very much as there are many things to see there. The Cathedral is wonderful. I expect to get a six day leave soon and am going up to Scotland first and will stop off at London on my way back. &#13;
+	I had some great fun yesterday horse back wresting and I know mother would enjoy seeing me. There are four to a side, you ride your horse bare-back and try to throw your opponents off their horses. We were practicing for a Field-Day they are leaving here soon.&#13;
+	Well, here's hoping that this finds yourself, Uncle Jack &amp; Betty well&#13;
+		Gordon&#13;
+P.S. I am enclosing a picture I took of the tent.</abstract>
+  <identifier type="local">ASC19535</identifier>
+  <location>
+    <physicalLocation>1998-037 / 001 (04)</physicalLocation>
+  </location>
+  <physicalDescription>
+    <form>text</form>
+    <extent>3 leaves + envelope</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Dorothy Stepler fonds (F0170)</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000170.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>World War, 1914-1918</topic>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>England</country>
+      <region>South East</region>
+      <county>Kent</county>
+      <city>Shorncliffe</city>
+    </hierarchicalGeographic>
+    <cartographics>
+      <coordinates>51.088,&#160;1.142</coordinates>
+    </cartographics>
+  </subject>
+  <accessCondition type="useAndReproduction">Digital copy created for preservation and access purposes. For further copyright information contact : ascproj@yorku.ca</accessCondition>
+</mods>

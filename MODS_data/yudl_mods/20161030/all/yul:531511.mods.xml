@@ -1,0 +1,99 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Tra[t]ado definitivo de paz, e uniao entre os serenissimos, e potentissimos principes D. Joseph I. rey fidelissimo de Portugal, e dos Algarves, Jorge III. rey da Gram Bretanha, de huma parte; Luiz XV. rey christianissimo de Franca, D. Carlos III. rey catholico de Hespanha, da outra parte : assignado em Pariz a dez de fevereiro de mil setecentos sessenta e tres : com os plenos poderes, e ratifica&#231;oens dos quatro monarcas contratantes; ajuntando-se os actos que se passarao no dia 9 de mar&#231;o do mesmo anno, em que as ditas ratifica&#231;oens, forao trocadas na mesma corte de Pariz</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Tratado definitivo de Paz</title>
+  </titleInfo>
+  <titleInfo type="uniform">
+    <title>Treaty of Paris (1763)</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Portugal</namePart>
+    <namePart>1763 Feb. 10.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">po</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Lisboa</placeTerm>
+    </place>
+    <publisher>Na officina de Miguel Rodrigues ...</publisher>
+    <dateIssued>1763</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">por</languageTerm>
+  </language>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <language objectPart="summary or subtitle">
+    <languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+  </language>
+  <language objectPart="summary or subtitle">
+    <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">microfiche</form>
+    <extent>91 p. ; 19 cm.</extent>
+  </physicalDescription>
+  <note>Text in Portuguese and French on opposite pages; includes some text in Spanish and Latin.</note>
+  <note type="reproduction">Microfiche. Ottawa : Canadian Institute for Historical Microreproductions, 1986. 1 microfiche ; 11 x 15 cm. (CIHM/ICMH microfiche series ; no. 62282)</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn---</geographicCode>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>Portugal</country>
+      <city>Lisboa</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <titleInfo>
+      <title>Treaty of Paris (1763)</title>
+    </titleInfo>
+  </subject>
+  <subject authority="csh">
+    <geographic>Canada</geographic>
+    <topic>History</topic>
+    <temporal>Seven Years' War, 1755-1763</temporal>
+    <topic>Treaties</topic>
+  </subject>
+  <classification authority="ddc" edition="19">341/.0265</classification>
+  <relatedItem>
+    <titleInfo>
+      <title>Treaties, etc. 1763 Feb. 10</title>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Portugal.</namePart>
+    </name>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Tratado definitivo de Paz</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>CIHM/ICMH microfiche series ; no. 62282</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">0665622821</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">OTY</recordContentSource>
+    <recordCreationDate encoding="marc">870707</recordCreationDate>
+    <recordIdentifier>aeg6608</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

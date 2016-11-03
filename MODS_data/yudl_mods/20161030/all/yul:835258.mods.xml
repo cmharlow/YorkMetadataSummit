@@ -1,0 +1,26 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Climate Change, its Consequences on Employment and Trade Union Action: Training manual for workers and trade unions</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>International Labour Foundation for Sustainable Development (Sustainlabour)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+    </role>
+  </name>
+  <genre>Manual</genre>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>2008</dateCreated>
+    <publisher>International Labour Foundation for Sustainable Development (Sustainlabour); United Nations Environment Programme (UNEP)</publisher>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <abstract>The first module provides a broad overview of the causes and consequences of climate change globally. It is a general introduction to key concepts such as adaptation and mitigation. It also gives a broad overview of the economics and the international governance of climate change. The second module analyses in depth the potential consequences of climate change, and mitigation and adaptation measures on employment. The last module explores the way trade unions can contribute to climate change action from the international to the workplace level. The objective is to introduce briefly the main mechanisms in place, but particularly to underline the importance of civil society&#8217;s participation, namely workers and trade unions.</abstract>
+  <subject>
+    <topic>labour union policies</topic>
+    <topic>Training materials and curriculum</topic>
+  </subject>
+  <accessCondition>This publication may be reproduced in whole or in part and in any form for educational and non-profit purposes without special permission from the copyright holder, provided that acknowledgement of the source is made. UNEP would appreciate receiving a copy of any publication that uses this material as a source.</accessCondition>
+</mods>

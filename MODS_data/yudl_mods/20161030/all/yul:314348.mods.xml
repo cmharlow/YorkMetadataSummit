@@ -1,0 +1,53 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>&#4129;&#4108;&#4141;&#4096;&#4143;&#4121;&#4153;&#4121;&#4108;&#4140;&#4116;&#4154;&#4152;</title>
+  </titleInfo>
+  <titleInfo type="translated" lang="eng">
+    <title>[Adika Kamahtan]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#4123;&#4157;&#4158;&#4145;&#4096;&#4155;&#4100;&#4154;&#4102;&#4123;&#4140;&#4112;&#4145;&#4140;&#4154; [Shwegyin Sayadaw]</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Non-fiction</genre>
+  <originInfo>
+    <dateIssued>1889</dateIssued>
+    <copyrightDate>1889</copyrightDate>
+    <issuance>monographic</issuance>
+    <publisher>&#4127;&#4150;&#4126;&#4125;&#4112;&#4142;&#4126;&#4112;&#4100;&#4154;&#4152;&#4101;&#4140;&#4112;&#4141;&#4143;&#4096;&#4154; [Hanthawaddy Press]</publisher>
+    <place>
+      <placeTerm type="text">Myanmar</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Yangon</placeTerm>
+    </place>
+    <dateIssued script="Burmese">&#4161;&#4162;&#4165;&#4160;</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">Bur</languageTerm>
+  </language>
+  <identifier>BAB-B00065</identifier>
+  <physicalDescription>
+    <form authority="marcform">Text</form>
+    <extent>175</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>Pansodan Research LIbrary</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Shwegyin</topic>
+    <topic>Meditation</topic>
+    <topic>Buddhism</topic>
+    <geographic>Rangoon</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <city>Yangon</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

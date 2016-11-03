@@ -1,0 +1,63 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier type="local">ASC10587</identifier>
+  <location>
+    <physicalLocation>1974-002 / 007</physicalLocation>
+  </location>
+  <titleInfo>
+    <title>Dog : Dixie - Guarding Ballot Box</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title/>
+  </titleInfo>
+  <abstract>Image of front and back of negative assignment envelope, and one contact sheet. Assignment: Dog protecting Ballot box</abstract>
+  <targetAudience>ASC Red Dot</targetAudience>
+  <name>
+    <namePart>Grant</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Toronto Telegram</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Publisher</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>25 September 1963</dateOther>
+    <dateIssued>Wed Sep 251963</dateIssued>
+    <publisher>Toronto Telegram</publisher>
+    <place>
+      <placeTerm type="text">Canada</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Toronto</placeTerm>
+    </place>
+  </originInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm">Documentary Photography</genre>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>nonprojected graphic</form>
+    <extent>1 photograph : b&amp;w negative ; 35 mm + 1 envelope : 14.2 x 11 cm</extent>
+    <extent>1 pdf : 25.9 MB ; 300 dpi</extent>
+  </physicalDescription>
+  <note>ASC10587</note>
+  <note type="ownership">ASC10587</note>
+  <relatedItem>
+    <titleInfo>
+      <title>Toronto Telegram fonds, F0433</title>
+    </titleInfo>
+    <location>
+      <url note="Finding Aid">http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Toronto Telegram</topic>
+    <topic>Animals</topic>
+    <topic>Dogs</topic>
+    <topic/>
+  </subject>
+</mods>

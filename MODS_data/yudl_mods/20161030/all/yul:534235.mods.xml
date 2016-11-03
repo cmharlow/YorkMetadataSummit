@@ -1,0 +1,72 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>The trumpet of reform : a collection of songs, hymns, chants and set pieces for the Grange, the club and all industrial &amp; reform organizations</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Root, George F. (George Frederick)</namePart>
+    <namePart type="date">1820-1895</namePart>
+  </name>
+  <typeOfResource>notated music</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ohu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cincinnati</placeTerm>
+    </place>
+    <publisher>John Church &amp; Co.</publisher>
+    <dateIssued>c1874</dateIssued>
+    <dateIssued encoding="marc">1874</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>168 p. ; 16 x 20 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by George F. Root ; assisted in the preparation of the words by Mrs. S. M. Smith.</note>
+  <note>Includes index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>United States</country>
+      <province>Ohio</province>
+      <city>Cincinnati</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>National Grange</namePart>
+    </name>
+    <genre>Songs and music</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Agricultural laborers</topic>
+    <geographic>United States</geographic>
+    <genre>Songs and music</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Hymns, English</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Songbooks</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Protest songs</topic>
+  </subject>
+  <identifier type="oclc">32985580</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">WIH</recordContentSource>
+    <recordCreationDate encoding="marc">950814</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20081127153418.0</recordChangeDate>
+    <recordIdentifier source="OCoLC">ocm32985580</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

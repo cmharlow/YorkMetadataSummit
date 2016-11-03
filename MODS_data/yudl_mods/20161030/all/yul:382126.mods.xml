@@ -1,0 +1,50 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>&#4098;&#4111;&#4116;&#4154;&#4152;&#4126;&#4100;&#4154;&#4153;&#4097;&#4155;&#4140;&#4117;&#4106;&#4140;&#4101;&#4140;&#4126;&#4101;&#4154;</title>
+  </titleInfo>
+  <titleInfo type="translated" lang="eng">
+    <title>An Elementary Arithmetic for Use of Primary Vernacular Schools in Burma</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>&#4123;&#4157;&#4158;&#4145;&#4096;&#4156;&#4144;&#4152; [Shwe Kyu]</namePart>
+    <role>author</role>
+    <namePart type="termsOfAddress">Myook of Tenasserimm, Moung Shwe</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">Mathematics</genre>
+  <originInfo>
+    <copyrightDate>1888</copyrightDate>
+    <issuance>monographic</issuance>
+    <publisher>Hanthawaddy Press</publisher>
+    <place>Myanmar</place>
+    <place>Yangon</place>
+    <dateIssued>1888</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">Bur</languageTerm>
+  </language>
+  <identifier>BAB-B00090</identifier>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>132</extent>
+  </physicalDescription>
+  <relatedItem>
+    <titleInfo>
+      <title>UCL</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Mathematics</topic>
+    <topic>Education</topic>
+    <geographic>Rangoon</geographic>
+    <geographic>Asia</geographic>
+    <geographic>Myanmar</geographic>
+    <geographic>Yangon</geographic>
+    <hierarchicalGeographic>
+      <continent>Asia</continent>
+      <country>Myanmar</country>
+      <county>Myanmar</county>
+      <city>Yangon</city>
+    </hierarchicalGeographic>
+  </subject>
+</mods>

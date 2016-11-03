@@ -1,0 +1,49 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>History of the Eastern Townships, Province of Quebec, Dominion of Canada : civil and descriptive</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Day, C. M. (Catherine Matilda)</namePart>
+    <namePart type="date">1815-1899</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">quc</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Montreal</placeTerm>
+    </place>
+    <publisher>Printed by J. Lovell</publisher>
+    <dateIssued>1869</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>475 p.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">C.M. Day. --</note>
+  <subject>
+    <geographicCode authority="marcgac">n-cn-qu</geographicCode>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+      <country>Canada</country>
+      <province>Qu&#233;bec</province>
+      <city>Montr&#233;al</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Cantons de l'Est (Quebec)</geographic>
+    <topic>History</topic>
+  </subject>
+  <recordInfo>
+    <recordCreationDate encoding="marc">811001</recordCreationDate>
+    <recordIdentifier>aal5209</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>

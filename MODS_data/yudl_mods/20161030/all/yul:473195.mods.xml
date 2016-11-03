@@ -1,0 +1,62 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>Les </nonSort>
+    <title>Les deux Canaletto</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Uzanne, Octave</namePart>
+    <namePart type="date">1852-1931</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>H. Laurens</publisher>
+    <dateIssued>[1907?]</dateIssued>
+    <dateIssued encoding="marc">1907</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>126 p. : ill. --</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">par Octave Uzanne ; biographie critique. --</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Canaletto</namePart>
+      <namePart type="date">1697-1768</namePart>
+    </name>
+    <hierarchicalGeographic>
+      <continent>Europe</continent>
+      <country>France</country>
+      <city>Paris</city>
+    </hierarchicalGeographic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Bellotto, Bernardo</namePart>
+      <namePart type="date">1721-1780</namePart>
+    </name>
+  </subject>
+  <classification authority="lcc">ND623.C2 U9</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Les grands artistes</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="lccn">80009134</identifier>
+  <recordInfo>
+    <recordCreationDate encoding="marc">760412</recordCreationDate>
+    <recordIdentifier>aaa0739</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="use and reproduction">Use of this public-domain resource is unrestricted.</accessCondition>
+</mods>
